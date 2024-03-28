@@ -1,0 +1,93 @@
+---
+title: "GPT-4 Role labeling"
+author: "Simon De Deyne"
+date: "2024-03-01"
+---
+
+```{r setup, include=FALSE,echo=FALSE,warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(httr)
+library(jsonlite)
+library(dplyr)
+library(stringr)
+source('settings.gpt.api.R')
+source('utilities.R')
+
+# Comment the following line to process different datasets
+#source('./config/config.Chen2024.R')
+#source('./config/config.Vivas2022.feat.R')
+#source('./config/config.Vivas2022.asso.R')
+#source('./config/config.Liu2022.R')
+source('./config/config.Bolognesi2017.R')
+
+
+```
+
+This notebook reads in settings for different dataset.
+Each dataset should be associated with a stimuli `csv` file, and an instruction `txt` file.
+
+
+## Read data in from file.
+```{r import data}
+X.pairs = read_csv(experiment$filepath.pairs, show_col_types = FALSE)
+
+if(experiment$name == 'Vivas 2022 Features')
+{
+  X.pairs = X.pairs %>% select(cue,response = feature)  
+}
+
+if(experiment$name == 'Vivas 2022 Associations')
+{
+  X.pairs = X.pairs %>% select(cue,response = association)  
+}
+
+if(experiment$name == 'Chen 2024 Associations'){
+  X.pairs = X.pairs %>% select(cue,response)  
+}
+
+if(experiment$name == 'Bolognesi 2017'){
+  X.pairs = X.pairs %>% select(cue = concept,response = feature)  
+}
+
+```
+
+# Read instructions from file
+```{r format prompt}
+experiment$instructions = read_file(experiment$filepath.instructions)
+```
+
+
+
+```{r promptDemo}
+setSize = experiment$setSize
+is = seq(from = 0,to = X.pairs %>% nrow(), by  = setSize)
+X.pairs = X.pairs %>% slice_sample(prop = 1)
+
+responses = list()
+for(i in is){
+  message(i+1, ' - ', i+setSize)
+  
+  X.set = X.pairs[i+1:(i+setSize),]
+
+  test_items = X.set %>% filter(complete.cases(.)) %>%  rowwise() %>%
+    mutate(item = paste(cue,response,  sep  = ' — ')) %>% pull(item)
+
+  prompt = paste0(experiment$instructions,paste0(test_items,collapse = '\n'),collapse = '\n')
+  resp = ask_gpt(prompt,model = experiment$gpt_model,
+                 temperature = experiment$gpt_temperature,api_key)
+
+  responses = append(responses,content(resp)$choices[[1]]$message$content)
+}
+
+experiment$responses = responses
+
+```
+
+## Write raw responses
+The responses are written to an rds file for further processing
+```{r writeResponses}
+write_rds(experiment,experiment$filepath.outputfile)
+```
+
+

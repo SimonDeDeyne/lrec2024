@@ -1,0 +1,40 @@
+You will be presented with a list of word pairs consisting of a cue and an associated target word separated by ' – '.
+
+You are asked to choose a code with square brackets [] that best describes the semantic relation between the cue and the target word. Each code refers to a specific semantic relation that refers to Taxonomic properties, Concept properties, Situation properties, or Introspectve properties.
+
+We will now provide you with a definition and examples for each of these, which you will carefully consider when choosing one of the codes.
+
+Taxonomic relations: Properties that identify categories in the taxonomy in which the concept belongs (higher, lower or same level as the concept).
+- *Defining synonyms or specific synonyms [T-syn]*: X means the same thing as y (defining synonym) or can mean the same thing as y in certain contexts (specific synonym). Examples: purchase – buy; ask – consult.
+- *Superordinate [T-super]*: The target is superordinate to the cue: the cue is a kind of that is denoted by the target. Examples: hen – chicken; audience – crowd; basketball – sport, spider – arachnid.
+- *Coordinate [T-coord]*: The target and cue belong to the same category. Examples: hen – cock; basketball – baseball; apple – pear.
+- *Subordinate [T-sub]*: The target is subordinate to this entry; the target is a kind of that denoted by this entry. Examples: alcohol – beer; car – truck; President – Obama.
+- *Antonym [T-ant]*: The target denotes the opposite meaning as the cue. Examples: black – white; young – old; husband – wife.
+
+Concept/entity properties: Properties typical of a concrete or an abstract entity.
+- *Components/Material/Substance [E-comp]*: The response is an internal or external component of the concept, or its material or substance it consists of. Examples: air – oxygen; cigarette – butt; spider – legs.
+- *Whole [E-whole]*: The response is a system/whole to which the entity belongs/is a component of/the response is the material that the target concept is made out of. Examples: anchor – ship; bone – skeleton.
+- *Entity property [E-prop]*: Either: Perceptual properties such as sound, taste, smell OR Non-perceptual properties. Properties should be true most of the time. Examples: ice cream – cold; bone – white.
+- *Entity behavior [E-beh]*: A typical or chronic behaviour of an entity. Examples: volcano – erupt; airplane – fly; bird – fly; attitude – changes.
+- *Typical states [E-state]*: A typical state of an entity (value of a property). Examples: attitude – bad; attitude – good; door – open; door – closed.
+
+Situational properties: Properties of a situation in which the concept is embedded.
+- *Function [S-function]*: A quite abstract property that describes the typical goal or role that an entity serves for an agent (often human) in a given situation. Examples: airplane – travel; lighter – smoking; army – protection; airplane – transportation.
+- *Location/Container/Building [S-loc]*: A place in a situation in which the entity can be found. The entity can be also contained or placed on the surface of such location. Examples: dentist – office; airplane – airport; blackboard – school; plant – garden.
+- *Object [S-obj]*: Objects and entities that appear in a situation together the target concept. Examples: bulldozer – dirt; idea – lightbulb; bamboo – panda; bottle – water.
+- *Action [S-action]*: An action performed by an agent (human or animal) in a situation in which the target concept appears. Examples: alcohol – drinking; lunch – eating.
+- *Participant/Agent [S-agent]*: Humans or animals associated with a situation in which the concept appears, but that do not have a direct taxonomic relation to the concept. Examples: mouthwash – dentist; war – enemies; blackboard – teacher.
+- *Time/Events [S-time]*: A time period or an event associated with a situation. The relation can be coded as such describes when or in which circumstance the concept appears. Examples: moon – night; toy – Christmas; brightness – morning; bomb – Hiroshima.
+- *Situational state or property of contextual entities [S-context]*: A physical state of a situation or any of its components (excluding the target concept). Examples: army – green; jail – orange; coffee – tired; Coke – red and white; eyes – open.
+- *Situational state or property of the target concept [S-targetstate]*: Note that this is not the same of a typical state of the entity listed under Concept properties (E-state). Examples: door - unhinged; eyes – red.
+
+Introspective properties: Properties that express an evaluations, emotions or metaphorical, symbolic and cultural references.
+- *Evaluations [I-eval]*: A clearly positive or negative evaluation of a situation or one of its components. Examples: hobby – fun; swan – beautiful; clown – funny; sweater – comfortable.
+- *Emotions [I-emo]*: An affective or emotional state toward a situation or one or more of its components (focus on the perceiver, and on traditional emotional states; apply when the concept can make one feel x). Examples: dandelion – happy; war – sad; maze – confusing.
+- *Contingencies and complex cognitive operations  [I-contin]*: A contingency or a cognitive operation that relates different aspects of a situation. Cognitive operations include conditional causals (if x then y, x enables y, x generates y, x becomes y, x underlies y, x depends on y, x is based on y, x requires y etc.) and explicit negations, if they do not fall under other categories. Metaphorical and symbolic relations between a feature and a concept are found here. . Examples: trumpet – jazz; understanding – empathy; water – life; body – self; dove – peace; door – opportunity; yolk – cholesterol; gold – earrings; bullet – death; possibility – hope.
+
+---
+Remember to only choose from the above codes between square brackets. Do not further elaborate on your response.
+Format your response as follows {cue — target: code}.
+
+List: 

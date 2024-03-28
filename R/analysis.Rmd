@@ -1,0 +1,376 @@
+---
+title: "Cogalex Results"
+output: html_notebook
+author: Simon De Deyne
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+
+---
+
+
+```{r echo=FALSE, warning=F,echo=FALSE, include=F}
+library(tidyverse, quietly = T)
+library(kableExtra, quietly = T)
+library(ggrepel, quietly = T)
+source('utilities.R')
+
+options(readr.show_col_types = FALSE)
+options(ggrepel.max.overlaps = Inf)
+
+results.macro.type = tibble()
+results.micro.type = tibble()
+results.macro.token = tibble()
+results.micro.token = tibble()
+
+```
+
+
+## Bolognesi-2017
+```{r bolognesiCM, echo=F}
+X.bolognesi = read_csv('../data/Bolognesi2017/Bolognesi2017.20240301.csv')
+
+# Make sure factors are compatible (same levels)
+X.bolognesi = unifyFactors(X.bolognesi,factor_cols = c("human1", "human2", "model1", "model2"),
+                             unify_cols_list = list(c("model1", "human1"),
+                                                    c("model2", "human2")))
+cm.bolognesi = createCM(X.bolognesi)
+
+results.macro.token = rbind(results.macro.token,
+                      prevalenceWeighting(cm.bolognesi$macro_token,datasetName = 'Bolognesi-2017'))
+                            
+results.micro.token = rbind(results.micro.token,
+                     prevalenceWeighting(cm.bolognesi$micro_token,datasetName = 'Bolognesi-2017'))
+
+results.macro.type = rbind(results.macro.type,
+                     prevalenceWeighting(cm.bolognesi$macro_type,datasetName = 'Bolognesi-2017'))
+
+results.micro.type = rbind(results.micro.type,
+                     prevalenceWeighting(cm.bolognesi$micro_type,datasetName = 'Bolognesi-2017'))
+
+```
+The Bolognesi-2017 data consists of `r length(unique(X.bolognesi$cue))` distinct English cue words and
+`r length(unique(X.bolognesi$response))` unique responses. The responses are semantic features
+consisting primarily of single-word responses. In contrast to the other datasets, many of the cue
+words are abstract.
+
+
+## Vivas-2022 Features
+```{r VivasFeaturesCM, echo=F}
+X.vivas_f = read_csv('../data/Vivas2022/Vivas2024.features.20240228.csv')
+
+X.vivas_f = unifyFactors(X.vivas_f,factor_cols = c("human1", "human2", "model1", "model2"),
+                             unify_cols_list = list(c("model1", "human1"),
+                                                    c("model2", "human2")))
+cm.vivas_f = createCM(X.vivas_f)
+
+results.macro.token = rbind(results.macro.token,
+                      prevalenceWeighting(cm.vivas_f$macro_token,datasetName = 'Vivas 2022 Features'))
+                            
+results.micro.token = rbind(results.micro.token,
+                     prevalenceWeighting(cm.vivas_f$micro_token,datasetName = 'Vivas 2022 Features'))
+
+results.macro.type = rbind(results.macro.type,
+                     prevalenceWeighting(cm.vivas_f$macro_type,datasetName = 'Vivas 2022 Features'))
+
+results.micro.type = rbind(results.micro.type,
+                     prevalenceWeighting(cm.vivas_f$micro_type,datasetName = 'Vivas 2022 Features'))
+
+```
+The Vivas-2022 consists of `r length(unique(X.vivas_f$cue))` distinct English cue words and
+`r length(unique(X.vivas_f$response))` unique responses. The responses were carefully preprocessed
+resulting in a highly consistent set of semantic features.
+
+## Vivas-2022 Associations
+```{r VivasAssoCM, echo=F}
+X.vivas_a = read_csv('../data/Vivas2022/Vivas2024.asso.20240228.csv')
+
+X.vivas_a = unifyFactors(X.vivas_a,factor_cols = c("human1", "human2", "model1", "model2"),
+                             unify_cols_list = list(c("model1", "human1"),
+                                                    c("model2", "human2")))
+cm.vivas_a = createCM(X.vivas_a)
+
+results.macro.token = rbind(results.macro.token,
+                      prevalenceWeighting(cm.vivas_a$macro_token,datasetName = 'Vivas 2022 Asso'))
+                            
+results.micro.token = rbind(results.micro.token,
+                     prevalenceWeighting(cm.vivas_a$micro_token,datasetName = 'Vivas 2022 Asso'))
+
+results.macro.type = rbind(results.macro.type,
+                     prevalenceWeighting(cm.vivas_a$macro_type,datasetName = 'Vivas 2022 Asso'))
+
+results.micro.type = rbind(results.micro.type,
+                     prevalenceWeighting(cm.vivas_a$micro_type,datasetName = 'Vivas 2022 Asso'))
+
+```
+The Vivas-2022 feature data were recoded by extracting a single keyword from every multiword response.
+The obtained responses are in this way similar to assocation data in that they censor additional cues
+about the underlying semantic relation. The datast consists of `r length(unique(X.vivas_a$cue))` distinct English cue words and
+`r length(unique(X.vivas_a$response))` unique responses. 
+
+## Chen-2024
+```{r chenCM, echo=F}
+X.chen = read_csv('../data/Chen2024/Chen2024.20240229.csv')
+
+X.chen = unifyFactors(X.chen,factor_cols = c("humanA1", "humanA2", "model1", "model2"),
+                             unify_cols_list = list(c("model1", "humanA1"),
+                                                    c("model2", "humanA2")))
+
+X.chen = unifyFactors(X.chen,factor_cols = c("humanB1", "humanB2", "model1", "model2"),
+                             unify_cols_list = list(c("model1", "humanB1"),
+                                                    c("model2", "humanB2")))
+
+cm.chenA = createCM(X.chen %>% select(human1 = humanA1,human2 = humanA2, model1,model2,frequency))
+cm.chenB = createCM(X.chen %>% select(human1 = humanB1,human2 = humanB2, model1,model2,frequency))
+cm.chenAB = createCM(X.chen %>% select(human1 = humanA1,human2 = humanA2, model1 = humanB1,model2 = humanB2,frequency))
+
+# Coder A
+results.macro.token = rbind(results.macro.token,
+                      prevalenceWeighting(cm.chenA$macro_token,datasetName = 'Chen-2024A'))
+                            
+results.micro.token = rbind(results.micro.token,
+                     prevalenceWeighting(cm.chenA$micro_token,datasetName = 'Chen-2024A'))
+
+results.macro.type = rbind(results.macro.type,
+                     prevalenceWeighting(cm.chenA$macro_type,datasetName = 'Chen-2024A'))
+
+results.micro.type = rbind(results.micro.type,
+                     prevalenceWeighting(cm.chenA$micro_type,datasetName = 'Chen-2024A'))
+
+
+# Coder B
+results.macro.token = rbind(results.macro.token,
+                      prevalenceWeighting(cm.chenB$macro_token,datasetName = 'Chen-2024B'))
+                            
+results.micro.token = rbind(results.micro.token,
+                     prevalenceWeighting(cm.chenB$micro_token,datasetName = 'Chen-2024B'))
+
+results.macro.type = rbind(results.macro.type,
+                     prevalenceWeighting(cm.chenB$macro_type,datasetName = 'Chen-2024B'))
+
+results.micro.type = rbind(results.micro.type,
+                     prevalenceWeighting(cm.chenB$micro_type,datasetName = 'Chen-2024B'))
+
+
+# Inter-annotator agreemnt AB
+results.macro.token = rbind(results.macro.token,
+                      prevalenceWeighting(cm.chenAB$macro_token,datasetName = 'Chen-2024AB'))
+                            
+results.micro.token = rbind(results.micro.token,
+                     prevalenceWeighting(cm.chenAB$micro_token,datasetName = 'Chen-2024AB'))
+
+results.macro.type = rbind(results.macro.type,
+                     prevalenceWeighting(cm.chenAB$macro_type,datasetName = 'Chen-2024AB'))
+
+results.micro.type = rbind(results.micro.type,
+                     prevalenceWeighting(cm.chenAB$micro_type,datasetName = 'Chen-2024AB'))
+
+```
+The Chen-2024 data consist of  `r length(unique(X.chen$cue))` distinct English cue words and
+`r length(unique(X.chen$response))` unique responses. Unlike the other datasets, annotations for two
+coders A and B are available. Unless stated otherwise, the presented results are those based on 
+coder A.
+
+## Liu-2022 
+```{r LiuCM, echo=F}
+X.liu = read_csv('../data/Liu2022/Liu2022.20240229.csv')
+X.liu = unifyFactors(X.liu, factor_cols = c("human1", "human2", "model1", "model2"),
+                            unify_cols_list = list(c("model1", "human1"),
+                                                   c("model2", "human2")))
+cm.liu = createCM(X.liu)
+
+results.macro.token = rbind(results.macro.token,
+                      prevalenceWeighting(cm.liu$macro_token,datasetName = 'Liu 2022'))
+                            
+results.micro.token = rbind(results.micro.token,
+                      prevalenceWeighting(cm.liu$micro_token,datasetName = 'Liu 2022'))
+
+results.macro.type = rbind(results.macro.type,
+                     prevalenceWeighting(cm.liu$macro_type,datasetName = 'Liu 2022'))
+
+results.micro.type = rbind(results.micro.type,
+                     prevalenceWeighting(cm.liu$micro_type,datasetName = 'Liu 2022'))
+
+```
+The Liu-2022 data consist of  `r length(unique(X.liu$cue))` distinct English cue words and
+`r length(unique(X.liu$response))` unique responses. 
+
+
+# Type-based balanced accuracy scores
+Type-based responses consider only unique cue-response pairs, without taking into account the production frequenccy of responses. Scores are balanced by normalizing by category prevalence. Under these conditions acuracy and precision are
+identical.
+
+## Macro results
+Macro-level results cover the top-level distinctions in the ontology. These are shared among all datasets and include Taxonomic relations, Concept properties, Situation properties, and Introspective properties.
+
+`r kbl(results.macro.type, digits = 3) %>% kable_styling()`
+
+## Micro results
+`r kbl(results.micro.type, digits = 3) %>% kable_styling()`
+
+
+# Token-based balanced accuracy scores
+## Macro results
+`r kbl(results.macro.token, digits = 3) %>% kable_styling()`
+
+## Micro results
+`r kbl(results.micro.token, digits = 3) %>% kable_styling()`
+
+
+
+# Confusion matrices
+All confusion matrices are based on token-based results.
+```{r confusionMatrices, echo=FALSE}
+cmac.bolognesi = confProb(cm.bolognesi$macro_token)
+cmac.vivas_f  = confProb(cm.vivas_f$macro_token)
+cmac.vivas_a  = confProb(cm.vivas_a$macro_token)
+cmac.chenA = confProb(cm.chenA$macro_token)
+cmac.liu = confProb(cm.liu$macro_token)
+
+X.conf.macro = rbind(cmac.chenA %>% mutate(dataset = 'Chen'),
+              cmac.liu %>% mutate(dataset = 'Liu'),
+              cmac.vivas_f %>% mutate(dataset = 'Vivas Feat'),
+              cmac.vivas_a %>% mutate(dataset = 'Vivas Asso'),
+              cmac.bolognesi %>% mutate(dataset = 'Bolognesi')) %>%
+  mutate(dataset = as.factor(dataset))
+
+X.conf.macro$dataset = factor(X.conf.macro$dataset,
+                        levels = c('Bolognesi',
+                                   'Vivas Feat',
+                                   'Vivas Asso',
+                                   'Chen',
+                                   'Liu'))
+X.conf.macro$Reference  = factor(X.conf.macro$Reference,
+                                 levels = c('T','E','S','I'))
+
+X.conf.macro$Prediction  = factor(X.conf.macro$Prediction,
+                                 levels = c('I','S','E','T'))
+
+
+fig.macro  = ggplot(X.conf.macro, aes(Reference, Prediction, fill= Prob)) +
+              geom_tile() + geom_text(aes(label=round(Prob,2)), size = 3) +
+              facet_wrap(~dataset,nrow = 1) + 
+              scale_fill_gradient(low="white", high="orangered2") +
+              labs(y = "Human",x = "Prediction") +
+              coord_fixed() +
+              theme_minimal() +
+              theme(strip.text = element_text(size = 16),
+                    axis.title.x = element_text(size = 16),
+                    axis.title.y = element_text(size = 16),
+                    axis.text.x = element_text(size = 16),
+                    axis.text.y = element_text(size = 16),
+                panel.border = element_rect(colour = "grey20", 
+                                            fill = NA, linewidth = 1),
+                plot.margin=unit(c(-1,0,0,0), "null")) # remove margin around plot
+
+
+
+
+
+```
+
+
+```{r fig.height=8, fig.align='center', echo=F}
+fig.macro
+#ggsave(plot = fig.macro, filename = '../figures/macroConfusion.png',dpi = 300,width = 10,height=6)
+```
+### Micro-level Confusion Matrix Chen-2021
+```{r confusionMicroChen, echo=F,fig.height=10, fig.align='center'}
+cmic.chenA = confProb(cm.chenA$micro_token)
+cmic.chenA$Reference = fct_rev(cmic.chenA$Reference)
+
+cmic.chenB = confProb(cm.chenB$micro_token)
+cmic.chenB$Reference = fct_rev(cmic.chenB$Reference)
+
+
+fig.chen.microA  = ggplot(cmic.chenA, aes(Reference, Prediction,fill= Prob)) +
+              geom_tile() + geom_text(aes(label=round(Prob,2)), size = 3.5) +
+              scale_fill_gradient(low="white", high="orangered2") +
+              labs(y = "Human",x = "Prediction") +
+              theme_minimal() +
+              theme(strip.text = element_text(size = 20),
+                    axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 18),
+                    axis.text.y = element_text(size = 18),
+                    axis.title.x = element_text(size = 18),
+                    axis.title.y = element_text(size = 18),
+                panel.border = element_rect(colour = "grey20", fill = NA, linewidth = 1))
+
+fig.chen.microA
+#ggsave(filename = '../figures/chenAConfusionMicro.png',fig.chen.microA,dpi = 300, width = 11,height = 11)
+```
+### Micro-level Confusion Matrix Liu-2022
+```{r confusionMatrixLiu, echo=F,fig.height=10, fig.align='center'}
+cmic.liu = confProb(cm.liu$micro_token)
+cmic.liu$Reference = fct_rev(cmic.liu$Reference)
+
+fig.liu.micro  = ggplot(cmic.liu, aes(Reference, Prediction,fill= Prob)) +
+              geom_tile() + geom_text(aes(label=round(Prob,2)), size = 3.5) +
+              scale_fill_gradient(low="white", high="orangered2") +
+              labs(y = "Human",x = "Prediction") +
+              theme_minimal() +
+              theme(strip.text = element_text(size = 20),
+                    axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 18),
+                    axis.text.y = element_text(size = 18),
+                    axis.title.x = element_text(size = 18),
+                    axis.title.y = element_text(size = 18),
+                panel.border = element_rect(colour = "grey20", fill = NA, linewidth = 1))
+
+fig.liu.micro
+ggsave(filename = '../figures/liuConfusionMicro.png',fig.liu.micro,dpi = 300, width = 11,height = 11)
+
+```
+
+
+```{r resultsChenF1, echo=FALSE,warning = F}
+
+X.chen.AB = rownames_to_column(as.data.frame(cm.chenAB$micro_token$byClass),var = 'micro')
+X.chen.AModel = rownames_to_column(as.data.frame(cm.chenA$micro_token$byClass),var = 'micro')
+X.chen.BModel = rownames_to_column(as.data.frame(cm.chenB$micro_token$byClass),var = 'micro')
+
+X.chenA = full_join(X.chen.AB,X.chen.AModel,by = 'micro')
+X.chenA = X.chenA %>% mutate(micro = str_replace(micro,'Class: ','')) %>% as_tibble()
+
+X.chenB = full_join(X.chen.AB,X.chen.BModel,by = 'micro')
+X.chenB = X.chenB %>% mutate(micro = str_replace(micro,'Class: ','')) %>% as_tibble()
+
+X.chen2 = rbind(X.chenA %>% mutate(coder = 'A'),
+                X.chenB %>% mutate(coder = 'B'))
+
+X.chen2 = X.chen2 %>% mutate(coder = as.factor(coder))
+new_labels = setNames(c("Model-A vs A-B","Model-B vs A-B"),c("A", "B"))
+
+fig.chenF1 = ggplot(data = X.chen2 %>% mutate(Prevalence = Prevalence.x), 
+                    aes(x = F1.x,y = F1.y, label = micro, group='coder')) +
+  geom_point(color = 'red',aes(size = Prevalence),alpha = 0.7) + 
+  geom_text_repel(size = 5, max.overlaps = 10) + 
+  geom_smooth(method = 'lm',color = 'grey20',linetype = 'dashed', se = FALSE) +
+  facet_wrap(~coder, nrow = 1,scales ='fixed',labeller = labeller(coder = new_labels)) +
+  theme_minimal() +
+  xlab('F1') +
+  ylab('F1') +
+  guides(fill = guide_legend(nrow = 1)) + # Makes the legend horizontal
+  theme(strip.text = element_text(size = 18),
+        axis.text.x = element_text(size = 18),
+        axis.text.y = element_text(size = 18),
+        axis.title.x = element_text(size = 18),
+        axis.title.y = element_text(size = 18),
+    panel.border = element_rect(colour = "grey20", fill = NA, linewidth = 1),
+    legend.position = "bottom",
+    legend.box = "horizontal")
+
+```
+
+### Human vs LLM F-scores
+The following plot shows the F-scores for the weighted micro-level results.
+The dot-size indicates the prevalence of a specific relation type.
+The vertical position of the dots indicate relative higher agreement between a model and annotator
+A (left panel) or B (right panel) compared to human annotator agreement (x-axis or horizontal position).
+```{r plotCodersChen,fig.align='center',fig.height=8, fig.width=14,warning=F,message=F, echo =F}
+fig.chenF1
+#ggsave(plot=fig.chenF1, filename = '../figures/ChenF1.png',dpi = 300)
+```
+
+### Examples
+```{r examples}
+
+```
+
+

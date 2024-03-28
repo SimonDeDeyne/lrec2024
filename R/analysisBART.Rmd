@@ -1,0 +1,83 @@
+---
+title: "Cogalex Results: BART follow-up"
+output: html_notebook
+---
+
+```{r echo=FALSE, warning=F,echo=FALSE, include=F}
+library(tidyverse, quietly = T)
+library(kableExtra, quietly = T)
+library(ggrepel, quietly = T)
+source('utilities.R')
+
+options(readr.show_col_types = FALSE)
+```
+
+
+```{r analysis, echo=F}
+X.liu_gpt4 = read_csv('../data/Liu2022/Liu2022.20240229.csv')
+X.liu_bart = read_csv('../data/Liu2022/Liu2022_responses.BART.20240301.csv')
+X.liu_bart = X.liu_bart %>% group_by(cue,response,relation) %>% tally() %>% 
+  group_by(cue,response) %>% slice_max(n=1, order_by = n, with_ties = F)
+
+X.liu_bart = X.liu_bart %>% rename(bart = relation) %>% select(-n)
+
+
+
+X.liu = left_join(X.liu_bart,X.liu_gpt4,by=c('cue','response')) %>% ungroup %>% filter(complete.cases(.))
+X.liu = X.liu %>% mutate(bart1 = substr(bart,1,1),bart2 = bart) %>% select(-bart)
+
+# Make sure factors are compatible (same levels)
+X.liu = X.liu %>% mutate(across(c(human1,human2,model1,model2,bart1,bart2),~ as.factor(.x)))
+  
+unified_factors = fct_unify(list(X.liu$model1,X.liu$human1,X.liu$bart1))
+X.liu$human1 = unified_factors[[1]]
+X.liu$model1 = unified_factors[[2]]
+X.liu$bart1 = unified_factors[[3]]
+
+unified_factors = fct_unify(list(X.liu$model2,X.liu$human2,X.liu$bart2))
+X.liu$human2 = unified_factors[[1]]
+X.liu$model2 = unified_factors[[2]]
+X.liu$bart2 = unified_factors[[3]]
+
+
+cm.gpt4 = createCM(X.liu)
+cm.bart = createCM(X.liu %>% select(human1,human2,model1 = bart1, model2 =bart2,frequency))
+
+results.macro.token.gpt4 = prevalenceWeighting(cm.gpt4$macro_token,datasetName = 'Liu-2022')
+results.micro.token.gpt4 = prevalenceWeighting(cm.gpt4$micro_token,datasetName = 'Liu-2022')
+results.macro.token.bart = prevalenceWeighting(cm.bart$macro_token,datasetName = 'Liu-2022')
+results.micro.token.bart = prevalenceWeighting(cm.bart$micro_token,datasetName = 'Liu-2022')
+
+
+# Agreement between BART and GPT-4
+cm.gpt4_bart = createCM(X.liu %>% select(human1=model1,
+                                         model1 = bart1,
+                                         human2 = model2,
+                                         model2 = bart2,
+                                         frequency))
+
+
+results.macro.token.gpt4bart = prevalenceWeighting(cm.gpt4_bart$macro_token,datasetName = 'Liu-2022')
+results.micro.token.gpt4bart = prevalenceWeighting(cm.gpt4_bart$micro_token,datasetName = 'Liu-2022')
+results.macro.token.gpt4bart = prevalenceWeighting(cm.gpt4_bart$macro_token,datasetName = 'Liu-2022')
+results.micro.token.gpt4bart = prevalenceWeighting(cm.gpt4_bart$micro_token,datasetName = 'Liu-2022')
+
+X.macro = rbind(
+  results.macro.token.gpt4 %>% mutate(model = 'ANNOT-GPT-4'),
+  results.macro.token.bart %>% mutate(model = 'ANNOT-BART'),
+  results.macro.token.gpt4bart %>% mutate(model = 'GPT-4-BART'))
+
+X.micro = rbind(
+  results.micro.token.gpt4 %>% mutate(model = 'ANNOT-GPT-4'),
+  results.micro.token.bart %>% mutate(model = 'ANNOT-BART'),
+  results.micro.token.gpt4bart %>% mutate(model = 'GPT4-BART'))
+
+```
+## Macro Results
+Annotator/Model and Model/Model predictions using BART and GPT-4 at the token-level.
+`r kbl(X.macro,digits=3) %>% kable_styling()`
+
+## Micro results
+Annotator/Model and Model/Model predictions using BART and GPT-4 at the token-level.
+`r kbl(X.micro,digits=3) %>% kable_styling()`
+

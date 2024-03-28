@@ -1,0 +1,2664 @@
+cue,category,response,nWords,frequency,human1,human2,model1,model2
+accordion,Musical instruments,joy,1,6,I,I-EMOT,I,I-EMOT
+accordion,Musical instruments,music,1,15,S,S-FUNC,S,S-FUNC
+accordion,Musical instruments,party,1,5,S,S-EVENT,S,S-EVENT
+accordion,Musical instruments,tango,1,5,S,S-SOCART,S,S-EVENT
+accordion,Musical instruments,bellows,1,7,E,E-EXCOMP,E,E-EXCOMP
+accordion,Musical instruments,keys,1,7,E,E-EXCOMP,E,E-EXCOMP
+accordion,Musical instruments,musical instrument,2,12,T,T-SUPER,T,T-SUPER
+air balloon,Vehicles,aerial,1,6,E,E-SYS,S,S-ACTION
+air balloon,Vehicles,height,1,5,S,S-LOC,S,S-LOC
+air balloon,Vehicles,rises,1,6,E,E-BEH,E,E-BEH
+air balloon,Vehicles,flying,1,11,S,S-FUNC,S,S-FUNC
+air balloon,Vehicles,traveling,1,6,S,S-FUNC,S,S-FUNC
+air balloon,Vehicles,colors,1,9,E,E-EXSURF,E,E-EXSURF
+air balloon,Vehicles,air,1,5,E,E-INCOMP,S,S-LOC
+air balloon,Vehicles,gas,1,5,E,E-INCOMP,E,E-MAT
+air balloon,Vehicles,basket,1,6,E,E-EXCOMP,E,E-EXCOMP
+air balloon,Vehicles,transportation,1,6,T,T-SUPER,S,S-FUNC
+air balloon,Vehicles,sky,1,5,S,S-TIME,S,S-LOC
+airplane,Vehicles,flying,1,5,S,S-FUNC,S,S-ACTION
+airplane,Vehicles,traveling,1,14,S,S-FUNC,S,S-EVENT
+airplane,Vehicles,pleasure,1,5,I,I-EVAL,I,I-EMOT
+anchor,Tools,heavy,1,6,E,E-SYS,E,E-SYS
+anchor,Tools,sailor,1,5,S,S-PERSON,S,S-PERSON
+anchor,Tools,security,1,5,S,S-FUNC,S,S-FUNC
+anchor,Tools,ship,1,11,S,S-FUNC,E,E-WHOLE
+anchor,Tools,water,1,6,E,E-INCOMP,S,S-LOC
+anchor,Tools,iron,1,8,E,E-MAT,E,E-MAT
+anchor,Tools,harbor,1,5,S,S-LOC,S,S-LOC
+anchor,Tools,sea,1,13,S,S-LOC,S,S-LOC
+anchor,Tools,ship,1,24,S,S-LOC,E,E-WHOLE
+ant,Animals,bites,1,6,E,E-BEH,E,E-BEH
+ant,Animals,bug,1,5,T,T-SUPER,T,T-SYN
+ant,Animals,hardworking,1,5,E,E-SYS,E,E-BEH
+ant,Animals,insect,1,7,T,T-SUPER,T,T-SYN
+ant,Animals,harm,1,7,I,I-EVAL,E,E-BEH
+anteater,Animals,animal,1,15,T,T-SUPER,T,T-SUPER
+anteater,Animals,big,1,6,E,E-QUANT,E,E-QUANT
+anteater,Animals,eats,1,18,E,E-BEH,E,E-BEH
+anvil,Tools,blacksmith,1,7,S,S-PERSON,S,S-PERSON
+anvil,Tools,hammer,1,6,S,S-OBJECT,S,S-OBJECT
+anvil,Tools,heavy,1,5,E,E-SYS,E,E-SYS
+anvil,Tools,strength,1,6,S,S-ACTION,E,E-SYS
+anvil,Tools,tool,1,10,T,T-SUPER,T,T-SUPER
+anvil,Tools,work,1,10,E,E-SYS,S,S-FUNC
+anvil,Tools,iron,1,13,E,E-MAT,E,E-MAT
+apple,Fruits,eaten,1,6,S,S-ACTION,S,S-ACTION
+apple,Fruits,fruit,1,11,T,T-SUPER,T,T-SUPER
+apple,Fruits,green,1,8,T,T-SUBORD,E,E-EXSURF
+apple,Fruits,red,1,8,T,T-SUBORD,E,E-EXSURF
+apple,Fruits,vitamins,1,5,E,E-INCOMP,E,E-SYS
+apple,Fruits,good,1,13,I,I-EVAL,I,I-EVAL
+arch,Constructions,door,1,5,T,T-SYN,E,E-WHOLE
+arch,Constructions,entrance,1,7,S,S-LOC,S,S-LOC
+arm,Body parts,body,1,9,E,E-WHOLE,E,E-WHOLE
+arm,Body parts,hugging,1,7,S,S-FUNC,S,S-ACTION
+arm,Body parts,pointing,1,5,S,S-FUNC,S,S-ACTION
+arm,Body parts,useful,1,6,I,I-EVAL,E,E-SYS
+armadillo,Animals,animal,1,17,T,T-SUPER,T,T-ONT
+armadillo,Animals,eaten,1,6,S,S-ACTION,S,S-ACTION
+armadillo,Animals,furry,1,5,E,E-EXSURF,E,E-EXSURF
+armadillo,Animals,small,1,5,E,E-QUANT,E,E-SYS
+armadillo,Animals,good,1,5,I,I-EVAL,I,I-EVAL
+armadillo,Animals,shell,1,11,E,E-EXCOMP,E,E-EXCOMP
+armadillo,Animals,hole,1,6,S,S-LOC,S,S-LOC
+armadillo,Animals,countryside,1,14,S,S-LOC,S,S-LOC
+arrow,Weapons,hunting,1,10,S,S-FUNC,S,S-FUNC
+arrow,Weapons,weapon,1,9,T,T-SUPER,T,T-SUPER
+arrow,Weapons,native people,2,9,S,S-PERSON,S,S-PERSON
+arrow,Weapons,bow,1,7,S,S-OBJECT,S,S-OBJECT
+artichoke,Vegetables,eaten,1,11,S,S-ACTION,S,S-ACTION
+artichoke,Vegetables,green,1,12,E,E-EXSURF,E,E-EXSURF
+artichoke,Vegetables,vegetable,1,8,T,T-SUPER,T,T-ONT
+artichoke,Vegetables,good,1,7,I,I-EVAL,I,I-EVAL
+ashtray,Objects,decorative,1,8,E,E-SYS,E,E-ABSTR
+ashtray,Objects,cigarettes,1,21,S,S-FUNC,S,S-OBJECT
+ashtray,Objects,throw,1,18,S,S-FUNC,S,S-ACTION
+ashtray,Objects,glass,1,9,E,E-MAT,E,E-MAT
+ashtray,Objects,wood,1,7,E,E-MAT,E,E-MAT
+ashtray,Objects,unpleasant,1,5,I,I-EVAL,I,I-EVAL
+asparagus,Vegetables,eaten,1,12,S,S-ACTION,S,S-ACTION
+asparagus,Vegetables,green,1,9,E,E-EXSURF,E,E-EXSURF
+asparagus,Vegetables,long,1,6,E,E-QUANT,E,E-QUANT
+asparagus,Vegetables,vegetable,1,17,T,T-SUPER,T,T-ONT
+asparagus,Vegetables,good,1,6,I,I-EVAL,I,I-EVAL
+avocado,Fruits,creamy,1,6,E,E-EXSURF,E,E-INSURF
+avocado,Fruits,eaten,1,6,S,S-ACTION,S,S-ACTION
+avocado,Fruits,fruit,1,21,T,T-SUPER,T,T-ONT
+avocado,Fruits,green,1,16,E,E-EXSURF,E,E-EXSURF
+avocado,Fruits,salad,1,10,S,S-ACTION,S,S-OBJECT
+avocado,Fruits,good,1,9,I,I-EVAL,I,I-EVAL
+avocado,Fruits,pit,1,5,E,E-INCOMP,E,E-INCOMP
+axe,Tools,tool,1,13,T,T-SUPER,T,T-SYN
+axe,Tools,cutting,1,25,S,S-FUNC,S,S-ACTION
+axe,Tools,chopping down,2,10,S,S-FUNC,S,S-ACTION
+axe,Tools,metal,1,6,E,E-MAT,E,E-MAT
+ball,Objects,children,1,5,S,S-PERSON,S,S-PERSON
+ball,Objects,football,1,15,S,S-EVENT,T,T-SUBORD
+ball,Objects,game,1,10,S,S-SOCART,S,S-EVENT
+ball,Objects,round,1,8,E,E-EXSURF,E,E-EXSURF
+ball,Objects,rubber,1,5,E,E-MAT,E,E-MAT
+balloon,Toys,blown,1,11,S,S-ACTION,S,S-ACTION
+balloon,Toys,children,1,6,S,S-PERSON,S,S-PERSON
+balloon,Toys,explodes,1,5,E,E-BEH,E,E-BEH
+balloon,Toys,game,1,9,S,S-SOCART,S,S-EVENT
+balloon,Toys,ornament,1,8,T,T-SUPER,S,S-OBJECT
+balloon,Toys,colors,1,15,E,E-EXSURF,E,E-EXSURF
+balloon,Toys,air,1,8,E,E-INCOMP,E,E-INCOMP
+balloon,Toys,parties,1,22,S,S-EVENT,S,S-EVENT
+banana,Fruits,dessert,1,5,T,T-SUPER,S,S-FUNC
+banana,Fruits,foodstuff,1,9,T,T-SUPER,T,T-SYN
+banana,Fruits,fruit,1,16,T,T-SUPER,T,T-ONT
+banana,Fruits,sweet,1,5,E,E-INSURF,E,E-INSURF
+banana,Fruits,smoothies,1,10,S,S-ACTION,S,S-FUNC
+banana,Fruits,yellow,1,13,E,E-EXSURF,E,E-EXSURF
+banana,Fruits,potasium,1,12,E,E-INCOMP,E,E-MAT
+banana,Fruits,skin,1,6,E,E-EXCOMP,E,E-EXCOMP
+banana,Fruits,good,1,11,I,I-EVAL,I,I-EVAL
+banana,Fruits,monkeys,1,6,S,S-ACTION,S,S-PERSON
+barn,Constructions,storing,1,5,S,S-FUNC,S,S-FUNC
+barn,Constructions,storing,1,9,S,S-FUNC,S,S-FUNC
+barn,Constructions,farm animals,2,13,S,S-FUNC,S,S-SOCORG
+barn,Constructions,farm animals,2,7,S,S-FUNC,S,S-SOCORG
+barn,Constructions,wood,1,5,E,E-MAT,E,E-MAT
+barn,Constructions,field,1,15,S,S-LOC,S,S-LOC
+barrel,Containers,beer,1,17,S,S-OBJECT,S,S-OBJECT
+barrel,Containers,wine,1,24,S,S-OBJECT,S,S-OBJECT
+barrel,Containers,wood,1,17,E,E-MAT,E,E-MAT
+barrel,Containers,cellar,1,6,S,S-LOC,S,S-LOC
+baseball bat,Objects,ball,1,8,S,S-OBJECT,S,S-OBJECT
+baseball bat,Objects,game,1,8,S,S-SOCART,S,S-EVENT
+baseball bat,Objects,stick,1,10,S,S-OBJECT,T,T-SYN
+baseball bat,Objects,hitting,1,6,S,S-FUNC,S,S-FUNC
+baseball bat,Objects,playing,1,14,S,S-FUNC,S,S-ACTION
+baseball bat,Objects,playing,1,9,S,S-FUNC,S,S-ACTION
+baseball bat,Objects,wood,1,12,E,E-MAT,E,E-MAT
+baseball glove,Objects,ball,1,7,S,S-OBJECT,S,S-OBJECT
+baseball glove,Objects,catching,1,5,S,S-FUNC,S,S-FUNC
+baseball glove,Objects,playing,1,11,S,S-FUNC,S,S-ACTION
+baseball glove,Objects,playing,1,14,S,S-FUNC,S,S-ACTION
+baseball glove,Objects,protecting,1,13,S,S-FUNC,S,S-FUNC
+baseball glove,Objects,hand,1,6,S,S-LOC,E,E-WHOLE
+baseball glove,Objects,leather,1,15,E,E-MAT,E,E-MAT
+basin,House parts,hygiene,1,6,I,I-REP,S,S-SOCART
+basin,House parts,soap,1,5,S,S-OBJECT,S,S-OBJECT
+basin,House parts,bathing,1,10,S,S-FUNC,S,S-FUNC
+basin,House parts,relaxing,1,6,S,S-FUNC,I,I-EMOT
+basin,House parts,water,1,8,S,S-OBJECT,S,S-OBJECT
+basin,House parts,bathroom,1,15,S,S-LOC,S,S-LOC
+basket,Containers,bread,1,7,S,S-FUNC,S,S-FUNC
+basket,Containers,fruit,1,8,S,S-LIVING,S,S-OBJECT
+basket,Containers,picnic,1,5,S,S-EVENT,S,S-EVENT
+basket,Containers,storing,1,6,S,S-FUNC,S,S-FUNC
+basket,Containers,useful,1,8,I,I-EVAL,I,I-EVAL
+basket,Containers,wicker,1,11,E,E-MAT,E,E-MAT
+bat,Animals,animal,1,9,T,T-SUPER,T,T-ONT
+bat,Animals,bind,1,7,E,E-SYS,S,S-ACTION
+bat,Animals,black,1,7,E,E-EXSURF,E,E-EXSURF
+bat,Animals,bug,1,5,T,T-SUPER,S,S-LIVING
+bat,Animals,flies,1,10,E,E-BEH,E,E-BEH
+bat,Animals,night,1,16,E,E-BEH,S,S-TIME
+bat,Animals,ugly,1,17,I,I-EVAL,I,I-EVAL
+beach shovel,Toys,broom,1,6,S,S-OBJECT,T,T-COORD
+beach shovel,Toys,cleaning,1,5,S,S-FUNC,S,S-FUNC
+beach shovel,Toys,garbage,1,16,S,S-FUNC,S,S-OBJECT
+beach shovel,Toys,plastic,1,9,E,E-MAT,E,E-MAT
+bear,Animals,aggressive,1,11,E,E-SYS,E,E-BEH
+bear,Animals,animal,1,13,T,T-SUPER,T,T-ONT
+bear,Animals,big,1,15,E,E-QUANT,E,E-SYS
+bear,Animals,grizzly,1,5,E,E-EXSURF,T,T-SUBORD
+bear,Animals,white,1,7,E,E-EXSURF,E,E-EXSURF
+bear,Animals,hair,1,9,E,E-EXCOMP,E,E-EXCOMP
+bed,Furniture,resting,1,16,S,S-FUNC,S,S-FUNC
+bed,Furniture,sleeping,1,7,S,S-FUNC,S,S-FUNC
+bee,Animals,bites,1,17,E,E-BEH,E,E-BEH
+bee,Animals,drone,1,5,T,T-SUBORD,T,T-SUBORD
+bee,Animals,flies,1,5,E,E-BEH,E,E-BEH
+bee,Animals,hardworking,1,5,E,E-SYS,I,I-EVAL
+bee,Animals,insect,1,8,T,T-SUPER,T,T-SYN
+bee,Animals,queen,1,9,T,T-SUBORD,T,T-SUBORD
+bee,Animals,honey,1,30,E,E-BEH,E,E-INCOMP
+bee,Animals,beehive,1,10,S,S-LOC,E,E-WHOLE
+bee,Animals,hive,1,12,S,S-LOC,S,S-LOC
+beetle,Animals,animal,1,5,T,T-SUPER,T,T-ONT
+beetle,Animals,black,1,11,E,E-EXSURF,E,E-EXSURF
+beetle,Animals,bug,1,5,T,T-SUPER,T,T-SYN
+beetle,Animals,insect,1,11,T,T-SUPER,T,T-SYN
+beetle,Animals,small,1,9,E,E-QUANT,E,E-QUANT
+beetle,Animals,ugly,1,5,I,I-EVAL,I,I-EVAL
+bell,Objects,alarm,1,5,S,S-FUNC,S,S-FUNC
+bell,Objects,noisy,1,8,E,E-SYS,E,E-SYS
+bell,Objects,rings,1,8,E,E-BEH,E,E-BEH
+bell,Objects,sound,1,7,S,S-FUNC,E,E-EXSURF
+bell,Objects,calling,1,7,S,S-ACTION,S,S-FUNC
+bell,Objects,bronze,1,9,E,E-MAT,E,E-MAT
+bell,Objects,metal,1,5,E,E-MAT,E,E-MAT
+bell,Objects,church,1,20,S,S-LOC,S,S-BUILD
+bell,Objects,school,1,13,S,S-LOC,S,S-SOCORG
+belt,Clothing,fastenning,1,12,S,S-FUNC,S,S-FUNC
+belt,Clothing,hold,1,11,S,S-FUNC,S,S-FUNC
+belt,Clothing,pants,1,12,S,S-LOC,S,S-FUNC
+belt,Clothing,colors,1,5,E,E-EXSURF,E,E-EXSURF
+belt,Clothing,buckle,1,14,E,E-EXCOMP,E,E-EXCOMP
+belt,Clothing,leather,1,18,E,E-MAT,E,E-MAT
+bench,Furniture,comfortable,1,5,I,I-EVAL,I,I-EVAL
+bench,Furniture,rest,1,10,S,S-FUNC,S,S-FUNC
+bench,Furniture,resting,1,7,S,S-FUNC,S,S-ACTION
+bench,Furniture,sitting,1,5,S,S-FUNC,S,S-FUNC
+bench,Furniture,wood,1,13,E,E-MAT,E,E-MAT
+bench,Furniture,school,1,5,S,S-LOC,S,S-LOC
+bench,Furniture,square,1,23,S,S-LOC,E,E-EXSURF
+bicycle,Vehicles,exercise,1,12,S,S-FUNC,S,S-FUNC
+bicycle,Vehicles,race,1,12,S,S-FUNC,S,S-EVENT
+bicycle,Vehicles,sport,1,5,S,S-FUNC,S,S-EVENT
+bicycle,Vehicles,riding,1,14,S,S-FUNC,S,S-ACTION
+bicycle,Vehicles,brakes,1,7,E,E-EXCOMP,E,E-EXCOMP
+bicycle,Vehicles,wheels,1,16,E,E-EXCOMP,E,E-EXCOMP
+bicycle,Vehicles,transportation,1,10,T,T-SUPER,S,S-FUNC
+binoculars,Tools,distance,1,6,S,S-SOCART,S,S-FUNC
+binoculars,Tools,watching,1,13,S,S-FUNC,S,S-FUNC
+binoculars,Tools,see,1,21,S,S-FUNC,S,S-ACTION
+binoculars,Tools,magnification,1,8,E,E-SYS,E,E-SYS
+bird,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+bird,Animals,bird,1,9,T,T-SUPER,T,T-SYN
+bird,Animals,flies,1,19,E,E-BEH,E,E-BEH
+bird,Animals,freedom,1,8,E,E-ABSTR,I,I-REP
+bird,Animals,nest,1,6,S,S-OBJECT,S,S-OBJECT
+bird,Animals,sings,1,13,E,E-BEH,E,E-BEH
+bird,Animals,colors,1,11,E,E-EXSURF,E,E-EXSURF
+bird,Animals,feathers,1,9,E,E-EXCOMP,E,E-EXCOMP
+bird,Animals,wings,1,11,E,E-EXCOMP,E,E-EXCOMP
+bird,Animals,eggs,1,5,E,E-BEH,E,E-EXCOMP
+bird,Animals,beak,1,7,E,E-EXCOMP,E,E-EXCOMP
+bird house,Constructions,birds,1,5,S,S-LIVING,S,S-LIVING
+bird house,Constructions,nest,1,13,S,S-OBJECT,S,S-LOC
+bird house,Constructions,baker bird,2,9,S,S-OBJECT,S,S-LIVING
+bird house,Constructions,tree,1,8,S,S-LOC,S,S-LOC
+bird nest,Constructions,home,1,5,T,T-SUPER,S,S-FUNC
+bird nest,Constructions,birds,1,8,S,S-LIVING,S,S-PERSON
+bird nest,Constructions,eggs,1,7,S,S-LIVING,E,E-INCOMP
+bird nest,Constructions,feathers,1,5,E,E-EXCOMP,E,E-EXCOMP
+bird nest,Constructions,mud,1,6,E,E-MAT,E,E-MAT
+bird nest,Constructions,straw,1,10,E,E-MAT,E,E-MAT
+blackboard,Utensils,black,1,11,E,E-EXSURF,E,E-EXSURF
+blackboard,Utensils,eraser,1,5,S,S-OBJECT,E,E-EXCOMP
+blackboard,Utensils,green,1,7,E,E-EXSURF,E,E-EXSURF
+blackboard,Utensils,drawing,1,5,S,S-FUNC,S,S-ACTION
+blackboard,Utensils,teaching,1,8,S,S-FUNC,S,S-FUNC
+blackboard,Utensils,writing,1,20,S,S-FUNC,S,S-FUNC
+blackboard,Utensils,chalk,1,14,S,S-OBJECT,S,S-OBJECT
+blackboard,Utensils,school,1,17,S,S-BUILD,S,S-LOC
+blimp,Vehicles,air,1,14,S,S-LOC,S,S-LOC
+blimp,Vehicles,big,1,7,E,E-QUANT,E,E-QUANT
+blimp,Vehicles,flying,1,12,S,S-FUNC,S,S-ACTION
+blimp,Vehicles,war,1,5,S,S-EVENT,S,S-EVENT
+blimp,Vehicles,gas stove,2,5,E,E-INCOMP,S,S-OBJECT
+blimp,Vehicles,hot-air balloon,2,7,S,S-OBJECT,T,T-SYN
+blimp,Vehicles,transportation,1,7,T,T-SUPER,S,S-FUNC
+blouse,Clothing,clothing,1,16,T,T-SUPER,T,T-SUPER
+blouse,Clothing,women,1,16,S,S-PERSON,S,S-PERSON
+blouse,Clothing,colors,1,5,E,E-EXSURF,E,E-EXSURF
+blouse,Clothing,buttons,1,7,E,E-EXCOMP,E,E-EXCOMP
+blouse,Clothing,silk,1,7,E,E-MAT,E,E-MAT
+blowfish,Animals,animal,1,6,T,T-SUPER,T,T-ONT
+blowfish,Animals,poisonous,1,5,E,E-SYS,E,E-SYS
+blowfish,Animals,sea,1,10,S,S-LOC,S,S-LOC
+blowfish,Animals,water,1,11,S,S-LOC,S,S-LOC
+book,Objects,reading,1,13,S,S-FUNC,S,S-FUNC
+book,Objects,studying,1,8,S,S-FUNC,S,S-ACTION
+book,Objects,cover,1,7,E,E-EXCOMP,E,E-EXCOMP
+book,Objects,leaf,1,11,E,E-EXCOMP,E,E-EXCOMP
+book,Objects,library,1,11,S,S-LOC,S,S-BUILD
+boot,Clothing,comfortable,1,6,I,I-EVAL,E,E-SYS
+boot,Clothing,footwear,1,8,T,T-SUPER,T,T-SUPER
+boot,Clothing,cold,1,5,S,S-FUNC,E,E-SYS
+boot,Clothing,rain,1,5,S,S-FUNC,S,S-TIME
+boot,Clothing,leather,1,10,E,E-MAT,E,E-MAT
+boot,Clothing,rubber,1,5,E,E-MAT,E,E-MAT
+bottle,Containers,container,1,7,T,T-SUPER,T,T-SYN
+bottle,Containers,drinks,1,5,S,S-OBJECT,S,S-OBJECT
+bottle,Containers,glass,1,12,E,E-MAT,E,E-MAT
+bottle,Containers,fluids,1,11,S,S-FUNC,S,S-FUNC
+bottle,Containers,wine,1,5,S,S-OBJECT,S,S-OBJECT
+bottle,Containers,plastic,1,7,E,E-MAT,E,E-MAT
+bow,Accessories,ornament,1,8,T,T-SUPER,T,T-SYN
+bow,Accessories,parties,1,5,S,S-EVENT,S,S-EVENT
+bow,Accessories,colors,1,6,E,E-EXSURF,E,E-EXSURF
+bow,Accessories,tying hair,2,9,S,S-FUNC,S,S-FUNC
+bow,Accessories,ribbon,1,5,E,E-MAT,T,T-SYN
+bow,Accessories,suit,1,6,E,E-WHOLE,S,S-OBJECT
+bowl,Utensils,container,1,5,T,T-SUPER,T,T-SYN
+bowl,Utensils,food,1,6,S,S-OBJECT,S,S-OBJECT
+bowl,Utensils,salad,1,18,S,S-OBJECT,S,S-OBJECT
+bowl,Utensils,mixing,1,10,S,S-FUNC,S,S-ACTION
+bowl,Utensils,colors,1,7,E,E-EXSURF,E,E-EXSURF
+bowl,Utensils,plastic,1,9,E,E-MAT,E,E-MAT
+bowl,Utensils,kitchen,1,9,S,S-LOC,S,S-LOC
+box,Containers,shoe,1,6,S,S-OBJECT,S,S-FUNC
+box,Containers,square,1,5,E,E-EXSURF,E,E-EXSURF
+box,Containers,strong,1,6,T,T-SUBORD,E,E-SYS
+box,Containers,storing,1,14,S,S-FUNC,S,S-FUNC
+box,Containers,cardboard,1,18,E,E-MAT,E,E-MAT
+box,Containers,wood,1,15,E,E-MAT,E,E-MAT
+brain,Body parts,body,1,5,E,E-WHOLE,E,E-WHOLE
+brain,Body parts,important,1,5,I,I-EVAL,I,I-EVAL
+brain,Body parts,organ,1,8,T,T-SUPER,T,T-ONT
+brain,Body parts,think,1,11,S,S-FUNC,E,E-BEH
+brain,Body parts,head,1,9,S,S-LOC,E,E-WHOLE
+bread,Food,food,1,8,S,S-OBJECT,T,T-SUPER
+bread,Food,foodstuff,1,12,T,T-SUPER,T,T-SUPER
+bread,Food,sandwich,1,9,S,S-ACTION,S,S-FUNC
+bread,Food,wheat,1,5,E,E-INCOMP,E,E-MAT
+bread,Food,white,1,5,T,T-SUBORD,E,E-EXSURF
+bread,Food,flour,1,14,E,E-INCOMP,E,E-MAT
+bread,Food,bakeries,1,7,S,S-BUILD,S,S-LOC
+bread,Food,good,1,7,I,I-EVAL,I,I-EVAL
+broom,Tools,cleaning,1,17,S,S-FUNC,S,S-FUNC
+broom,Tools,sweeping,1,17,S,S-FUNC,S,S-ACTION
+broom,Tools,witch,1,7,S,S-PERSON,S,S-PERSON
+broom,Tools,stick,1,14,E,E-EXCOMP,E,E-EXCOMP
+broom,Tools,plastic,1,5,E,E-MAT,E,E-MAT
+broom,Tools,straw,1,16,E,E-MAT,E,E-MAT
+brush,Utensils,cleaning,1,19,S,S-FUNC,S,S-FUNC
+brush,Utensils,washing,1,8,S,S-FUNC,S,S-ACTION
+brush,Utensils,bristles,1,6,E,E-EXCOMP,E,E-EXCOMP
+brush,Utensils,combing,1,9,S,S-FUNC,S,S-ACTION
+brush,Utensils,plastic,1,5,E,E-MAT,E,E-MAT
+brush,Utensils,cleaning,1,14,S,S-FUNC,S,S-FUNC
+buffalo,Animals,animal,1,26,T,T-SUPER,T,T-ONT
+buffalo,Animals,big,1,12,E,E-QUANT,E,E-SYS
+buffalo,Animals,dangerous,1,5,I,I-EVAL,I,I-EVAL
+buffalo,Animals,mammal,1,5,T,T-SUPER,T,T-ONT
+buffalo,Animals,wild,1,5,E,E-SYS,E,E-SYS
+buffalo,Animals,horns,1,7,E,E-EXCOMP,E,E-EXCOMP
+bus,Vehicles,big,1,5,E,E-QUANT,E,E-QUANT
+bus,Vehicles,driver,1,6,S,S-LIVING,S,S-PERSON
+bus,Vehicles,old,1,5,E,E-SYS,E,E-SYS
+bus,Vehicles,passengers,1,11,S,S-PERSON,S,S-PERSON
+bus,Vehicles,traveling,1,8,S,S-FUNC,S,S-FUNC
+bus,Vehicles,seats,1,7,E,E-INCOMP,E,E-EXCOMP
+bus,Vehicles,interurban bus,2,5,T,T-SUBORD,T,T-SYN
+bus,Vehicles,transportation,1,13,T,T-SUPER,S,S-FUNC
+butterfly,Animals,colorful,1,23,E,E-EXSURF,E,E-EXSURF
+butterfly,Animals,flies,1,12,E,E-BEH,E,E-BEH
+butterfly,Animals,insect,1,12,T,T-SUPER,T,T-ONT
+butterfly,Animals,nectar,1,5,S,S-OBJECT,S,S-ACTION
+butterfly,Animals,nice,1,15,I,I-EVAL,I,I-EVAL
+butterfly,Animals,spring,1,10,S,S-TIME,S,S-TIME
+butterfly,Animals,wings,1,10,E,E-EXCOMP,E,E-EXCOMP
+butterfly,Animals,perches,1,10,E,E-BEH,E,E-BEH
+button,Accessories,ornament,1,5,T,T-SUPER,T,T-SYN
+button,Accessories,sewed,1,5,S,S-ACTION,S,S-ACTION
+button,Accessories,small,1,5,E,E-QUANT,E,E-QUANT
+button,Accessories,useful,1,7,I,I-EVAL,S,S-FUNC
+button,Accessories,colors,1,10,E,E-EXSURF,E,E-EXSURF
+button,Accessories,shapes,1,5,E,E-EXSURF,E,E-EXSURF
+button,Accessories,holes,1,10,E,E-EXSURF,E,E-EXCOMP
+button,Accessories,buttoning up,2,16,S,S-FUNC,S,S-FUNC
+button,Accessories,clothing,1,13,S,S-LOC,E,E-WHOLE
+button,Accessories,plastic,1,5,E,E-MAT,E,E-MAT
+button,Accessories,wood,1,5,E,E-MAT,E,E-MAT
+button,Accessories,coat,1,5,S,S-LOC,E,E-WHOLE
+button,Accessories,buttonhole,1,7,S,S-LOC,E,E-EXCOMP
+cactus,Plants,plant,1,15,T,T-SUPER,T,T-SUPER
+cactus,Plants,prickly,1,6,E,E-SYS,E,E-EXSURF
+cactus,Plants,flowers,1,12,E,E-EXCOMP,E,E-EXCOMP
+cactus,Plants,thorns,1,23,E,E-EXCOMP,E,E-EXCOMP
+cactus,Plants,water,1,5,E,E-INCOMP,S,S-OBJECT
+cactus,Plants,desert,1,9,S,S-LOC,S,S-LOC
+cady,Containers,food,1,6,S,S-OBJECT,T,T-SUPER
+cady,Containers,goods,1,5,S,S-OBJECT,T,T-SYN
+cady,Containers,supermarket,1,14,T,T-SUBORD,S,S-LOC
+cady,Containers,shopping,1,7,S,S-FUNC,S,S-EVENT
+cady,Containers,handle,1,6,E,E-EXCOMP,E,E-EXCOMP
+cady,Containers,fabric,1,5,E,E-MAT,E,E-MAT
+cady,Containers,nylon,1,5,E,E-MAT,E,E-MAT
+cady,Containers,plastic,1,7,E,E-MAT,E,E-MAT
+cage,Constructions,animals,1,7,S,S-LIVING,S,S-LIVING
+cage,Constructions,birds,1,14,S,S-LIVING,S,S-LIVING
+cage,Constructions,enclose,1,16,S,S-FUNC,S,S-FUNC
+cage,Constructions,metal,1,5,E,E-MAT,E,E-MAT
+cake,Food,celebration,1,7,S,S-EVENT,S,S-EVENT
+cake,Food,eaten,1,5,S,S-ACTION,S,S-ACTION
+cake,Food,sweet,1,13,E,E-INSURF,E,E-INSURF
+cake,Food,chocolate,1,5,E,E-EXCOMP,E,E-INCOMP
+cake,Food,cream,1,6,E,E-EXCOMP,E,E-INCOMP
+cake,Food,good,1,7,I,I-EVAL,I,I-EVAL
+cake,Food,weddings,1,5,S,S-EVENT,S,S-EVENT
+cake,Food,caramel milk,2,7,E,E-INCOMP,S,S-OBJECT
+calipers,Tools,tool,1,5,T,T-SUPER,T,T-SYN
+calipers,Tools,measuring,1,12,S,S-FUNC,S,S-FUNC
+camel,Animals,animal,1,12,T,T-SUPER,T,T-ONT
+camel,Animals,quadruped,1,9,T,T-SUPER,T,T-SYN
+camel,Animals,tall,1,5,E,E-QUANT,E,E-SYS
+camel,Animals,transportation,1,5,S,S-ACTION,S,S-FUNC
+camel,Animals,hair,1,6,E,E-EXCOMP,E,E-EXCOMP
+camel,Animals,heap,1,21,E,E-EXCOMP,I,I-REP
+camel,Animals,desert,1,16,S,S-LOC,S,S-LOC
+camera,Devices,moments,1,6,I,I-REP,S,S-EVENT
+camera,Devices,images,1,6,S,S-FUNC,S,S-FUNC
+camera,Devices,reminders,1,14,S,S-FUNC,S,S-FUNC
+camera,Devices,digital camera,2,9,T,T-SUBORD,T,T-SYN
+camera,Devices,celebrating,1,5,S,S-FUNC,S,S-EVENT
+camera,Devices,film roll camera,3,5,T,T-SUBORD,T,T-SYN
+can,Containers,container,1,5,T,T-SUPER,T,T-SYN
+can,Containers,food,1,7,S,S-OBJECT,S,S-OBJECT
+can,Containers,storing,1,6,S,S-FUNC,S,S-FUNC
+can,Containers,food,1,5,T,T-SUPER,S,S-OBJECT
+can,Containers,sheet metal,2,6,E,E-MAT,E,E-MAT
+candle,Objects,fire,1,7,S,S-OBJECT,S,S-EVENT
+candle,Objects,light,1,16,S,S-FUNC,S,S-FUNC
+candle,Objects,praying,1,5,S,S-FUNC,S,S-ACTION
+candle,Objects,lighting up,2,13,S,S-FUNC,S,S-FUNC
+candle,Objects,birthday cakes,2,7,S,S-EVENT,S,S-OBJECT
+candle,Objects,wax,1,8,E,E-MAT,E,E-MAT
+cannon,Weapons,death,1,6,S,S-SOCART,S,S-EVENT
+cannon,Weapons,destruction,1,7,S,S-FUNC,S,S-EVENT
+cannon,Weapons,weapon,1,7,T,T-SUPER,T,T-SUPER
+cap,Clothing,cap,1,16,T,T-SUPER,T,T-SYN
+cap,Clothing,fabric,1,5,E,E-MAT,E,E-MAT
+cap,Clothing,wool,1,5,E,E-MAT,E,E-MAT
+cap,Clothing,cold,1,8,S,S-FUNC,S,S-PHYST
+car,Vehicles,comfortable,1,6,I,I-EVAL,E,E-SYS
+car,Vehicles,fast,1,6,E,E-SYS,E,E-SYS
+car,Vehicles,riding,1,7,S,S-FUNC,S,S-ACTION
+car,Vehicles,traveling,1,8,S,S-FUNC,S,S-FUNC
+car,Vehicles,wheels,1,12,E,E-EXCOMP,E,E-EXCOMP
+car,Vehicles,engine,1,6,E,E-INCOMP,E,E-INCOMP
+car,Vehicles,transportation,1,12,T,T-SUPER,S,S-FUNC
+carrot,Vegetables,eaten,1,16,S,S-ACTION,S,S-ACTION
+carrot,Vegetables,grated,1,6,S,S-ACTION,S,S-ACTION
+carrot,Vegetables,orange,1,16,E,E-EXSURF,E,E-EXSURF
+carrot,Vegetables,raw,1,5,E,E-INSURF,E,E-INSURF
+carrot,Vegetables,stew,1,5,E,E-WHOLE,S,S-FUNC
+carrot,Vegetables,tuber,1,5,T,T-SUPER,T,T-SUPER
+carrot,Vegetables,salad,1,18,S,S-ACTION,S,S-PROD
+carrot,Vegetables,vegetable,1,15,T,T-SUPER,T,T-SUPER
+carrot,Vegetables,vegetable,1,5,T,T-SUPER,T,T-SUPER
+carrot,Vegetables,vitamins,1,5,E,E-INCOMP,E,E-SYS
+carrot,Vegetables,rabits,1,9,S,S-LIVING,S,S-LIVING
+cat,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+cat,Animals,cuddly,1,11,E,E-SYS,I,I-EVAL
+cat,Animals,feline,1,8,T,T-SUPER,T,T-SYN
+celery,Vegetables,green,1,14,E,E-EXSURF,E,E-EXSURF
+celery,Vegetables,plant,1,7,T,T-SUPER,T,T-ONT
+celery,Vegetables,spice,1,5,T,T-SUPER,E,E-INSURF
+celery,Vegetables,flavouring,1,5,S,S-FUNC,E,E-INSURF
+celery,Vegetables,salad,1,8,S,S-ACTION,S,S-OBJECT
+celery,Vegetables,vegetable,1,13,T,T-SUPER,T,T-SUPER
+celery,Vegetables,vegetable,1,5,T,T-SUPER,T,T-SUPER
+celery,Vegetables,leaf,1,7,E,E-EXCOMP,E,E-EXCOMP
+centipede,Animals,animal,1,8,T,T-SUPER,T,T-ONT
+centipede,Animals,bug,1,8,T,T-SUPER,T,T-SYN
+centipede,Animals,insect,1,10,T,T-SUPER,T,T-ONT
+centipede,Animals,long,1,10,E,E-QUANT,E,E-QUANT
+centipede,Animals,small,1,8,E,E-QUANT,E,E-SYS
+centipede,Animals,legs,1,10,E,E-EXCOMP,E,E-EXCOMP
+chain,Tools,bicycle,1,5,T,T-SUBORD,E,E-WHOLE
+chain,Tools,ornament,1,5,T,T-SUPER,S,S-OBJECT
+chain,Tools,safety,1,5,S,S-SOCART,S,S-FUNC
+chain,Tools,joining,1,5,S,S-FUNC,S,S-FUNC
+chain,Tools,tying,1,10,S,S-FUNC,S,S-ACTION
+chain,Tools,links,1,12,E,E-EXCOMP,E,E-EXCOMP
+chain,Tools,gold,1,8,E,E-MAT,E,E-MAT
+chain,Tools,iron,1,7,E,E-MAT,E,E-MAT
+chain,Tools,metal,1,6,E,E-MAT,E,E-MAT
+chain,Tools,silver,1,7,E,E-MAT,E,E-MAT
+chair,Furniture,comfortable,1,11,I,I-EVAL,E,E-SYS
+chair,Furniture,seat,1,6,T,T-COORD,E,E-EXCOMP
+chair,Furniture,table,1,8,S,S-OBJECT,T,T-COORD
+chair,Furniture,resting,1,6,S,S-FUNC,S,S-FUNC
+chair,Furniture,sitting,1,12,S,S-FUNC,S,S-FUNC
+chair,Furniture,metal,1,5,E,E-MAT,E,E-MAT
+chair,Furniture,wood,1,13,E,E-MAT,E,E-MAT
+cheese,Food,creamy,1,6,E,E-EXSURF,E,E-INSURF
+cheese,Food,foodstuff,1,8,T,T-SUPER,T,T-SUPER
+cheese,Food,good,1,10,I,I-EVAL,I,I-EVAL
+cheese,Food,grated,1,11,S,S-ACTION,E,E-SYS
+cheese,Food,milk,1,10,E,E-MAT,E,E-MAT
+cheese,Food,cow,1,5,S,S-LIVING,E,E-MAT
+cherry,Fruits,fruit,1,21,T,T-SUPER,T,T-ONT
+cherry,Fruits,red,1,21,E,E-EXSURF,E,E-EXSURF
+cherry,Fruits,small,1,10,E,E-QUANT,E,E-QUANT
+cherry,Fruits,sweet,1,18,E,E-INSURF,E,E-INSURF
+cherry,Fruits,desserts,1,6,S,S-ACTION,S,S-OBJECT
+cherry,Fruits,good,1,15,I,I-EVAL,I,I-EVAL
+cherry,Fruits,pit,1,8,E,E-INCOMP,E,E-INCOMP
+chest,Furniture,storing,1,5,S,S-FUNC,S,S-FUNC
+chest,Furniture,storing,1,15,S,S-FUNC,S,S-FUNC
+chest,Furniture,reminders,1,13,S,S-FUNC,S,S-OBJECT
+chest,Furniture,wood,1,13,E,E-MAT,E,E-MAT
+chest,Furniture,car,1,9,S,S-LOC,S,S-OBJECT
+chicken,Animals,bird,1,5,T,T-SUPER,T,T-SYN
+chicken,Animals,chicken,1,5,T,T-SYN,T,T-SYN
+chicken,Animals,clucks,1,5,E,E-BEH,E,E-BEH
+chicken,Animals,eaten,1,12,S,S-ACTION,S,S-ACTION
+chicken,Animals,stew,1,5,S,S-ACTION,S,S-FUNC
+chicken,Animals,eats,1,5,E,E-BEH,E,E-BEH
+chicken,Animals,feathers,1,13,E,E-EXCOMP,E,E-EXCOMP
+chicken,Animals,eggs,1,27,E,E-BEH,E,E-INCOMP
+chicken,Animals,chicken,1,11,T,T-COORD,T,T-SYN
+chicken,Animals,henhouse,1,8,S,S-LOC,S,S-LOC
+chisel,Utensils,carrot,1,9,S,S-LIVING,S,S-OBJECT
+chisel,Utensils,fruit,1,5,S,S-LIVING,S,S-OBJECT
+chisel,Utensils,metal,1,10,E,E-MAT,E,E-MAT
+chisel,Utensils,potatoe,1,9,S,S-LIVING,S,S-OBJECT
+chisel,Utensils,cutting,1,5,S,S-FUNC,S,S-FUNC
+chisel,Utensils,useful,1,9,I,I-EVAL,S,S-FUNC
+chisel,Utensils,utensil,1,11,T,T-SUPER,T,T-SYN
+chisel,Utensils,kitchen,1,11,S,S-LOC,S,S-LOC
+chisel,Utensils,cutting edge,2,5,E,E-EXSURF,E,E-EXCOMP
+church,Constructions,big,1,6,E,E-QUANT,E,E-SYS
+church,Constructions,god,1,5,S,S-SOCART,S,S-SOCORG
+church,Constructions,mass,1,7,S,S-SOCART,S,S-EVENT
+church,Constructions,pray,1,14,S,S-ACTION,S,S-FUNC
+church,Constructions,priest,1,5,S,S-PERSON,S,S-PERSON
+church,Constructions,religion,1,5,S,S-SOCART,S,S-SOCART
+church,Constructions,wedding,1,5,S,S-EVENT,S,S-EVENT
+cigar,Objects,big,1,5,E,E-QUANT,E,E-QUANT
+cigar,Objects,brown,1,6,E,E-EXSURF,E,E-EXSURF
+cigar,Objects,causes_disease,1,8,E,E-SYS,I,I-CONTIN
+cigar,Objects,cigar,1,16,T,T-SUPER,T,T-SYN
+cigar,Objects,smoking,1,11,S,S-FUNC,S,S-ACTION
+cigar,Objects,tobacco,1,10,E,E-INCOMP,E,E-MAT
+cigar,Objects,v,1,13,E,E-BEH,I,I-NEG
+cigarette,Objects,causes_disease,1,9,E,E-SYS,I,I-CONTIN
+cigarette,Objects,paper,1,5,E,E-EXCOMP,E,E-MAT
+cigarette,Objects,smoking,1,5,S,S-FUNC,S,S-ACTION
+cigarette,Objects,vice,1,10,I,I-REP,I,I-EVAL
+cigarette,Objects,cancer,1,8,S,S-ACTION,S,S-EVENT
+cigarette,Objects,disease,1,5,I,I-EVAL,S,S-EVENT
+cigarette,Objects,nicotine,1,7,E,E-INCOMP,E,E-INCOMP
+cigarette,Objects,tobacco,1,13,E,E-INCOMP,E,E-MAT
+cigarette,Objects,smoke,1,11,E,E-BEH,S,S-EVENT
+clock,Devices,alarm,1,6,S,S-FUNC,E,E-SYS
+clock,Devices,time,1,11,S,S-FUNC,S,S-FUNC
+clock,Devices,waking up,2,5,S,S-FUNC,S,S-EVENT
+closet,Furniture,order,1,5,S,S-FUNC,S,S-FUNC
+closet,Furniture,storing,1,13,S,S-FUNC,S,S-FUNC
+closet,Furniture,storing,1,12,S,S-FUNC,S,S-FUNC
+closet,Furniture,useful,1,5,I,I-EVAL,I,I-EVAL
+closet,Furniture,doors,1,9,E,E-EXCOMP,E,E-EXCOMP
+closet,Furniture,drawers,1,5,E,E-EXCOMP,E,E-EXCOMP
+closet,Furniture,wood,1,10,E,E-MAT,E,E-MAT
+closet,Furniture,furniture,1,11,T,T-SUPER,T,T-ONT
+clothespin,Utensils,clothes,1,15,E,E-MAT,S,S-OBJECT
+clothespin,Utensils,useful,1,5,I,I-EVAL,I,I-EVAL
+clothespin,Utensils,plastic,1,11,E,E-MAT,E,E-MAT
+clothespin,Utensils,wood,1,12,E,E-MAT,E,E-MAT
+cloud,Nature,water,1,5,E,E-INCOMP,E,E-MAT
+cloud,Nature,white,1,6,E,E-EXSURF,E,E-EXSURF
+cloud,Nature,rain,1,14,E,E-BEH,S,S-EVENT
+cloud,Nature,sun,1,5,S,S-SPAT,S,S-LOC
+cloud,Nature,sky,1,11,S,S-TIME,S,S-LOC
+clown,Toys,cheerful,1,12,I,I-EMOT,E,E-BEH
+clown,Toys,circus,1,16,S,S-LOC,S,S-LOC
+clown,Toys,colorful,1,7,E,E-EXSURF,E,E-EXSURF
+clown,Toys,funny,1,11,I,I-EVAL,I,I-EVAL
+clown,Toys,funny,1,5,I,I-EVAL,I,I-EVAL
+clown,Toys,funny,1,11,E,E-SYS,I,I-EVAL
+clown,Toys,funny,1,5,E,E-SYS,I,I-EVAL
+clown,Toys,sad,1,5,I,I-EVAL,I,I-EMOT
+clown,Toys,nose,1,6,E,E-EXCOMP,E,E-EXCOMP
+clown,Toys,children,1,10,I,I-REP,S,S-PERSON
+clown,Toys,laugh,1,8,S,S-FUNC,S,S-EVENT
+clown,Toys,painted face,2,8,E,E-EXSURF,E,E-EXSURF
+clown,Toys,red nose,2,6,E,E-EXCOMP,E,E-EXSURF
+coat,Clothing,clothing,1,10,T,T-SUPER,T,T-SUPER
+coat,Clothing,elegant,1,6,I,I-EVAL,E,E-SYS
+coat,Clothing,long,1,6,E,E-QUANT,E,E-QUANT
+coat,Clothing,winter,1,5,S,S-TIME,S,S-TIME
+coat,Clothing,warm clothing,2,14,T,T-SUPER,T,T-SYN
+coat,Clothing,wool,1,7,E,E-MAT,E,E-MAT
+cockroach,Animals,black,1,10,E,E-EXSURF,E,E-EXSURF
+cockroach,Animals,brown,1,5,E,E-EXSURF,E,E-EXSURF
+cockroach,Animals,dirty,1,5,I,I-EVAL,I,I-EVAL
+cockroach,Animals,disgusting,1,12,I,I-EVAL,I,I-EVAL
+cockroach,Animals,insect,1,21,T,T-SUPER,T,T-SUPER
+cockroach,Animals,plague,1,10,T,T-SUPER,E,E-ABSTR
+cockroach,Animals,ugly,1,12,I,I-EVAL,I,I-EVAL
+colander,Utensils,coffee,1,5,S,S-OBJECT,S,S-OBJECT
+colander,Utensils,tea,1,9,S,S-OBJECT,S,S-OBJECT
+colander,Utensils,straining,1,14,T,T-SUPER,S,S-FUNC
+colander,Utensils,utensil,1,5,T,T-SUPER,T,T-SYN
+colander,Utensils,vegetables,1,7,S,S-LIVING,S,S-OBJECT
+colander,Utensils,metal,1,5,E,E-MAT,E,E-MAT
+colander,Utensils,plastic,1,8,E,E-MAT,E,E-MAT
+colander,Utensils,steel,1,6,E,E-MAT,E,E-MAT
+colander,Utensils,kitchen,1,6,S,S-LOC,S,S-LOC
+comb,Accessories,combing,1,14,S,S-FUNC,S,S-ACTION
+comb,Accessories,hair,1,10,S,S-FUNC,S,S-FUNC
+comb,Accessories,useful,1,5,I,I-EVAL,I,I-EVAL
+comb,Accessories,teeth,1,10,E,E-INCOMP,E,E-EXCOMP
+comb,Accessories,plastic,1,5,E,E-MAT,E,E-MAT
+compass,Tools,guide,1,5,S,S-FUNC,S,S-FUNC
+compass,Tools,directions,1,12,S,S-FUNC,S,S-FUNC
+compass,Tools,orienting,1,5,S,S-FUNC,S,S-FUNC
+compass,Tools,north,1,6,S,S-FUNC,S,S-FUNC
+condor,Animals,animal,1,8,T,T-SUPER,T,T-ONT
+condor,Animals,big,1,7,E,E-QUANT,E,E-QUANT
+condor,Animals,bird,1,11,T,T-SUPER,T,T-SYN
+condor,Animals,flies,1,10,E,E-BEH,E,E-BEH
+condor,Animals,height,1,8,S,S-LOC,E,E-QUANT
+condor,Animals,mountain,1,11,S,S-LOC,S,S-LOC
+corn,Vegetables,corn,1,11,S,S-OBJECT,T,T-SYN
+corn,Vegetables,eaten,1,12,S,S-ACTION,S,S-ACTION
+corn,Vegetables,foodstuff,1,9,T,T-SUPER,T,T-SUPER
+corn,Vegetables,vegetable,1,6,T,T-SUPER,T,T-SUPER
+corn,Vegetables,yellow,1,13,E,E-EXSURF,E,E-EXSURF
+corn,Vegetables,grains,1,13,E,E-EXCOMP,E,E-INCOMP
+corn,Vegetables,good,1,6,I,I-EVAL,I,I-EVAL
+corn,Vegetables,field,1,6,S,S-LOC,S,S-LOC
+couch,Furniture,comfortable,1,17,I,I-EVAL,E,E-SYS
+couch,Furniture,resting,1,18,S,S-FUNC,S,S-FUNC
+couch,Furniture,sitting,1,11,S,S-FUNC,S,S-ACTION
+couch,Furniture,cushions,1,6,E,E-EXCOMP,E,E-EXCOMP
+couch,Furniture,fabric,1,6,E,E-MAT,E,E-MAT
+couch,Furniture,leather,1,6,E,E-MAT,E,E-MAT
+couch,Furniture,furniture,1,7,T,T-SUPER,T,T-SUPER
+cow,Animals,animal,1,6,T,T-SUPER,T,T-ONT
+cow,Animals,barbecue,1,5,S,S-EVENT,S,S-FUNC
+cow,Animals,calf,1,8,T,T-SUBORD,T,T-SUBORD
+cow,Animals,eaten,1,6,S,S-ACTION,S,S-ACTION
+cow,Animals,moos,1,5,E,E-BEH,E,E-BEH
+cow,Animals,eats,1,8,E,E-BEH,E,E-BEH
+cow,Animals,eats,1,25,E,E-BEH,E,E-BEH
+cow,Animals,leather,1,15,S,S-ACTION,E,E-MAT
+cow,Animals,meat,1,17,S,S-FUNC,S,S-OBJECT
+cow,Animals,countryside,1,10,S,S-LOC,S,S-LOC
+crab,Animals,crustacean,1,9,T,T-SUPER,T,T-SYN
+crab,Animals,eaten,1,10,S,S-ACTION,S,S-ACTION
+crab,Animals,clamps,1,10,E,E-EXCOMP,E,E-EXCOMP
+crab,Animals,legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+crab,Animals,sea,1,14,S,S-LOC,S,S-LOC
+crocodile,Animals,animal,1,13,T,T-SUPER,T,T-ONT
+crocodile,Animals,carnivorous,1,5,E,E-SYS,E,E-SYS
+crocodile,Animals,dangerous,1,8,I,I-EVAL,E,E-SYS
+crocodile,Animals,green,1,14,E,E-EXSURF,E,E-EXSURF
+crocodile,Animals,reptile,1,8,T,T-SUPER,T,T-ONT
+crocodile,Animals,ugly,1,6,I,I-EVAL,I,I-EVAL
+crocodile,Animals,bags,1,9,S,S-ACTION,S,S-OBJECT
+crocodile,Animals,shoes,1,5,S,S-ACTION,S,S-OBJECT
+crocodile,Animals,teeth,1,7,E,E-INCOMP,E,E-EXCOMP
+crown,Accessories,brilliant,1,5,E,E-EXSURF,E,E-EXSURF
+crown,Accessories,king,1,8,S,S-PERSON,S,S-PERSON
+crown,Accessories,princess,1,7,S,S-PERSON,S,S-PERSON
+crown,Accessories,queen,1,19,S,S-PERSON,S,S-PERSON
+crown,Accessories,power,1,5,I,I-REP,S,S-SOCART
+crown,Accessories,flowers,1,9,E,E-EXCOMP,E,E-EXCOMP
+crown,Accessories,gold,1,7,E,E-MAT,E,E-MAT
+cup,Containers,coffee,1,7,S,S-OBJECT,S,S-FUNC
+cup,Containers,tea,1,8,S,S-OBJECT,S,S-OBJECT
+cup,Containers,utensil,1,5,T,T-SUPER,T,T-SUPER
+cup,Containers,ceramic,1,5,E,E-MAT,E,E-MAT
+cutting board,Utensils,chopping,1,8,S,S-FUNC,S,S-ACTION
+cutting board,Utensils,useful,1,5,I,I-EVAL,S,S-FUNC
+cutting board,Utensils,vegetables,1,5,S,S-LIVING,S,S-OBJECT
+cutting board,Utensils,wood,1,16,E,E-MAT,E,E-MAT
+cymbals,Musical instruments,sound,1,8,S,S-FUNC,E,E-EXSURF
+cymbals,Musical instruments,food,1,13,S,S-FUNC,S,S-OBJECT
+cymbals,Musical instruments,music,1,6,S,S-FUNC,S,S-EVENT
+cymbals,Musical instruments,drum set,2,5,E,E-WHOLE,E,E-WHOLE
+cymbals,Musical instruments,musical instrument,2,5,T,T-SUPER,T,T-SUPER
+cymbals,Musical instruments,metal,1,6,E,E-MAT,E,E-MAT
+dart,Toys,aim,1,10,E,E-ABSTR,S,S-FUNC
+dart,Toys,dangerous,1,6,I,I-EVAL,E,E-SYS
+dart,Toys,game,1,13,S,S-SOCART,S,S-EVENT
+dart,Toys,object,1,5,T,T-ONT,T,T-ONT
+dart,Toys,pokes,1,7,E,E-BEH,S,S-ACTION
+dart,Toys,target practice,2,13,T,T-SUBORD,S,S-EVENT
+dart,Toys,tip,1,10,E,E-EXCOMP,E,E-EXCOMP
+deer,Animals,animal,1,18,T,T-SUPER,T,T-ONT
+deer,Animals,brown,1,5,E,E-EXSURF,E,E-EXSURF
+deer,Animals,eaten,1,5,S,S-ACTION,S,S-ACTION
+deer,Animals,fast,1,11,E,E-SYS,E,E-SYS
+deer,Animals,nice,1,13,I,I-EVAL,I,I-EVAL
+deer,Animals,horns,1,19,E,E-EXCOMP,E,E-EXCOMP
+desk,Furniture,comfortable,1,5,I,I-EVAL,E,E-SYS
+desk,Furniture,storing,1,5,S,S-FUNC,S,S-FUNC
+desk,Furniture,studying,1,6,S,S-FUNC,S,S-FUNC
+desk,Furniture,working,1,9,S,S-FUNC,S,S-FUNC
+desk,Furniture,writing,1,11,S,S-FUNC,S,S-FUNC
+desk,Furniture,wood,1,10,E,E-MAT,E,E-MAT
+desk,Furniture,furniture,1,7,T,T-SUPER,T,T-SUPER
+desk,Furniture,support,1,6,S,S-FUNC,S,S-FUNC
+desk,Furniture,support,1,5,S,S-FUNC,S,S-FUNC
+dinosaur,Animals,ancient,1,7,S,S-TIME,E,E-SYS
+dinosaur,Animals,animal,1,12,T,T-SUPER,T,T-ONT
+dinosaur,Animals,big,1,14,E,E-QUANT,E,E-QUANT
+dinosaur,Animals,extinct,1,6,E,E-SYS,E,E-SYS
+dinosaur,Animals,prehistoric,1,9,S,S-TIME,E,E-SYS
+dog,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+dog,Animals,barks,1,5,E,E-BEH,E,E-BEH
+dog,Animals,bites,1,5,E,E-BEH,E,E-BEH
+dog,Animals,friend,1,15,I,I-EVAL,E,E-ABSTR
+dog,Animals,guardian,1,17,I,I-REP,E,E-BEH
+dog,Animals,loving,1,5,I,I-EVAL,E,E-BEH
+dog,Animals,loyal,1,11,I,I-EVAL,E,E-BEH
+dog,Animals,partner,1,10,I,I-REP,S,S-PERSON
+dog house,Constructions,animals,1,6,S,S-LIVING,S,S-LIVING
+dog house,Constructions,dog,1,22,S,S-LIVING,T,T-INDIV
+dog house,Constructions,house,1,13,T,T-SUPER,T,T-SUBORD
+dog house,Constructions,wood,1,9,E,E-MAT,E,E-MAT
+doll,Toys,childhood,1,9,S,S-TIME,S,S-EVENT
+doll,Toys,girls,1,10,S,S-PERSON,S,S-PERSON
+doll,Toys,nice,1,10,I,I-EVAL,I,I-EVAL
+doll,Toys,toy,1,12,T,T-SUPER,T,T-SYN
+doll,Toys,playing,1,7,S,S-FUNC,S,S-ACTION
+dolphin,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+dolphin,Animals,fish,1,6,T,T-SUPER,T,T-COORD
+dolphin,Animals,friendly,1,9,E,E-SYS,E,E-SYS
+dolphin,Animals,gray,1,5,E,E-EXSURF,E,E-EXSURF
+dolphin,Animals,intelligent,1,10,E,E-SYS,E,E-SYS
+dolphin,Animals,jumps,1,7,E,E-BEH,E,E-BEH
+dolphin,Animals,mammal,1,10,T,T-SUPER,T,T-ONT
+dolphin,Animals,nice,1,6,I,I-EVAL,E,E-SYS
+dolphin,Animals,sea,1,10,S,S-LOC,S,S-LOC
+dolphin,Animals,water,1,7,S,S-LOC,S,S-LOC
+donkey,Animals,animal,1,15,T,T-SUPER,T,T-ONT
+donkey,Animals,gray,1,7,E,E-EXSURF,E,E-EXSURF
+donkey,Animals,loads,1,8,S,S-ACTION,S,S-FUNC
+donkey,Animals,ears,1,14,E,E-EXCOMP,E,E-EXCOMP
+donkey,Animals,legs,1,11,E,E-EXCOMP,E,E-EXCOMP
+door,House parts,entry,1,8,S,S-FUNC,S,S-FUNC
+door,House parts,exit,1,7,S,S-FUNC,S,S-FUNC
+door,House parts,key,1,5,S,S-OBJECT,S,S-FUNC
+door,House parts,openable,1,6,S,S-ACTION,E,E-SYS
+door,House parts,safety,1,5,S,S-SOCART,S,S-FUNC
+door,House parts,divide,1,7,S,S-FUNC,S,S-FUNC
+door,House parts,glass,1,6,E,E-EXCOMP,E,E-MAT
+door,House parts,closed,1,7,S,S-ACTION,E,E-SYS
+door,House parts,handle,1,6,E,E-EXCOMP,E,E-EXCOMP
+door,House parts,aluminum,1,10,E,E-MAT,E,E-MAT
+door,House parts,wood,1,13,E,E-MAT,E,E-MAT
+door,House parts,house,1,5,S,S-LOC,E,E-WHOLE
+doorknob,House parts,door,1,9,T,T-SYN,E,E-WHOLE
+doorknob,House parts,doors,1,11,S,S-FUNC,E,E-WHOLE
+doorknob,House parts,metal,1,5,E,E-MAT,E,E-MAT
+doorknob,House parts,opening,1,5,S,S-FUNC,S,S-FUNC
+dragonfly,Animals,butterfly,1,8,S,S-OBJECT,T,T-COORD
+dragonfly,Animals,flies,1,10,E,E-BEH,E,E-BEH
+dragonfly,Animals,insect,1,16,T,T-SUPER,T,T-ONT
+dragonfly,Animals,wings,1,10,E,E-EXCOMP,E,E-EXCOMP
+dress,Clothing,clothing,1,15,T,T-SUPER,T,T-SYN
+dress,Clothing,elegant,1,7,I,I-EVAL,E,E-SYS
+dress,Clothing,long,1,10,E,E-QUANT,E,E-SYS
+dress,Clothing,women,1,12,S,S-PERSON,S,S-PERSON
+dress,Clothing,parties,1,9,S,S-EVENT,S,S-EVENT
+dress,Clothing,colors,1,7,E,E-EXSURF,E,E-EXSURF
+dress,Clothing,short,1,7,E,E-QUANT,E,E-QUANT
+dress,Clothing,fabric,1,9,E,E-MAT,E,E-MAT
+dresser,Furniture,storing,1,21,S,S-FUNC,S,S-FUNC
+dresser,Furniture,drawers,1,10,E,E-EXCOMP,E,E-EXCOMP
+dresser,Furniture,wood,1,14,E,E-MAT,E,E-MAT
+dresser,Furniture,furniture,1,19,T,T-SUPER,T,T-SUPER
+dresser,Furniture,bedroom,1,15,S,S-LOC,S,S-LOC
+drum,Musical instruments,noisy,1,7,E,E-SYS,E,E-SYS
+drum,Musical instruments,sound,1,7,S,S-FUNC,S,S-FUNC
+drum,Musical instruments,music,1,9,S,S-FUNC,S,S-FUNC
+drum,Musical instruments,sticks,1,5,S,S-OBJECT,E,E-EXCOMP
+drum,Musical instruments,musical instrument,2,6,T,T-SUPER,T,T-SYN
+duck,Animals,animal,1,6,T,T-SUPER,T,T-ONT
+duck,Animals,swims,1,6,E,E-BEH,E,E-BEH
+duck,Animals,noises,1,5,E,E-BEH,E,E-BEH
+eagle,Animals,animal,1,5,T,T-SUPER,T,T-ONT
+eagle,Animals,big,1,8,E,E-QUANT,E,E-SYS
+eagle,Animals,bird,1,8,T,T-SUPER,T,T-SYN
+eagle,Animals,flies,1,16,E,E-BEH,E,E-BEH
+eagle,Animals,hunts,1,5,E,E-BEH,E,E-BEH
+eagle,Animals,claws,1,9,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,feathers,1,5,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,wings,1,6,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,beak,1,5,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,mountain,1,7,S,S-LOC,S,S-LOC
+ear,Body parts,big,1,6,E,E-QUANT,E,E-SYS
+ear,Body parts,body,1,6,E,E-WHOLE,E,E-WHOLE
+ear,Body parts,ear,1,5,T,T-COORD,T,T-SYN
+ear,Body parts,earring,1,20,S,S-OBJECT,S,S-OBJECT
+ear,Body parts,small,1,6,E,E-QUANT,E,E-QUANT
+ear,Body parts,hearing,1,25,S,S-FUNC,S,S-FUNC
+eel,Animals,eaten,1,5,S,S-ACTION,S,S-ACTION
+eel,Animals,electrical,1,5,E,E-SYS,E,E-SYS
+eel,Animals,fish,1,11,T,T-SUPER,T,T-SYN
+eel,Animals,swims,1,5,E,E-BEH,E,E-BEH
+eel,Animals,sea,1,11,S,S-LOC,S,S-LOC
+eel,Animals,water,1,12,S,S-LOC,S,S-LOC
+elephant,Animals,animal,1,16,T,T-SUPER,T,T-ONT
+elephant,Animals,big,1,26,E,E-QUANT,E,E-SYS
+elephant,Animals,circus,1,8,S,S-LOC,S,S-EVENT
+elephant,Animals,gray,1,7,E,E-EXSURF,E,E-EXSURF
+elephant,Animals,heavy,1,8,E,E-SYS,E,E-SYS
+elephant,Animals,mammal,1,5,T,T-SUPER,T,T-ONT
+elephant,Animals,pachyderm,1,5,T,T-SUPER,T,T-SYN
+elephant,Animals,trunk,1,14,E,E-EXCOMP,E,E-EXCOMP
+envelope,Utensils,letter,1,17,S,S-OBJECT,S,S-SOCART
+envelope,Utensils,mail,1,6,S,S-LOC,S,S-OBJECT
+envelope,Utensils,white,1,8,E,E-EXSURF,E,E-EXSURF
+envelope,Utensils,news,1,7,S,S-FUNC,S,S-SOCART
+envelope,Utensils,papers,1,5,S,S-FUNC,S,S-OBJECT
+envelope,Utensils,paper,1,8,E,E-MAT,E,E-MAT
+envelope,Utensils,invitation,1,6,S,S-FUNC,S,S-OBJECT
+eye,Body parts,body,1,5,E,E-WHOLE,E,E-WHOLE
+eye,Body parts,necessary,1,7,I,I-EVAL,E,E-SYS
+eye,Body parts,nice,1,5,I,I-EVAL,I,I-EVAL
+eye,Body parts,sight,1,11,S,S-FUNC,S,S-FUNC
+eye,Body parts,see,1,9,S,S-FUNC,S,S-FUNC
+eye,Body parts,face,1,5,S,S-LOC,E,E-WHOLE
+fan,Accessories,ancient,1,7,S,S-TIME,E,E-SYS
+fan,Accessories,decorative,1,7,E,E-SYS,E,E-SYS
+fan,Accessories,heat,1,12,S,S-FUNC,S,S-PHYST
+fan,Accessories,gives air,2,8,S,S-FUNC,S,S-FUNC
+fan,Accessories,blowing air,2,12,S,S-FUNC,S,S-ACTION
+fan,Accessories,folded,1,5,S,S-ACTION,E,E-SYS
+fan,Accessories,fresh air,2,7,S,S-FUNC,S,S-FUNC
+fan,Accessories,fabric,1,5,E,E-MAT,E,E-MAT
+faucet,House Parts,cleanliness,1,5,S,S-SOCART,S,S-FUNC
+faucet,House Parts,leaks,1,6,E,E-BEH,E,E-BEH
+faucet,House Parts,water,1,24,E,E-SYS,S,S-FUNC
+faucet,House Parts,metal,1,6,E,E-MAT,E,E-MAT
+faucet,House Parts,bathroom,1,8,S,S-LOC,S,S-LOC
+faucet,House Parts,kitchen,1,6,S,S-LOC,S,S-LOC
+feather,Body parts,duster,1,8,E,E-WHOLE,S,S-OBJECT
+feather,Body parts,flies,1,5,E,E-BEH,E,E-BEH
+feather,Body parts,pillow,1,5,S,S-OBJECT,S,S-OBJECT
+feather,Body parts,writing,1,9,S,S-FUNC,S,S-FUNC
+feather,Body parts,colors,1,7,E,E-EXSURF,E,E-EXSURF
+feather,Body parts,birds,1,30,E,E-WHOLE,S,S-LIVING
+fence,Constructions,decorative,1,6,E,E-SYS,E,E-SYS
+fence,Constructions,protecting,1,6,S,S-FUNC,S,S-FUNC
+fence,Constructions,wire,1,6,E,E-MAT,E,E-MAT
+fence,Constructions,boundaries,1,12,S,S-FUNC,S,S-FUNC
+fence,Constructions,wood,1,16,E,E-MAT,E,E-MAT
+fence,Constructions,field,1,5,S,S-LOC,S,S-LOC
+fence,Constructions,garden,1,6,S,S-LOC,S,S-LOC
+fence,Constructions,divide,1,10,S,S-FUNC,S,S-FUNC
+fern,Plants,bouquet,1,5,E,E-WHOLE,S,S-OBJECT
+fern,Plants,decorates,1,8,S,S-FUNC,S,S-ACTION
+fern,Plants,green,1,11,E,E-EXSURF,E,E-EXSURF
+fern,Plants,nice,1,5,I,I-EVAL,I,I-EVAL
+fern,Plants,plant,1,21,T,T-SUPER,T,T-SYN
+ferris wheel,Toys,travel,1,5,T,T-SYN,S,S-EVENT
+ferris wheel,Toys,amusement park,2,7,S,S-BUILD,S,S-LOC
+finger,Body parts,body,1,7,E,E-WHOLE,E,E-WHOLE
+finger,Body parts,foot,1,6,E,E-WHOLE,T,T-COORD
+finger,Body parts,ring,1,8,S,S-OBJECT,S,S-OBJECT
+finger,Body parts,pointing,1,5,S,S-FUNC,S,S-ACTION
+finger,Body parts,nail,1,10,E,E-EXCOMP,E,E-EXCOMP
+finger,Body parts,hand,1,18,S,S-LOC,E,E-WHOLE
+fire hydrant,Containers,manual,1,5,T,T-SUBORD,S,S-SOCART
+fire hydrant,Containers,watering,1,6,S,S-FUNC,S,S-FUNC
+fire hydrant,Containers,water,1,8,S,S-FUNC,S,S-PROD
+fire hydrant,Containers,water,1,9,S,S-OBJECT,S,S-PROD
+fire hydrant,Containers,electric stove,2,5,T,T-SUBORD,I,I-NEG
+fire hydrant,Containers,field,1,7,S,S-LOC,S,S-LOC
+fireplace,Constructions,fire,1,13,S,S-OBJECT,S,S-OBJECT
+fireplace,Constructions,firewood,1,9,S,S-OBJECT,S,S-OBJECT
+fireplace,Constructions,home,1,11,T,T-SYN,S,S-LOC
+fireplace,Constructions,smoke,1,16,E,E-BEH,S,S-PHYST
+fireplace,Constructions,heating up,2,16,S,S-FUNC,S,S-FUNC
+fireplace,Constructions,bricks,1,5,E,E-MAT,E,E-MAT
+fish,Animals,animal,1,6,T,T-SUPER,T,T-ONT
+fish,Animals,eaten,1,11,S,S-ACTION,S,S-ACTION
+fish,Animals,foodstuff,1,5,T,T-SUPER,S,S-FUNC
+fish,Animals,swims,1,11,E,E-BEH,E,E-BEH
+fish,Animals,scales,1,6,E,E-EXCOMP,E,E-EXCOMP
+fish,Animals,sea,1,6,S,S-LOC,S,S-LOC
+fish,Animals,water,1,12,S,S-LOC,S,S-LOC
+fishbowl,Containers,water,1,19,E,E-INSURF,E,E-INCOMP
+fishbowl,Containers,plants,1,5,S,S-LIVING,S,S-LIVING
+fishbowl,Containers,fishes inside,2,22,S,S-LIVING,S,S-LIVING
+fishbowl,Containers,little stones,2,6,S,S-OBJECT,E,E-INCOMP
+fishbowl,Containers,glass,1,7,E,E-MAT,E,E-MAT
+fishhook,Tools,bait,1,8,S,S-LIVING,S,S-OBJECT
+fishhook,Tools,dangerous,1,5,I,I-EVAL,E,E-SYS
+fishhook,Tools,fish,1,24,S,S-LIVING,S,S-FUNC
+fishhook,Tools,fisherman,1,5,S,S-PERSON,S,S-PERSON
+fishhook,Tools,river,1,5,S,S-LOC,S,S-LOC
+fishhook,Tools,sea,1,8,S,S-LOC,S,S-LOC
+fishhook,Tools,fishing,1,24,S,S-FUNC,S,S-ACTION
+fishhook,Tools,fishing rod,2,14,S,S-OBJECT,S,S-OBJECT
+fishing rod,Tools,fish,1,6,S,S-LIVING,S,S-LIVING
+fishing rod,Tools,fishing,1,13,S,S-FUNC,S,S-FUNC
+fishing rod,Tools,fishing rod,2,6,E,E-WHOLE,T,T-SYN
+fishing rod,Tools,fishing line,2,7,E,E-EXCOMP,E,E-EXCOMP
+fishtail,Body parts,fish,1,6,E,E-WHOLE,E,E-WHOLE
+fishtail,Body parts,sea,1,5,S,S-LOC,S,S-LOC
+fishtail,Body parts,propelling,1,5,S,S-FUNC,S,S-ACTION
+fishtail,Body parts,swimming,1,11,S,S-FUNC,E,E-BEH
+fishtail,Body parts,scales,1,6,E,E-EXCOMP,E,E-EXCOMP
+fishtail,Body parts,helmet,1,6,S,S-FUNC,E,E-WHOLE
+fishtail,Body parts,animal,1,5,E,E-WHOLE,T,T-ONT
+flag,Objects,flutters,1,8,E,E-BEH,E,E-BEH
+flag,Objects,homeland,1,9,I,I-REP,I,I-REP
+flag,Objects,symbol,1,7,T,T-SUPER,S,S-SOCART
+flag,Objects,representing,1,5,S,S-FUNC,S,S-FUNC
+flag,Objects,colors,1,8,E,E-EXSURF,E,E-EXSURF
+flag,Objects,patriotic symbol,2,5,E,E-ABSTR,S,S-SOCART
+flag,Objects,fabric,1,8,E,E-MAT,E,E-MAT
+flag,Objects,school,1,5,S,S-BUILD,S,S-SOCORG
+flag,Objects,mast,1,5,S,S-LOC,E,E-WHOLE
+flag,Objects,light blue and white,4,6,E,E-EXSURF,E,E-EXSURF
+flamingo,Animals,bird,1,14,T,T-SUPER,T,T-ONT
+flamingo,Animals,colorful,1,6,E,E-EXSURF,E,E-EXSURF
+flamingo,Animals,pink,1,15,T,T-SUPER,E,E-EXSURF
+flamingo,Animals,water,1,15,S,S-LOC,S,S-LOC
+flamingo,Animals,legs,1,5,E,E-BEH,E,E-EXCOMP
+flashlight,Tools,tool,1,5,T,T-SUPER,T,T-SYN
+flashlight,Tools,useful,1,7,I,I-EVAL,I,I-EVAL
+flashlight,Tools,batteries,1,16,E,E-INCOMP,E,E-INCOMP
+flashlight,Tools,light,1,14,E,E-BEH,S,S-FUNC
+flashlight,Tools,lighting up,2,20,S,S-FUNC,S,S-ACTION
+flashlight,Tools,metal,1,6,E,E-MAT,E,E-MAT
+flashlight,Tools,plastic,1,8,E,E-MAT,E,E-MAT
+flower,Plants,nice,1,9,I,I-EVAL,I,I-EVAL
+flower,Plants,pink,1,8,E,E-EXSURF,E,E-EXSURF
+flower,Plants,present,1,7,S,S-ACTION,S,S-PROD
+flower,Plants,spring,1,8,S,S-TIME,S,S-TIME
+flower,Plants,decorating,1,7,S,S-FUNC,S,S-FUNC
+flower,Plants,colors,1,11,E,E-EXSURF,E,E-EXSURF
+flower,Plants,perfume,1,22,E,E-EXSURF,E,E-EXSURF
+flower,Plants,petals,1,7,E,E-EXCOMP,E,E-EXCOMP
+flower,Plants,garden,1,8,S,S-LOC,S,S-LOC
+flute,Musical instruments,blown,1,6,S,S-ACTION,S,S-ACTION
+flute,Musical instruments,music,1,17,S,S-FUNC,S,S-FUNC
+flute,Musical instruments,orchestra,1,6,E,E-WHOLE,S,S-SOCORG
+flute,Musical instruments,school,1,5,S,S-LOC,S,S-LOC
+flute,Musical instruments,sound,1,11,S,S-FUNC,E,E-SYS
+flute,Musical instruments,musical instrument,2,16,T,T-SUPER,T,T-SUPER
+flute,Musical instruments,sweet flute,2,7,T,T-SUBORD,I,I-EVAL
+flute,Musical instruments,wind musical intrument,3,6,T,T-SUPER,T,T-SUPER
+fly,Animals,annoying,1,16,I,I-EVAL,I,I-EMOT
+fly,Animals,dirty,1,9,I,I-EVAL,E,E-SYS
+fly,Animals,disgusting,1,9,I,I-EVAL,I,I-EVAL
+fly,Animals,flies,1,8,E,E-BEH,E,E-BEH
+fly,Animals,insect,1,12,T,T-SUPER,T,T-SUPER
+fly,Animals,ugly,1,7,I,I-EVAL,I,I-EVAL
+fly,Animals,wings,1,6,E,E-EXCOMP,E,E-EXCOMP
+foot,Body parts,body,1,10,E,E-WHOLE,E,E-WHOLE
+foot,Body parts,shoe,1,8,S,S-OBJECT,S,S-OBJECT
+foot,Body parts,walking,1,20,S,S-FUNC,S,S-ACTION
+foot,Body parts,fingers,1,10,E,E-EXCOMP,E,E-EXCOMP
+foot,Body parts,nails,1,6,E,E-EXCOMP,E,E-EXCOMP
+foot,Body parts,support,1,7,S,S-FUNC,S,S-FUNC
+foot,Body parts,body,1,5,S,S-FUNC,E,E-WHOLE
+fork,Utensils,food,1,5,S,S-OBJECT,S,S-FUNC
+fork,Utensils,eating,1,20,S,S-FUNC,S,S-FUNC
+fork,Utensils,useful,1,9,I,I-EVAL,I,I-EVAL
+fork,Utensils,utensil,1,13,T,T-SUPER,T,T-SUPER
+fork,Utensils,teeth,1,6,E,E-INCOMP,E,E-EXCOMP
+fork,Utensils,metal,1,6,E,E-MAT,E,E-MAT
+fork,Utensils,kitchen,1,8,S,S-LOC,S,S-LOC
+fox,Animals,animal,1,20,T,T-SUPER,T,T-ONT
+fox,Animals,clever,1,10,E,E-SYS,E,E-SYS
+fox,Animals,mammal,1,10,T,T-SUPER,T,T-ONT
+fox,Animals,quadruped,1,8,T,T-SUPER,E,E-SYS
+fox,Animals,wild,1,10,E,E-SYS,E,E-SYS
+fox,Animals,legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+fox,Animals,clothing,1,5,S,S-ACTION,S,S-FUNC
+fox,Animals,tail,1,7,E,E-EXCOMP,E,E-EXCOMP
+fox,Animals,fur,1,8,S,S-ACTION,E,E-EXCOMP
+fox,Animals,countryside,1,5,S,S-LOC,S,S-LOC
+franch horn,Musical instruments,big,1,5,E,E-QUANT,E,E-QUANT
+franch horn,Musical instruments,golden,1,5,E,E-EXSURF,E,E-EXSURF
+franch horn,Musical instruments,orchestra,1,11,E,E-WHOLE,S,S-SOCORG
+franch horn,Musical instruments,sound,1,5,S,S-FUNC,S,S-EVENT
+franch horn,Musical instruments,music,1,13,S,S-FUNC,S,S-FUNC
+franch horn,Musical instruments,musical instrument,2,28,T,T-SUPER,T,T-SUPER
+franch horn,Musical instruments,metal,1,7,E,E-MAT,E,E-MAT
+franch horn,Musical instruments,wind musical intrument,3,7,T,T-SUPER,T,T-SUPER
+frying pan,Utensils,kitchen,1,8,S,S-LOC,S,S-LOC
+frying pan,Utensils,oil,1,7,S,S-OBJECT,S,S-OBJECT
+frying pan,Utensils,teflon,1,6,E,E-MAT,E,E-MAT
+frying pan,Utensils,cooking,1,10,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,frying,1,6,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,pancakes,1,6,S,S-FUNC,S,S-OBJECT
+frying pan,Utensils,food,1,9,S,S-FUNC,S,S-OBJECT
+frying pan,Utensils,grip,1,10,E,E-EXCOMP,E,E-EXCOMP
+frying pan,Utensils,cooking,1,10,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,breaded meat,2,5,S,S-FUNC,S,S-OBJECT
+frying pan,Utensils,fried food,2,5,S,S-FUNC,S,S-FUNC
+funnel,Utensils,bottle,1,5,S,S-OBJECT,S,S-OBJECT
+funnel,Utensils,transfer,1,12,S,S-FUNC,S,S-FUNC
+funnel,Utensils,transfer,1,5,S,S-FUNC,S,S-FUNC
+funnel,Utensils,useful,1,11,I,I-EVAL,I,I-EVAL
+funnel,Utensils,utensil,1,9,T,T-SUPER,T,T-SYN
+funnel,Utensils,metal,1,10,E,E-MAT,E,E-MAT
+funnel,Utensils,plastic,1,18,E,E-MAT,E,E-MAT
+funnel,Utensils,kitchen,1,10,S,S-LOC,S,S-LOC
+garbage can,Containers,throw,1,24,S,S-FUNC,S,S-ACTION
+garbage can,Containers,useful,1,5,I,I-EVAL,I,I-EVAL
+garbage can,Containers,plastic,1,5,E,E-MAT,E,E-MAT
+giraffe,Animals,animal,1,21,T,T-SUPER,T,T-ONT
+giraffe,Animals,herbivore,1,5,T,T-SUPER,E,E-BEH
+giraffe,Animals,mammal,1,5,T,T-SUPER,T,T-ONT
+giraffe,Animals,tall,1,12,E,E-QUANT,E,E-SYS
+giraffe,Animals,spots,1,9,E,E-EXSURF,E,E-EXSURF
+giraffe,Animals,jungle,1,11,S,S-LOC,S,S-LOC
+giraffe,Animals,zoo,1,8,S,S-LOC,S,S-LOC
+glass,Utensils,container,1,8,T,T-SUPER,S,S-FUNC
+glass,Utensils,drinking,1,13,S,S-FUNC,S,S-FUNC
+glass,Utensils,water,1,9,S,S-OBJECT,S,S-OBJECT
+glass,Utensils,wine,1,6,S,S-FUNC,S,S-FUNC
+glass,Utensils,glass,1,15,E,E-MAT,T,T-SYN
+glass,Utensils,plastic,1,9,E,E-MAT,E,E-MAT
+glasses,Accessories,sunglasses,1,19,T,T-SUBORD,T,T-SYN
+glasses,Accessories,reading,1,10,S,S-FUNC,S,S-FUNC
+glasses,Accessories,see,1,16,S,S-FUNC,S,S-FUNC
+glasses,Accessories,contact glasses,2,5,T,T-SUBORD,T,T-COORD
+glasses,Accessories,glass,1,5,E,E-EXCOMP,E,E-MAT
+glasses,Accessories,seeing,1,9,S,S-FUNC,S,S-FUNC
+glasses,Accessories,seeing,1,6,S,S-FUNC,S,S-FUNC
+globe,Objects,geography,1,6,S,S-SOCART,S,S-FUNC
+globe,Objects,round,1,9,E,E-EXSURF,E,E-EXSURF
+globe,Objects,world,1,10,I,I-REP,T,T-SYN
+globe,Objects,colors,1,7,E,E-EXSURF,E,E-EXSURF
+globe,Objects,countries,1,10,S,S-FUNC,E,E-EXCOMP
+glove,Clothing,warm,1,8,S,S-FUNC,E,E-SYS
+glove,Clothing,rubber,1,6,E,E-MAT,E,E-MAT
+glove,Clothing,wool,1,9,E,E-MAT,E,E-MAT
+glove,Clothing,covering,1,7,S,S-FUNC,S,S-FUNC
+glove,Clothing,cold,1,11,S,S-FUNC,S,S-PHYST
+goat,Animals,animal,1,17,T,T-SUPER,T,T-ONT
+goat,Animals,cheese,1,11,S,S-OBJECT,S,S-PROD
+goat,Animals,eaten,1,5,S,S-ACTION,S,S-ACTION
+goat,Animals,mammal,1,5,T,T-SUPER,T,T-ONT
+goat,Animals,milk,1,24,E,E-BEH,E,E-EXCOMP
+goat,Animals,hair,1,6,E,E-EXCOMP,E,E-EXCOMP
+goat,Animals,horns,1,8,E,E-EXCOMP,E,E-EXCOMP
+goat,Animals,legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+goat,Animals,wool,1,5,E,E-EXCOMP,E,E-MAT
+goat,Animals,countryside,1,7,S,S-LOC,S,S-LOC
+goat,Animals,hill,1,5,S,S-LOC,S,S-LOC
+goggles,Accessories,colorful,1,5,E,E-EXSURF,E,E-EXSURF
+goggles,Accessories,protecting,1,25,S,S-FUNC,S,S-FUNC
+goggles,Accessories,swimming,1,10,S,S-FUNC,S,S-FUNC
+goggles,Accessories,welding,1,7,S,S-FUNC,S,S-FUNC
+goggles,Accessories,water,1,8,E,E-INCOMP,S,S-LOC
+goggles,Accessories,plastic,1,7,E,E-MAT,E,E-MAT
+goggles,Accessories,rubber,1,5,E,E-MAT,E,E-MAT
+gorilla,Animals,animal,1,12,T,T-SUPER,T,T-ONT
+gorilla,Animals,big,1,16,E,E-QUANT,E,E-SYS
+gorilla,Animals,dangerous,1,8,I,I-EVAL,E,E-SYS
+gorilla,Animals,eats,1,5,E,E-BEH,E,E-BEH
+gorilla,Animals,hair,1,10,E,E-EXCOMP,E,E-EXCOMP
+gorilla,Animals,monkey,1,12,T,T-COORD,T,T-COORD
+gorilla,Animals,jungle,1,14,S,S-LOC,S,S-LOC
+grapes,Fruits,black,1,6,T,T-SUBORD,E,E-EXSURF
+grapes,Fruits,eaten,1,6,S,S-ACTION,S,S-ACTION
+grapes,Fruits,fruit,1,15,T,T-SUPER,T,T-SUPER
+grapes,Fruits,green,1,8,T,T-SUBORD,E,E-EXSURF
+grapes,Fruits,sweet,1,7,E,E-INSURF,E,E-INSURF
+grapes,Fruits,wine,1,21,S,S-ACTION,S,S-OBJECT
+grapes,Fruits,vineyard,1,5,E,E-WHOLE,E,E-WHOLE
+grapes,Fruits,white,1,5,T,T-SUBORD,E,E-EXSURF
+grapes,Fruits,good,1,8,I,I-EVAL,I,I-EVAL
+grasshopper,Animals,animal,1,5,T,T-SUPER,T,T-SUPER
+grasshopper,Animals,green,1,9,E,E-EXSURF,E,E-EXSURF
+grasshopper,Animals,insect,1,11,T,T-SUPER,T,T-SYN
+grasshopper,Animals,jumps,1,5,E,E-BEH,E,E-BEH
+grasshopper,Animals,plague,1,14,T,T-SUPER,S,S-EVENT
+grasshopper,Animals,ugly,1,5,I,I-EVAL,I,I-EVAL
+grasshopper,Animals,harm,1,6,I,I-EVAL,S,S-FUNC
+grasshopper,Animals,eats,1,16,S,S-ACTION,E,E-BEH
+grill,Constructions,barbecue,1,21,S,S-EVENT,S,S-FUNC
+grill,Constructions,family,1,6,S,S-SOCORG,S,S-SOCORG
+grill,Constructions,food,1,6,S,S-OBJECT,S,S-FUNC
+grill,Constructions,meat,1,5,S,S-OBJECT,S,S-FUNC
+grill,Constructions,meeting,1,5,S,S-EVENT,S,S-EVENT
+grill,Constructions,sausages,1,8,S,S-OBJECT,S,S-FUNC
+grill,Constructions,cooking,1,6,S,S-FUNC,S,S-FUNC
+grill,Constructions,iron,1,7,E,E-MAT,E,E-MAT
+guitar,Musical instruments,nice,1,6,I,I-EVAL,I,I-EVAL
+guitar,Musical instruments,music,1,16,S,S-FUNC,S,S-FUNC
+guitar,Musical instruments,electric stove,2,5,T,T-SUBORD,S,S-OBJECT
+guitar,Musical instruments,strings,1,20,E,E-EXCOMP,E,E-EXCOMP
+guitar,Musical instruments,musical instrument,2,13,T,T-SUPER,T,T-SUPER
+guitar,Musical instruments,wood,1,9,E,E-MAT,E,E-MAT
+gun,Weapons,caliber,1,5,T,T-SUBORD,E,E-EXCOMP
+gun,Weapons,dangerous,1,10,I,I-EVAL,E,E-SYS
+gun,Weapons,fear,1,8,I,I-EVAL,I,I-EMOT
+gun,Weapons,killing,1,13,S,S-FUNC,S,S-FUNC
+gun,Weapons,stealing,1,6,S,S-FUNC,S,S-ACTION
+gun,Weapons,weapon,1,18,T,T-SUPER,T,T-SYN
+gun,Weapons,bullets,1,15,E,E-INCOMP,E,E-INCOMP
+gun,Weapons,fire,1,6,T,T-SUPER,S,S-ACTION
+gun,Weapons,defense,1,7,S,S-FUNC,S,S-FUNC
+hair,Body parts,blond,1,6,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,brown,1,5,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,brunet,1,5,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,curly,1,8,E,E-EXSURF,E,E-SYS
+hair,Body parts,hair,1,5,T,T-SYN,T,T-SYN
+hair,Body parts,long,1,16,E,E-QUANT,E,E-QUANT
+hair,Body parts,soft,1,5,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,straight,1,10,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,colors,1,7,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,short,1,12,E,E-QUANT,E,E-SYS
+hamburger,Food,food,1,15,T,T-SUPER,T,T-SUPER
+hamburger,Food,tomatoe,1,5,S,S-LIVING,E,E-INCOMP
+hamburger,Food,fast food,2,7,S,S-OBJECT,T,T-SUPER
+hamburger,Food,good,1,11,I,I-EVAL,I,I-EVAL
+hamburger,Food,chicken,1,7,T,T-SUPER,T,T-COORD
+hamburger,Food,meat,1,16,T,T-SUPER,E,E-MAT
+hammer,Tools,carpenter,1,8,S,S-PERSON,S,S-PERSON
+hammer,Tools,heavy,1,9,E,E-SYS,E,E-SYS
+hammer,Tools,nails,1,17,S,S-OBJECT,S,S-OBJECT
+hammer,Tools,noisy,1,5,E,E-SYS,E,E-SYS
+hammer,Tools,tool,1,14,T,T-SUPER,T,T-SYN
+hammer,Tools,hitting,1,13,S,S-FUNC,S,S-ACTION
+hammer,Tools,nailing,1,9,S,S-FUNC,S,S-FUNC
+hammer,Tools,grip,1,7,E,E-EXCOMP,E,E-EXCOMP
+hammer,Tools,metal,1,5,E,E-MAT,E,E-MAT
+hammer,Tools,wood,1,9,E,E-MAT,S,S-OBJECT
+hammock,Objects,outdoors,1,5,E,E-MAT,S,S-LOC
+hammock,Objects,relaxing,1,16,I,I-EVAL,S,S-FUNC
+hammock,Objects,resting,1,14,S,S-FUNC,S,S-ACTION
+hammock,Objects,rocking,1,7,S,S-FUNC,S,S-FUNC
+hammock,Objects,sleeping,1,7,S,S-FUNC,S,S-FUNC
+hammock,Objects,fabric,1,6,E,E-MAT,E,E-MAT
+hammock,Objects,park,1,6,S,S-LOC,S,S-LOC
+hammock,Objects,trees,1,8,S,S-ACTION,S,S-OBJECT
+hand,Body parts,big,1,7,E,E-QUANT,E,E-QUANT
+hand,Body parts,small,1,6,E,E-QUANT,E,E-QUANT
+hand,Body parts,strong,1,6,E,E-SYS,E,E-SYS
+hand,Body parts,caressing,1,6,S,S-FUNC,S,S-ACTION
+hand,Body parts,writing,1,5,S,S-FUNC,S,S-ACTION
+hand,Body parts,white,1,6,E,E-EXSURF,E,E-EXSURF
+hand,Body parts,fingers,1,11,E,E-EXCOMP,E,E-EXCOMP
+hand,Body parts,nails,1,8,E,E-EXCOMP,E,E-EXCOMP
+handbag,Accessories,accessory,1,12,T,T-SUPER,T,T-SUBORD
+handbag,Accessories,storing,1,5,S,S-FUNC,S,S-FUNC
+handbag,Accessories,useful,1,6,I,I-EVAL,I,I-EVAL
+handbag,Accessories,women,1,14,S,S-PERSON,S,S-PERSON
+handbag,Accessories,leather,1,17,E,E-MAT,E,E-MAT
+hanger,Accessories,clothes,1,8,S,S-OBJECT,S,S-OBJECT
+hanger,Accessories,hanging,1,25,S,S-FUNC,S,S-FUNC
+hanger,Accessories,wardrobes,1,8,S,S-LOC,S,S-OBJECT
+hanger,Accessories,metal,1,6,E,E-MAT,E,E-MAT
+hanger,Accessories,plastic,1,12,E,E-MAT,E,E-MAT
+hanger,Accessories,wood,1,19,E,E-MAT,E,E-MAT
+harmonica,Musical instruments,music,1,13,S,S-FUNC,S,S-OBJECT
+harmonica,Musical instruments,sound,1,5,S,S-FUNC,E,E-SYS
+harmonica,Musical instruments,musical instrument,2,20,T,T-SUPER,T,T-SUPER
+harmonica,Musical instruments,metal,1,7,E,E-MAT,E,E-MAT
+harmonica,Musical instruments,wind musical intrument,3,12,T,T-SUPER,T,T-SUPER
+harp,Musical instruments,nice,1,10,I,I-EVAL,I,I-EVAL
+harp,Musical instruments,sound,1,12,S,S-FUNC,S,S-FUNC
+harp,Musical instruments,music,1,14,S,S-FUNC,S,S-OBJECT
+harp,Musical instruments,strings,1,14,E,E-EXCOMP,E,E-EXCOMP
+harp,Musical instruments,musical instrument,2,19,T,T-SUPER,T,T-SUPER
+hat,Clothing,clothing,1,6,T,T-SUPER,T,T-SUPER
+hat,Clothing,elegant,1,7,I,I-EVAL,E,E-SYS
+hat,Clothing,protecting,1,12,S,S-FUNC,S,S-FUNC
+hat,Clothing,shapes,1,6,E,E-EXSURF,E,E-SYS
+hazelnut,Fruits,brown,1,5,E,E-EXSURF,E,E-EXSURF
+hazelnut,Fruits,eaten,1,6,S,S-ACTION,S,S-ACTION
+hazelnut,Fruits,foodstuff,1,5,T,T-SUPER,T,T-SUPER
+hazelnut,Fruits,dried fruit,2,7,T,T-SUPER,T,T-SUPER
+hazelnut,Fruits,good,1,12,I,I-EVAL,I,I-EVAL
+hazelnut,Fruits,fruit,1,18,T,T-SUPER,T,T-SUPER
+headphones,Accessories,listening,1,25,S,S-FUNC,S,S-FUNC
+headphones,Accessories,listening,1,22,S,S-FUNC,S,S-FUNC
+headphones,Accessories,listening,1,5,S,S-FUNC,S,S-FUNC
+headphones,Accessories,ears,1,10,S,S-LOC,E,E-WHOLE
+heart,Body parts,beats,1,14,E,E-BEH,E,E-BEH
+heart,Body parts,organ,1,8,T,T-SUPER,T,T-SUPER
+heart,Body parts,red,1,8,E,E-EXSURF,E,E-EXSURF
+heart,Body parts,stroke,1,5,S,S-SOCART,S,S-EVENT
+heart,Body parts,love,1,13,S,S-SOCART,I,I-EMOT
+heart,Body parts,essential,1,12,E,E-SYS,E,E-SYS
+helicopter,Vehicles,flying,1,15,S,S-FUNC,E,E-BEH
+helicopter,Vehicles,rescuing,1,5,S,S-FUNC,S,S-FUNC
+helicopter,Vehicles,airscrews,1,16,E,E-EXCOMP,E,E-EXCOMP
+helicopter,Vehicles,transportation,1,11,T,T-SUPER,S,S-FUNC
+helmet,Accessories,bicycle,1,8,S,S-OBJECT,S,S-OBJECT
+helmet,Accessories,motorbike,1,20,S,S-OBJECT,S,S-FUNC
+helmet,Accessories,soldier,1,8,S,S-PERSON,S,S-PERSON
+helmet,Accessories,protecting,1,16,S,S-FUNC,S,S-FUNC
+helmet,Accessories,plastic,1,5,E,E-MAT,E,E-MAT
+hippopotamus,Animals,animal,1,17,T,T-SUPER,T,T-ONT
+hippopotamus,Animals,aquatic,1,8,E,E-SYS,E,E-SYS
+hippopotamus,Animals,big,1,17,E,E-QUANT,E,E-QUANT
+hippopotamus,Animals,dangerous,1,7,I,I-EVAL,I,I-EVAL
+hippopotamus,Animals,heavy,1,5,E,E-SYS,E,E-SYS
+hippopotamus,Animals,mammal,1,5,T,T-SUPER,T,T-ONT
+hippopotamus,Animals,water,1,7,S,S-LOC,S,S-LOC
+hoe,Tools,earth,1,16,S,S-OBJECT,S,S-FUNC
+hoe,Tools,garden,1,9,S,S-LOC,S,S-LOC
+hoe,Tools,grass,1,7,S,S-LIVING,S,S-OBJECT
+hoe,Tools,tool,1,7,T,T-SUPER,T,T-SYN
+hoe,Tools,cutting,1,5,S,S-FUNC,S,S-FUNC
+hoe,Tools,work,1,10,E,E-SYS,S,S-FUNC
+hoe,Tools,field,1,8,S,S-LOC,S,S-LOC
+hoe,Tools,country house,2,5,S,S-LOC,S,S-BUILD
+horse,Animals,animal,1,11,T,T-SUPER,T,T-ONT
+horse,Animals,neighs,1,7,E,E-BEH,E,E-BEH
+horse,Animals,race,1,5,S,S-FUNC,S,S-EVENT
+horse,Animals,ridden,1,6,S,S-ACTION,E,E-BEH
+horse,Animals,runs,1,5,E,E-BEH,E,E-BEH
+horse,Animals,strong,1,6,E,E-SYS,E,E-SYS
+horse,Animals,legs,1,10,E,E-EXCOMP,E,E-EXCOMP
+horse,Animals,horseback ride,2,7,S,S-EVENT,S,S-EVENT
+horse,Animals,rural tasks,2,6,S,S-ACTION,S,S-FUNC
+horse,Animals,countryside,1,5,S,S-LOC,S,S-LOC
+horseshoe,Objects,horses,1,25,S,S-FUNC,S,S-LIVING
+horseshoe,Objects,protecting,1,9,S,S-FUNC,S,S-FUNC
+horseshoe,Objects,nails,1,5,S,S-ACTION,E,E-EXCOMP
+horseshoe,Objects,good luck,2,7,I,I-EVAL,I,I-REP
+horseshoe,Objects,iron,1,11,E,E-MAT,E,E-MAT
+horseshoe,Objects,metal,1,6,E,E-MAT,E,E-MAT
+house,Constructions,big,1,9,E,E-QUANT,E,E-QUANT
+house,Constructions,family,1,11,S,S-SOCORG,S,S-SOCORG
+house,Constructions,home,1,15,T,T-SYN,T,T-SYN
+house,Constructions,refuge,1,5,T,T-ONT,S,S-FUNC
+house,Constructions,materials,1,5,E,E-MAT,E,E-MAT
+house,Constructions,bricks,1,5,E,E-MAT,E,E-MAT
+house,Constructions,place,1,6,S,S-FUNC,S,S-LOC
+hyena,Animals,animal,1,19,T,T-SUPER,T,T-ONT
+hyena,Animals,evil,1,8,I,I-EVAL,I,I-EVAL
+hyena,Animals,laughs,1,12,E,E-BEH,E,E-BEH
+hyena,Animals,ugly,1,8,I,I-EVAL,I,I-EVAL
+hyena,Animals,wild,1,9,E,E-SYS,E,E-SYS
+igloo,Constructions,cold,1,18,E,E-SYS,E,E-SYS
+igloo,Constructions,house,1,12,T,T-SUPER,T,T-SYN
+igloo,Constructions,snow,1,10,S,S-OBJECT,E,E-MAT
+igloo,Constructions,ice,1,20,E,E-MAT,E,E-MAT
+iron,Devices,clothes,1,9,S,S-OBJECT,S,S-OBJECT
+iron,Devices,device,1,8,T,T-SUPER,T,T-SUPER
+iron,Devices,electrical,1,11,E,E-SYS,E,E-SYS
+iron,Devices,hot,1,10,E,E-EXSURF,E,E-SYS
+iron,Devices,ironing,1,6,S,S-FUNC,S,S-FUNC
+iron,Devices,electrical appliance,2,6,T,T-SUPER,T,T-SUPER
+iron,Devices,steam iron,2,9,E,E-SYS,T,T-SUBORD
+iron,Devices,smoothing clothes,2,5,S,S-FUNC,S,S-FUNC
+iron,Devices,house,1,7,S,S-LOC,S,S-BUILD
+ironing board,Utensils,clothes,1,11,S,S-OBJECT,S,S-OBJECT
+ironing board,Utensils,iron,1,7,S,S-OBJECT,S,S-OBJECT
+ironing board,Utensils,ironing,1,19,S,S-FUNC,S,S-FUNC
+ironing board,Utensils,useful,1,6,I,I-EVAL,I,I-EVAL
+ironing board,Utensils,wood,1,10,E,E-MAT,E,E-MAT
+jaket,Clothing,warm,1,10,S,S-FUNC,E,E-SYS
+jaket,Clothing,protecting,1,6,S,S-FUNC,S,S-FUNC
+jaket,Clothing,winter,1,5,S,S-TIME,S,S-TIME
+jaket,Clothing,warm clothing,2,8,T,T-SUPER,T,T-SYN
+jaket,Clothing,zip,1,5,E,E-EXCOMP,E,E-EXCOMP
+jaket,Clothing,fabric,1,5,E,E-MAT,E,E-MAT
+jaket,Clothing,leather,1,11,E,E-MAT,E,E-MAT
+jaket,Clothing,wool,1,5,E,E-MAT,E,E-MAT
+jaket,Clothing,polar fleece,2,5,E,E-MAT,E,E-MAT
+jar,Containers,sweet,1,10,S,S-OBJECT,E,E-INSURF
+jar,Containers,storing,1,5,S,S-FUNC,S,S-FUNC
+jar,Containers,things,1,5,S,S-FUNC,S,S-OBJECT
+jar,Containers,glass,1,16,E,E-MAT,E,E-MAT
+jellyfish,Animals,animal,1,5,T,T-SUPER,T,T-ONT
+jellyfish,Animals,bites,1,10,E,E-BEH,E,E-BEH
+jellyfish,Animals,sea,1,23,S,S-LOC,S,S-LOC
+kangaroo,Animals,animal,1,18,T,T-SUPER,T,T-ONT
+kangaroo,Animals,brown,1,9,E,E-EXSURF,E,E-EXSURF
+kangaroo,Animals,jumps,1,24,E,E-BEH,E,E-BEH
+kangaroo,Animals,marsupial,1,5,T,T-SUPER,T,T-SUPER
+kangaroo,Animals,joey,1,6,E,E-BEH,T,T-SUBORD
+kangaroo,Animals,pouch,1,7,E,E-EXCOMP,E,E-EXCOMP
+kettle,Utensils,aluminum,1,5,E,E-MAT,E,E-MAT
+kettle,Utensils,coffee,1,6,S,S-OBJECT,S,S-OBJECT
+kettle,Utensils,hot,1,10,E,E-EXSURF,E,E-SYS
+kettle,Utensils,mate,1,27,S,S-OBJECT,S,S-OBJECT
+kettle,Utensils,tea,1,12,S,S-OBJECT,S,S-OBJECT
+kettle,Utensils,boiling,1,5,S,S-FUNC,S,S-FUNC
+kettle,Utensils,water,1,16,E,E-INCOMP,S,S-OBJECT
+kettle,Utensils,steel,1,5,E,E-MAT,E,E-MAT
+kettle,Utensils,kitchen,1,5,S,S-LOC,S,S-LOC
+key,Objects,door,1,18,T,T-SYN,S,S-OBJECT
+key,Objects,house,1,6,S,S-OBJECT,S,S-BUILD
+key,Objects,lock,1,7,S,S-OBJECT,S,S-FUNC
+key,Objects,safety,1,8,S,S-SOCART,S,S-FUNC
+key,Objects,opening,1,14,S,S-FUNC,S,S-ACTION
+key,Objects,key chain,2,5,S,S-LOC,E,E-WHOLE
+key,Objects,buttoning up,2,7,S,S-FUNC,S,S-ACTION
+key,Objects,bronze,1,7,E,E-MAT,E,E-MAT
+key,Objects,metal,1,9,E,E-MAT,E,E-MAT
+kite,Toys,children,1,10,S,S-PERSON,S,S-PERSON
+kite,Toys,colorful,1,14,E,E-EXSURF,E,E-EXSURF
+kite,Toys,flies,1,9,E,E-BEH,E,E-BEH
+kite,Toys,funny,1,5,E,E-SYS,I,I-EVAL
+kite,Toys,sky,1,6,S,S-LOC,S,S-LOC
+kite,Toys,toy,1,6,T,T-SUPER,T,T-SYN
+kite,Toys,wind,1,10,I,I-CONTIN,S,S-ACTION
+kite,Toys,tail,1,8,E,E-EXCOMP,E,E-EXCOMP
+kite,Toys,thread,1,14,E,E-EXCOMP,S,S-OBJECT
+kite,Toys,cane,1,7,E,E-MAT,E,E-MAT
+kite,Toys,paper,1,11,E,E-MAT,E,E-MAT
+knife,Utensils,element,1,7,T,T-ONT,E,E-MAT
+knife,Utensils,sharp,1,15,E,E-EXSURF,E,E-SYS
+knife,Utensils,cutting,1,19,S,S-FUNC,S,S-FUNC
+knife,Utensils,eating,1,9,S,S-FUNC,S,S-FUNC
+knife,Utensils,utensil,1,5,T,T-SUPER,T,T-SYN
+knife,Utensils,weapon,1,6,T,T-SUPER,T,T-SYN
+knife,Utensils,metal,1,9,E,E-MAT,E,E-MAT
+knife,Utensils,kitchen,1,13,S,S-LOC,S,S-LOC
+koala,Animals,animal,1,18,T,T-SUPER,T,T-ONT
+koala,Animals,bear,1,5,T,T-SUPER,T,T-SYN
+koala,Animals,cute,1,5,I,I-EVAL,E,E-SYS
+koala,Animals,furry,1,5,E,E-EXSURF,E,E-EXSURF
+koala,Animals,nice,1,6,I,I-EVAL,I,I-EVAL
+koala,Animals,small,1,10,E,E-QUANT,E,E-SYS
+koala,Animals,tender,1,5,E,E-SYS,I,I-EVAL
+koala,Animals,climbs,1,9,E,E-BEH,E,E-BEH
+koala,Animals,extinction,1,6,E,E-SYS,E,E-SYS
+koala,Animals,jungle,1,6,S,S-LOC,S,S-LOC
+ladder,House parts,height,1,8,S,S-LOC,S,S-QUANT
+ladder,House parts,tool,1,7,T,T-SUPER,T,T-SYN
+ladder,House parts,climbing,1,17,S,S-FUNC,S,S-FUNC
+ladder,House parts,working,1,6,S,S-FUNC,S,S-EVENT
+ladder,House parts,useful,1,6,I,I-EVAL,I,I-EVAL
+ladder,House parts,materials,1,5,E,E-MAT,E,E-MAT
+ladder,House parts,steps,1,12,E,E-EXCOMP,E,E-EXCOMP
+ladder,House parts,going down,2,10,S,S-FUNC,S,S-ACTION
+ladder,House parts,rail,1,5,E,E-EXCOMP,E,E-EXCOMP
+ladder,House parts,metal,1,6,E,E-MAT,E,E-MAT
+ladder,House parts,wood,1,13,E,E-MAT,E,E-MAT
+ladle,Utensils,serving,1,16,S,S-FUNC,S,S-FUNC
+ladle,Utensils,soup,1,14,S,S-FUNC,S,S-OBJECT
+ladle,Utensils,utensil,1,8,T,T-SUPER,T,T-SYN
+ladle,Utensils,metal,1,8,E,E-MAT,E,E-MAT
+ladle,Utensils,plastic,1,7,E,E-MAT,E,E-MAT
+ladle,Utensils,kitchen,1,13,S,S-LOC,S,S-LOC
+ladybug,Animals,animal,1,5,T,T-SUPER,T,T-SUPER
+ladybug,Animals,bug,1,6,T,T-SUPER,T,T-SYN
+ladybug,Animals,colorful,1,12,E,E-EXSURF,E,E-EXSURF
+ladybug,Animals,flies,1,11,E,E-BEH,E,E-BEH
+ladybug,Animals,insect,1,17,T,T-SUPER,T,T-SYN
+ladybug,Animals,small,1,10,E,E-QUANT,E,E-QUANT
+ladybug,Animals,good luck,2,12,I,I-EVAL,I,I-EMOT
+lamb,Animals,animal,1,17,T,T-SUPER,T,T-ONT
+lamb,Animals,eaten,1,15,S,S-ACTION,S,S-PROD
+lamb,Animals,baby sheep,2,5,T,T-SYN,T,T-SUBORD
+lamb,Animals,wool,1,5,S,S-FUNC,E,E-MAT
+lamb,Animals,wool,1,6,E,E-EXCOMP,E,E-MAT
+lamb,Animals,good,1,10,I,I-EVAL,I,I-EVAL
+lamb,Animals,meat,1,6,S,S-FUNC,S,S-FUNC
+lamb,Animals,countryside,1,5,S,S-LOC,S,S-LOC
+lamp,Furniture,night,1,7,E,E-BEH,S,S-TIME
+lamp,Furniture,small,1,5,E,E-EXSURF,E,E-QUANT
+lamp,Furniture,reading,1,5,S,S-FUNC,S,S-FUNC
+lamp,Furniture,lighting up,2,25,S,S-FUNC,S,S-FUNC
+lamp,Furniture,lightbulb,1,8,E,E-INCOMP,E,E-INCOMP
+lamp,Furniture,bedroom,1,12,S,S-LOC,S,S-LOC
+lamp,Furniture,night table,2,17,S,S-LOC,S,S-LOC
+lantern,Furniture,ornament,1,5,T,T-SUPER,S,S-FUNC
+lantern,Furniture,electric stove,2,11,T,T-SUBORD,T,T-COORD
+lantern,Furniture,kerosene lantern,2,6,T,T-SUBORD,T,T-SYN
+lantern,Furniture,lighting up,2,25,S,S-FUNC,S,S-FUNC
+lawnmower,Tools,electrical,1,7,E,E-SYS,E,E-SYS
+lawnmower,Tools,gardener,1,5,S,S-PERSON,S,S-PERSON
+lawnmower,Tools,grass,1,13,S,S-LIVING,S,S-ACTION
+lawnmower,Tools,machine,1,10,T,T-SUPER,T,T-SUPER
+lawnmower,Tools,manual,1,5,E,E-EXSURF,E,E-SYS
+lawnmower,Tools,blade,1,8,E,E-EXCOMP,E,E-EXCOMP
+lawnmower,Tools,mowing,1,10,S,S-FUNC,S,S-ACTION
+lawnmower,Tools,garden,1,17,S,S-LOC,S,S-LOC
+leaf,Plants,big,1,5,E,E-QUANT,E,E-SYS
+leaf,Plants,green,1,18,E,E-EXSURF,E,E-EXSURF
+leaf,Plants,small,1,5,E,E-QUANT,E,E-QUANT
+leaf,Plants,shade,1,7,E,E-BEH,S,S-FUNC
+leaf,Plants,plants,1,10,S,S-LOC,T,T-SUPER
+leaf,Plants,tree,1,14,S,S-LOC,E,E-WHOLE
+leg,Body parts,body,1,7,E,E-WHOLE,E,E-WHOLE
+leg,Body parts,long,1,10,E,E-QUANT,E,E-SYS
+leg,Body parts,walking,1,6,S,S-FUNC,S,S-ACTION
+lemon,Fruits,acid,1,20,E,E-EXSURF,E,E-INSURF
+lemon,Fruits,citrus,1,5,T,T-SUPER,T,T-SUPER
+lemon,Fruits,fruit,1,15,T,T-SUPER,T,T-SUPER
+lemon,Fruits,flavouring,1,8,S,S-FUNC,S,S-FUNC
+lemon,Fruits,tea,1,6,S,S-ACTION,S,S-OBJECT
+lemon,Fruits,yellow,1,17,E,E-EXSURF,E,E-EXSURF
+lemon,Fruits,juice,1,6,E,E-INCOMP,S,S-OBJECT
+lemon,Fruits,trees,1,10,S,S-LOC,E,E-WHOLE
+lemon,Fruits,lemon tree,2,5,S,S-LOC,E,E-WHOLE
+leopard,Animals,animal,1,19,T,T-SUPER,T,T-ONT
+leopard,Animals,carnivorous,1,5,E,E-SYS,E,E-BEH
+leopard,Animals,feline,1,10,T,T-SUPER,T,T-SYN
+leopard,Animals,ferocious,1,6,E,E-SYS,E,E-SYS
+leopard,Animals,mammal,1,5,T,T-SUPER,T,T-ONT
+leopard,Animals,wild,1,7,E,E-SYS,E,E-SYS
+leopard,Animals,jungle,1,7,S,S-LOC,S,S-LOC
+lettuce,Vegetables,eaten,1,5,S,S-ACTION,S,S-ACTION
+lettuce,Vegetables,foodstuff,1,5,T,T-SUPER,T,T-SUPER
+lettuce,Vegetables,green,1,15,E,E-EXSURF,E,E-EXSURF
+lettuce,Vegetables,healthy,1,6,E,E-SYS,E,E-SYS
+lettuce,Vegetables,plant,1,9,T,T-SUPER,T,T-ONT
+lettuce,Vegetables,purple,1,5,E,E-EXSURF,E,E-EXSURF
+lettuce,Vegetables,refreshing,1,8,I,I-EVAL,I,I-EVAL
+lettuce,Vegetables,salad,1,17,S,S-ACTION,S,S-FUNC
+lettuce,Vegetables,vegetable,1,9,T,T-SUPER,T,T-SUPER
+lettuce,Vegetables,butter lettuce,2,6,T,T-SUBORD,T,T-SUBORD
+lettuce,Vegetables,good,1,7,I,I-EVAL,I,I-EVAL
+light bub,House parts,light,1,20,E,E-EXSURF,S,S-FUNC
+light bub,House parts,lighting up,2,7,S,S-FUNC,S,S-FUNC
+light bub,House parts,lighting up,2,5,S,S-FUNC,S,S-FUNC
+light switch,House parts,electricity,1,8,S,S-FUNC,S,S-FUNC
+light switch,House parts,useful,1,5,I,I-EVAL,S,S-FUNC
+light switch,House parts,white,1,5,E,E-EXSURF,E,E-EXSURF
+light switch,House parts,wires,1,5,S,S-OBJECT,E,E-INCOMP
+light switch,House parts,turn of,2,8,S,S-FUNC,S,S-ACTION
+light switch,House parts,turn of,2,18,S,S-FUNC,S,S-ACTION
+light switch,House parts,plastic,1,8,E,E-MAT,E,E-MAT
+light switch,House parts,houses,1,5,S,S-LOC,S,S-BUILD
+lion,Animals,animal,1,15,T,T-SUPER,T,T-ONT
+lion,Animals,carnivore,1,5,T,T-SUPER,E,E-SYS
+lion,Animals,feline,1,9,T,T-SUPER,T,T-SYN
+lion,Animals,ferocious,1,7,E,E-SYS,E,E-SYS
+lion,Animals,roars,1,6,E,E-BEH,E,E-BEH
+lion,Animals,strong,1,5,E,E-SYS,E,E-SYS
+lion,Animals,hair,1,5,E,E-EXCOMP,E,E-EXCOMP
+lion,Animals,mane,1,12,E,E-EXCOMP,E,E-EXCOMP
+lion,Animals,king,1,13,S,S-SOCART,E,E-ABSTR
+lion,Animals,jungle,1,5,S,S-LOC,S,S-LOC
+lipsstick,Accessories,coquetry,1,5,E,E-ABSTR,I,I-REP
+lipsstick,Accessories,red,1,5,E,E-EXSURF,E,E-EXSURF
+lipsstick,Accessories,painting,1,8,S,S-FUNC,S,S-FUNC
+lipsstick,Accessories,women,1,12,S,S-PERSON,S,S-PERSON
+lipsstick,Accessories,colors,1,8,E,E-EXSURF,E,E-EXSURF
+lizard,Animals,animal,1,9,T,T-SUPER,T,T-ONT
+lizard,Animals,elusive,1,6,E,E-SYS,E,E-SYS
+lizard,Animals,green,1,12,E,E-EXSURF,E,E-EXSURF
+lizard,Animals,reptile,1,8,T,T-SUPER,T,T-ONT
+lizard,Animals,ugly,1,5,I,I-EVAL,I,I-EVAL
+llama,Animals,animal,1,18,T,T-SUPER,T,T-ONT
+llama,Animals,furry,1,5,E,E-EXSURF,E,E-EXSURF
+llama,Animals,meek,1,6,E,E-SYS,E,E-SYS
+llama,Animals,poncho,1,5,S,S-OBJECT,S,S-OBJECT
+llama,Animals,wool,1,11,E,E-EXCOMP,S,S-PROD
+llama,Animals,north,1,12,S,S-LOC,S,S-LOC
+lobster,Animals,animal,1,10,T,T-SUPER,T,T-ONT
+lobster,Animals,eaten,1,10,S,S-ACTION,S,S-ACTION
+lobster,Animals,orange,1,5,E,E-EXSURF,E,E-EXSURF
+lobster,Animals,red,1,6,E,E-EXSURF,E,E-EXSURF
+lobster,Animals,walks,1,7,E,E-BEH,E,E-BEH
+lobster,Animals,sideways,1,6,E,E-BEH,E,E-BEH
+lobster,Animals,clamps,1,13,E,E-EXCOMP,E,E-EXCOMP
+lobster,Animals,legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+lobster,Animals,good,1,7,I,I-EVAL,I,I-EVAL
+lobster,Animals,sea,1,11,S,S-LOC,S,S-LOC
+lobster,Animals,beach,1,5,S,S-LOC,S,S-LOC
+lock,Tools,key,1,10,S,S-OBJECT,S,S-OBJECT
+lock,Tools,locked,1,6,S,S-PHYST,E,E-SYS
+lock,Tools,safety,1,24,S,S-SOCART,S,S-FUNC
+lock,Tools,buttoning up,2,15,S,S-FUNC,S,S-ACTION
+lock,Tools,metal,1,5,E,E-MAT,E,E-MAT
+log,Plants,brown,1,7,E,E-EXSURF,E,E-EXSURF
+log,Plants,firewood,1,7,S,S-OBJECT,S,S-FUNC
+log,Plants,lighting up,2,6,S,S-FUNC,S,S-ACTION
+log,Plants,wood,1,11,E,E-MAT,E,E-MAT
+log,Plants,tree,1,15,E,E-WHOLE,E,E-WHOLE
+lungs,Body parts,air,1,11,S,S-OBJECT,S,S-OBJECT
+lungs,Body parts,cigarette,1,5,T,T-COORD,S,S-OBJECT
+lungs,Body parts,health,1,5,I,I-REP,E,E-SYS
+lungs,Body parts,life,1,7,E,E-SYS,I,I-REP
+lungs,Body parts,organ,1,13,T,T-SUPER,T,T-SUPER
+lungs,Body parts,oxigen,1,7,S,S-OBJECT,E,E-INCOMP
+lungs,Body parts,breathing,1,18,S,S-FUNC,S,S-FUNC
+lungs,Body parts,vital,1,7,I,I-REP,E,E-SYS
+lungs,Body parts,two,1,7,E,E-QUANT,E,E-QUANT
+maracas,Musical instruments,dance,1,5,S,S-EVENT,S,S-EVENT
+maracas,Musical instruments,joy,1,11,I,I-EMOT,I,I-EMOT
+maracas,Musical instruments,music,1,15,S,S-FUNC,S,S-FUNC
+maracas,Musical instruments,parties,1,5,S,S-EVENT,S,S-EVENT
+maracas,Musical instruments,noises,1,9,E,E-BEH,E,E-EXSURF
+maracas,Musical instruments,musical instrument,2,8,T,T-SUPER,T,T-SUPER
+microscope,Tools,instrument,1,6,E,E-MAT,T,T-SUPER
+microscope,Tools,scientific,1,7,E,E-SYS,E,E-ABSTR
+microscope,Tools,investigate,1,9,S,S-FUNC,S,S-FUNC
+microscope,Tools,magnification,1,6,E,E-SYS,S,S-FUNC
+microscope,Tools,seeing,1,5,S,S-FUNC,S,S-FUNC
+microscope,Tools,laboratory,1,6,S,S-LOC,S,S-LOC
+monkey,Animals,animal,1,16,T,T-SUPER,T,T-ONT
+monkey,Animals,banana,1,6,S,S-LIVING,S,S-OBJECT
+monkey,Animals,bouncy,1,7,E,E-BEH,E,E-BEH
+monkey,Animals,brown,1,5,E,E-EXSURF,E,E-EXSURF
+monkey,Animals,furry,1,9,E,E-EXSURF,E,E-EXSURF
+monkey,Animals,inteligent,1,6,E,E-SYS,E,E-SYS
+monkey,Animals,climbs,1,7,E,E-BEH,E,E-BEH
+monkey,Animals,jungle,1,12,S,S-LOC,S,S-LOC
+monkey,Animals,man,1,5,I,I-REP,T,T-COORD
+moon,Nature,full,1,6,E,E-EXSURF,E,E-SYS
+moon,Nature,light,1,6,S,S-FUNC,E,E-EXSURF
+moon,Nature,night,1,15,E,E-BEH,S,S-TIME
+moon,Nature,romantic,1,9,I,I-EVAL,I,I-EMOT
+moon,Nature,satelite,1,7,T,T-SUPER,T,T-SYN
+moose,Animals,animal,1,28,T,T-SUPER,T,T-SUPER
+moose,Animals,nice,1,5,I,I-EVAL,I,I-EVAL
+moose,Animals,quadruped,1,8,T,T-SUPER,T,T-SUPER
+moose,Animals,horns,1,22,E,E-EXCOMP,E,E-EXCOMP
+moose,Animals,legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+moose,Animals,forest,1,8,S,S-LOC,S,S-LOC
+motorcycle,Vehicles,dangerous,1,11,I,I-EVAL,E,E-SYS
+motorcycle,Vehicles,fast,1,15,E,E-SYS,E,E-SYS
+motorcycle,Vehicles,helmet,1,6,S,S-OBJECT,S,S-OBJECT
+motorcycle,Vehicles,noisy,1,7,E,E-SYS,E,E-SYS
+motorcycle,Vehicles,wheels,1,12,E,E-EXCOMP,E,E-EXCOMP
+motorcycle,Vehicles,transportation,1,11,T,T-SUPER,S,S-FUNC
+mountain,Nature,big,1,5,E,E-QUANT,E,E-SYS
+mountain,Nature,nice,1,5,I,I-EVAL,I,I-EVAL
+mountain,Nature,tall,1,9,E,E-QUANT,E,E-SYS
+mountain,Nature,mountain range,2,6,T,T-COORD,E,E-WHOLE
+mountain,Nature,snow,1,9,E,E-EXSURF,S,S-PHYST
+mountain,Nature,landscape,1,6,E,E-WHOLE,S,S-LOC
+mountain,Nature,mountain range,2,6,E,E-WHOLE,E,E-WHOLE
+mouse,Animals,animal,1,13,T,T-SUPER,T,T-ONT
+mouse,Animals,dirty,1,9,I,I-EVAL,E,E-SYS
+mouse,Animals,illness,1,7,I,I-CONTIN,S,S-PERSON
+mouse,Animals,rodent,1,12,T,T-SUPER,T,T-SYN
+mouse,Animals,small,1,5,E,E-QUANT,E,E-SYS
+mouse,Animals,eats,1,7,E,E-BEH,E,E-BEH
+mouse,Animals,tail,1,9,E,E-EXCOMP,E,E-EXCOMP
+mouse,Animals,hole,1,7,S,S-LOC,S,S-LOC
+mouth,Body parts,body,1,5,E,E-WHOLE,E,E-WHOLE
+mouth,Body parts,face,1,5,E,E-WHOLE,E,E-WHOLE
+mouth,Body parts,eating,1,19,S,S-FUNC,S,S-ACTION
+mouth,Body parts,kissing,1,7,S,S-FUNC,S,S-ACTION
+mouth,Body parts,speaking,1,16,S,S-FUNC,E,E-BEH
+mouth,Body parts,lips,1,7,E,E-EXCOMP,E,E-EXCOMP
+mouth,Body parts,teeth,1,10,E,E-INCOMP,E,E-EXCOMP
+mouth,Body parts,tonge,1,5,E,E-INCOMP,E,E-EXCOMP
+mushroom,Plants,champignon,1,5,S,S-OBJECT,T,T-SYN
+mushroom,Plants,eaten,1,5,S,S-ACTION,S,S-ACTION
+mushroom,Plants,edible,1,12,S,S-ACTION,E,E-SYS
+mushroom,Plants,poisonous,1,11,E,E-SYS,E,E-SYS
+mushroom,Plants,species,1,5,T,T-SUBORD,T,T-SUBORD
+nail,Tools,hammer,1,8,S,S-OBJECT,S,S-OBJECT
+nail,Tools,nailed,1,5,S,S-ACTION,S,S-ACTION
+nail,Tools,hanging,1,5,S,S-FUNC,S,S-ACTION
+nail,Tools,paintings,1,5,S,S-FUNC,S,S-OBJECT
+nail,Tools,ferniture,1,8,S,S-FUNC,E,E-WHOLE
+nail,Tools,tip,1,5,E,E-EXCOMP,E,E-EXCOMP
+nail,Tools,metal,1,10,E,E-MAT,E,E-MAT
+nail file,Accessories,rough,1,5,E,E-EXSURF,E,E-EXSURF
+nail file,Accessories,small,1,5,E,E-EXSURF,E,E-QUANT
+nail file,Accessories,filing,1,6,S,S-FUNC,S,S-FUNC
+nail file,Accessories,polishing,1,9,S,S-FUNC,S,S-ACTION
+nail file,Accessories,useful,1,6,I,I-EVAL,I,I-EVAL
+nail file,Accessories,cardboard,1,5,E,E-MAT,E,E-MAT
+nail file,Accessories,metal,1,9,E,E-MAT,E,E-MAT
+necklace,Accessories,accessory,1,6,T,T-SUPER,T,T-ONT
+necklace,Accessories,ornament,1,11,T,T-SUPER,T,T-SYN
+necklace,Accessories,pearl,1,8,E,E-MAT,E,E-MAT
+needle,Tools,thread,1,6,S,S-OBJECT,S,S-OBJECT
+needle,Tools,knitting,1,10,S,S-FUNC,S,S-ACTION
+needle,Tools,sawing,1,21,S,S-FUNC,S,S-ACTION
+needle,Tools,stabbing,1,10,S,S-FUNC,S,S-ACTION
+needle,Tools,steel,1,6,E,E-MAT,E,E-MAT
+net,Tools,fisherman,1,6,S,S-PERSON,S,S-PERSON
+net,Tools,fishing,1,15,S,S-FUNC,S,S-ACTION
+net,Tools,thread,1,5,E,E-MAT,E,E-MAT
+nose,Body parts,aquiline,1,5,T,T-SUBORD,E,E-EXSURF
+nose,Body parts,big,1,6,E,E-QUANT,E,E-QUANT
+nose,Body parts,cold,1,5,S,S-EVENT,E,E-SYS
+nose,Body parts,face,1,15,E,E-WHOLE,E,E-WHOLE
+nose,Body parts,smell,1,13,S,S-FUNC,S,S-FUNC
+nose,Body parts,breathing,1,11,S,S-FUNC,S,S-FUNC
+nose,Body parts,mucus,1,5,E,E-INCOMP,E,E-INCOMP
+nut,Tools,big,1,5,E,E-QUANT,E,E-QUANT
+nut,Tools,hexagonal,1,5,E,E-EXSURF,E,E-EXSURF
+nut,Tools,mechanic,1,5,S,S-PERSON,S,S-PERSON
+nut,Tools,screw,1,12,S,S-OBJECT,S,S-OBJECT
+nut,Tools,small,1,6,E,E-QUANT,E,E-QUANT
+nut,Tools,fastenning,1,11,S,S-FUNC,S,S-FUNC
+nut,Tools,metal,1,6,E,E-MAT,E,E-MAT
+octopus,Animals,eaten,1,18,S,S-ACTION,S,S-ACTION
+octopus,Animals,mollusk,1,7,S,S-LOC,T,T-SUPER
+octopus,Animals,stew,1,6,E,E-WHOLE,S,S-OBJECT
+octopus,Animals,ugly,1,5,I,I-EVAL,E,E-EXSURF
+octopus,Animals,tentacles,1,14,E,E-EXCOMP,E,E-EXCOMP
+octopus,Animals,good,1,8,I,I-EVAL,I,I-EVAL
+octopus,Animals,sea,1,24,S,S-LOC,S,S-LOC
+onion,Vegetables,acid,1,6,E,E-EXSURF,E,E-INSURF
+onion,Vegetables,eaten,1,6,S,S-ACTION,S,S-ACTION
+onion,Vegetables,purple,1,5,T,T-SUBORD,E,E-EXSURF
+onion,Vegetables,flavouring,1,5,S,S-FUNC,S,S-FUNC
+onion,Vegetables,salads,1,7,S,S-ACTION,S,S-FUNC
+onion,Vegetables,vegetable,1,6,T,T-SUPER,T,T-SUPER
+onion,Vegetables,white,1,5,T,T-SUBORD,E,E-EXSURF
+onion,Vegetables,layers,1,6,E,E-EXCOMP,E,E-EXCOMP
+onion,Vegetables,cry,1,17,S,S-FUNC,S,S-ACTION
+orange,Fruits,acid,1,7,E,E-EXSURF,E,E-INSURF
+orange,Fruits,citrus,1,8,T,T-SUPER,T,T-SUPER
+orange,Fruits,fruit,1,18,T,T-SUPER,T,T-SUPER
+orange,Fruits,juicy,1,6,E,E-INSURF,E,E-INSURF
+orange,Fruits,sweet,1,11,E,E-INSURF,E,E-INSURF
+orange,Fruits,juice,1,9,S,S-FUNC,S,S-OBJECT
+orange,Fruits,seeds,1,5,E,E-INCOMP,E,E-INCOMP
+orange,Fruits,skin,1,6,E,E-EXCOMP,E,E-EXCOMP
+ostrich,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+ostrich,Animals,big,1,10,E,E-QUANT,E,E-QUANT
+ostrich,Animals,bird,1,9,T,T-SUPER,T,T-SYN
+ostrich,Animals,fast,1,13,E,E-SYS,E,E-SYS
+ostrich,Animals,runs,1,5,E,E-BEH,E,E-BEH
+ostrich,Animals,feathers,1,15,E,E-EXCOMP,E,E-EXCOMP
+ostrich,Animals,eggs,1,13,E,E-BEH,E,E-EXCOMP
+ostrich,Animals,beak,1,7,E,E-EXCOMP,E,E-EXCOMP
+ostrich,Animals,eggs,1,5,E,E-BEH,E,E-EXCOMP
+ostrich,Animals,countryside,1,7,S,S-LOC,S,S-LOC
+oven mitt,Utensils,detergent,1,6,S,S-OBJECT,S,S-OBJECT
+oven mitt,Utensils,oven,1,7,S,S-OBJECT,S,S-OBJECT
+oven mitt,Utensils,tableware,1,6,S,S-OBJECT,T,T-SUPER
+oven mitt,Utensils,cleaning,1,12,S,S-FUNC,S,S-ACTION
+oven mitt,Utensils,hand,1,8,S,S-LOC,S,S-PERSON
+oven mitt,Utensils,colors,1,5,E,E-EXSURF,E,E-EXSURF
+oven mitt,Utensils,rubber,1,10,E,E-MAT,E,E-MAT
+oven mitt,Utensils,protects,1,9,S,S-FUNC,S,S-FUNC
+oven mitt,Utensils,burned,1,8,S,S-FUNC,S,S-PHYST
+owl,Animals,animal,1,12,T,T-SUPER,T,T-ONT
+owl,Animals,bird,1,15,T,T-SUPER,T,T-SYN
+owl,Animals,nocturnal,1,10,S,S-TIME,E,E-BEH
+owl,Animals,feathers,1,9,E,E-EXCOMP,E,E-EXCOMP
+owl,Animals,noises,1,5,E,E-BEH,E,E-BEH
+owl,Animals,caves,1,5,S,S-LOC,S,S-LOC
+paddle,Objects,ball,1,17,S,S-OBJECT,S,S-OBJECT
+paddle,Objects,net,1,8,S,S-OBJECT,S,S-OBJECT
+paddle,Objects,table,1,12,S,S-OBJECT,S,S-OBJECT
+paddle,Objects,playing,1,21,S,S-FUNC,S,S-FUNC
+paddle,Objects,playing,1,7,S,S-FUNC,S,S-FUNC
+paddle,Objects,wood,1,13,E,E-MAT,E,E-MAT
+paintbrush,Utensils,artists,1,7,S,S-PERSON,S,S-PERSON
+paintbrush,Utensils,paint,1,15,E,E-INCOMP,S,S-FUNC
+paintbrush,Utensils,painters,1,6,S,S-PERSON,S,S-PERSON
+paintbrush,Utensils,tool,1,11,T,T-SUPER,T,T-SYN
+paintbrush,Utensils,painting,1,20,S,S-FUNC,S,S-FUNC
+paintbrush,Utensils,bristles,1,14,E,E-EXCOMP,E,E-EXCOMP
+paintbrush,Utensils,grip,1,5,E,E-EXCOMP,S,S-FUNC
+palm tree,Plants,hot,1,5,S,S-TIME,S,S-PHYST
+palm tree,Plants,plant,1,10,T,T-SUPER,T,T-ONT
+palm tree,Plants,tall,1,7,E,E-QUANT,E,E-SYS
+palm tree,Plants,tree,1,5,T,T-SUPER,T,T-SYN
+palm tree,Plants,coconuts,1,11,E,E-BEH,E,E-EXCOMP
+palm tree,Plants,v,1,8,E,E-BEH,I,I-REP
+panda,Animals,animal,1,12,T,T-SUPER,T,T-ONT
+panda,Animals,big,1,6,E,E-QUANT,E,E-SYS
+panda,Animals,endangered,1,11,E,E-SYS,E,E-SYS
+panda,Animals,furry,1,5,E,E-EXSURF,E,E-EXSURF
+panda,Animals,nice,1,7,I,I-EVAL,I,I-EVAL
+panda,Animals,tender,1,10,E,E-SYS,E,E-SYS
+panda,Animals,black and white,3,14,E,E-EXSURF,E,E-EXSURF
+pants,Clothing,clothing,1,24,T,T-SUPER,T,T-SUPER
+pants,Clothing,coat,1,9,T,T-SUPER,T,T-COORD
+pants,Clothing,comfortable,1,7,I,I-EVAL,E,E-SYS
+pants,Clothing,formal,1,5,T,T-SUBORD,E,E-SYS
+pants,Clothing,long,1,11,E,E-QUANT,E,E-QUANT
+pants,Clothing,women,1,8,S,S-PERSON,S,S-PERSON
+pants,Clothing,men,1,11,S,S-PERSON,S,S-PERSON
+pants,Clothing,colors,1,7,E,E-EXSURF,E,E-EXSURF
+pants,Clothing,sport pants,2,7,T,T-SUBORD,T,T-SUBORD
+pants,Clothing,short,1,10,E,E-QUANT,E,E-SYS
+pants,Clothing,fabric,1,9,E,E-MAT,E,E-MAT
+parrot,Animals,animal,1,8,T,T-SUPER,T,T-ONT
+parrot,Animals,bird,1,9,T,T-SUPER,T,T-SYN
+parrot,Animals,chatty,1,7,E,E-SYS,E,E-BEH
+parrot,Animals,flies,1,6,E,E-BEH,E,E-BEH
+parrot,Animals,green,1,11,E,E-EXSURF,E,E-EXSURF
+parrot,Animals,talks,1,7,E,E-BEH,E,E-BEH
+parrot,Animals,feathers,1,6,E,E-EXCOMP,E,E-EXCOMP
+peach,Fruits,dessert,1,5,T,T-SUPER,S,S-FUNC
+peach,Fruits,fruit,1,16,T,T-SUPER,T,T-SUPER
+peach,Fruits,summer,1,6,S,S-TIME,S,S-TIME
+peach,Fruits,sweet,1,11,E,E-INSURF,E,E-INSURF
+peach,Fruits,smoothies,1,5,S,S-ACTION,S,S-OBJECT
+peach,Fruits,fluff,1,6,E,E-EXCOMP,E,E-EXSURF
+peach,Fruits,good,1,17,I,I-EVAL,I,I-EVAL
+peach,Fruits,pit,1,8,E,E-INCOMP,E,E-INCOMP
+peacock,Animals,animal,1,8,T,T-SUPER,T,T-ONT
+peacock,Animals,bird,1,14,T,T-SUPER,T,T-SUPER
+peacock,Animals,nice,1,9,I,I-EVAL,I,I-EVAL
+peacock,Animals,colors,1,21,E,E-EXSURF,E,E-EXSURF
+peacock,Animals,feathers,1,15,E,E-EXCOMP,E,E-EXCOMP
+peacock,Animals,tail,1,8,E,E-EXCOMP,E,E-EXCOMP
+peacock,Animals,zoo,1,5,S,S-LOC,S,S-LOC
+peanut,Fruits,beer,1,9,S,S-OBJECT,S,S-OBJECT
+peanut,Fruits,eaten,1,6,S,S-ACTION,S,S-ACTION
+peanut,Fruits,food,1,8,T,T-SUPER,T,T-SUPER
+peanut,Fruits,foodstuff,1,6,T,T-SUPER,T,T-SUPER
+peanut,Fruits,salty,1,7,E,E-INSURF,E,E-INSURF
+peanut,Fruits,snack,1,8,S,S-EVENT,S,S-FUNC
+peanut,Fruits,dried fruit,2,5,T,T-SUPER,T,T-SUPER
+peanut,Fruits,skin,1,17,E,E-EXCOMP,E,E-EXCOMP
+peanut,Fruits,good,1,8,I,I-EVAL,I,I-EVAL
+pear,Fruits,fruit,1,21,T,T-SUPER,T,T-ONT
+pear,Fruits,juicy,1,10,E,E-INSURF,E,E-INSURF
+pear,Fruits,summer,1,5,S,S-TIME,S,S-TIME
+pear,Fruits,sweet,1,12,E,E-INSURF,E,E-INSURF
+pear,Fruits,yellow,1,15,E,E-EXSURF,E,E-EXSURF
+pear,Fruits,good,1,12,I,I-EVAL,I,I-EVAL
+peas,Vegetables,fine,1,8,E,E-EXSURF,I,I-EVAL
+peas,Vegetables,green,1,12,E,E-EXSURF,E,E-EXSURF
+peas,Vegetables,salad,1,15,S,S-ACTION,S,S-OBJECT
+peas,Vegetables,vegetable,1,6,T,T-SUPER,T,T-SUPER
+peas,Vegetables,vegetable,1,5,T,T-SUPER,T,T-SUPER
+peas,Vegetables,wide,1,7,E,E-EXSURF,E,E-QUANT
+peas,Vegetables,good,1,6,I,I-EVAL,I,I-EVAL
+pen,Utensils,writing,1,25,S,S-FUNC,S,S-FUNC
+pen,Utensils,useful,1,6,I,I-EVAL,I,I-EVAL
+pen,Utensils,colors,1,5,E,E-EXSURF,E,E-EXSURF
+pen,Utensils,ink,1,8,E,E-INCOMP,E,E-INCOMP
+pencil,Utensils,drawing,1,5,S,S-FUNC,S,S-FUNC
+pencil,Utensils,writing,1,18,S,S-FUNC,S,S-FUNC
+pencil,Utensils,colors,1,9,E,E-EXSURF,E,E-EXSURF
+pencil,Utensils,pencil sharpener,2,8,S,S-OBJECT,S,S-OBJECT
+pencil,Utensils,lead,1,10,E,E-INCOMP,E,E-INCOMP
+pencil,Utensils,wood,1,9,E,E-MAT,E,E-MAT
+penguin,Animals,animal,1,10,T,T-SUPER,T,T-ONT
+penguin,Animals,bird,1,6,T,T-SUPER,T,T-SUPER
+penguin,Animals,cold,1,14,E,E-SYS,E,E-SYS
+penguin,Animals,ice,1,6,S,S-OBJECT,S,S-LOC
+penguin,Animals,black and white,3,6,E,E-EXSURF,E,E-EXSURF
+penguin,Animals,sea,1,8,S,S-LOC,S,S-LOC
+penguin,Animals,south,1,8,S,S-LOC,S,S-LOC
+pepper,Vegetables,food,1,7,T,T-SUPER,T,T-SUPER
+pepper,Vegetables,green,1,16,E,E-EXSURF,E,E-EXSURF
+pepper,Vegetables,hot,1,12,E,E-EXSURF,E,E-INSURF
+pepper,Vegetables,red,1,18,E,E-EXSURF,E,E-EXSURF
+pepper,Vegetables,spice,1,8,T,T-SUPER,T,T-SUPER
+pepper,Vegetables,yellow,1,10,E,E-EXSURF,E,E-EXSURF
+piano,Musical instruments,grandpiano,1,7,T,T-SUBORD,T,T-SUBORD
+piano,Musical instruments,nice,1,7,I,I-EVAL,I,I-EVAL
+piano,Musical instruments,sound,1,5,S,S-FUNC,S,S-FUNC
+piano,Musical instruments,music,1,15,S,S-FUNC,S,S-FUNC
+piano,Musical instruments,keys,1,18,E,E-EXCOMP,E,E-EXCOMP
+piano,Musical instruments,musical instrument,2,14,T,T-SUPER,T,T-SUPER
+piano,Musical instruments,wood,1,5,E,E-MAT,E,E-MAT
+picture,Objects,landscape,1,10,E,E-INCOMP,S,S-OBJECT
+picture,Objects,memory,1,5,I,I-REP,I,I-REP
+picture,Objects,ornament,1,5,T,T-SUPER,T,T-SYN
+picture,Objects,paint,1,7,E,E-INCOMP,E,E-MAT
+picture,Objects,decoration,1,7,S,S-FUNC,S,S-FUNC
+picture,Objects,glass,1,6,E,E-EXCOMP,E,E-MAT
+picture,Objects,wood,1,7,E,E-MAT,E,E-MAT
+pig,Animals,animal,1,21,T,T-SUPER,T,T-ONT
+pig,Animals,dirty,1,13,I,I-EVAL,E,E-SYS
+pig,Animals,fat,1,8,E,E-EXSURF,E,E-SYS
+pig,Animals,food,1,14,T,T-SUPER,S,S-FUNC
+pig,Animals,good,1,6,I,I-EVAL,I,I-EVAL
+pig,Animals,pigsty,1,5,S,S-LOC,S,S-LOC
+pinball machine,Toys,game,1,29,T,T-SUPER,S,S-EVENT
+pinball machine,Toys,fun,1,7,S,S-FUNC,I,I-EMOT
+pinball machine,Toys,ball,1,15,E,E-INCOMP,E,E-EXCOMP
+pineapple,Fruits,fruit,1,27,T,T-SUPER,T,T-SUPER
+pineapple,Fruits,juicy,1,10,E,E-INSURF,E,E-INSURF
+pineapple,Fruits,sweet,1,13,E,E-INSURF,E,E-INSURF
+pineapple,Fruits,tropical,1,7,S,S-LOC,E,E-SYS
+pineapple,Fruits,desserts,1,5,S,S-ACTION,S,S-OBJECT
+pineapple,Fruits,good,1,16,I,I-EVAL,I,I-EVAL
+pineapple,Fruits,fruit salad,2,8,S,S-ACTION,S,S-OBJECT
+pineapple,Fruits,hard skin,2,5,E,E-EXCOMP,E,E-EXSURF
+pipe,Accessories,element,1,6,T,T-ONT,E,E-EXCOMP
+pipe,Accessories,smoked,1,21,S,S-FUNC,S,S-ACTION
+pipe,Accessories,tobacco,1,12,E,E-INCOMP,S,S-OBJECT
+pipe,Accessories,peace pipe,2,5,E,E-ABSTR,T,T-SYN
+pitcher,Containers,juice,1,8,S,S-OBJECT,S,S-OBJECT
+pitcher,Containers,fluids,1,17,S,S-FUNC,S,S-FUNC
+pitcher,Containers,utensil,1,6,T,T-SUPER,T,T-SUPER
+pitcher,Containers,water,1,7,E,E-INCOMP,S,S-OBJECT
+pitcher,Containers,wine,1,5,S,S-OBJECT,S,S-OBJECT
+pitcher,Containers,handle,1,5,E,E-EXCOMP,E,E-EXCOMP
+pitcher,Containers,glass,1,12,E,E-MAT,E,E-MAT
+pitcher,Containers,plastic,1,8,E,E-MAT,E,E-MAT
+platypus,Animals,animal,1,25,T,T-SUPER,T,T-ONT
+platypus,Animals,rare,1,8,I,I-EVAL,I,I-EVAL
+platypus,Animals,beak,1,5,E,E-EXCOMP,E,E-EXCOMP
+pliers,Tools,tool,1,20,T,T-SUPER,T,T-SUPER
+pliers,Tools,grabing,1,5,S,S-FUNC,S,S-ACTION
+pliers,Tools,surgery,1,5,S,S-FUNC,S,S-EVENT
+pliers,Tools,useful,1,7,I,I-EVAL,I,I-EVAL
+pliers,Tools,metal,1,10,E,E-MAT,E,E-MAT
+plug,House parts,cable,1,6,S,S-OBJECT,S,S-OBJECT
+plug,House parts,light,1,5,S,S-FUNC,S,S-FUNC
+plug,House parts,connecting,1,6,S,S-FUNC,S,S-ACTION
+plug,House parts,legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+plug,House parts,iron plug,2,6,E,E-WHOLE,T,T-SYN
+plug,House parts,electricity,1,14,S,S-FUNC,S,S-FUNC
+plug,House parts,wall,1,5,S,S-LOC,S,S-LOC
+pot,Utensils,big,1,7,E,E-QUANT,E,E-QUANT
+pot,Utensils,family,1,7,S,S-SOCORG,S,S-SOCORG
+pot,Utensils,fire,1,7,S,S-OBJECT,S,S-OBJECT
+pot,Utensils,food,1,19,S,S-OBJECT,S,S-OBJECT
+pot,Utensils,stew,1,5,S,S-OBJECT,S,S-FUNC
+pot,Utensils,cooking,1,5,S,S-FUNC,S,S-ACTION
+pot,Utensils,kitchen,1,7,S,S-LOC,S,S-LOC
+potato,Vegetables,cooked,1,5,S,S-ACTION,S,S-PHYST
+potato,Vegetables,eaten,1,9,S,S-ACTION,S,S-ACTION
+potato,Vegetables,foodstuff,1,9,T,T-SUPER,T,T-SUPER
+potato,Vegetables,tuber,1,7,T,T-SUPER,T,T-SUBORD
+potato,Vegetables,puree,1,9,S,S-ACTION,S,S-OBJECT
+potato,Vegetables,french fries,2,6,S,S-ACTION,S,S-FUNC
+potato,Vegetables,good,1,6,I,I-EVAL,I,I-EVAL
+potato,Vegetables,earth,1,7,S,S-LOC,S,S-LOC
+pretzel,Food,cookie,1,8,T,T-SUPER,T,T-COORD
+pretzel,Food,food,1,9,T,T-SUPER,T,T-SUPER
+pretzel,Food,salty,1,8,E,E-INSURF,E,E-INSURF
+pretzel,Food,good,1,7,I,I-EVAL,I,I-EVAL
+pretzel,Food,United States,2,7,S,S-LOC,S,S-LOC
+propeller,Objects,airplane,1,24,E,E-WHOLE,E,E-WHOLE
+propeller,Objects,helicopter,1,12,E,E-WHOLE,E,E-WHOLE
+propeller,Objects,ship,1,14,E,E-WHOLE,S,S-SOCORG
+propeller,Objects,flying,1,5,S,S-FUNC,S,S-FUNC
+pumpkin,Vegetables,eaten,1,6,S,S-ACTION,S,S-ACTION
+pumpkin,Vegetables,food,1,9,T,T-SUPER,S,S-FUNC
+pumpkin,Vegetables,orange,1,8,E,E-EXSURF,E,E-EXSURF
+pumpkin,Vegetables,pumpkin,1,10,T,T-COORD,T,T-SYN
+pumpkin,Vegetables,sweet,1,9,E,E-INSURF,E,E-INSURF
+pumpkin,Vegetables,puree,1,8,S,S-ACTION,S,S-FUNC
+pumpkin,Vegetables,vegetable,1,7,T,T-SUPER,T,T-SUPER
+pumpkin,Vegetables,vegetable,1,5,T,T-SUPER,T,T-SUPER
+pumpkin,Vegetables,yellow,1,5,E,E-EXSURF,E,E-EXSURF
+pumpkin,Vegetables,seeds,1,8,E,E-INCOMP,E,E-INCOMP
+pumpkin,Vegetables,good,1,5,I,I-EVAL,I,I-EVAL
+pyramid,Constructions,ancient,1,5,S,S-TIME,E,E-SYS
+pyramid,Constructions,pharaoh,1,5,S,S-PERSON,S,S-PERSON
+rabbit,Animals,animal,1,17,T,T-SUPER,T,T-ONT
+rabbit,Animals,domestic,1,5,T,T-SUPER,E,E-SYS
+rabbit,Animals,eaten,1,11,S,S-ACTION,S,S-ACTION
+rabbit,Animals,jumps,1,6,E,E-BEH,E,E-BEH
+rabbit,Animals,soft,1,6,E,E-EXSURF,E,E-EXSURF
+rabbit,Animals,tender,1,5,E,E-SYS,E,E-SYS
+rabbit,Animals,white,1,10,E,E-EXSURF,E,E-EXSURF
+rabbit,Animals,eats,1,7,E,E-BEH,E,E-BEH
+rabbit,Animals,ears,1,8,E,E-EXCOMP,E,E-EXCOMP
+rake,Tools,tool,1,5,T,T-SUPER,T,T-ONT
+rake,Tools,cleaning,1,7,S,S-FUNC,S,S-ACTION
+rake,Tools,gathering,1,6,S,S-FUNC,S,S-ACTION
+rake,Tools,work,1,7,S,S-FUNC,S,S-ACTION
+rake,Tools,teeth,1,9,E,E-INCOMP,E,E-EXCOMP
+rake,Tools,leaves,1,5,S,S-FUNC,S,S-OBJECT
+rake,Tools,iron,1,5,E,E-MAT,E,E-MAT
+rat,Animals,animal,1,16,T,T-SUPER,T,T-ONT
+rat,Animals,dangerous,1,13,I,I-EVAL,E,E-SYS
+rat,Animals,dirty,1,7,I,I-EVAL,E,E-SYS
+rat,Animals,disgusting,1,10,I,I-EVAL,I,I-EVAL
+rat,Animals,gray,1,5,E,E-EXSURF,E,E-EXSURF
+rat,Animals,illness,1,12,I,I-CONTIN,E,E-SYS
+rat,Animals,rodent,1,14,T,T-SUPER,T,T-SUPER
+rat,Animals,ugly,1,6,I,I-EVAL,E,E-SYS
+rat,Animals,tail,1,6,E,E-EXCOMP,E,E-EXCOMP
+ray,Animals,animal,1,6,T,T-SUPER,T,T-ONT
+ray,Animals,catched,1,7,S,S-ACTION,S,S-ACTION
+ray,Animals,eaten,1,12,S,S-ACTION,S,S-ACTION
+ray,Animals,fish,1,8,T,T-SUPER,T,T-SYN
+ray,Animals,poisonous,1,5,E,E-SYS,E,E-SYS
+ray,Animals,swims,1,6,E,E-BEH,E,E-BEH
+ray,Animals,tail,1,9,E,E-EXCOMP,E,E-EXCOMP
+ray,Animals,sea,1,12,S,S-LOC,S,S-LOC
+ray,Animals,water,1,7,S,S-LOC,S,S-LOC
+record player,Devices,ancient,1,15,S,S-TIME,E,E-SYS
+record player,Devices,dance,1,5,S,S-EVENT,S,S-FUNC
+record player,Devices,disks,1,8,S,S-OBJECT,S,S-FUNC
+record player,Devices,music,1,13,S,S-FUNC,S,S-SOCART
+record player,Devices,listening,1,5,S,S-FUNC,S,S-FUNC
+record player,Devices,pick,1,5,E,E-EXCOMP,E,E-EXCOMP
+refrigerator,Devices,cools,1,7,E,E-BEH,S,S-FUNC
+refrigerator,Devices,food,1,6,S,S-OBJECT,S,S-OBJECT
+refrigerator,Devices,food,1,5,S,S-OBJECT,S,S-OBJECT
+refrigerator,Devices,freezes,1,5,E,E-BEH,S,S-FUNC
+refrigerator,Devices,preserving,1,6,S,S-FUNC,S,S-FUNC
+refrigerator,Devices,white,1,11,E,E-EXSURF,E,E-EXSURF
+refrigerator,Devices,cold,1,9,E,E-BEH,E,E-SYS
+refrigerator,Devices,freezer,1,5,E,E-EXCOMP,E,E-EXCOMP
+rhea,Animals,animal,1,14,T,T-SUPER,T,T-ONT
+rhea,Animals,big,1,7,E,E-QUANT,E,E-QUANT
+rhea,Animals,bird,1,13,T,T-SUPER,T,T-SYN
+rhea,Animals,fast,1,13,E,E-SYS,E,E-SYS
+rhea,Animals,runs,1,10,E,E-BEH,E,E-BEH
+rhea,Animals,feathers,1,11,E,E-EXCOMP,E,E-EXCOMP
+rhea,Animals,eggs,1,10,E,E-BEH,E,E-EXCOMP
+rhinoceros,Animals,animal,1,16,T,T-SUPER,T,T-ONT
+rhinoceros,Animals,big,1,18,E,E-QUANT,E,E-SYS
+rhinoceros,Animals,gray,1,12,E,E-EXSURF,E,E-EXSURF
+rhinoceros,Animals,herbivorous,1,5,T,T-SUPER,E,E-BEH
+rhinoceros,Animals,wild,1,8,E,E-SYS,E,E-SYS
+rhinoceros,Animals,horn,1,10,E,E-EXCOMP,E,E-EXCOMP
+rhinoceros,Animals,jungle,1,7,S,S-LOC,S,S-LOC
+ring,Accessories,jewel,1,6,T,T-SUPER,T,T-SUPER
+ring,Accessories,ornament,1,5,T,T-SUPER,T,T-SUPER
+ring,Accessories,round,1,8,E,E-EXSURF,E,E-EXSURF
+ring,Accessories,finger,1,8,S,S-LOC,S,S-LOC
+ring,Accessories,commitment,1,10,S,S-SOCART,I,I-REP
+ring,Accessories,wedding ring,2,8,T,T-SUBORD,T,T-SUBORD
+ring,Accessories,gold,1,14,E,E-MAT,E,E-MAT
+ring,Accessories,platinum,1,5,E,E-MAT,E,E-MAT
+ring,Accessories,silver,1,7,E,E-MAT,E,E-MAT
+rocket,Vehicles,fast,1,9,E,E-SYS,E,E-SYS
+rocket,Vehicles,noisy,1,6,E,E-SYS,E,E-SYS
+rocket,Vehicles,spatial,1,5,T,T-SUBORD,S,S-SPAT
+rocket,Vehicles,speed,1,5,E,E-SYS,E,E-SYS
+rocket,Vehicles,travel,1,5,S,S-FUNC,S,S-FUNC
+rocket,Vehicles,moon,1,6,E,E-BEH,S,S-LOC
+rocket,Vehicles,transportation,1,6,T,T-SUPER,S,S-FUNC
+rocket,Vehicles,space,1,11,S,S-LOC,S,S-LOC
+rocking chair,Furniture,chair,1,6,T,T-SUPER,T,T-SUPER
+rocking chair,Furniture,comfortable,1,6,I,I-EVAL,E,E-SYS
+rocking chair,Furniture,grandmothers,1,14,S,S-PERSON,S,S-PERSON
+rocking chair,Furniture,relaxing,1,9,S,S-FUNC,S,S-FUNC
+rocking chair,Furniture,resting,1,7,S,S-FUNC,S,S-FUNC
+rocking chair,Furniture,rocking,1,6,S,S-FUNC,S,S-ACTION
+rocking chair,Furniture,sleeping,1,7,S,S-FUNC,S,S-FUNC
+rocking chair,Furniture,wicker,1,5,E,E-MAT,E,E-MAT
+rocking chair,Furniture,wood,1,10,E,E-MAT,E,E-MAT
+roller skate,Objects,sport,1,11,T,T-SUPER,S,S-EVENT
+roller skate,Objects,sliding,1,9,S,S-FUNC,S,S-ACTION
+roller skate,Objects,ice,1,5,S,S-LOC,S,S-LOC
+roller skate,Objects,wheels,1,17,E,E-EXCOMP,E,E-EXCOMP
+rolling pin,Utensils,dough,1,6,S,S-OBJECT,S,S-FUNC
+rolling pin,Utensils,hard,1,6,E,E-EXSURF,E,E-SYS
+rolling pin,Utensils,kneading,1,9,S,S-FUNC,S,S-ACTION
+rolling pin,Utensils,pasta,1,8,S,S-FUNC,S,S-OBJECT
+rolling pin,Utensils,useful,1,5,I,I-EVAL,S,S-FUNC
+rolling pin,Utensils,utensil,1,7,T,T-SUPER,T,T-SUPER
+rolling pin,Utensils,wood,1,17,E,E-MAT,E,E-MAT
+rolling pin,Utensils,kitchen,1,17,S,S-LOC,S,S-LOC
+rooster,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+rooster,Animals,bird,1,12,T,T-SUPER,T,T-ONT
+rooster,Animals,hen,1,9,T,T-COORD,T,T-COORD
+rooster,Animals,henhouse,1,10,S,S-LOC,S,S-LOC
+rooster,Animals,sings,1,15,E,E-BEH,E,E-BEH
+rooster,Animals,feathers,1,10,E,E-EXCOMP,E,E-EXCOMP
+rooster,Animals,comb,1,12,E,E-EXCOMP,E,E-EXCOMP
+rooster,Animals,countryside,1,8,S,S-LOC,S,S-LOC
+rope,Objects,long,1,6,E,E-QUANT,E,E-QUANT
+rope,Objects,string,1,5,T,T-SYN,T,T-SYN
+rope,Objects,hanging,1,6,S,S-FUNC,S,S-ACTION
+rope,Objects,clothes,1,6,E,E-MAT,S,S-OBJECT
+rope,Objects,jumping,1,14,S,S-FUNC,S,S-ACTION
+rope,Objects,tying,1,18,S,S-FUNC,S,S-FUNC
+rose,Plants,flower,1,18,T,T-SUPER,T,T-ONT
+rose,Plants,nice,1,10,S,S-ACTION,I,I-EVAL
+rose,Plants,nice,1,8,S,S-ACTION,I,I-EVAL
+rose,Plants,nice,1,10,I,I-EVAL,I,I-EVAL
+rose,Plants,nice,1,8,I,I-EVAL,I,I-EVAL
+rose,Plants,present,1,5,I,I-REP,S,S-OBJECT
+rose,Plants,colors,1,10,E,E-EXSURF,E,E-EXSURF
+rose,Plants,perfume,1,14,E,E-EXSURF,S,S-FUNC
+rose,Plants,thorns,1,5,E,E-EXCOMP,E,E-EXCOMP
+rose,Plants,love,1,5,S,S-SOCART,I,I-EMOT
+rose,Plants,garden,1,11,S,S-LOC,S,S-LOC
+rugby ball,Objects,oval,1,19,E,E-EXSURF,E,E-EXSURF
+rugby ball,Objects,playing,1,12,S,S-FUNC,S,S-FUNC
+rugby ball,Objects,playing,1,8,S,S-FUNC,S,S-FUNC
+rugby ball,Objects,leather,1,13,E,E-MAT,E,E-MAT
+ruler,Utensils,measuring,1,13,S,S-FUNC,S,S-FUNC
+ruler,Utensils,number,1,6,E,E-EXSURF,S,S-FUNC
+ruler,Utensils,plastic,1,6,E,E-MAT,E,E-MAT
+ruler,Utensils,wood,1,7,E,E-MAT,E,E-MAT
+saddle,Objects,mounting,1,10,S,S-FUNC,S,S-ACTION
+saddle,Objects,stirrups,1,10,E,E-EXCOMP,E,E-EXCOMP
+saddle,Objects,leather,1,16,E,E-MAT,E,E-MAT
+saddle,Objects,riding,1,26,S,S-FUNC,S,S-ACTION
+safe,Containers,documents,1,5,S,S-OBJECT,S,S-OBJECT
+safe,Containers,jewelry,1,5,S,S-OBJECT,S,S-FUNC
+safe,Containers,money,1,13,S,S-OBJECT,S,S-OBJECT
+safe,Containers,safety,1,23,S,S-SOCART,S,S-FUNC
+safe,Containers,storing,1,21,S,S-FUNC,S,S-FUNC
+safe,Containers,key,1,7,E,E-SYS,S,S-OBJECT
+safe,Containers,metal,1,5,E,E-MAT,E,E-MAT
+safe,Containers,bank,1,7,S,S-LOC,S,S-BUILD
+sailboat,Vehicles,has_sail,1,7,E,E-EXCOMP,E,E-EXCOMP
+sailboat,Vehicles,ship,1,7,T,T-SUPER,T,T-SYN
+sailboat,Vehicles,wind,1,6,I,I-CONTIN,S,S-OBJECT
+sailboat,Vehicles,sea,1,14,S,S-LOC,S,S-LOC
+salt shaker,Utensils,container,1,7,T,T-SUPER,T,T-ONT
+salt shaker,Utensils,flavor,1,5,S,S-FUNC,S,S-FUNC
+salt shaker,Utensils,food,1,9,S,S-OBJECT,S,S-OBJECT
+salt shaker,Utensils,salting,1,6,S,S-FUNC,S,S-FUNC
+salt shaker,Utensils,salt,1,18,E,E-INCOMP,E,E-INCOMP
+salt shaker,Utensils,holes,1,5,E,E-EXSURF,E,E-EXCOMP
+salt shaker,Utensils,spices,1,5,E,E-INCOMP,S,S-SOCART
+salt shaker,Utensils,glass,1,10,E,E-MAT,E,E-MAT
+salt shaker,Utensils,table,1,6,S,S-SPAT,S,S-LOC
+sandwich,Food,convenient,1,7,I,I-EVAL,I,I-EVAL
+sandwich,Food,fast,1,5,E,E-SYS,S,S-MANNER
+sandwich,Food,food,1,13,T,T-SUPER,T,T-SUPER
+sandwich,Food,foodstuff,1,5,T,T-SUPER,T,T-SYN
+sandwich,Food,picnic,1,6,S,S-EVENT,S,S-EVENT
+sandwich,Food,varied,1,5,T,T-SUBORD,E,E-INSURF
+sandwich,Food,bread,1,12,E,E-EXCOMP,E,E-EXCOMP
+sandwich,Food,good,1,20,I,I-EVAL,I,I-EVAL
+sandwich,Food,cold meat,2,9,E,E-EXCOMP,E,E-INCOMP
+sandwich,Food,ham and cheese,3,6,E,E-INCOMP,E,E-EXCOMP
+saw,Tools,carpenter,1,6,S,S-PERSON,S,S-PERSON
+saw,Tools,tool,1,17,T,T-SUPER,T,T-SYN
+saw,Tools,cutting,1,17,S,S-FUNC,S,S-ACTION
+saw,Tools,grip,1,5,E,E-EXCOMP,E,E-EXCOMP
+saw,Tools,teeth,1,6,E,E-INCOMP,E,E-EXCOMP
+saw,Tools,cutting,1,16,S,S-FUNC,S,S-ACTION
+saw,Tools,metal,1,7,E,E-MAT,E,E-MAT
+saw,Tools,cutting,1,6,S,S-FUNC,S,S-ACTION
+saxophone,Musical instruments,band,1,6,S,S-SOCORG,S,S-SOCORG
+saxophone,Musical instruments,golden,1,7,E,E-EXSURF,E,E-EXSURF
+saxophone,Musical instruments,music,1,21,S,S-FUNC,S,S-EVENT
+saxophone,Musical instruments,orchestra,1,7,E,E-WHOLE,S,S-SOCORG
+saxophone,Musical instruments,sound,1,5,S,S-FUNC,E,E-ABSTR
+saxophone,Musical instruments,musical instrument,2,20,T,T-SUPER,T,T-SUPER
+saxophone,Musical instruments,wind musical intrument,3,11,T,T-SUPER,T,T-SUPER
+scale,Devices,balance,1,5,E,E-ABSTR,S,S-FUNC
+scale,Devices,weighing,1,22,S,S-FUNC,S,S-FUNC
+scissors,Utensils,dressmaker,1,6,S,S-PERSON,S,S-PERSON
+scissors,Utensils,sharp,1,15,E,E-EXSURF,E,E-SYS
+scissors,Utensils,cutting,1,27,S,S-FUNC,S,S-FUNC
+scissors,Utensils,useful,1,5,I,I-EVAL,I,I-EVAL
+scissors,Utensils,cutting,1,6,S,S-FUNC,S,S-FUNC
+scissors,Utensils,cutting,1,5,S,S-FUNC,S,S-FUNC
+scissors,Utensils,cutting,1,6,S,S-FUNC,S,S-FUNC
+scissors,Utensils,metal,1,9,E,E-MAT,E,E-MAT
+scorpion,Animals,animal,1,15,T,T-SUPER,T,T-ONT
+scorpion,Animals,bites,1,6,E,E-BEH,E,E-BEH
+scorpion,Animals,dangerous,1,13,I,I-EVAL,E,E-SYS
+scorpion,Animals,insect,1,9,T,T-SUPER,T,T-ONT
+scorpion,Animals,poisonous,1,18,E,E-SYS,E,E-SYS
+scorpion,Animals,rocks,1,5,S,S-LOC,S,S-LOC
+screw,Tools,screwdriver,1,5,S,S-OBJECT,S,S-OBJECT
+screw,Tools,tool,1,15,T,T-SUPER,T,T-SUPER
+screw,Tools,fastenning,1,6,S,S-FUNC,S,S-FUNC
+screw,Tools,furniture,1,5,S,S-OBJECT,S,S-OBJECT
+screw,Tools,joining,1,10,S,S-FUNC,S,S-FUNC
+screw,Tools,useful,1,7,I,I-EVAL,I,I-EVAL
+screw,Tools,metal,1,18,E,E-MAT,E,E-MAT
+screwdriver,Tools,screw,1,20,S,S-OBJECT,S,S-OBJECT
+screwdriver,Tools,tool,1,18,T,T-SUPER,T,T-SUPER
+screwdriver,Tools,screws,1,5,S,S-FUNC,S,S-FUNC
+screwdriver,Tools,wood,1,5,S,S-OBJECT,S,S-ACTION
+screwdriver,Tools,work,1,9,E,E-SYS,S,S-FUNC
+screwdriver,Tools,metal,1,5,E,E-MAT,E,E-MAT
+sea horse,Animals,animal,1,6,T,T-SUPER,T,T-ONT
+sea horse,Animals,fish,1,9,T,T-SUPER,T,T-SUPER
+sea horse,Animals,love,1,7,S,S-SOCART,I,I-EMOT
+sea horse,Animals,nice,1,9,I,I-EVAL,I,I-EVAL
+sea horse,Animals,small,1,10,E,E-QUANT,E,E-SYS
+sea horse,Animals,sea,1,10,S,S-LOC,S,S-LOC
+sea horse,Animals,water,1,9,S,S-LOC,S,S-LOC
+sea wolfe,Animals,animal,1,12,T,T-SUPER,T,T-SUPER
+sea wolfe,Animals,black,1,5,E,E-EXSURF,E,E-EXSURF
+sea wolfe,Animals,wiskers,1,6,E,E-EXCOMP,E,E-EXCOMP
+sea wolfe,Animals,unpleasant,1,9,I,I-EVAL,I,I-EVAL
+sea wolfe,Animals,sea,1,15,S,S-LOC,S,S-LOC
+seal,Animals,animal,1,22,T,T-SUPER,T,T-ONT
+seal,Animals,mammal,1,6,T,T-SUPER,T,T-SUPER
+seal,Animals,swims,1,6,E,E-BEH,E,E-BEH
+seal,Animals,eats,1,6,E,E-BEH,E,E-BEH
+seal,Animals,fins,1,5,E,E-EXCOMP,E,E-EXCOMP
+seal,Animals,wiskers,1,7,E,E-EXCOMP,E,E-EXCOMP
+seal,Animals,sea,1,17,S,S-LOC,S,S-LOC
+seal,Animals,water,1,11,S,S-LOC,S,S-LOC
+shark,Animals,aggressive,1,8,E,E-SYS,E,E-SYS
+shark,Animals,animal,1,6,T,T-SUPER,T,T-ONT
+shark,Animals,big,1,13,E,E-QUANT,E,E-SYS
+shark,Animals,catched,1,5,S,S-ACTION,S,S-ACTION
+shark,Animals,dangerous,1,5,I,I-EVAL,E,E-SYS
+shark,Animals,fear,1,6,I,I-EVAL,I,I-EMOT
+shark,Animals,fish,1,7,T,T-SUPER,T,T-SUPER
+shark,Animals,movie,1,5,S,S-SOCART,S,S-SOCART
+shark,Animals,white,1,5,E,E-EXSURF,E,E-EXSURF
+shark,Animals,teeth,1,9,E,E-INCOMP,E,E-EXCOMP
+shark,Animals,sea,1,13,S,S-LOC,S,S-LOC
+shark,Animals,water,1,5,S,S-LOC,S,S-LOC
+sheep,Animals,animal,1,14,T,T-SUPER,T,T-ONT
+sheep,Animals,fabric,1,5,S,S-OBJECT,S,S-OBJECT
+sheep,Animals,good,1,9,I,I-EVAL,I,I-EVAL
+sheep,Animals,mammal,1,6,T,T-SUPER,T,T-ONT
+sheep,Animals,meek,1,9,E,E-SYS,E,E-SYS
+sheep,Animals,quadruped,1,5,T,T-SUPER,E,E-SYS
+sheep,Animals,coats,1,6,S,S-ACTION,E,E-MAT
+sheep,Animals,eats,1,6,E,E-BEH,E,E-BEH
+sheep,Animals,eats,1,7,E,E-BEH,E,E-BEH
+sheep,Animals,wool,1,27,E,E-EXCOMP,E,E-EXCOMP
+sheep,Animals,meat,1,8,S,S-FUNC,E,E-MAT
+sheep,Animals,countryside,1,9,S,S-LOC,S,S-LOC
+shirt,Clothing,clothing,1,17,T,T-SUPER,T,T-SYN
+shirt,Clothing,comfortable,1,6,I,I-EVAL,I,I-EVAL
+shirt,Clothing,elegant,1,7,I,I-EVAL,E,E-SYS
+shirt,Clothing,colors,1,8,E,E-EXSURF,E,E-EXSURF
+shirt,Clothing,buttons,1,14,E,E-EXCOMP,E,E-EXCOMP
+shirt,Clothing,collar,1,5,E,E-EXCOMP,E,E-EXCOMP
+shoe,Clothing,comfortable,1,9,I,I-EVAL,E,E-SYS
+shoe,Clothing,protecting,1,6,S,S-FUNC,S,S-FUNC
+shoe,Clothing,walking,1,8,S,S-FUNC,S,S-FUNC
+shoe,Clothing,feet,1,6,T,T-SUPER,E,E-WHOLE
+shoe,Clothing,shoelaces,1,5,E,E-EXCOMP,E,E-EXCOMP
+shoe,Clothing,leather,1,14,E,E-MAT,E,E-MAT
+shovel,Tools,mason,1,5,S,S-PERSON,S,S-PERSON
+shovel,Tools,tool,1,12,T,T-SUPER,T,T-SUPER
+shovel,Tools,digging,1,8,S,S-FUNC,S,S-FUNC
+shovel,Tools,gardening,1,8,S,S-FUNC,S,S-FUNC
+shovel,Tools,planting,1,5,S,S-FUNC,S,S-ACTION
+shovel,Tools,working,1,12,S,S-FUNC,S,S-ACTION
+shovel,Tools,dust,1,18,S,S-FUNC,S,S-OBJECT
+showerhead,House parts,cleanliness,1,9,S,S-SOCART,S,S-FUNC
+showerhead,House parts,hot,1,8,E,E-EXSURF,E,E-SYS
+showerhead,House parts,hygiene,1,5,I,I-REP,S,S-FUNC
+showerhead,House parts,rain,1,5,S,S-FUNC,S,S-OBJECT
+showerhead,House parts,relaxing,1,7,I,I-EVAL,S,S-FUNC
+showerhead,House parts,bathing,1,6,S,S-FUNC,S,S-FUNC
+showerhead,House parts,water,1,14,E,E-SYS,S,S-OBJECT
+showerhead,House parts,bathroom,1,16,S,S-LOC,S,S-LOC
+skeleton,Body parts,bones,1,20,S,S-OBJECT,E,E-EXCOMP
+skeleton,Body parts,death,1,7,S,S-SOCART,S,S-EVENT
+skeleton,Body parts,osseous,1,5,E,E-EXCOMP,E,E-MAT
+skeleton,Body parts,body,1,9,S,S-FUNC,E,E-WHOLE
+skirt,Clothing,clothing,1,22,T,T-SUPER,T,T-SUPER
+skirt,Clothing,long,1,13,E,E-QUANT,E,E-QUANT
+skirt,Clothing,skirt,1,5,T,T-SYN,T,T-SYN
+skirt,Clothing,women,1,15,S,S-PERSON,S,S-PERSON
+skirt,Clothing,colors,1,6,E,E-EXSURF,E,E-EXSURF
+skirt,Clothing,warm clothing,2,6,T,T-SUPER,S,S-FUNC
+skirt,Clothing,short,1,16,E,E-QUANT,E,E-QUANT
+skirt,Clothing,fabric,1,9,E,E-MAT,E,E-MAT
+skull,Body parts,bones,1,7,S,S-OBJECT,E,E-INCOMP
+skull,Body parts,death,1,13,S,S-SOCART,S,S-EVENT
+skull,Body parts,skeleton,1,5,E,E-WHOLE,T,T-SUBORD
+skull,Body parts,terror,1,7,I,I-EVAL,I,I-EMOT
+skull,Body parts,human skull,2,5,T,T-SUBORD,T,T-SYN
+skunk,Animals,animal,1,17,T,T-SUPER,T,T-ONT
+skunk,Animals,black,1,5,E,E-EXSURF,E,E-EXSURF
+skunk,Animals,small,1,5,E,E-QUANT,E,E-QUANT
+skunk,Animals,smelly,1,28,E,E-EXSURF,E,E-SYS
+skunk,Animals,ugly,1,7,I,I-EVAL,I,I-EVAL
+skunk,Animals,black and white,3,9,E,E-EXSURF,E,E-EXSURF
+skunk,Animals,tail,1,5,E,E-EXCOMP,E,E-EXCOMP
+skunk,Animals,countryside,1,9,S,S-LOC,S,S-LOC
+sled,Vehicles,slides,1,5,E,E-BEH,E,E-BEH
+sled,Vehicles,snow,1,23,S,S-FUNC,S,S-LOC
+sled,Vehicles,transportation,1,15,T,T-SUPER,S,S-FUNC
+sled,Vehicles,pulled,1,13,S,S-LIVING,S,S-ACTION
+snail,Animals,slimy,1,15,E,E-SYS,E,E-EXSURF
+snail,Animals,slow,1,10,E,E-SYS,E,E-BEH
+snail,Animals,eats,1,5,E,E-BEH,E,E-BEH
+snail,Animals,shell,1,7,E,E-EXCOMP,E,E-EXCOMP
+snake,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+snake,Animals,dangerous,1,8,I,I-EVAL,E,E-SYS
+snake,Animals,fear,1,8,I,I-EVAL,I,I-EMOT
+snake,Animals,long,1,8,E,E-QUANT,E,E-SYS
+snake,Animals,poisonous,1,11,E,E-SYS,E,E-SYS
+snake,Animals,repulsive,1,5,I,I-EVAL,I,I-EVAL
+snowman,Toys,children,1,9,S,S-PERSON,S,S-PERSON
+snowman,Toys,cold,1,16,E,E-SYS,E,E-SYS
+snowman,Toys,fun,1,10,E,E-ABSTR,I,I-EMOT
+snowman,Toys,playing,1,11,S,S-FUNC,S,S-ACTION
+snowman,Toys,winter,1,6,S,S-TIME,S,S-TIME
+snowman,Toys,carrot,1,7,E,E-EXCOMP,S,S-OBJECT
+snowman,Toys,snow,1,13,E,E-MAT,E,E-MAT
+sock,Clothing,clothing,1,13,T,T-SUPER,T,T-SUPER
+sock,Clothing,warm,1,11,S,S-FUNC,E,E-SYS
+sock,Clothing,feet,1,17,T,T-SUPER,S,S-PERSON
+sock,Clothing,colors,1,6,E,E-EXSURF,E,E-EXSURF
+sock,Clothing,warm clothing,2,8,T,T-SUPER,E,E-SYS
+spatula,Utensils,paint,1,5,E,E-INCOMP,S,S-OBJECT
+spatula,Utensils,food,1,5,S,S-FUNC,S,S-FUNC
+spatula,Utensils,scraping,1,5,S,S-FUNC,S,S-FUNC
+spatula,Utensils,metal,1,6,E,E-MAT,E,E-MAT
+spatula,Utensils,wood,1,6,E,E-MAT,E,E-MAT
+spatula,Utensils,kitchen,1,10,S,S-LOC,S,S-LOC
+spider,Animals,bites,1,7,E,E-BEH,E,E-BEH
+spider,Animals,black,1,8,E,E-EXSURF,E,E-EXSURF
+spider,Animals,dangerous,1,6,I,I-EVAL,E,E-SYS
+spider,Animals,insect,1,17,T,T-SUPER,T,T-SYN
+spider,Animals,poisonous,1,8,E,E-SYS,E,E-SYS
+spider,Animals,spiderweb,1,11,E,E-BEH,E,E-WHOLE
+spider,Animals,ugly,1,6,I,I-EVAL,I,I-EVAL
+spider,Animals,hair,1,10,E,E-EXCOMP,E,E-EXCOMP
+spider,Animals,legs,1,17,E,E-EXCOMP,E,E-EXCOMP
+spider web,Constructions,dirt,1,7,S,S-PHYST,S,S-OBJECT
+spider web,Constructions,fabric,1,9,S,S-OBJECT,E,E-MAT
+spider web,Constructions,fine,1,10,E,E-EXSURF,E,E-EXSURF
+spider web,Constructions,sticky,1,6,E,E-EXSURF,E,E-EXSURF
+spider web,Constructions,trap,1,5,S,S-FUNC,S,S-FUNC
+spider web,Constructions,capturing,1,8,S,S-FUNC,E,E-BEH
+spider web,Constructions,capturing insects,2,5,S,S-FUNC,S,S-FUNC
+spider web,Constructions,spiderweb,1,11,S,S-LIVING,T,T-SYN
+spin,Toys,children,1,11,S,S-PERSON,S,S-PERSON
+spin,Toys,colorful,1,8,E,E-EXSURF,I,I-EVAL
+spin,Toys,funny,1,6,E,E-SYS,I,I-EMOT
+spin,Toys,spins,1,16,E,E-BEH,E,E-BEH
+spin,Toys,toy,1,19,T,T-SUPER,T,T-SYN
+spin,Toys,wood,1,8,E,E-MAT,E,E-MAT
+spinning wheel,Devices,fabric,1,9,S,S-OBJECT,S,S-FUNC
+spinning wheel,Devices,thread,1,11,S,S-OBJECT,S,S-FUNC
+spinning wheel,Devices,wool,1,7,S,S-OBJECT,S,S-OBJECT
+spinning wheel,Devices,spinning wheel,2,5,S,S-OBJECT,T,T-SYN
+spoon,Utensils,cutlery,1,10,T,T-SUPER,T,T-SUPER
+spoon,Utensils,eating,1,10,S,S-FUNC,S,S-FUNC
+spoon,Utensils,stirring,1,8,S,S-FUNC,S,S-ACTION
+spoon,Utensils,utensil,1,11,T,T-SUPER,T,T-SYN
+spoon,Utensils,soup,1,14,S,S-FUNC,S,S-OBJECT
+spoon,Utensils,metal,1,6,E,E-MAT,E,E-MAT
+spoon,Utensils,wood,1,6,E,E-MAT,E,E-MAT
+spoon,Utensils,kitchen,1,7,S,S-LOC,S,S-LOC
+squash,Vegetables,food,1,9,T,T-SUPER,T,T-SUPER
+squash,Vegetables,foodstuff,1,7,T,T-SUPER,T,T-SUPER
+squash,Vegetables,green,1,5,E,E-EXSURF,E,E-EXSURF
+squash,Vegetables,healthy,1,5,E,E-SYS,E,E-SYS
+squash,Vegetables,orange,1,9,E,E-EXSURF,E,E-EXSURF
+squash,Vegetables,sweet,1,8,E,E-INSURF,E,E-INSURF
+squash,Vegetables,puree,1,6,S,S-ACTION,S,S-PROD
+squash,Vegetables,vegetable,1,13,T,T-SUPER,T,T-SUPER
+squash,Vegetables,good,1,5,I,I-EVAL,I,I-EVAL
+squirrel,Animals,animal,1,21,T,T-SUPER,T,T-ONT
+squirrel,Animals,brown,1,8,E,E-EXSURF,E,E-EXSURF
+squirrel,Animals,cute,1,8,I,I-EVAL,I,I-EVAL
+squirrel,Animals,fast,1,9,E,E-SYS,E,E-SYS
+squirrel,Animals,small,1,12,E,E-QUANT,E,E-QUANT
+squirrel,Animals,eats,1,6,E,E-BEH,E,E-BEH
+squirrel,Animals,hair,1,7,E,E-EXCOMP,E,E-EXCOMP
+squirrel,Animals,tree,1,9,S,S-LOC,S,S-LIVING
+star,Nature,brilliant,1,14,E,E-EXSURF,E,E-EXSURF
+star,Nature,distant,1,5,S,S-LOC,E,E-SYS
+star,Nature,luminous,1,5,S,S-SPAT,E,E-EXSURF
+star,Nature,night,1,11,E,E-BEH,S,S-TIME
+star,Nature,light,1,13,E,E-EXSURF,E,E-EXSURF
+star,Nature,sky,1,10,S,S-TIME,S,S-LOC
+starfish,Animals,mollusk,1,5,S,S-LOC,T,T-SUPER
+starfish,Animals,sea,1,9,S,S-LOC,S,S-LOC
+stethoscope,Tools,heart,1,6,S,S-FUNC,S,S-FUNC
+stethoscope,Tools,instrument,1,6,E,E-MAT,T,T-SYN
+stethoscope,Tools,physician,1,21,S,S-PERSON,S,S-PERSON
+stethoscope,Tools,heartbeats,1,10,S,S-PERSON,S,S-FUNC
+stethoscope,Tools,listening,1,8,S,S-FUNC,S,S-FUNC
+stethoscope,Tools,metal,1,6,E,E-MAT,E,E-MAT
+stethoscope,Tools,hospital,1,5,T,T-SUPER,S,S-LOC
+stool,Furniture,comfortable,1,9,I,I-EVAL,E,E-SYS
+stool,Furniture,seat,1,7,T,T-SUPER,S,S-FUNC
+stool,Furniture,tall,1,7,E,E-QUANT,E,E-QUANT
+stool,Furniture,resting,1,5,S,S-FUNC,S,S-FUNC
+stool,Furniture,sitting,1,12,S,S-FUNC,S,S-FUNC
+stool,Furniture,metal,1,6,E,E-MAT,E,E-MAT
+stool,Furniture,wood,1,18,E,E-MAT,E,E-MAT
+stool,Furniture,square,1,13,S,S-LOC,E,E-EXSURF
+stork,Animals,animal,1,7,T,T-SUPER,T,T-ONT
+stork,Animals,bird,1,12,T,T-SUPER,T,T-SYN
+stork,Animals,flies,1,13,E,E-BEH,E,E-BEH
+stork,Animals,white,1,5,E,E-EXSURF,E,E-EXSURF
+stork,Animals,babies,1,8,S,S-SOCART,S,S-PERSON
+stork,Animals,feathers,1,12,E,E-EXCOMP,E,E-EXCOMP
+stork,Animals,legs,1,5,E,E-EXCOMP,E,E-EXCOMP
+stork,Animals,beak,1,15,E,E-EXCOMP,E,E-EXCOMP
+stork,Animals,lagoon,1,6,S,S-LOC,S,S-LOC
+stove,Devices,food,1,9,S,S-OBJECT,S,S-OBJECT
+stove,Devices,cooking,1,10,S,S-FUNC,S,S-FUNC
+stove,Devices,gas stove,2,5,S,S-OBJECT,T,T-SUBORD
+stove,Devices,oven,1,5,E,E-INCOMP,E,E-INCOMP
+strawberry,Fruits,cream,1,8,S,S-OBJECT,S,S-OBJECT
+strawberry,Fruits,dessert,1,7,T,T-SUPER,S,S-EVENT
+strawberry,Fruits,fruit,1,25,T,T-SUPER,T,T-SUPER
+strawberry,Fruits,red,1,21,E,E-EXSURF,E,E-EXSURF
+strawberry,Fruits,sweet,1,8,E,E-INSURF,E,E-INSURF
+strawberry,Fruits,ice cream,2,5,S,S-OBJECT,S,S-OBJECT
+strawberry,Fruits,good,1,14,I,I-EVAL,I,I-EVAL
+stroller,Vehicles,baby,1,25,S,S-PERSON,S,S-PERSON
+stroller,Vehicles,toy,1,5,T,T-SUBORD,S,S-OBJECT
+stroller,Vehicles,riding,1,13,S,S-FUNC,S,S-ACTION
+stroller,Vehicles,wheels,1,12,E,E-EXCOMP,E,E-EXCOMP
+stroller,Vehicles,plastic,1,7,E,E-MAT,E,E-MAT
+suitcase,Containers,clothes,1,17,S,S-OBJECT,S,S-OBJECT
+suitcase,Containers,holidays,1,5,S,S-EVENT,S,S-EVENT
+suitcase,Containers,joy,1,5,I,I-EMOT,I,I-EMOT
+suitcase,Containers,tirp,1,24,S,S-EVENT,S,S-EVENT
+suitcase,Containers,traveling,1,5,S,S-FUNC,S,S-EVENT
+suitcase,Containers,wheels,1,5,E,E-EXCOMP,E,E-EXCOMP
+suitcase,Containers,leather,1,7,E,E-MAT,E,E-MAT
+sun,Nature,day,1,5,S,S-TIME,S,S-TIME
+sun,Nature,heats,1,14,E,E-BEH,S,S-FUNC
+sun,Nature,star,1,7,T,T-SUPER,T,T-SYN
+sun,Nature,life,1,7,E,E-BEH,S,S-FUNC
+sun,Nature,lights up,2,5,S,S-FUNC,S,S-FUNC
+sun,Nature,sky,1,6,S,S-TIME,S,S-LOC
+swan,Animals,animal,1,10,T,T-SUPER,T,T-ONT
+swan,Animals,bird,1,6,T,T-SUPER,T,T-SUPER
+swan,Animals,elegant,1,7,I,I-EVAL,E,E-SYS
+swan,Animals,nice,1,10,I,I-EVAL,I,I-EVAL
+swan,Animals,swims,1,5,E,E-BEH,E,E-BEH
+swan,Animals,white,1,8,E,E-EXSURF,E,E-EXSURF
+swan,Animals,feathers,1,10,E,E-EXCOMP,E,E-EXCOMP
+swan,Animals,eggs,1,5,E,E-BEH,E,E-EXCOMP
+swan,Animals,beak,1,5,E,E-EXCOMP,E,E-EXCOMP
+swan,Animals,lake,1,10,S,S-LOC,S,S-LOC
+swan,Animals,water,1,11,S,S-LOC,S,S-LOC
+sweater,Clothing,clothing,1,7,T,T-SUPER,T,T-SUPER
+sweater,Clothing,long,1,5,E,E-QUANT,E,E-QUANT
+sweater,Clothing,warm,1,7,S,S-FUNC,E,E-SYS
+sweater,Clothing,warm,1,6,E,E-SYS,E,E-SYS
+sweater,Clothing,warm clothing,2,5,T,T-SUPER,S,S-FUNC
+sweater,Clothing,wool,1,12,E,E-MAT,E,E-MAT
+sweater,Clothing,polar fleece,2,8,E,E-MAT,E,E-MAT
+sweater,Clothing,cold,1,5,S,S-FUNC,S,S-FUNC
+swing,Furniture,childhood,1,5,S,S-TIME,I,I-REP
+swing,Furniture,children,1,19,S,S-PERSON,S,S-PERSON
+swing,Furniture,funny,1,9,E,E-SYS,I,I-EVAL
+swing,Furniture,game,1,11,T,T-SUPER,S,S-EVENT
+swing,Furniture,joy,1,5,I,I-EVAL,I,I-EMOT
+swing,Furniture,movement,1,6,E,E-SYS,S,S-ACTION
+swing,Furniture,wood,1,6,E,E-MAT,E,E-MAT
+swing,Furniture,square,1,18,S,S-LOC,S,S-SPAT
+swordfish,Animals,catched,1,5,S,S-ACTION,S,S-ACTION
+swordfish,Animals,eaten,1,8,S,S-ACTION,S,S-ACTION
+swordfish,Animals,fish,1,5,T,T-SUPER,T,T-SUPER
+swordfish,Animals,sea,1,15,S,S-LOC,S,S-LOC
+syringe,Tools,poke,1,5,S,S-ACTION,S,S-ACTION
+syringe,Tools,shot,1,10,S,S-FUNC,S,S-ACTION
+syringe,Tools,blood,1,9,S,S-FUNC,S,S-OBJECT
+syringe,Tools,vaccine,1,6,S,S-OBJECT,S,S-OBJECT
+syringe,Tools,paint,1,6,I,I-CONTIN,S,S-OBJECT
+table,Furniture,big,1,5,E,E-QUANT,E,E-QUANT
+table,Furniture,brown,1,5,E,E-EXSURF,E,E-EXSURF
+table,Furniture,meeting,1,6,S,S-EVENT,S,S-EVENT
+table,Furniture,rectangular,1,6,E,E-EXSURF,E,E-EXSURF
+table,Furniture,round,1,10,E,E-EXSURF,E,E-EXSURF
+table,Furniture,square,1,9,E,E-EXSURF,E,E-EXSURF
+table,Furniture,eating,1,8,S,S-FUNC,S,S-ACTION
+table,Furniture,legs,1,10,E,E-EXCOMP,E,E-EXCOMP
+table,Furniture,wood,1,14,E,E-MAT,E,E-MAT
+table,Furniture,kitchen,1,5,S,S-LOC,S,S-LOC
+tambourine,Musical instruments,dance,1,5,S,S-EVENT,S,S-EVENT
+tambourine,Musical instruments,joy,1,6,I,I-EMOT,I,I-EMOT
+tambourine,Musical instruments,noisy,1,6,E,E-SYS,E,E-SYS
+tambourine,Musical instruments,round,1,5,E,E-EXSURF,E,E-EXSURF
+tambourine,Musical instruments,sound,1,5,S,S-FUNC,E,E-EXSURF
+tambourine,Musical instruments,music,1,11,S,S-FUNC,S,S-OBJECT
+tambourine,Musical instruments,musical instrument,2,14,T,T-SUPER,T,T-SUPER
+tambourine,Musical instruments,metal washers,2,5,E,E-EXCOMP,E,E-EXCOMP
+tambourine,Musical instruments,wood,1,5,E,E-MAT,E,E-MAT
+tambourine,Musical instruments,percussion musical instrument,3,7,T,T-SUPER,T,T-SUPER
+telephone,Devices,cellphone,1,7,T,T-SUBORD,T,T-SYN
+telephone,Devices,communication,1,12,S,S-FUNC,S,S-SOCART
+telephone,Devices,device,1,6,T,T-SUPER,T,T-SUPER
+telephone,Devices,rings,1,7,E,E-BEH,E,E-BEH
+telephone,Devices,communicating,1,11,S,S-FUNC,S,S-FUNC
+telephone,Devices,useful,1,8,I,I-EVAL,I,I-EVAL
+telephone,Devices,number,1,5,E,E-EXSURF,S,S-FUNC
+telescope,Tools,universe,1,6,S,S-FUNC,S,S-FUNC
+telescope,Tools,looking,1,11,S,S-FUNC,S,S-FUNC
+telescope,Tools,looking,1,8,S,S-FUNC,S,S-FUNC
+telescope,Tools,looking,1,8,S,S-FUNC,S,S-FUNC
+telescope,Tools,looking,1,18,S,S-FUNC,S,S-FUNC
+telescope,Tools,looking,1,5,S,S-FUNC,S,S-FUNC
+television,Devices,company,1,5,I,I-REP,S,S-SOCORG
+television,Devices,device,1,5,T,T-SUPER,T,T-ONT
+television,Devices,distraction,1,6,I,I-REP,S,S-FUNC
+television,Devices,entretains,1,13,S,S-FUNC,S,S-FUNC
+television,Devices,information,1,7,I,I-REP,S,S-FUNC
+television,Devices,news,1,8,S,S-SOCART,S,S-SOCART
+television,Devices,watching,1,8,S,S-FUNC,S,S-FUNC
+television,Devices,watching,1,5,S,S-FUNC,S,S-FUNC
+tennis racket,Objects,ball,1,7,S,S-OBJECT,S,S-OBJECT
+tennis racket,Objects,tennis,1,24,S,S-EVENT,S,S-EVENT
+tennis racket,Objects,playing,1,8,S,S-FUNC,S,S-ACTION
+tennis racket,Objects,playing,1,18,S,S-FUNC,S,S-ACTION
+tennis racket,Objects,grip,1,5,E,E-EXCOMP,E,E-EXCOMP
+tennis racket,Objects,net,1,14,E,E-EXCOMP,S,S-OBJECT
+thermometer,Tools,feber,1,19,S,S-FUNC,S,S-FUNC
+thermometer,Tools,glass,1,10,E,E-MAT,E,E-MAT
+thermometer,Tools,heat,1,6,S,S-TIME,E,E-SYS
+thermometer,Tools,illness,1,8,I,I-CONTIN,S,S-SOCART
+thermometer,Tools,physician,1,7,S,S-PERSON,S,S-PERSON
+thermometer,Tools,mercury,1,13,E,E-INCOMP,E,E-MAT
+thermometer,Tools,fever,1,7,S,S-FUNC,S,S-FUNC
+thermometer,Tools,temperature,1,13,S,S-FUNC,S,S-FUNC
+thermos,Containers,water,1,14,S,S-FUNC,S,S-OBJECT
+thermos,Containers,trips,1,5,S,S-EVENT,S,S-FUNC
+thermos,Containers,water,1,9,S,S-FUNC,S,S-OBJECT
+thermos,Containers,mate,1,22,S,S-FUNC,S,S-OBJECT
+thermos,Containers,conserving,1,14,S,S-FUNC,S,S-FUNC
+thermos,Containers,kitchen,1,6,S,S-LOC,S,S-LOC
+thimble,Tools,seamstress,1,5,S,S-PERSON,S,S-PERSON
+thimble,Tools,protecting,1,11,S,S-FUNC,S,S-FUNC
+thimble,Tools,sawing,1,12,S,S-FUNC,S,S-ACTION
+thimble,Tools,finger,1,14,S,S-LOC,S,S-PERSON
+thimble,Tools,metal,1,14,E,E-MAT,E,E-MAT
+thimble,Tools,plastic,1,7,E,E-MAT,E,E-MAT
+thread,Objects,clothes,1,8,S,S-OBJECT,S,S-OBJECT
+thread,Objects,fine,1,8,E,E-EXSURF,E,E-QUANT
+thread,Objects,sawing,1,17,S,S-FUNC,S,S-ACTION
+thread,Objects,tying,1,6,S,S-FUNC,S,S-ACTION
+thread,Objects,colors,1,11,E,E-EXSURF,E,E-EXSURF
+thumb,Body parts,fat,1,14,E,E-EXSURF,E,E-SYS
+thumb,Body parts,small,1,8,E,E-QUANT,E,E-QUANT
+thumb,Body parts,nail,1,7,E,E-EXCOMP,E,E-EXCOMP
+thumb,Body parts,approval,1,6,S,S-SOCART,S,S-SOCART
+thumb,Body parts,hand,1,12,S,S-LOC,E,E-WHOLE
+tie,Clothing,accessory,1,6,T,T-SUPER,T,T-SYN
+tie,Clothing,clothing,1,12,T,T-SUPER,T,T-SUPER
+tie,Clothing,elegant,1,9,I,I-EVAL,E,E-SYS
+tie,Clothing,knot,1,5,S,S-ACTION,E,E-EXCOMP
+tie,Clothing,men,1,12,S,S-PERSON,S,S-PERSON
+tie,Clothing,shirts,1,5,S,S-LOC,T,T-COORD
+tie,Clothing,suit,1,14,S,S-OBJECT,T,T-COORD
+tie,Clothing,colors,1,5,E,E-EXSURF,E,E-EXSURF
+tie,Clothing,silk,1,5,E,E-MAT,E,E-MAT
+tiger,Animals,animal,1,20,T,T-SUPER,T,T-SUPER
+tiger,Animals,carnivore,1,7,T,T-SUPER,E,E-SYS
+tiger,Animals,dangerous,1,7,I,I-EVAL,E,E-SYS
+tiger,Animals,feline,1,14,T,T-SUPER,T,T-SYN
+tiger,Animals,ferocious,1,8,E,E-SYS,E,E-SYS
+tiger,Animals,strong,1,5,E,E-SYS,E,E-SYS
+tiger,Animals,wild,1,9,E,E-SYS,E,E-SYS
+tiger,Animals,stripes,1,7,E,E-EXCOMP,E,E-EXSURF
+tiger,Animals,zoo,1,5,S,S-LOC,S,S-LOC
+tiger,Animals,jungle,1,12,S,S-LOC,S,S-LOC
+tire,Objects,car,1,19,E,E-WHOLE,E,E-WHOLE
+tire,Objects,bicycle,1,6,E,E-WHOLE,E,E-WHOLE
+tire,Objects,black,1,5,E,E-EXSURF,E,E-EXSURF
+tire,Objects,motorcycle,1,6,E,E-WHOLE,E,E-WHOLE
+tire,Objects,round,1,5,E,E-EXSURF,E,E-SYS
+tire,Objects,truck,1,6,E,E-WHOLE,E,E-WHOLE
+tire,Objects,wheel,1,8,S,S-OBJECT,E,E-WHOLE
+tire,Objects,rubber,1,14,E,E-MAT,E,E-MAT
+tire,Objects,rubber,1,8,E,E-MAT,E,E-MAT
+toad,Animals,animal,1,12,T,T-SUPER,T,T-ONT
+toad,Animals,eaten,1,12,S,S-ACTION,S,S-ACTION
+toad,Animals,green,1,20,E,E-EXSURF,E,E-EXSURF
+toad,Animals,humidity,1,6,S,S-PHYST,S,S-PHYST
+toad,Animals,jumps,1,9,E,E-BEH,E,E-BEH
+toad,Animals,sounds,1,6,E,E-BEH,E,E-BEH
+toad,Animals,puddle,1,6,S,S-LOC,S,S-LOC
+toad,Animals,water,1,14,S,S-LOC,S,S-LOC
+toaster,Devices,bread,1,12,S,S-FUNC,S,S-OBJECT
+toaster,Devices,breakfast,1,9,S,S-TIME,S,S-EVENT
+toaster,Devices,electrical,1,6,E,E-SYS,E,E-SYS
+toaster,Devices,toasts,1,13,S,S-OBJECT,S,S-FUNC
+toaster,Devices,useful,1,9,I,I-EVAL,I,I-EVAL
+toe,Body parts,balance,1,8,E,E-ABSTR,E,E-BEH
+toe,Body parts,body,1,5,E,E-WHOLE,E,E-WHOLE
+toe,Body parts,fat,1,9,E,E-EXSURF,E,E-SYS
+toe,Body parts,small,1,6,E,E-QUANT,E,E-QUANT
+toe,Body parts,walking,1,5,S,S-FUNC,E,E-BEH
+toe,Body parts,nail,1,20,E,E-EXCOMP,E,E-EXCOMP
+tomato,Fruits,fruit,1,11,T,T-SUPER,T,T-SUPER
+tomato,Fruits,red,1,10,E,E-EXSURF,E,E-EXSURF
+tomato,Fruits,tasty,1,6,I,I-EVAL,E,E-INSURF
+tomato,Fruits,salad,1,16,S,S-ACTION,S,S-OBJECT
+tomato,Fruits,sauce,1,6,S,S-ACTION,S,S-PROD
+tomato,Fruits,good,1,9,I,I-EVAL,I,I-EVAL
+toothbrush,Utensils,cavities,1,5,S,S-OBJECT,S,S-FUNC
+toothbrush,Utensils,hygiene,1,11,I,I-REP,S,S-FUNC
+toothbrush,Utensils,toothpaste,1,5,S,S-OBJECT,S,S-OBJECT
+toothbrush,Utensils,bristles,1,12,E,E-EXCOMP,E,E-EXCOMP
+toothbrush,Utensils,cleaning,1,17,S,S-FUNC,S,S-FUNC
+totem,Constructions,stone,1,5,E,E-MAT,E,E-MAT
+totem,Constructions,wood,1,10,E,E-MAT,E,E-MAT
+tractor,Vehicles,big,1,5,E,E-QUANT,E,E-QUANT
+tractor,Vehicles,harvest,1,6,S,S-EVENT,S,S-EVENT
+tractor,Vehicles,machine,1,9,T,T-SUPER,T,T-ONT
+tractor,Vehicles,tool,1,5,T,T-SUPER,T,T-SYN
+tractor,Vehicles,plowing,1,6,S,S-FUNC,S,S-ACTION
+tractor,Vehicles,work,1,5,E,E-SYS,S,S-FUNC
+tractor,Vehicles,wheels,1,13,E,E-EXCOMP,E,E-EXCOMP
+tractor,Vehicles,agricultural work,2,7,S,S-FUNC,S,S-FUNC
+tractor,Vehicles,field,1,22,S,S-LOC,S,S-LOC
+traffic light,Devices,cars,1,7,S,S-OBJECT,S,S-SOCORG
+traffic light,Devices,colors,1,13,E,E-EXSURF,E,E-EXSURF
+traffic light,Devices,lights,1,7,E,E-EXCOMP,E,E-EXCOMP
+traffic light,Devices,traffic,1,12,S,S-FUNC,S,S-SOCORG
+traffic light,Devices,street,1,7,S,S-LOC,S,S-LOC
+traffic light,Devices,street corner,2,8,S,S-LOC,S,S-LOC
+traffic light,Devices,green light,2,12,E,E-EXSURF,E,E-EXCOMP
+traffic light,Devices,red light,2,11,E,E-EXSURF,E,E-SYS
+traffic light,Devices,yellow light,2,11,E,E-EXSURF,E,E-EXCOMP
+train,Vehicles,big,1,5,E,E-QUANT,E,E-QUANT
+train,Vehicles,traveling,1,13,S,S-FUNC,S,S-ACTION
+train,Vehicles,railroad tracks,2,12,S,S-OBJECT,S,S-LOC
+train,Vehicles,people,1,5,S,S-FUNC,S,S-PERSON
+train,Vehicles,train cars,2,8,E,E-EXCOMP,E,E-EXCOMP
+train,Vehicles,transportation,1,17,T,T-SUPER,S,S-FUNC
+tram car,Vehicles,height,1,9,S,S-LOC,E,E-SYS
+tram car,Vehicles,landscape,1,7,E,E-INCOMP,S,S-LOC
+tram car,Vehicles,stall,1,5,E,E-EXCOMP,S,S-LOC
+tram car,Vehicles,wire,1,5,E,E-EXCOMP,S,S-OBJECT
+tram car,Vehicles,transportation,1,10,T,T-SUPER,S,S-FUNC
+tram car,Vehicles,mountain,1,6,S,S-LOC,S,S-LOC
+tree,Plants,green,1,5,E,E-EXSURF,E,E-EXSURF
+tree,Plants,life,1,5,E,E-SYS,I,I-REP
+tree,Plants,fruit,1,5,E,E-BEH,E,E-EXCOMP
+tree,Plants,shade,1,14,E,E-BEH,S,S-FUNC
+tree,Plants,flowers,1,7,E,E-EXCOMP,E,E-EXCOMP
+truck,Vehicles,big,1,5,E,E-QUANT,E,E-QUANT
+truck,Vehicles,vehicle,1,5,T,T-SUPER,T,T-SUPER
+truck,Vehicles,cargo truck,2,8,T,T-SUBORD,T,T-SYN
+truck,Vehicles,things,1,11,S,S-FUNC,S,S-OBJECT
+truck,Vehicles,transportation,1,8,T,T-SUPER,S,S-FUNC
+trumpet,Musical instruments,band,1,5,S,S-SOCORG,S,S-SOCORG
+trumpet,Musical instruments,golden,1,7,E,E-EXSURF,E,E-EXSURF
+trumpet,Musical instruments,noisy,1,7,E,E-SYS,E,E-SYS
+trumpet,Musical instruments,sound,1,6,S,S-FUNC,S,S-FUNC
+trumpet,Musical instruments,music,1,11,S,S-FUNC,S,S-FUNC
+trumpet,Musical instruments,musical instrument,2,18,T,T-SUPER,T,T-SUPER
+trumpet,Musical instruments,metal,1,5,E,E-MAT,E,E-MAT
+trumpet,Musical instruments,wind musical intrument,3,5,T,T-SUPER,T,T-SUBORD
+tucan,Animals,bird,1,29,T,T-SUPER,T,T-SUPER
+tucan,Animals,colorful,1,19,E,E-EXSURF,E,E-EXSURF
+tucan,Animals,flies,1,7,E,E-BEH,E,E-BEH
+tucan,Animals,nice,1,7,I,I-EVAL,I,I-EVAL
+tucan,Animals,feathers,1,5,E,E-EXCOMP,E,E-EXCOMP
+tucan,Animals,beak,1,18,E,E-EXCOMP,E,E-EXCOMP
+tucan,Animals,jungle,1,7,S,S-LOC,S,S-LOC
+tucan,Animals,tree,1,6,S,S-LOC,S,S-LOC
+turkey,Animals,animal,1,8,T,T-SUPER,T,T-ONT
+turkey,Animals,bird,1,8,T,T-SUPER,T,T-ONT
+turkey,Animals,eaten,1,12,S,S-ACTION,S,S-ACTION
+turkey,Animals,feathers,1,12,E,E-EXCOMP,E,E-EXCOMP
+turkey,Animals,countryside,1,5,S,S-LOC,S,S-LOC
+turtle,Animals,animal,1,13,T,T-SUPER,T,T-ONT
+turtle,Animals,pet,1,5,T,T-SUPER,S,S-PERSON
+turtle,Animals,sea,1,5,T,T-SUBORD,S,S-LOC
+turtle,Animals,slow,1,21,E,E-SYS,E,E-BEH
+turtle,Animals,terrestrial,1,7,T,T-SUBORD,E,E-SYS
+turtle,Animals,shell,1,14,E,E-EXCOMP,E,E-EXCOMP
+umbrella,Accessories,rain,1,12,S,S-FUNC,S,S-EVENT
+umbrella,Accessories,protecting,1,5,S,S-FUNC,S,S-FUNC
+umbrella,Accessories,protecting,1,18,S,S-FUNC,S,S-FUNC
+umbrella,Accessories,colors,1,5,E,E-EXSURF,E,E-EXSURF
+umbrella,Accessories,fabric,1,5,E,E-MAT,E,E-MAT
+vase,Containers,aroma,1,5,E,E-EXSURF,S,S-FUNC
+vase,Containers,colorful,1,5,E,E-EXSURF,E,E-EXSURF
+vase,Containers,container,1,5,T,T-SUPER,T,T-SYN
+vase,Containers,ornament,1,10,T,T-SUPER,S,S-OBJECT
+vase,Containers,rose,1,5,S,S-LIVING,S,S-OBJECT
+vase,Containers,decoration,1,8,S,S-FUNC,S,S-FUNC
+vase,Containers,flowers,1,19,S,S-FUNC,S,S-PROD
+vase,Containers,water,1,7,S,S-OBJECT,S,S-OBJECT
+vase,Containers,glass,1,5,E,E-MAT,E,E-MAT
+vest,Clothing,clothing,1,18,T,T-SUPER,T,T-SUPER
+vest,Clothing,warm clothing,2,11,T,T-SUPER,T,T-SYN
+vest,Clothing,sleeves,1,21,I,I-NEG,E,E-EXCOMP
+vest,Clothing,wool,1,7,E,E-MAT,E,E-MAT
+violin,Musical instruments,sound,1,7,S,S-FUNC,E,E-EXSURF
+violin,Musical instruments,music,1,9,S,S-FUNC,S,S-SOCART
+violin,Musical instruments,strings,1,13,E,E-EXCOMP,E,E-EXCOMP
+violin,Musical instruments,musical instrument,2,19,T,T-SUPER,T,T-SUPER
+violin,Musical instruments,wood,1,7,E,E-MAT,E,E-MAT
+wagon,Vehicles,toy,1,6,T,T-SUPER,T,T-SYN
+wagon,Vehicles,wood,1,5,S,S-OBJECT,E,E-MAT
+wagon,Vehicles,wheels,1,9,E,E-EXCOMP,E,E-EXCOMP
+wagon,Vehicles,babies,1,9,S,S-FUNC,S,S-PERSON
+wagon,Vehicles,groceries,1,5,S,S-FUNC,S,S-OBJECT
+wagon,Vehicles,things,1,7,S,S-FUNC,S,S-OBJECT
+wagon,Vehicles,pulled,1,5,E,E-SYS,S,S-ACTION
+wagon,Vehicles,supermarket,1,7,S,S-LOC,S,S-LOC
+washing machine,Devices,clothes,1,13,S,S-OBJECT,S,S-OBJECT
+washing machine,Devices,cleaning,1,17,S,S-FUNC,S,S-FUNC
+washing machine,Devices,useful,1,7,I,I-EVAL,I,I-EVAL
+washing machine,Devices,white,1,5,E,E-EXSURF,E,E-EXSURF
+washing machine,Devices,water,1,5,S,S-OBJECT,E,E-MAT
+washing machine,Devices,electrical appliance,2,6,T,T-SUPER,T,T-SUPER
+washing machine,Devices,soap,1,6,S,S-ACTION,S,S-OBJECT
+watch,Accessories,time,1,26,S,S-FUNC,S,S-FUNC
+watch,Accessories,useful,1,6,I,I-EVAL,I,I-EVAL
+watch,Accessories,wrist,1,12,S,S-SPAT,S,S-LOC
+watch,Accessories,hands,1,6,E,E-EXCOMP,E,E-EXCOMP
+watch,Accessories,number,1,6,E,E-EXSURF,E,E-EXCOMP
+watering can,Tools,plant,1,24,S,S-LIVING,S,S-OBJECT
+watering can,Tools,rain,1,5,S,S-FUNC,S,S-LOC
+watering can,Tools,watering,1,10,S,S-FUNC,S,S-ACTION
+watering can,Tools,water,1,20,S,S-OBJECT,S,S-OBJECT
+watering can,Tools,metal,1,5,E,E-MAT,E,E-MAT
+watering can,Tools,plastic,1,8,E,E-MAT,E,E-MAT
+watering can,Tools,garden,1,9,S,S-LOC,S,S-LOC
+watermelon,Fruits,big,1,16,E,E-QUANT,E,E-QUANT
+watermelon,Fruits,fruit,1,23,T,T-SUPER,T,T-SUPER
+watermelon,Fruits,green,1,11,E,E-EXSURF,E,E-EXSURF
+watermelon,Fruits,heavy,1,5,E,E-SYS,E,E-SYS
+watermelon,Fruits,juicy,1,7,E,E-INSURF,E,E-INSURF
+watermelon,Fruits,red,1,15,E,E-EXSURF,E,E-EXSURF
+watermelon,Fruits,refreshing,1,9,I,I-EVAL,I,I-EVAL
+watermelon,Fruits,summer,1,10,S,S-TIME,S,S-TIME
+watermelon,Fruits,sweet,1,11,E,E-INSURF,E,E-INSURF
+watermelon,Fruits,watery,1,7,E,E-INSURF,E,E-INSURF
+watermelon,Fruits,seeds,1,10,E,E-INCOMP,E,E-INCOMP
+watermelon,Fruits,good,1,6,I,I-EVAL,I,I-EVAL
+weather vane,Objects,sea,1,5,S,S-LOC,S,S-LOC
+weather vane,Objects,wind,1,10,S,S-OBJECT,S,S-FUNC
+well,Constructions,hole,1,6,T,T-SYN,E,E-EXCOMP
+well,Constructions,water,1,17,E,E-INCOMP,S,S-OBJECT
+well,Constructions,water,1,8,S,S-FUNC,S,S-OBJECT
+well,Constructions,bucket,1,9,E,E-EXCOMP,S,S-OBJECT
+well,Constructions,rope,1,9,E,E-EXCOMP,S,S-OBJECT
+whale,Animals,animal,1,11,T,T-SUPER,T,T-ONT
+whale,Animals,big,1,24,E,E-QUANT,E,E-QUANT
+whale,Animals,cetacean,1,9,T,T-SUPER,T,T-SYN
+whale,Animals,mammal,1,12,T,T-SUPER,T,T-SUPER
+whale,Animals,whale calf,2,5,T,T-SUBORD,T,T-SUBORD
+whale,Animals,sea,1,12,S,S-LOC,S,S-LOC
+whale,Animals,south,1,5,S,S-LOC,S,S-LOC
+whale,Animals,water,1,8,S,S-LOC,S,S-LOC
+wheel,Objects,car,1,9,E,E-WHOLE,E,E-WHOLE
+wheel,Objects,bicycle,1,6,S,S-OBJECT,E,E-WHOLE
+wheel,Objects,black,1,5,E,E-EXSURF,E,E-EXSURF
+wheel,Objects,circular,1,10,E,E-EXSURF,E,E-EXSURF
+wheel,Objects,spins,1,5,E,E-BEH,E,E-BEH
+wheel,Objects,transportation,1,6,S,S-FUNC,S,S-FUNC
+wheel,Objects,metal,1,5,E,E-MAT,E,E-MAT
+wheel,Objects,rubber,1,6,E,E-MAT,E,E-MAT
+wheel,Objects,wood,1,5,E,E-MAT,E,E-MAT
+whip,Weapons,long,1,5,E,E-QUANT,E,E-QUANT
+whip,Weapons,horses,1,6,S,S-FUNC,S,S-LIVING
+whip,Weapons,punish,1,14,S,S-FUNC,S,S-FUNC
+whip,Weapons,leather,1,12,E,E-MAT,E,E-MAT
+whistle,Objects,instrument,1,8,E,E-MAT,T,T-SYN
+whistle,Objects,referee,1,12,S,S-PERSON,S,S-PERSON
+whistle,Objects,sound,1,11,S,S-FUNC,E,E-EXSURF
+whistle,Objects,sports,1,6,S,S-FUNC,S,S-EVENT
+whistle,Objects,traffic,1,5,S,S-FUNC,S,S-EVENT
+whistle,Objects,whistle,1,6,T,T-SYN,T,T-SYN
+whistle,Objects,police officer,2,7,S,S-PERSON,S,S-PERSON
+windmill,Constructions,water,1,20,S,S-FUNC,S,S-LOC
+windmill,Constructions,windmill,1,15,T,T-SUBORD,T,T-SYN
+windmill,Constructions,blades,1,11,E,E-EXCOMP,E,E-EXCOMP
+windmill,Constructions,field,1,10,S,S-LOC,S,S-LOC
+window,House parts,curtains,1,5,S,S-OBJECT,S,S-OBJECT
+window,House parts,light,1,6,S,S-FUNC,S,S-OBJECT
+window,House parts,openable,1,8,S,S-ACTION,E,E-SYS
+window,House parts,opening,1,5,T,T-SUPER,S,S-ACTION
+window,House parts,sun,1,7,S,S-OBJECT,S,S-OBJECT
+window,House parts,air,1,8,S,S-FUNC,S,S-PHYST
+window,House parts,light,1,10,S,S-FUNC,S,S-OBJECT
+window,House parts,ventilation,1,10,S,S-FUNC,S,S-FUNC
+window,House parts,closed,1,5,S,S-ACTION,E,E-SYS
+window,House parts,glass,1,12,E,E-MAT,E,E-MAT
+window,House parts,wood,1,11,E,E-MAT,E,E-MAT
+window,House parts,house,1,5,S,S-LOC,E,E-WHOLE
+wine glass,Utensils,toast,1,12,S,S-EVENT,S,S-EVENT
+wine glass,Utensils,transparent,1,5,E,E-EXSURF,E,E-EXSURF
+wine glass,Utensils,trophy,1,6,S,S-OBJECT,S,S-SOCART
+wine glass,Utensils,drinking,1,9,S,S-FUNC,S,S-FUNC
+wine glass,Utensils,water,1,8,E,E-INCOMP,E,E-INCOMP
+wine glass,Utensils,wine,1,13,S,S-OBJECT,S,S-OBJECT
+wine glass,Utensils,crystal,1,10,E,E-MAT,E,E-MAT
+wine glass,Utensils,glass,1,10,E,E-MAT,E,E-MAT
+wolfe,Animals,animal,1,16,T,T-SUPER,T,T-ONT
+wolfe,Animals,dangerous,1,7,I,I-EVAL,E,E-SYS
+wolfe,Animals,ferocious,1,11,E,E-SYS,E,E-SYS
+wolfe,Animals,howls,1,9,E,E-BEH,E,E-BEH
+wolfe,Animals,wild,1,5,E,E-SYS,E,E-SYS
+wolfe,Animals,forest,1,6,S,S-LOC,S,S-LOC
+worm,Animals,animal,1,9,T,T-SUPER,T,T-ONT
+worm,Animals,ground,1,16,S,S-LOC,S,S-LOC
+wrench,Tools,safety,1,6,S,S-SOCART,S,S-FUNC
+wrench,Tools,tool,1,6,T,T-SUPER,T,T-SYN
+wrench,Tools,entering,1,6,S,S-FUNC,S,S-ACTION
+wrench,Tools,opening,1,5,S,S-FUNC,S,S-FUNC
+wrench,Tools,metal,1,7,E,E-MAT,E,E-MAT
+wrench,Tools,house,1,8,S,S-LOC,S,S-BUILD
+yoyo,Toys,childhood,1,9,S,S-TIME,S,S-TIME
+yoyo,Toys,children,1,9,S,S-PERSON,S,S-PERSON
+yoyo,Toys,competition,1,6,I,I-REP,S,S-EVENT
+yoyo,Toys,entretains,1,7,S,S-FUNC,S,S-FUNC
+yoyo,Toys,fun,1,8,E,E-ABSTR,I,I-EMOT
+yoyo,Toys,skill,1,5,I,I-REP,I,I-REP
+yoyo,Toys,toy,1,21,T,T-SUPER,T,T-SYN
+yoyo,Toys,thread,1,8,E,E-EXCOMP,E,E-EXCOMP
+zebra,Animals,animal,1,20,T,T-SUPER,T,T-ONT
+zebra,Animals,mammal,1,7,T,T-SUPER,T,T-ONT
+zebra,Animals,quadruped,1,5,T,T-SUPER,E,E-SYS
+zebra,Animals,legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+zebra,Animals,stripes,1,22,E,E-EXCOMP,E,E-EXSURF
+zebra,Animals,black and white,3,9,E,E-EXSURF,E,E-EXSURF
+zebra,Animals,horses,1,11,T,T-COORD,T,T-COORD
+zebra,Animals,jungle,1,5,S,S-LOC,S,S-LOC
+zipper,Accessories,jacket,1,18,E,E-WHOLE,S,S-OBJECT
+zipper,Accessories,pants,1,15,E,E-WHOLE,E,E-WHOLE
+zipper,Accessories,clothing,1,9,S,S-LOC,E,E-WHOLE
+zipper,Accessories,metal,1,8,E,E-MAT,E,E-MAT
+zipper,Accessories,plastic,1,5,E,E-MAT,E,E-MAT

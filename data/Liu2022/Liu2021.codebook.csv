@@ -1,0 +1,21 @@
+label,short,level,parent,definition,DeDeyneMapping
+Concept Properties,,1,NA,,E
+Perceivable-Property,,2,Concept Properties,"A perceivable property, including shape, color, pattern, texture, size, touch, smell, and taste.",E-perc
+PartOf,,2,Concept Properties,A a part or component of an entity or event.,E-part
+Material-MadeOf,,2,Concept Properties,The material of something is made of. ,E-mat
+HasProperty,,2,Concept Properties,"The inborn, native or instinctive properties, which cannot be directly perceived when encountering a concept, that requires some kind of inference from perceptual data.",E-prop
+Emotion-Evaluation,,2,Introspective Properties,An affective/emotional state or evaluation toward the situation or one of its components.,I-emo
+Situation Properties,,1,NA,,S
+Time,,2,Situation Properties,A time period associated with a situation or with one of its properties.,S-time
+Location,,2,Situation Properties,"A place where an entity can be found, or where people engage in an event or activity.",S-loc
+Function,,2,Situation Properties,"The typical purpose, goal or role for which cue is used for association. Or the reverse way.",S-func
+Has-Prerequisite,,2,Situation Properties,"In order for the cue to happen, association needs to happen or exist; association is a dependency of cue. Or the reverse way.",S-preq
+Result-In,,2,Situation Properties,The cue causes or produces the association. Or the reverse way. A result (either cue or association) should be involved. ,S-result
+Action,,2,Situation Properties,"An action that a participant (could be the cue, association or others) performs in a situation. Cue and association must be among the (participant, action, object).",S-action
+Thematic,,2,Situation Properties,Cue and association participate in a common event or scenario. None of the other situational properties applies.,S-them
+Taxonomic Relations,,1,NA,,T
+Synonym,,2,Taxonomic Relations,The cue and association are synonym.,T-syn
+Antonym,,2,Taxonomic Relations,The cue and association are antonym.,T-ant
+Category-Exemplar-Pairs,,2,Taxonomic Relations,The cue and association are on different levels in a taxonomy. ,T-cat
+Members-of-the-same-Category,,2,Taxonomic Relations,The cue and assoiation are members of the same category. ,T-coord
+Introspective Properties,,1,NA,,I

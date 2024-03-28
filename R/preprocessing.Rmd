@@ -1,0 +1,183 @@
+---
+title: "LLM Response preprocessing"
+output: html_notebook
+author: Simon De Deyne
+---
+
+```{r echo=FALSE, warning=F,echo=FALSE}
+library(tidyverse, quietly = T)
+source('utilities.R')
+options(readr.show_col_types = FALSE)
+invalid = c()
+```
+
+## Bolognesi-2017
+```{r Bolognesi-2017}
+source('config.Bolognesi2017.R')
+X.pairs = read_csv(experiment$filepath.pairs)
+
+X = read_rds('../output/raw/Bolognesi2017.gpt4.20240301.rds')
+X.resp = preprocessResponses(X$responses)
+
+# Validate results and remove invalid ones
+X.codes = unique(X.resp$relation)
+invalid$bolognesi = setdiff(X.codes,codes)
+X.resp = X.resp %>% filter(!relation %in% invalid$bolognesi)
+
+X.resp = X.resp %>% group_by(cue,response) %>% slice_sample(n= 1)
+
+X.resp = X.resp %>% mutate(model1 = substr(relation,1,1),
+                           model2 = relation) %>% 
+          select(cue,response,model1,model2)  %>% unique()
+
+
+X.pairs = left_join(X.pairs,X.resp,by = c('cue','response'))
+
+# Remove missing items
+X.pairs = X.pairs %>% filter(complete.cases(.))
+
+# Write results
+write_csv(X.pairs,file = paste0('../output/processed/Bolognesi2017.',experiment$release,'.csv'))
+
+
+```
+
+
+## Vivas-2022 (Features)
+```{r Vivas-2022-feat}
+source('config.Vivas2022.feat.R')
+X.pairs = read_csv(experiment$filepath.pairs)
+X.pairs = X.pairs %>% rename(response = feature)
+X = read_rds('../output/raw/VivasFeatures_responses.gpt4.20240228_v3.rds')
+X.resp = preprocessResponses(X$responses)
+
+X.resp = X.resp %>% mutate(relation = toupper(relation))
+
+# Validate results and remove invalid ones
+X.codes = unique(X.resp$relation)
+invalid$vivas_feat = setdiff(X.codes,codes)
+X.resp = X.resp %>% filter(!relation %in% invalid$vivas_feat)
+
+X.resp = X.resp %>% group_by(cue,response) %>% slice_sample(n= 1)
+
+X.resp = X.resp %>% mutate(model1 = substr(relation,1,1),
+                           model2 = relation) %>% 
+          select(cue,response,model1,model2)  %>% unique()
+
+
+X.pairs = X.pairs %>% mutate(human1 = substr(relation,1,1),
+                           human2 = relation) %>%  select(-relation)
+
+X.pairs = left_join(X.pairs,X.resp,by = c('cue','response'))
+
+
+# Remove missing items
+X.pairs = X.pairs %>% filter(complete.cases(.)) %>% select(-association,nWords)
+
+# Write results
+write_csv(X.pairs,file = paste0('../output/processed/Vivas2024.features.',experiment$release,'.csv'))
+
+```
+
+
+## Vivas-2022 (Associations)
+```{r Vivas-2022-asso}
+source('config.Vivas2022.asso.R')
+X.pairs = read_csv(experiment$filepath.pairs)
+X.pairs = X.pairs %>% rename(response = association)
+
+X = read_rds('../output/raw/VivasAssociations_responses.gpt4.20240228_v3.rds')
+X.resp = preprocessResponses(X$responses)
+
+X.resp = X.resp %>% mutate(relation = toupper(relation))
+
+# Validate results and remove invalid ones
+X.codes = unique(X.resp$relation)
+invalid$vivas_asso = setdiff(X.codes,codes)
+X.resp = X.resp %>% filter(!relation %in% invalid$vivas_feat)
+
+X.resp = X.resp %>% group_by(cue,response) %>% slice_sample(n= 1)
+
+X.resp = X.resp %>% mutate(model1 = substr(relation,1,1),
+                           model2 = relation) %>% 
+          select(cue,response,model1,model2)  %>% unique()
+
+X.pairs = X.pairs %>% mutate(human1 = substr(relation,1,1),
+                           human2 = relation) %>%  select(-relation)
+
+
+X.pairs = left_join(X.pairs,X.resp,by = c('cue','response'))
+
+# Remove missing items
+X.pairs = X.pairs %>% filter(complete.cases(.)) %>% select(-feature,nWords)
+
+# Write results
+write_csv(X.pairs,file = paste0('../output/processed/Vivas2024.asso.',experiment$release,'.csv'))
+
+```
+
+
+## Chen-2024
+```{r Chen2024, echo=F}
+source('config.Chen2024.R')
+X.pairs = read_csv(experiment$filepath.pairs)
+X = read_rds('../output/raw/Chen2022_responses.gpt4.20240229_v2.rds')
+X.resp = preprocessResponses(X$responses)
+
+# Validate results and remove invalid ones
+X.codes = unique(X.resp$relation)
+invalid$chen = setdiff(X.codes,codes)
+X.resp = X.resp %>% filter(!relation %in% invalid$chen)
+
+# Remove double entries
+X.resp = X.resp %>% group_by(cue,response) %>% slice_sample(n= 1)
+
+X.resp = X.resp %>% mutate(model1 = substr(relation,1,1),
+                           model2 = relation) %>%
+          select(cue,response,model1,model2) %>% unique()
+
+
+X.pairs = left_join(X.pairs,X.resp,by = c('cue','response'))
+
+# Remove missing items
+X.pairs = X.pairs %>% filter(complete.cases(.)) %>% select(-`...1`)
+
+# Write results
+write_csv(X.pairs,file = paste0('../output/processed/Chen2024.',experiment$release,'.csv'))
+```
+
+## Liu-2022
+```{r Liu2022, echo=F}
+source('config.Liu2022.R')
+X.pairs = read_csv(experiment$filepath.pairs)
+
+X = read_rds('../output/raw/Liu2021_responses.gpt4.20240222_2.rds')
+X.resp = preprocessResponses(X$responses)
+
+# Note that similar to Liu et al. perc and int  codes were merged to E-prop
+X.resp = X.resp %>% mutate(relation = ifelse(relation %in% c('E-perc','E-int'),'E-prop',relation))
+
+# Validate results and remove invalid ones
+X.codes = unique(X.resp$relation)
+invalid$liu = setdiff(X.codes,codes)
+X.resp = X.resp %>% filter(!relation %in% invalid$liu)
+
+# Remove double entries
+X.resp = X.resp %>% group_by(cue,response) %>% slice_sample(n= 1)
+
+X.resp = X.resp %>% mutate(model1 = substr(relation,1,1),
+                           model2 = relation) %>%
+          select(cue,response,model1,model2) %>% unique()
+
+
+X.pairs = left_join(X.pairs,X.resp,by = c('cue','response'))
+
+# Remove missing items
+X.pairs = X.pairs %>% filter(complete.cases(.))
+
+# Split levels
+X.pairs = X.pairs %>% mutate(human1 = substr(relation,1,1),human2 = relation) %>% select(-relation)
+
+# Write results
+write_csv(X.pairs,file = paste0('../output/processed/Liu2022.',experiment$release,'.csv'))
+```

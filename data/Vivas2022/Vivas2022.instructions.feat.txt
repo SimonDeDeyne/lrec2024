@@ -1,0 +1,61 @@
+You will be presented with a list of word pairs consisting of a cue and a semantic feature separated by ' – '.
+
+You are asked to choose a code with square brackets [] that best describes the semantic relation between the cue and the semantic feature.
+Each code refers to a specific semantic relation that refers to Taxonomic Categories, Entity Properties, Situation Properties, or Introspective Properties.
+
+We will now provide you with a definition and example for each of these, which you will carefully consider when choosing one of the codes.
+In these examples, the relation signified by the semantic feature is higlighted by using capitalized letters.
+
+Taxonomic Categories: A category in the taxonomy to which a concept belongs.
+- *Synonym [T-SYN]*: A synonym of a concept. Examples: car – AUTOMOBILE; cat – FELINE.
+- *Ontological category [T-ONT]. A category for a basic kind of thing in existence, including thing, substance, object, human, animal, plant, location, time, activity, event, action, state, thought, emotion. Examples: cat – ANIMAL; computer – OBJECT.
+- *Superordinate [T-SUPER]*: A category one level above a concept in a taxonomy. Examples: car – VEHICLE; apple – FRUIT.
+- *Coordinate [T-COORD]*: Another category in the superordinate category to which a concept belongs. Examples: apple – ORANGE; oak – ELM.
+- *Subordinate [T-SUBORD]*: A category one level below the target concept in a taxonomy. Examples: chair – ROCKING CHAIR; TREE FROG.
+- *Individual [T-INDIV]*. A specific instance of a concept. Examples: car – MY CAR; house – MY PARENTS’ HOUSE.
+
+Situation Properties: A property of a situation, where a situation typically includes one or more agents, at some place and time, engaging in an event, with one or more entities in various semantic roles (e.g., picnic, conversation, vacation, meal).
+- *Person [S-PERSON]*: An individual person or multiple people in a situation. Examples: toy – CHILDREN; car – PASSENGER; furniture – PERSON
+- *Living thing [S-LIVING]*: A living thing in a situation that is not a person, including other animals and plants. Examples: sofa – CAT; park – GRASS
+- *Object [S-OBJECT]*: An inanimate object in a situation, except buildings. Examples: watermelon – on a PLATE; cat – scratch SOFA
+- *Social organization [S-SOCORG]. A social institution, a business or a group of people or animals in a situation. Examples: freedom – GOVERNMENT; radio – K-MART; picnic – FAMILY; dog – PACK.
+- *Social artifact [S-SOCART]*: A relatively abstract entity—sometimes partially physical (book) and sometimes completely conceptual (verb)—created in the context of sociocultural institutions. Examples: farm – a book (about); farm – a movie (about); invention – a group project; to carpet – a verb
+- *Building [S-BUILD]*: A building in a situation. Examples: book – LIBRARY; candle – CHURCH.
+- *Location [S-LOC]*: A place in a situation where an entity can be found, or where people engage in an event or activity. Examples: car – IN A PARK; buy – IN PARIS
+- *Spatial relation [S-SPAT]*: A spatial relation between two or more things in a situation. Examples: watermelon – the ants crawled ACROSS the picnic table; vacation – we slept BY the fire.
+- *Time [S-TIME]*: A time period associated with a situation or with one of its properties. When an event is used as a time, code the event as S-event. Examples: picnic – FOURTH OF JULY; sled – DURING THE WINTER.
+- *Action [S-ACTION]*: An action (not introspective) that an agent (human or nonhuman) performs intentionally in a situation. When the action is chronic and/or characteristic of the entity, use E-beh. Examples: shirt – WEAR; apple – EAT; church – WEDDING.
+- *Event [S-EVENT]*: A stand-alone event or activity in a situation where the action is not foregrounded but is on a relatively equal par with the setting, agents, entities, etc. (e.g., watermelon–PICNIC, car–TRIP; church–WEDDING). Use S-action when the action is foregrounded (e.g., use S-EVENT for church–MARRY vs. but use S-ACTION for church–WEDDING). Examples: muffin – BREAKFAST; watermelon – PICNIC; car – TRIP.
+- *Function [S-FUNC]*: A typical goal or role that an entity serves for an agent in a situation by virtue of its physical properties with respect to relevant actions. Examples: car – TRANSPORTATION; clothing – PROTECTION.
+- *Manner [S-MANNER]*. The manner in which an action or event is performed in a situation. Typically the modification of an action in terms of its quantity, duration, style, etc. Code the action itself as S-ACTION, S-EVENT or E-BEH. Examples: watermelon – SLOPPY; eating; car – FASTER than walking.
+- *Physical state [S-PHYST]*. A physical state of a situation or any of its components except entities whose states are coded with E-SYS, and social organizations whose states are coded with S-SOCST. Examples: mountains – DAMP; highway – CONGESTED.
+- *Social state [S-SOCST]*. A state of a social organization in a situation. Examples: family – COOPERATIVE; people – FREE.
+- *Quantity [S-QUANT]*. A numerosity, frequency, intensity or typicality of a situation or any of its properties except of an entity, whose quantitative aspects are coded with E-QUANT. Examples: vacation – lasted for EIGHT days; car – a LONG drive.
+
+Entity Properties: Properties of a concrete entity, either animate or inanimate. Besides being a single self-contained object, an entity can be a coherent collection of objects (e.g., forest).
+- *External component [E-EXCOMP]*: A three-dimensional component of an entity that, at least to some extent, normally resides on its surface. Examples: car – HEADLIGHT; tree – LEAVES.
+- *Internal component [E-INCOMP]*: A three-dimensional component of an entity that normally resides completely inside the closed surface of the entity. Examples: apple – SEEDS; jacket – LINING.
+- *External surface property [E-EXSURF]*: An external property of an entity that is not a component, and that is perceived on or beyond the entity's surface, including shape, color, pattern, texture, touch, smell, taste, sound, etc. Examples: watermelon – OVAL; apple – RED.
+- *Internal surface property [E-INSURF]*: An internal property of an entity that is not a component, that is not normally perceived on the entity’s exterior surface, and that is only perceived when the entity’s interior surface is exposed; includes color, pattern, texture, size, touch, smell, taste, etc. Examples: apple – WHITE; watermelon – JUICY.
+- *Substance/Material [E-MAT]*: The material or substance of which something is made. Examples: floor – WOOD; shirt – CLOTH.
+- *Spatial relation [E-SPAT]*. A spatial relation between two or more properties within an entity, or between an entity and one of its properties. Examples:  car – window ABOVE door; watermelon – green OUTSIDE.
+- *Systemic property [E-SYS]*: A global systemic property of an entity or its parts, including states, conditions, abilities, traits, etc. Examples: cat – ALIVE; dolphin – INTELLIGENT; car – FAST.
+- *Larger whole [E-WHOLE]*: A whole to which an entity belongs. Examples: window – HOUSE; apple – TREE.
+- *Entity behavior [E-BEH]*: A chronic behavior of an entity that is characteristic of its nature, and that is described as a characteristic property of the entity, not as a specific intentional action in a situation. Examples: tree – BLOWS IN THE WIND; bird – FLIES; person – EATS.
+- *Abstract entity property [E-ABSTR]*. An abstract property of the target entity not dependent on a particular situation. Examples: teacher – DEMOCRAT; transplanted Californian – BUDDHIST.
+- *Quantity [E-QUANT]*: A numerosity, frequency, size, intensity, or typicality of an entity or its properties. Examples: jacket – an ARTICLE of clothing; cat – FOUR legs; tree – LOTS of leaves; apple – COMMON fruit; watermelon – USUALLY green; apple – VERY red.
+
+Introspective Properties: A property of a subject’s mental state as he or she views a situation, or a property of a character’s mental state in a situation.
+- *Affect/emotion* [I-EMOT]*: An affective or emotional state toward the situation or one of its components by either the subject or a participant. Examples: magic – a sense of EXCITEMENT; vacation – I was HAPPY; smashed car – ANGER.
+- *Evaluation [I-EVAL]*: A positive or negative evaluation of a situation or one of its components by the either the subject or a participant.Typically more about the situation or component than about the perceiver, often attributing a trait to it (e.g., BEAUTIFUL, COMMON). Use I-EMOT when the focus is more on the perceiver and on a traditional emotional state. Examples: apples – I LIKE them; vacation – I wrote a STUPID paper.
+- *Representational state [I-REP]*: A relatively static or stable representational state in the mind of a situational participant, including beliefs, goals, desires, ideas, perceptions, etc. Examples: smashed car – BELIEVED it was not working; tree – WANTED to cut it down; tree—I had a good VIEW of a bird in it
+- *Cognitive operation [I-COGOP]*: An online operation or process on a cognitive state, including retrieval, comparison, learning, etc.  Examples: watermelon – I REMEMBER a picnic; rolled grass – LOOKS LIKE a burrito; car – I LEARNED how to drive.
+- *Contingency [I-CONTIN]*: A contingency between two or more aspects of a situation, including: conditionals and causals, such as if, enable, cause, because, becomes, underlies, depends, requires, etc.; correlations such as correlated, uncorrelated, negatively correlated, etc.; others including possession and means. Examples: car – REQUIRES gas; tree – has leaves DEPENDING ON the type of tree; vacation – FREE FROM work; magic – I was excited BECAUSE I got to see the magician perform; car – MY car.
+- *Negation (I-NEG)*. An explicit mention of the absence of something, with absence requiring a mental state that represents the opposite. Examples: car – NO air conditioning, apple – NOT an orange.
+- *Quantity [I-QUANT]*: A numerosity, frequency, intensity or typicality of an introspection or one of its properties. Examples: truth – a SET of beliefs; buy – I was VERY angry at the sales- woman; magic – I was QUITE baffled by the magician.
+
+
+---
+Remember to only choose from the above codes between square brackets. Do not further elaborate on your response. Format your response as follows {cue — target: code}.
+
+List: 

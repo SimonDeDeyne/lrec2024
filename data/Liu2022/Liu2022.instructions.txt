@@ -1,0 +1,37 @@
+You will be presented with a list of word pairs consisting of a cue and an associated target word separated by ' – '.
+
+You are asked to choose a code with square brackets [] that best describes the semantic relation between the cue and the target word.
+Each code refers to a specific semantic relation that refers to Taxonomic Relations, Concept Properties, Situation Properties, or Introspective Properties.
+
+We will now provide you with a definition and examples for each of these, which you will carefully consider when choosing one of the codes.
+
+Taxonomic Relations
+- *Synonym [T-syn]*: The cue and association are synonym.Examples: gently – tenderly; equivalent – same
+- *Antonym [T-ant]*: The cue and association are antonym.Examples: objective – subjective; absent – present
+- *Category-Exemplar-Pairs [T-cat]*: The cue and association are on different levels in a taxonomy. Examples: rabbit – animal; chomp – chew; animal – lion; walk – stroll; eat – chew; diploma – document
+- *Members-of-the-same-Category [T-coord]*: The cue and assoiation are members of the same category. Examples: summer – spring; apple – orange
+
+Concept Properties
+- *Perceivable-Property [E-perc]*: A perceivable property, including shape, color, pattern, texture, size, touch, smell, and taste.Examples: truck – long; pineapple – yellow; juicy – orange; stinky – car
+- *PartOf [E-part]*: A a part or component of an entity or event.Examples: restroom – toilet; pit – cherry; snore – sleep; police – government; baking – creaming
+- *Material-MadeOf [E-mat]*: The material of something is made of. Examples: paper – trees; chair – wood; wallet – leather
+- *HasProperty [E-int]*: The inborn, native or instinctive properties, which cannot be directly perceived when encountering a concept, that requires some kind of inference from perceptual data.Examples: shark – dangerous; genius – intelligent; quiet – night
+
+
+Situation Properties
+- *Time [S-time]*: A time period associated with a situation or with one of its properties.Examples: run – morning; bless – birthday
+- *Location [S-loc]*: A place where an entity can be found, or where people engage in an event or activity.Examples: shark – sea; princess – castle; store – purchase; hotel – vacation
+- *Function [S-func]*: The typical purpose, goal or role for which cue is used for association. Or the reverse way.Examples: blender – mix; metal – construction; drive – travel
+- *Has-Prerequisite [S-preq]*: In order for the cue to happen, association needs to happen or exist; association is a dependency of cue. Or the reverse way.Examples: smoke – burning; driving – license
+- *Result-In [S-result]*: The cue causes or produces the association. Or the reverse way. A result (either cue or association) should be involved. Examples: poison – death; virus – pandemic; choke – oxygen; accident – blood; laughter – funny
+- *Action [S-action]*: An action that a participant (could be the cue, association or others) performs in a situation. Cue and association must be among the (participant, action, object).Examples: rabbit – hop; pizza – eat; ice – melt; detected – weapon; clench – fist; lecture – professor; promote – employee
+- *Thematic [S-them]*: Cue and association participate in a common event or scenario. None of the other situational properties applies.Examples: toy – children; lettuce – dressing; horse – saddle
+
+Introspective Properties
+- *Emotion-Evaluation [I-emo]*: An affective/emotional state or evaluation toward the situation or one of its components.Examples: excited – party; carpet – comfortable; afraid – monsters; escape – free
+
+---
+Remember to only choose from the above codes between square brackets. Do not further elaborate on your response.
+Format your response as follows {cue — target: code}.
+
+List: 

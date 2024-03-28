@@ -1,0 +1,2670 @@
+cue,category,response,nWords,frequency,human1,human2,model1,model2
+accordion,Musical instruments,joy,1,6,I,I-EMOT,I,I-EMOT
+accordion,Musical instruments,music,1,15,S,S-FUNC,S,S-FUNC
+accordion,Musical instruments,party,1,5,S,S-EVENT,S,S-EVENT
+accordion,Musical instruments,tango,1,5,S,S-SOCART,S,S-EVENT
+accordion,Musical instruments,has bellows,1,7,E,E-EXCOMP,E,E-EXCOMP
+accordion,Musical instruments,has keys,1,7,E,E-EXCOMP,E,E-EXCOMP
+accordion,Musical instruments,a musical instrument,2,12,T,T-SUPER,T,T-SYN
+air balloon,Vehicles,is aerial,1,6,E,E-SYS,E,E-SYS
+air balloon,Vehicles,height,1,5,S,S-LOC,S,S-SPAT
+air balloon,Vehicles,rises,1,6,E,E-BEH,E,E-BEH
+air balloon,Vehicles,used for flying,1,11,S,S-FUNC,S,S-FUNC
+air balloon,Vehicles,used for traveling,1,6,S,S-FUNC,S,S-FUNC
+air balloon,Vehicles,different colors,1,9,E,E-EXSURF,E,E-EXSURF
+air balloon,Vehicles,has air,1,5,E,E-INCOMP,E,E-INCOMP
+air balloon,Vehicles,has gas,1,5,E,E-INCOMP,E,E-INCOMP
+air balloon,Vehicles,has a basket,1,6,E,E-EXCOMP,E,E-EXCOMP
+air balloon,Vehicles,a mean of transportation,1,6,T,T-SUPER,S,S-FUNC
+air balloon,Vehicles,found in the sky,1,5,S,S-TIME,S,S-LOC
+airplane,Vehicles,used for flying,1,5,S,S-FUNC,S,S-FUNC
+airplane,Vehicles,used for traveling,1,14,S,S-FUNC,S,S-FUNC
+airplane,Vehicles,gives pleasure,1,5,I,I-EVAL,I,I-EMOT
+anchor,Tools,is heavy,1,6,E,E-SYS,E,E-SYS
+anchor,Tools,used by the sailor,1,5,S,S-PERSON,S,S-PERSON
+anchor,Tools,used for giving security,1,5,S,S-FUNC,S,S-FUNC
+anchor,Tools,used for holding a ship in a fixed place,1,11,S,S-FUNC,S,S-FUNC
+anchor,Tools,water,1,6,E,E-INCOMP,S,S-LOC
+anchor,Tools,made of iron,1,8,E,E-MAT,E,E-MAT
+anchor,Tools,found in the harbor,1,5,S,S-LOC,S,S-LOC
+anchor,Tools,found in the sea,1,13,S,S-LOC,S,S-LOC
+anchor,Tools,found on the ship,1,24,S,S-LOC,S,S-LOC
+ant,Animals,bites,1,6,E,E-BEH,E,E-BEH
+ant,Animals,a bug,1,5,T,T-SUPER,T,T-SYN
+ant,Animals,is hardworking,1,5,E,E-SYS,E,E-BEH
+ant,Animals,an insect,1,7,T,T-SUPER,T,T-ONT
+ant,Animals,causes harm,1,7,I,I-EVAL,E,E-BEH
+anteater,Animals,an animal,1,15,T,T-SUPER,T,T-ONT
+anteater,Animals,is big,1,6,E,E-QUANT,E,E-SYS
+anteater,Animals,eats ants,1,18,E,E-BEH,E,E-BEH
+anvil,Tools,used by the blacksmith,1,7,S,S-PERSON,S,S-FUNC
+anvil,Tools,hammer,1,6,S,S-OBJECT,S,S-OBJECT
+anvil,Tools,is heavy,1,5,E,E-SYS,E,E-SYS
+anvil,Tools,strength,1,6,S,S-ACTION,E,E-SYS
+anvil,Tools,a tool,1,10,T,T-SUPER,T,T-ONT
+anvil,Tools,work,1,10,E,E-SYS,S,S-FUNC
+anvil,Tools,made of iron,1,13,E,E-MAT,E,E-MAT
+apple,Fruits,is eaten,1,6,S,S-ACTION,E,E-BEH
+apple,Fruits,a fruit,1,11,T,T-SUPER,T,T-SUPER
+apple,Fruits,eg - green,1,8,T,T-SUBORD,E,E-EXSURF
+apple,Fruits,eg - red,1,8,T,T-SUBORD,E,E-EXSURF
+apple,Fruits,has vitamins,1,5,E,E-INCOMP,E,E-INCOMP
+apple,Fruits,tastes good,1,13,I,I-EVAL,I,I-EMOT
+arch,Constructions,door,1,5,T,T-SYN,T,T-SUBORD
+arch,Constructions,found in the entrance,1,7,S,S-LOC,S,S-LOC
+arm,Body parts,a part of the body,1,9,E,E-WHOLE,E,E-EXCOMP
+arm,Body parts,used for hugging,1,7,S,S-FUNC,S,S-ACTION
+arm,Body parts,used for pointing,1,5,S,S-FUNC,S,S-ACTION
+arm,Body parts,is useful,1,6,I,I-EVAL,E,E-SYS
+armadillo,Animals,an animal,1,17,T,T-SUPER,T,T-ONT
+armadillo,Animals,is eaten,1,6,S,S-ACTION,S,S-FUNC
+armadillo,Animals,is furry,1,5,E,E-EXSURF,E,E-EXSURF
+armadillo,Animals,is small,1,5,E,E-QUANT,E,E-QUANT
+armadillo,Animals,tastes good,1,5,I,I-EVAL,E,E-INSURF
+armadillo,Animals,has a shell,1,11,E,E-EXCOMP,E,E-EXCOMP
+armadillo,Animals,lives in a hole,1,6,S,S-LOC,S,S-LOC
+armadillo,Animals,lives in the countryside,1,14,S,S-LOC,S,S-LOC
+arrow,Weapons,used for hunting,1,10,S,S-FUNC,S,S-FUNC
+arrow,Weapons,a weapon,1,9,T,T-SUPER,T,T-ONT
+arrow,Weapons,used by native people,2,9,S,S-PERSON,S,S-FUNC
+arrow,Weapons,requires a bow,1,7,S,S-OBJECT,I,I-CONTIN
+artichoke,Vegetables,is eaten,1,11,S,S-ACTION,E,E-BEH
+artichoke,Vegetables,is green,1,12,E,E-EXSURF,E,E-EXSURF
+artichoke,Vegetables,a vegetable,1,8,T,T-SUPER,T,T-ONT
+artichoke,Vegetables,tastes good,1,7,I,I-EVAL,E,E-INSURF
+ashtray,Objects,is decorative,1,8,E,E-SYS,I,I-EVAL
+ashtray,Objects,used for putting cigarettes,1,21,S,S-FUNC,S,S-FUNC
+ashtray,Objects,used for throwing ashes,1,18,S,S-FUNC,S,S-FUNC
+ashtray,Objects,made of glass,1,9,E,E-MAT,E,E-MAT
+ashtray,Objects,made of wood,1,7,E,E-MAT,E,E-MAT
+ashtray,Objects,has an unpleasant smell,1,5,I,I-EVAL,E,E-EXSURF
+asparagus,Vegetables,is eaten,1,12,S,S-ACTION,S,S-FUNC
+asparagus,Vegetables,is green,1,9,E,E-EXSURF,E,E-EXSURF
+asparagus,Vegetables,is long,1,6,E,E-QUANT,E,E-SYS
+asparagus,Vegetables,a vegetable,1,17,T,T-SUPER,T,T-SUPER
+asparagus,Vegetables,tastes good,1,6,I,I-EVAL,I,I-EVAL
+avocado,Fruits,is creamy,1,6,E,E-EXSURF,E,E-INSURF
+avocado,Fruits,is eaten,1,6,S,S-ACTION,S,S-ACTION
+avocado,Fruits,a fruit,1,21,T,T-SUPER,T,T-ONT
+avocado,Fruits,is green,1,16,E,E-EXSURF,E,E-EXSURF
+avocado,Fruits,used for making salad,1,10,S,S-ACTION,S,S-FUNC
+avocado,Fruits,tastes good,1,9,I,I-EVAL,I,I-EVAL
+avocado,Fruits,has a pit,1,5,E,E-INCOMP,E,E-INCOMP
+axe,Tools,a tool,1,13,T,T-SUPER,T,T-SYN
+axe,Tools,used for cutting,1,25,S,S-FUNC,S,S-FUNC
+axe,Tools,used for chopping down,2,10,S,S-FUNC,S,S-FUNC
+axe,Tools,made of metal,1,6,E,E-MAT,E,E-MAT
+ball,Objects,used by children,1,5,S,S-PERSON,S,S-PERSON
+ball,Objects,football,1,15,S,S-EVENT,T,T-SYN
+ball,Objects,game,1,10,S,S-SOCART,S,S-EVENT
+ball,Objects,is round,1,8,E,E-EXSURF,E,E-EXSURF
+ball,Objects,made of rubber,1,5,E,E-MAT,E,E-MAT
+balloon,Toys,is blown,1,11,S,S-ACTION,S,S-ACTION
+balloon,Toys,children,1,6,S,S-PERSON,S,S-PERSON
+balloon,Toys,explodes,1,5,E,E-BEH,E,E-BEH
+balloon,Toys,game,1,9,S,S-SOCART,S,S-EVENT
+balloon,Toys,ornament,1,8,T,T-SUPER,S,S-FUNC
+balloon,Toys,different colors,1,15,E,E-EXSURF,E,E-EXSURF
+balloon,Toys,has air,1,8,E,E-INCOMP,E,E-INCOMP
+balloon,Toys,found in parties,1,22,S,S-EVENT,S,S-EVENT
+banana,Fruits,a dessert,1,5,T,T-SUPER,S,S-FUNC
+banana,Fruits,a foodstuff,1,9,T,T-SUPER,T,T-ONT
+banana,Fruits,a fruit,1,16,T,T-SUPER,T,T-SUPER
+banana,Fruits,is sweet,1,5,E,E-INSURF,E,E-INSURF
+banana,Fruits,used for making smoothies,1,10,S,S-ACTION,S,S-FUNC
+banana,Fruits,is yellow,1,13,E,E-EXSURF,E,E-EXSURF
+banana,Fruits,has potasium,1,12,E,E-INCOMP,E,E-INSURF
+banana,Fruits,has skin,1,6,E,E-EXCOMP,E,E-EXCOMP
+banana,Fruits,tastes good,1,11,I,I-EVAL,E,E-INSURF
+banana,Fruits,eaten by monkeys,1,6,S,S-ACTION,S,S-ACTION
+barn,Constructions,used for storing food,1,5,S,S-FUNC,S,S-FUNC
+barn,Constructions,used for storing grain,1,9,S,S-FUNC,S,S-FUNC
+barn,Constructions,where farm animals are located,2,13,S,S-FUNC,S,S-LOC
+barn,Constructions,where farm animals are located,2,7,S,S-FUNC,S,S-LOC
+barn,Constructions,made of wood,1,5,E,E-MAT,E,E-MAT
+barn,Constructions,found in the field,1,15,S,S-LOC,S,S-LOC
+barrel,Containers,beer,1,17,S,S-OBJECT,S,S-FUNC
+barrel,Containers,wine,1,24,S,S-OBJECT,S,S-OBJECT
+barrel,Containers,made of wood,1,17,E,E-MAT,E,E-MAT
+barrel,Containers,found in the cellar,1,6,S,S-LOC,S,S-LOC
+baseball bat,Objects,ball,1,8,S,S-OBJECT,S,S-FUNC
+baseball bat,Objects,game,1,8,S,S-SOCART,S,S-EVENT
+baseball bat,Objects,a stick,1,10,S,S-OBJECT,T,T-SYN
+baseball bat,Objects,used for hitting,1,6,S,S-FUNC,S,S-FUNC
+baseball bat,Objects,used for playing baseball,1,14,S,S-FUNC,S,S-FUNC
+baseball bat,Objects,used for playing sports,1,9,S,S-FUNC,S,S-FUNC
+baseball bat,Objects,made of wood,1,12,E,E-MAT,E,E-MAT
+baseball glove,Objects,ball,1,7,S,S-OBJECT,E,E-WHOLE
+baseball glove,Objects,used for catching,1,5,S,S-FUNC,S,S-FUNC
+baseball glove,Objects,used for playing,1,11,S,S-FUNC,S,S-FUNC
+baseball glove,Objects,used for playing sports,1,14,S,S-FUNC,S,S-FUNC
+baseball glove,Objects,used for protecting,1,13,S,S-FUNC,S,S-FUNC
+baseball glove,Objects,worn on the hand,1,6,S,S-LOC,S,S-ACTION
+baseball glove,Objects,made of leather,1,15,E,E-MAT,E,E-MAT
+basin,House parts,hygiene,1,6,I,I-REP,S,S-FUNC
+basin,House parts,soap,1,5,S,S-OBJECT,S,S-OBJECT
+basin,House parts,used for bathing,1,10,S,S-FUNC,S,S-FUNC
+basin,House parts,used for relaxing,1,6,S,S-FUNC,S,S-FUNC
+basin,House parts,contains water,1,8,S,S-OBJECT,S,S-OBJECT
+basin,House parts,found in the bathroom,1,15,S,S-LOC,S,S-LOC
+basket,Containers,bread,1,7,S,S-FUNC,S,S-OBJECT
+basket,Containers,fruit,1,8,S,S-LIVING,S,S-OBJECT
+basket,Containers,picnic,1,5,S,S-EVENT,S,S-EVENT
+basket,Containers,used for storing things,1,6,S,S-FUNC,S,S-FUNC
+basket,Containers,is useful,1,8,I,I-EVAL,E,E-SYS
+basket,Containers,made of wicker,1,11,E,E-MAT,E,E-MAT
+bat,Animals,an animal,1,9,T,T-SUPER,T,T-ONT
+bat,Animals,is bind,1,7,E,E-SYS,E,E-SYS
+bat,Animals,is black,1,7,E,E-EXSURF,E,E-EXSURF
+bat,Animals,a bug,1,5,T,T-SUPER,T,T-SYN
+bat,Animals,flies,1,10,E,E-BEH,E,E-BEH
+bat,Animals,night,1,16,E,E-BEH,S,S-TIME
+bat,Animals,is ugly,1,17,I,I-EVAL,I,I-EVAL
+beach shovel,Toys,broom,1,6,S,S-OBJECT,T,T-COORD
+beach shovel,Toys,used for cleaning,1,5,S,S-FUNC,S,S-FUNC
+beach shovel,Toys,used for collecting garbage,1,16,S,S-FUNC,S,S-FUNC
+beach shovel,Toys,made of plastic,1,9,E,E-MAT,E,E-MAT
+bear,Animals,is agressive,1,11,E,E-SYS,E,E-SYS
+bear,Animals,an animal,1,13,T,T-SUPER,T,T-ONT
+bear,Animals,is big,1,15,E,E-QUANT,E,E-SYS
+bear,Animals,is grizzly,1,5,E,E-EXSURF,E,E-SYS
+bear,Animals,is white,1,7,E,E-EXSURF,E,E-EXSURF
+bear,Animals,has hair,1,9,E,E-EXCOMP,E,E-EXCOMP
+bed,Furniture,used for resting,1,16,S,S-FUNC,S,S-FUNC
+bed,Furniture,used for sleeping,1,7,S,S-FUNC,S,S-FUNC
+bee,Animals,bites,1,17,E,E-BEH,E,E-BEH
+bee,Animals,drone,1,5,T,T-SUBORD,T,T-SUBORD
+bee,Animals,flies,1,5,E,E-BEH,E,E-BEH
+bee,Animals,is hardworking,1,5,E,E-SYS,E,E-BEH
+bee,Animals,an insect,1,8,T,T-SUPER,T,T-ONT
+bee,Animals,queen,1,9,T,T-SUBORD,S,S-PERSON
+bee,Animals,makes honey,1,30,E,E-BEH,E,E-BEH
+bee,Animals,lives in the beehive,1,10,S,S-LOC,S,S-LOC
+bee,Animals,lives in the hive,1,12,S,S-LOC,S,S-LOC
+beetle,Animals,an animal,1,5,T,T-SUPER,T,T-SYN
+beetle,Animals,is black,1,11,E,E-EXSURF,E,E-EXSURF
+beetle,Animals,a bug,1,5,T,T-SUPER,T,T-ONT
+beetle,Animals,an insect,1,11,T,T-SUPER,T,T-ONT
+beetle,Animals,is small,1,9,E,E-QUANT,E,E-SYS
+beetle,Animals,is ugly,1,5,I,I-EVAL,I,I-EVAL
+bell,Objects,alarm,1,5,S,S-FUNC,S,S-FUNC
+bell,Objects,is noisy,1,8,E,E-SYS,E,E-SYS
+bell,Objects,rings,1,8,E,E-BEH,E,E-BEH
+bell,Objects,sound,1,7,S,S-FUNC,E,E-EXSURF
+bell,Objects,used for calling,1,7,S,S-ACTION,S,S-FUNC
+bell,Objects,made of bronze,1,9,E,E-MAT,E,E-MAT
+bell,Objects,made of metal,1,5,E,E-MAT,E,E-MAT
+bell,Objects,found in the church,1,20,S,S-LOC,S,S-LOC
+bell,Objects,found in the school,1,13,S,S-LOC,S,S-LOC
+belt,Clothing,used for fastenning,1,12,S,S-FUNC,S,S-FUNC
+belt,Clothing,used to hold,1,11,S,S-FUNC,S,S-FUNC
+belt,Clothing,worn on pants,1,12,S,S-LOC,S,S-FUNC
+belt,Clothing,different colors,1,5,E,E-EXSURF,E,E-EXSURF
+belt,Clothing,has a buckle,1,14,E,E-EXCOMP,E,E-EXCOMP
+belt,Clothing,made of leather,1,18,E,E-MAT,E,E-MAT
+bench,Furniture,is comfortable,1,5,I,I-EVAL,E,E-SYS
+bench,Furniture,rest,1,10,S,S-FUNC,S,S-FUNC
+bench,Furniture,used for resting,1,7,S,S-FUNC,S,S-FUNC
+bench,Furniture,used for sitting,1,5,S,S-FUNC,S,S-FUNC
+bench,Furniture,made of wood,1,13,E,E-MAT,E,E-MAT
+bench,Furniture,found in the school,1,5,S,S-LOC,S,S-LOC
+bench,Furniture,found in the square,1,23,S,S-LOC,S,S-LOC
+bicycle,Vehicles,exercise,1,12,S,S-FUNC,S,S-ACTION
+bicycle,Vehicles,race,1,12,S,S-FUNC,S,S-EVENT
+bicycle,Vehicles,sport,1,5,S,S-FUNC,S,S-EVENT
+bicycle,Vehicles,used for riding,1,14,S,S-FUNC,S,S-FUNC
+bicycle,Vehicles,has brakes,1,7,E,E-EXCOMP,E,E-EXCOMP
+bicycle,Vehicles,has wheels,1,16,E,E-EXCOMP,E,E-EXCOMP
+bicycle,Vehicles,a mean of transportation,1,10,T,T-SUPER,S,S-FUNC
+binoculars,Tools,distance,1,6,S,S-SOCART,S,S-FUNC
+binoculars,Tools,used for watching far,1,13,S,S-FUNC,S,S-FUNC
+binoculars,Tools,used to see,1,21,S,S-FUNC,S,S-FUNC
+binoculars,Tools,has magnification,1,8,E,E-SYS,E,E-SYS
+bird,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+bird,Animals,a bird,1,9,T,T-SUPER,T,T-SYN
+bird,Animals,flies,1,19,E,E-BEH,E,E-BEH
+bird,Animals,freedom,1,8,E,E-ABSTR,I,I-REP
+bird,Animals,nest,1,6,S,S-OBJECT,S,S-LOC
+bird,Animals,sings,1,13,E,E-BEH,E,E-BEH
+bird,Animals,different colors,1,11,E,E-EXSURF,E,E-QUANT
+bird,Animals,has feathers,1,9,E,E-EXCOMP,E,E-EXCOMP
+bird,Animals,has wings,1,11,E,E-EXCOMP,E,E-EXCOMP
+bird,Animals,lays eggs,1,5,E,E-BEH,E,E-BEH
+bird,Animals,has a beak,1,7,E,E-EXCOMP,E,E-EXCOMP
+bird house,Constructions,birds,1,5,S,S-LIVING,S,S-LIVING
+bird house,Constructions,nest,1,13,S,S-OBJECT,T,T-SUBORD
+bird house,Constructions,baker bird,2,9,S,S-OBJECT,S,S-PERSON
+bird house,Constructions,found in the tree,1,8,S,S-LOC,S,S-LOC
+bird nest,Constructions,a home,1,5,T,T-SUPER,S,S-LOC
+bird nest,Constructions,where birds live,1,8,S,S-LIVING,S,S-LOC
+bird nest,Constructions,has eggs,1,7,S,S-LIVING,E,E-INCOMP
+bird nest,Constructions,has feathers,1,5,E,E-EXCOMP,E,E-EXCOMP
+bird nest,Constructions,made of mud,1,6,E,E-MAT,E,E-MAT
+bird nest,Constructions,made of straw,1,10,E,E-MAT,E,E-MAT
+blackboard,Utensils,is black,1,11,E,E-EXSURF,E,E-EXSURF
+blackboard,Utensils,eraser,1,5,S,S-OBJECT,S,S-OBJECT
+blackboard,Utensils,is green,1,7,E,E-EXSURF,E,E-EXSURF
+blackboard,Utensils,used for drawing,1,5,S,S-FUNC,S,S-FUNC
+blackboard,Utensils,used for teaching,1,8,S,S-FUNC,S,S-FUNC
+blackboard,Utensils,used for writing,1,20,S,S-FUNC,S,S-FUNC
+blackboard,Utensils,used with chalk,1,14,S,S-OBJECT,S,S-FUNC
+blackboard,Utensils,found in the school,1,17,S,S-BUILD,S,S-LOC
+blimp,Vehicles,air,1,14,S,S-LOC,S,S-LOC
+blimp,Vehicles,is big,1,7,E,E-QUANT,E,E-SYS
+blimp,Vehicles,used for flying,1,12,S,S-FUNC,S,S-FUNC
+blimp,Vehicles,war,1,5,S,S-EVENT,S,S-EVENT
+blimp,Vehicles,contains gas,2,5,E,E-INCOMP,E,E-INCOMP
+blimp,Vehicles,hot-air balloon,2,7,S,S-OBJECT,T,T-SYN
+blimp,Vehicles,a mean of transportation,1,7,T,T-SUPER,T,T-SUPER
+blouse,Clothing,clothing,1,16,T,T-SUPER,T,T-SYN
+blouse,Clothing,used by women,1,16,S,S-PERSON,S,S-PERSON
+blouse,Clothing,different colors,1,5,E,E-EXSURF,E,E-EXSURF
+blouse,Clothing,has buttons,1,7,E,E-EXCOMP,E,E-EXCOMP
+blouse,Clothing,made of silk,1,7,E,E-MAT,E,E-MAT
+blowfish,Animals,an animal,1,6,T,T-SUPER,T,T-ONT
+blowfish,Animals,is poisonous,1,5,E,E-SYS,E,E-SYS
+blowfish,Animals,lives in the sea,1,10,S,S-LOC,S,S-LOC
+blowfish,Animals,lives in the water,1,11,S,S-LOC,S,S-LOC
+book,Objects,used for reading,1,13,S,S-FUNC,S,S-FUNC
+book,Objects,used for studying,1,8,S,S-FUNC,S,S-FUNC
+book,Objects,has a cover,1,7,E,E-EXCOMP,E,E-EXCOMP
+book,Objects,has a leaf,1,11,E,E-EXCOMP,E,E-EXCOMP
+book,Objects,found in the library,1,11,S,S-LOC,S,S-LOC
+boot,Clothing,is comfortable,1,6,I,I-EVAL,E,E-SYS
+boot,Clothing,is footwear,1,8,T,T-SUPER,T,T-SYN
+boot,Clothing,used for cold,1,5,S,S-FUNC,S,S-FUNC
+boot,Clothing,used for the rain,1,5,S,S-FUNC,S,S-FUNC
+boot,Clothing,made of leather,1,10,E,E-MAT,E,E-MAT
+boot,Clothing,made of rubber,1,5,E,E-MAT,E,E-MAT
+bottle,Containers,a container,1,7,T,T-SUPER,T,T-SYN
+bottle,Containers,drinks,1,5,S,S-OBJECT,S,S-OBJECT
+bottle,Containers,eg - glass,1,12,E,E-MAT,E,E-MAT
+bottle,Containers,used for keeping fluids,1,11,S,S-FUNC,S,S-FUNC
+bottle,Containers,wine,1,5,S,S-OBJECT,S,S-OBJECT
+bottle,Containers,made of plastic,1,7,E,E-MAT,E,E-MAT
+bow,Accessories,an ornament,1,8,T,T-SUPER,E,E-EXCOMP
+bow,Accessories,worn at parties,1,5,S,S-EVENT,S,S-EVENT
+bow,Accessories,different colors,1,6,E,E-EXSURF,E,E-EXSURF
+bow,Accessories,used for tying hair,2,9,S,S-FUNC,S,S-FUNC
+bow,Accessories,made of ribbon,1,5,E,E-MAT,E,E-MAT
+bow,Accessories,part of a suit,1,6,E,E-WHOLE,E,E-EXCOMP
+bowl,Utensils,a container,1,5,T,T-SUPER,T,T-SYN
+bowl,Utensils,food,1,6,S,S-OBJECT,S,S-OBJECT
+bowl,Utensils,salad,1,18,S,S-OBJECT,S,S-OBJECT
+bowl,Utensils,used for mixing,1,10,S,S-FUNC,S,S-FUNC
+bowl,Utensils,different colors,1,7,E,E-EXSURF,E,E-EXSURF
+bowl,Utensils,made of plastic,1,9,E,E-MAT,E,E-MAT
+bowl,Utensils,found in the kitchen,1,9,S,S-LOC,S,S-LOC
+box,Containers,shoe,1,6,S,S-OBJECT,E,E-WHOLE
+box,Containers,is square,1,5,E,E-EXSURF,E,E-EXSURF
+box,Containers,eg - strong,1,6,T,T-SUBORD,E,E-SYS
+box,Containers,used for storing things,1,14,S,S-FUNC,S,S-FUNC
+box,Containers,made of cardboard,1,18,E,E-MAT,E,E-MAT
+box,Containers,made of wood,1,15,E,E-MAT,E,E-MAT
+brain,Body parts,a part of the body,1,5,E,E-WHOLE,T,T-ONT
+brain,Body parts,is important,1,5,I,I-EVAL,E,E-SYS
+brain,Body parts,an organ,1,8,T,T-SUPER,T,T-SUBORD
+brain,Body parts,used to think,1,11,S,S-FUNC,S,S-FUNC
+brain,Body parts,is in the head,1,9,S,S-LOC,E,E-INCOMP
+bread,Food,food,1,8,S,S-OBJECT,T,T-SUPER
+bread,Food,a foodstuff,1,12,T,T-SUPER,T,T-SUBORD
+bread,Food,used for sandwich,1,9,S,S-ACTION,S,S-FUNC
+bread,Food,wheat,1,5,E,E-INCOMP,E,E-MAT
+bread,Food,eg - white,1,5,T,T-SUBORD,E,E-EXSURF
+bread,Food,has flour,1,14,E,E-INCOMP,E,E-MAT
+bread,Food,is in bakeries,1,7,S,S-BUILD,S,S-LOC
+bread,Food,tastes good,1,7,I,I-EVAL,E,E-INSURF
+broom,Tools,used for cleaning,1,17,S,S-FUNC,S,S-FUNC
+broom,Tools,used for sweeping,1,17,S,S-FUNC,S,S-FUNC
+broom,Tools,witch,1,7,S,S-PERSON,S,S-PERSON
+broom,Tools,has a stick,1,14,E,E-EXCOMP,E,E-EXCOMP
+broom,Tools,made of plastic,1,5,E,E-MAT,E,E-MAT
+broom,Tools,made of straw,1,16,E,E-MAT,E,E-MAT
+brush,Utensils,used for cleaning,1,19,S,S-FUNC,S,S-FUNC
+brush,Utensils,used for washing clothes,1,8,S,S-FUNC,S,S-FUNC
+brush,Utensils,has bristles,1,6,E,E-EXCOMP,E,E-EXCOMP
+brush,Utensils,used for combing hair,1,9,S,S-FUNC,S,S-FUNC
+brush,Utensils,made of plastic,1,5,E,E-MAT,E,E-MAT
+brush,Utensils,used for cleaning your teeth,1,14,S,S-FUNC,S,S-FUNC
+buffalo,Animals,an animal,1,26,T,T-SUPER,T,T-ONT
+buffalo,Animals,is big,1,12,E,E-QUANT,E,E-SYS
+buffalo,Animals,is dangerous,1,5,I,I-EVAL,E,E-SYS
+buffalo,Animals,a mammal,1,5,T,T-SUPER,T,T-ONT
+buffalo,Animals,is wild,1,5,E,E-SYS,E,E-SYS
+buffalo,Animals,has horns,1,7,E,E-EXCOMP,E,E-EXCOMP
+bus,Vehicles,is big,1,5,E,E-QUANT,E,E-QUANT
+bus,Vehicles,driver,1,6,S,S-LIVING,S,S-PERSON
+bus,Vehicles,is old,1,5,E,E-SYS,E,E-SYS
+bus,Vehicles,used by passengers,1,11,S,S-PERSON,S,S-FUNC
+bus,Vehicles,used for traveling,1,8,S,S-FUNC,S,S-FUNC
+bus,Vehicles,has seats,1,7,E,E-INCOMP,E,E-EXCOMP
+bus,Vehicles,eg - interurban bus,2,5,T,T-SUBORD,T,T-SUBORD
+bus,Vehicles,a mean of transportation,1,13,T,T-SUPER,S,S-FUNC
+butterfly,Animals,is colorful,1,23,E,E-EXSURF,E,E-EXSURF
+butterfly,Animals,flies,1,12,E,E-BEH,E,E-BEH
+butterfly,Animals,an insect,1,12,T,T-SUPER,T,T-ONT
+butterfly,Animals,nectar,1,5,S,S-OBJECT,S,S-OBJECT
+butterfly,Animals,is nice,1,15,I,I-EVAL,I,I-EVAL
+butterfly,Animals,spring,1,10,S,S-TIME,S,S-TIME
+butterfly,Animals,has wings,1,10,E,E-EXCOMP,E,E-EXCOMP
+butterfly,Animals,perches on flowers,1,10,E,E-BEH,E,E-BEH
+button,Accessories,an ornament,1,5,T,T-SUPER,S,S-SOCART
+button,Accessories,is sewed,1,5,S,S-ACTION,E,E-EXCOMP
+button,Accessories,is small,1,5,E,E-QUANT,E,E-QUANT
+button,Accessories,is useful,1,7,I,I-EVAL,I,I-EVAL
+button,Accessories,different colors,1,10,E,E-EXSURF,E,E-EXSURF
+button,Accessories,different shapes,1,5,E,E-EXSURF,E,E-QUANT
+button,Accessories,has holes,1,10,E,E-EXSURF,E,E-EXCOMP
+button,Accessories,used for buttoning up,2,16,S,S-FUNC,S,S-FUNC
+button,Accessories,found on clothing,1,13,S,S-LOC,E,E-WHOLE
+button,Accessories,made of plastic,1,5,E,E-MAT,E,E-MAT
+button,Accessories,made of wood,1,5,E,E-MAT,E,E-MAT
+button,Accessories,found in the coat,1,5,S,S-LOC,E,E-EXCOMP
+cactus,Plants,a plant,1,15,T,T-SUPER,T,T-SYN
+cactus,Plants,is prickly,1,6,E,E-SYS,E,E-EXSURF
+cactus,Plants,has flowers,1,12,E,E-EXCOMP,E,E-EXCOMP
+cactus,Plants,has thorns,1,23,E,E-EXCOMP,E,E-EXCOMP
+cactus,Plants,has water inside,1,5,E,E-INCOMP,E,E-INCOMP
+cactus,Plants,found in the desert,1,9,S,S-LOC,S,S-LOC
+cady,Containers,food,1,6,S,S-OBJECT,T,T-ONT
+cady,Containers,goods,1,5,S,S-OBJECT,T,T-ONT
+cady,Containers,supermarket,1,14,T,T-SUBORD,S,S-BUILD
+cady,Containers,used for shopping,1,7,S,S-FUNC,S,S-FUNC
+cady,Containers,has a handle,1,6,E,E-EXCOMP,E,E-EXCOMP
+cady,Containers,made of fabric,1,5,E,E-MAT,E,E-MAT
+cady,Containers,made of nylon,1,5,E,E-MAT,E,E-MAT
+cady,Containers,made of plastic,1,7,E,E-MAT,E,E-MAT
+cage,Constructions,animals,1,7,S,S-LIVING,S,S-FUNC
+cage,Constructions,birds,1,14,S,S-LIVING,S,S-OBJECT
+cage,Constructions,used to enclose,1,16,S,S-FUNC,S,S-FUNC
+cage,Constructions,made of metal,1,5,E,E-MAT,E,E-MAT
+cake,Food,celebration,1,7,S,S-EVENT,S,S-EVENT
+cake,Food,is eaten,1,5,S,S-ACTION,E,E-BEH
+cake,Food,is sweet,1,13,E,E-INSURF,E,E-INSURF
+cake,Food,has chocolate,1,5,E,E-EXCOMP,E,E-INCOMP
+cake,Food,has cream,1,6,E,E-EXCOMP,E,E-INCOMP
+cake,Food,tastes good,1,7,I,I-EVAL,E,E-INSURF
+cake,Food,found in weddings,1,5,S,S-EVENT,S,S-EVENT
+cake,Food,has caramel milk,2,7,E,E-INCOMP,E,E-INCOMP
+calipers,Tools,a tool,1,5,T,T-SUPER,T,T-SUBORD
+calipers,Tools,used for measuring,1,12,S,S-FUNC,S,S-FUNC
+camel,Animals,an animal,1,12,T,T-SUPER,T,T-SYN
+camel,Animals,a quadruped,1,9,T,T-SUPER,T,T-SUPER
+camel,Animals,is tall,1,5,E,E-QUANT,E,E-SYS
+camel,Animals,used for transportation,1,5,S,S-ACTION,S,S-FUNC
+camel,Animals,has hair,1,6,E,E-EXCOMP,E,E-EXCOMP
+camel,Animals,has a heap,1,21,E,E-EXCOMP,E,E-EXCOMP
+camel,Animals,lives in the desert,1,16,S,S-LOC,S,S-LOC
+camera,Devices,moments,1,6,I,I-REP,S,S-EVENT
+camera,Devices,used to capture images,1,6,S,S-FUNC,S,S-FUNC
+camera,Devices,used to keep riminders away,1,14,S,S-FUNC,S,S-FUNC
+camera,Devices,eg - digital camera,2,9,T,T-SUBORD,T,T-SUBORD
+camera,Devices,used for celebrating birthdays,1,5,S,S-FUNC,S,S-FUNC
+camera,Devices,eg - film roll camera,3,5,T,T-SUBORD,E,E-EXCOMP
+can,Containers,a container,1,5,T,T-SUPER,T,T-ONT
+can,Containers,food,1,7,S,S-OBJECT,S,S-FUNC
+can,Containers,used for storing,1,6,S,S-FUNC,S,S-FUNC
+can,Containers,contains food,1,5,T,T-SUPER,E,E-INCOMP
+can,Containers,sheet metal,2,6,E,E-MAT,E,E-MAT
+candle,Objects,fire,1,7,S,S-OBJECT,S,S-OBJECT
+candle,Objects,light,1,16,S,S-FUNC,S,S-FUNC
+candle,Objects,used for praying,1,5,S,S-FUNC,S,S-FUNC
+candle,Objects,used for lighting up,2,13,S,S-FUNC,S,S-FUNC
+candle,Objects,used on birthday cakes,2,7,S,S-EVENT,S,S-FUNC
+candle,Objects,made of wax,1,8,E,E-MAT,E,E-MAT
+cannon,Weapons,death,1,6,S,S-SOCART,S,S-EVENT
+cannon,Weapons,destruction,1,7,S,S-FUNC,S,S-FUNC
+cannon,Weapons,a weapon,1,7,T,T-SUPER,T,T-SUBORD
+cap,Clothing,is a cap,1,16,T,T-SUPER,T,T-SYN
+cap,Clothing,made of fabric,1,5,E,E-MAT,E,E-MAT
+cap,Clothing,made of wool,1,5,E,E-MAT,E,E-MAT
+cap,Clothing,used for covering of the cold,1,8,S,S-FUNC,S,S-FUNC
+car,Vehicles,is comfortable,1,6,I,I-EVAL,E,E-SYS
+car,Vehicles,is fast,1,6,E,E-SYS,E,E-SYS
+car,Vehicles,used for riding,1,7,S,S-FUNC,S,S-FUNC
+car,Vehicles,used for traveling,1,8,S,S-FUNC,S,S-FUNC
+car,Vehicles,has wheels,1,12,E,E-EXCOMP,E,E-EXCOMP
+car,Vehicles,has an engine,1,6,E,E-INCOMP,E,E-INCOMP
+car,Vehicles,a mean of transportation,1,12,T,T-SUPER,S,S-FUNC
+carrot,Vegetables,is eaten,1,16,S,S-ACTION,S,S-ACTION
+carrot,Vegetables,is grated,1,6,S,S-ACTION,S,S-ACTION
+carrot,Vegetables,is orange,1,16,E,E-EXSURF,E,E-EXSURF
+carrot,Vegetables,raw,1,5,E,E-INSURF,E,E-SYS
+carrot,Vegetables,stew,1,5,E,E-WHOLE,S,S-OBJECT
+carrot,Vegetables,a tuber,1,5,T,T-SUPER,T,T-SUBORD
+carrot,Vegetables,used for making salad,1,18,S,S-ACTION,S,S-FUNC
+carrot,Vegetables,a vegetable,1,15,T,T-SUPER,T,T-ONT
+carrot,Vegetables,a vegetable,1,5,T,T-SUPER,T,T-ONT
+carrot,Vegetables,has vitamins,1,5,E,E-INCOMP,E,E-SYS
+carrot,Vegetables,eaten by rabbits,1,9,S,S-LIVING,E,E-BEH
+cat,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+cat,Animals,is cuddly,1,11,E,E-SYS,E,E-SYS
+cat,Animals,a feline,1,8,T,T-SUPER,T,T-SYN
+celery,Vegetables,is green,1,14,E,E-EXSURF,E,E-EXSURF
+celery,Vegetables,a plant,1,7,T,T-SUPER,T,T-ONT
+celery,Vegetables,a spice,1,5,T,T-SUPER,T,T-SUPER
+celery,Vegetables,used for flavouring,1,5,S,S-FUNC,S,S-FUNC
+celery,Vegetables,used for making salad,1,8,S,S-ACTION,S,S-FUNC
+celery,Vegetables,a vegetable,1,13,T,T-SUPER,T,T-ONT
+celery,Vegetables,a vegetable,1,5,T,T-SUPER,T,T-ONT
+celery,Vegetables,has a leaf,1,7,E,E-EXCOMP,E,E-EXCOMP
+centipede,Animals,an animal,1,8,T,T-SUPER,T,T-ONT
+centipede,Animals,a bug,1,8,T,T-SUPER,T,T-SYN
+centipede,Animals,an insect,1,10,T,T-SUPER,T,T-SYN
+centipede,Animals,is long,1,10,E,E-QUANT,E,E-SYS
+centipede,Animals,is small,1,8,E,E-QUANT,E,E-QUANT
+centipede,Animals,has legs,1,10,E,E-EXCOMP,E,E-EXCOMP
+chain,Tools,eg - bicycle,1,5,T,T-SUBORD,E,E-WHOLE
+chain,Tools,an ornament,1,5,T,T-SUPER,S,S-FUNC
+chain,Tools,safety,1,5,S,S-SOCART,S,S-FUNC
+chain,Tools,used for joining,1,5,S,S-FUNC,S,S-FUNC
+chain,Tools,used for tying,1,10,S,S-FUNC,S,S-FUNC
+chain,Tools,has links,1,12,E,E-EXCOMP,E,E-EXCOMP
+chain,Tools,made of gold,1,8,E,E-MAT,E,E-MAT
+chain,Tools,made of iron,1,7,E,E-MAT,E,E-MAT
+chain,Tools,made of metal,1,6,E,E-MAT,E,E-MAT
+chain,Tools,made of silver,1,7,E,E-MAT,E,E-MAT
+chair,Furniture,is comfortable,1,11,I,I-EVAL,E,E-SYS
+chair,Furniture,seat,1,6,T,T-COORD,T,T-SYN
+chair,Furniture,table,1,8,S,S-OBJECT,T,T-COORD
+chair,Furniture,used for resting,1,6,S,S-FUNC,S,S-FUNC
+chair,Furniture,used for sitting,1,12,S,S-FUNC,S,S-FUNC
+chair,Furniture,made of metal,1,5,E,E-MAT,E,E-MAT
+chair,Furniture,made of wood,1,13,E,E-MAT,E,E-MAT
+cheese,Food,is creamy,1,6,E,E-EXSURF,E,E-INSURF
+cheese,Food,a foodstuff,1,8,T,T-SUPER,T,T-SUBORD
+cheese,Food,tastes good,1,10,I,I-EVAL,E,E-INSURF
+cheese,Food,can be grated,1,11,S,S-ACTION,S,S-FUNC
+cheese,Food,made of milk,1,10,E,E-MAT,E,E-MAT
+cheese,Food,a product of the cow,1,5,S,S-LIVING,S,S-OBJECT
+cherry,Fruits,a fruit,1,21,T,T-SUPER,T,T-SYN
+cherry,Fruits,is red,1,21,E,E-EXSURF,E,E-EXSURF
+cherry,Fruits,is small,1,10,E,E-QUANT,E,E-QUANT
+cherry,Fruits,is sweet,1,18,E,E-INSURF,E,E-INSURF
+cherry,Fruits,used for desserts,1,6,S,S-ACTION,S,S-FUNC
+cherry,Fruits,tastes good,1,15,I,I-EVAL,I,I-EVAL
+cherry,Fruits,has a pit,1,8,E,E-INCOMP,E,E-INCOMP
+chest,Furniture,used for storing clothes,1,5,S,S-FUNC,S,S-FUNC
+chest,Furniture,used for storing things,1,15,S,S-FUNC,S,S-FUNC
+chest,Furniture,used to keep riminders away,1,13,S,S-FUNC,S,S-FUNC
+chest,Furniture,made of wood,1,13,E,E-MAT,E,E-MAT
+chest,Furniture,found in the car,1,9,S,S-LOC,S,S-LOC
+chicken,Animals,a bird,1,5,T,T-SUPER,T,T-ONT
+chicken,Animals,chicken,1,5,T,T-SYN,T,T-SYN
+chicken,Animals,clucks,1,5,E,E-BEH,E,E-BEH
+chicken,Animals,is eaten,1,12,S,S-ACTION,S,S-ACTION
+chicken,Animals,used for making stew,1,5,S,S-ACTION,S,S-FUNC
+chicken,Animals,eats corn,1,5,E,E-BEH,E,E-BEH
+chicken,Animals,has feathers,1,13,E,E-EXCOMP,E,E-EXCOMP
+chicken,Animals,lays eggs,1,27,E,E-BEH,E,E-BEH
+chicken,Animals,little chicken,1,11,T,T-COORD,T,T-SUBORD
+chicken,Animals,lives in the henhouse,1,8,S,S-LOC,S,S-LOC
+chisel,Utensils,carrot,1,9,S,S-LIVING,S,S-OBJECT
+chisel,Utensils,fruit,1,5,S,S-LIVING,S,S-OBJECT
+chisel,Utensils,eg - metal,1,10,E,E-MAT,E,E-MAT
+chisel,Utensils,potatoe,1,9,S,S-LIVING,S,S-OBJECT
+chisel,Utensils,used for cutting,1,5,S,S-FUNC,S,S-FUNC
+chisel,Utensils,is useful,1,9,I,I-EVAL,E,E-SYS
+chisel,Utensils,a utensil,1,11,T,T-SUPER,T,T-SUPER
+chisel,Utensils,found in the kitchen,1,11,S,S-LOC,S,S-LOC
+chisel,Utensils,has a cutting edge,2,5,E,E-EXSURF,E,E-EXCOMP
+church,Constructions,is big,1,6,E,E-QUANT,E,E-SYS
+church,Constructions,god,1,5,S,S-SOCART,S,S-SOCORG
+church,Constructions,mass,1,7,S,S-SOCART,S,S-EVENT
+church,Constructions,pray,1,14,S,S-ACTION,S,S-ACTION
+church,Constructions,priest,1,5,S,S-PERSON,S,S-PERSON
+church,Constructions,religion,1,5,S,S-SOCART,S,S-SOCORG
+church,Constructions,wedding,1,5,S,S-EVENT,S,S-EVENT
+cigar,Objects,is big,1,5,E,E-QUANT,E,E-QUANT
+cigar,Objects,is brown,1,6,E,E-EXSURF,E,E-EXSURF
+cigar,Objects,causes_disease,1,8,E,E-SYS,S,S-EVENT
+cigar,Objects,a cigar,1,16,T,T-SUPER,T,T-SYN
+cigar,Objects,used for smoking,1,11,S,S-FUNC,S,S-FUNC
+cigar,Objects,has tobacco,1,10,E,E-INCOMP,E,E-INCOMP
+cigar,Objects,releases smoke,1,13,E,E-BEH,E,E-BEH
+cigarette,Objects,causes_disease,1,9,E,E-SYS,S,S-EVENT
+cigarette,Objects,illness,1,5,I,I-CONTIN,S,S-SOCORG
+cigarette,Objects,paper,1,5,E,E-EXCOMP,E,E-MAT
+cigarette,Objects,used for smoking,1,5,S,S-FUNC,S,S-FUNC
+cigarette,Objects,is a vice,1,10,I,I-REP,I,I-EVAL
+cigarette,Objects,causes cancer,1,8,S,S-ACTION,S,S-EVENT
+cigarette,Objects,causes disease,1,5,I,I-EVAL,S,S-EVENT
+cigarette,Objects,has nicotine,1,7,E,E-INCOMP,E,E-INCOMP
+cigarette,Objects,has tobacco,1,13,E,E-INCOMP,E,E-INCOMP
+cigarette,Objects,releases smoke,1,11,E,E-BEH,E,E-BEH
+clock,Devices,alarm,1,6,S,S-FUNC,S,S-FUNC
+clock,Devices,used for indicating time,1,11,S,S-FUNC,S,S-FUNC
+clock,Devices,used for waking up,2,5,S,S-FUNC,S,S-FUNC
+closet,Furniture,used for storing clothes,1,13,S,S-FUNC,S,S-FUNC
+closet,Furniture,used for storing things,1,12,S,S-FUNC,S,S-FUNC
+closet,Furniture,is useful,1,5,I,I-EVAL,I,I-EVAL
+closet,Furniture,has doors,1,9,E,E-EXCOMP,E,E-EXCOMP
+closet,Furniture,has drawers,1,5,E,E-EXCOMP,E,E-EXCOMP
+closet,Furniture,made of wood,1,10,E,E-MAT,E,E-MAT
+closet,Furniture,a piece of furniture,1,11,T,T-SUPER,T,T-SYN
+clothespin,Utensils,used for hanging clothes,1,15,E,E-MAT,S,S-FUNC
+clothespin,Utensils,is useful,1,5,I,I-EVAL,I,I-EVAL
+clothespin,Utensils,made of plastic,1,11,E,E-MAT,E,E-MAT
+clothespin,Utensils,made of wood,1,12,E,E-MAT,E,E-MAT
+cloud,Nature,water,1,5,E,E-INCOMP,E,E-MAT
+cloud,Nature,is white,1,6,E,E-EXSURF,E,E-EXSURF
+cloud,Nature,produce rain,1,14,E,E-BEH,E,E-BEH
+cloud,Nature,covers the sun,1,5,S,S-SPAT,S,S-SPAT
+cloud,Nature,found in the sky,1,11,S,S-TIME,S,S-LOC
+clown,Toys,cheerful,1,12,I,I-EMOT,I,I-EMOT
+clown,Toys,circus,1,16,S,S-LOC,S,S-EVENT
+clown,Toys,is colorful,1,7,E,E-EXSURF,E,E-EXSURF
+clown,Toys,is funny,1,11,I,I-EVAL,I,I-EVAL
+clown,Toys,is funny,1,5,I,I-EVAL,I,I-EVAL
+clown,Toys,is funny,1,11,E,E-SYS,I,I-EVAL
+clown,Toys,is funny,1,5,E,E-SYS,I,I-EVAL
+clown,Toys,is sad,1,5,I,I-EVAL,I,I-EMOT
+clown,Toys,has a nose,1,6,E,E-EXCOMP,E,E-EXCOMP
+clown,Toys,liked by children,1,10,I,I-REP,E,E-BEH
+clown,Toys,makes you laugh,1,8,S,S-FUNC,E,E-BEH
+clown,Toys,has a painted face,2,8,E,E-EXSURF,E,E-EXSURF
+clown,Toys,has a red nose,2,6,E,E-EXCOMP,E,E-EXSURF
+coat,Clothing,clothing,1,10,T,T-SUPER,T,T-SUPER
+coat,Clothing,is elegant,1,6,I,I-EVAL,E,E-SYS
+coat,Clothing,is long,1,6,E,E-QUANT,E,E-QUANT
+coat,Clothing,winter,1,5,S,S-TIME,S,S-TIME
+coat,Clothing,is a warm clothing,2,14,T,T-SUPER,E,E-SYS
+coat,Clothing,made of wool,1,7,E,E-MAT,E,E-MAT
+cockroach,Animals,is black,1,10,E,E-EXSURF,E,E-EXSURF
+cockroach,Animals,is brown,1,5,E,E-EXSURF,E,E-EXSURF
+cockroach,Animals,is dirty,1,5,I,I-EVAL,E,E-SYS
+cockroach,Animals,is disgusting,1,12,I,I-EVAL,I,I-EVAL
+cockroach,Animals,an insect,1,21,T,T-SUPER,T,T-ONT
+cockroach,Animals,is a plague,1,10,T,T-SUPER,E,E-SYS
+cockroach,Animals,is ugly,1,12,I,I-EVAL,I,I-EVAL
+colander,Utensils,coffee,1,5,S,S-OBJECT,S,S-OBJECT
+colander,Utensils,tea,1,9,S,S-OBJECT,S,S-FUNC
+colander,Utensils,used for straining nuddles,1,14,T,T-SUPER,S,S-FUNC
+colander,Utensils,used for strainning,1,8,S,S-FUNC,S,S-FUNC
+colander,Utensils,a utensil,1,5,T,T-SUPER,T,T-SUPER
+colander,Utensils,vegetables,1,7,S,S-LIVING,S,S-OBJECT
+colander,Utensils,made of metal,1,5,E,E-MAT,E,E-MAT
+colander,Utensils,made of plastic,1,8,E,E-MAT,E,E-MAT
+colander,Utensils,made of steel,1,6,E,E-MAT,E,E-MAT
+colander,Utensils,found in the kitchen,1,6,S,S-LOC,S,S-LOC
+comb,Accessories,used for combing,1,14,S,S-FUNC,S,S-FUNC
+comb,Accessories,used for hair,1,10,S,S-FUNC,S,S-FUNC
+comb,Accessories,is useful,1,5,I,I-EVAL,I,I-EVAL
+comb,Accessories,has teeth,1,10,E,E-INCOMP,E,E-EXCOMP
+comb,Accessories,made of plastic,1,5,E,E-MAT,E,E-MAT
+compass,Tools,guide,1,5,S,S-FUNC,S,S-FUNC
+compass,Tools,used for determining directions,1,12,S,S-FUNC,S,S-FUNC
+compass,Tools,used for orienting oneself,1,5,S,S-FUNC,S,S-FUNC
+compass,Tools,points to the north,1,6,S,S-FUNC,S,S-FUNC
+condor,Animals,an animal,1,8,T,T-SUPER,T,T-ONT
+condor,Animals,is big,1,7,E,E-QUANT,E,E-SYS
+condor,Animals,a bird,1,11,T,T-SUPER,T,T-ONT
+condor,Animals,flies,1,10,E,E-BEH,E,E-BEH
+condor,Animals,height,1,8,S,S-LOC,S,S-SPAT
+condor,Animals,lives in the mountain,1,11,S,S-LOC,S,S-LOC
+corn,Vegetables,corn,1,11,S,S-OBJECT,T,T-SYN
+corn,Vegetables,is eaten,1,12,S,S-ACTION,S,S-ACTION
+corn,Vegetables,a foodstuff,1,9,T,T-SUPER,T,T-ONT
+corn,Vegetables,a vegetable,1,6,T,T-SUPER,T,T-SUPER
+corn,Vegetables,is yellow,1,13,E,E-EXSURF,E,E-EXSURF
+corn,Vegetables,has grains,1,13,E,E-EXCOMP,E,E-EXCOMP
+corn,Vegetables,tastes good,1,6,I,I-EVAL,E,E-EXSURF
+corn,Vegetables,found in the field,1,6,S,S-LOC,S,S-LOC
+couch,Furniture,is comfortable,1,17,I,I-EVAL,E,E-SYS
+couch,Furniture,used for resting,1,18,S,S-FUNC,S,S-FUNC
+couch,Furniture,used for sitting,1,11,S,S-FUNC,S,S-FUNC
+couch,Furniture,has cushions,1,6,E,E-EXCOMP,E,E-EXCOMP
+couch,Furniture,made of fabric,1,6,E,E-MAT,E,E-MAT
+couch,Furniture,made of leather,1,6,E,E-MAT,E,E-MAT
+couch,Furniture,a piece of furniture,1,7,T,T-SUPER,T,T-SUPER
+cow,Animals,an animal,1,6,T,T-SUPER,T,T-ONT
+cow,Animals,barbecue,1,5,S,S-EVENT,S,S-EVENT
+cow,Animals,calf,1,8,T,T-SUBORD,T,T-SUBORD
+cow,Animals,is eaten,1,6,S,S-ACTION,E,E-BEH
+cow,Animals,moos,1,5,E,E-BEH,E,E-BEH
+cow,Animals,eats grass,1,8,E,E-BEH,E,E-BEH
+cow,Animals,gives milk,1,25,E,E-BEH,E,E-BEH
+cow,Animals,produces leather,1,15,S,S-ACTION,E,E-BEH
+cow,Animals,eaten as meat,1,17,S,S-FUNC,S,S-FUNC
+cow,Animals,lives in the countryside,1,10,S,S-LOC,E,E-SYS
+crab,Animals,a crustacean,1,9,T,T-SUPER,T,T-SUPER
+crab,Animals,is eaten,1,10,S,S-ACTION,S,S-ACTION
+crab,Animals,has clamps,1,10,E,E-EXCOMP,E,E-EXCOMP
+crab,Animals,has legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+crab,Animals,lives in the sea,1,14,S,S-LOC,S,S-LOC
+crocodile,Animals,an animal,1,13,T,T-SUPER,T,T-ONT
+crocodile,Animals,is carnivorous,1,5,E,E-SYS,E,E-SYS
+crocodile,Animals,is dangerous,1,8,I,I-EVAL,E,E-SYS
+crocodile,Animals,is green,1,14,E,E-EXSURF,E,E-EXSURF
+crocodile,Animals,a reptile,1,8,T,T-SUPER,T,T-SYN
+crocodile,Animals,is ugly,1,6,I,I-EVAL,I,I-EVAL
+crocodile,Animals,used for making bags,1,9,S,S-ACTION,S,S-FUNC
+crocodile,Animals,used for making shoes,1,5,S,S-ACTION,S,S-FUNC
+crocodile,Animals,has teeth,1,7,E,E-INCOMP,E,E-EXCOMP
+crown,Accessories,is brilliant,1,5,E,E-EXSURF,E,E-EXSURF
+crown,Accessories,used by the king,1,8,S,S-PERSON,S,S-FUNC
+crown,Accessories,used by the princess,1,7,S,S-PERSON,S,S-PERSON
+crown,Accessories,used by the queen,1,19,S,S-PERSON,S,S-PERSON
+crown,Accessories,gives power,1,5,I,I-REP,S,S-FUNC
+crown,Accessories,has flowers,1,9,E,E-EXCOMP,E,E-EXCOMP
+crown,Accessories,made of gold,1,7,E,E-MAT,E,E-MAT
+cup,Containers,coffee,1,7,S,S-OBJECT,S,S-FUNC
+cup,Containers,tea,1,8,S,S-OBJECT,T,T-SUBORD
+cup,Containers,a utensil,1,5,T,T-SUPER,T,T-SUPER
+cup,Containers,made of ceramic,1,5,E,E-MAT,E,E-MAT
+cutting board,Utensils,used for chopping,1,8,S,S-FUNC,S,S-FUNC
+cutting board,Utensils,is useful,1,5,I,I-EVAL,I,I-EVAL
+cutting board,Utensils,vegetables,1,5,S,S-LIVING,S,S-OBJECT
+cutting board,Utensils,made of wood,1,16,E,E-MAT,E,E-MAT
+cymbals,Musical instruments,sound,1,8,S,S-FUNC,E,E-SYS
+cymbals,Musical instruments,used for food,1,13,S,S-FUNC,S,S-FUNC
+cymbals,Musical instruments,used for making music,1,6,S,S-FUNC,S,S-FUNC
+cymbals,Musical instruments,are part of the drum set,2,5,E,E-WHOLE,E,E-WHOLE
+cymbals,Musical instruments,a musical instrument,2,5,T,T-SUPER,T,T-SYN
+cymbals,Musical instruments,made of metal,1,6,E,E-MAT,E,E-MAT
+dart,Toys,aim,1,10,E,E-ABSTR,S,S-FUNC
+dart,Toys,is dangerous,1,6,I,I-EVAL,E,E-SYS
+dart,Toys,game,1,13,S,S-SOCART,S,S-EVENT
+dart,Toys,an object,1,5,T,T-ONT,T,T-ONT
+dart,Toys,pokes,1,7,E,E-BEH,S,S-ACTION
+dart,Toys,used target practice,2,13,T,T-SUBORD,S,S-FUNC
+dart,Toys,has a tip,1,10,E,E-EXCOMP,E,E-EXCOMP
+deer,Animals,an animal,1,18,T,T-SUPER,T,T-ONT
+deer,Animals,is brown,1,5,E,E-EXSURF,E,E-EXSURF
+deer,Animals,is eaten,1,5,S,S-ACTION,S,S-FUNC
+deer,Animals,is fast,1,11,E,E-SYS,E,E-SYS
+deer,Animals,is nice,1,13,I,I-EVAL,I,I-EVAL
+deer,Animals,has horns,1,19,E,E-EXCOMP,E,E-EXCOMP
+desk,Furniture,is comfortable,1,5,I,I-EVAL,E,E-SYS
+desk,Furniture,used for storing things,1,5,S,S-FUNC,S,S-FUNC
+desk,Furniture,used for studying,1,6,S,S-FUNC,S,S-FUNC
+desk,Furniture,used for working,1,9,S,S-FUNC,S,S-FUNC
+desk,Furniture,used for writing,1,11,S,S-FUNC,S,S-FUNC
+desk,Furniture,made of wood,1,10,E,E-MAT,E,E-MAT
+desk,Furniture,a piece of furniture,1,7,T,T-SUPER,T,T-ONT
+desk,Furniture,serves to support,1,6,S,S-FUNC,S,S-FUNC
+desk,Furniture,serves to support books,1,5,S,S-FUNC,S,S-FUNC
+dinosaur,Animals,is ancient,1,7,S,S-TIME,E,E-SYS
+dinosaur,Animals,an animal,1,12,T,T-SUPER,T,T-ONT
+dinosaur,Animals,is big,1,14,E,E-QUANT,E,E-SYS
+dinosaur,Animals,extinct,1,6,E,E-SYS,E,E-SYS
+dinosaur,Animals,is prehistoric,1,9,S,S-TIME,E,E-SYS
+dog,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+dog,Animals,barks,1,5,E,E-BEH,E,E-BEH
+dog,Animals,bites,1,5,E,E-BEH,E,E-BEH
+dog,Animals,friend,1,15,I,I-EVAL,S,S-PERSON
+dog,Animals,is guardian,1,17,I,I-REP,E,E-BEH
+dog,Animals,is loving,1,5,I,I-EVAL,E,E-SYS
+dog,Animals,is loyal,1,11,I,I-EVAL,E,E-SYS
+dog,Animals,partner,1,10,I,I-REP,S,S-PERSON
+dog house,Constructions,animals,1,6,S,S-LIVING,S,S-LIVING
+dog house,Constructions,dog,1,22,S,S-LIVING,S,S-FUNC
+dog house,Constructions,a house,1,13,T,T-SUPER,T,T-SUBORD
+dog house,Constructions,made of wood,1,9,E,E-MAT,E,E-MAT
+doll,Toys,childhood,1,9,S,S-TIME,S,S-EVENT
+doll,Toys,used by girls,1,10,S,S-PERSON,S,S-PERSON
+doll,Toys,is nice,1,10,I,I-EVAL,I,I-EVAL
+doll,Toys,a toy,1,12,T,T-SUPER,T,T-SUPER
+doll,Toys,used for playing,1,7,S,S-FUNC,S,S-FUNC
+dolphin,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+dolphin,Animals,a fish,1,6,T,T-SUPER,T,T-ONT
+dolphin,Animals,is friendly,1,9,E,E-SYS,E,E-SYS
+dolphin,Animals,is gray,1,5,E,E-EXSURF,E,E-EXSURF
+dolphin,Animals,is intelligent,1,10,E,E-SYS,E,E-SYS
+dolphin,Animals,jumps,1,7,E,E-BEH,E,E-BEH
+dolphin,Animals,a mammal,1,10,T,T-SUPER,T,T-ONT
+dolphin,Animals,is nice,1,6,I,I-EVAL,E,E-SYS
+dolphin,Animals,lives in the sea,1,10,S,S-LOC,S,S-LOC
+dolphin,Animals,lives in the water,1,7,S,S-LOC,S,S-LOC
+donkey,Animals,an animal,1,15,T,T-SUPER,T,T-ONT
+donkey,Animals,is gray,1,7,E,E-EXSURF,E,E-EXSURF
+donkey,Animals,used for loads,1,8,S,S-ACTION,S,S-FUNC
+donkey,Animals,has ears,1,14,E,E-EXCOMP,E,E-EXCOMP
+donkey,Animals,has legs,1,11,E,E-EXCOMP,E,E-EXCOMP
+door,House parts,entry,1,8,S,S-FUNC,S,S-FUNC
+door,House parts,exit,1,7,S,S-FUNC,S,S-FUNC
+door,House parts,key,1,5,S,S-OBJECT,E,E-INCOMP
+door,House parts,is openable,1,6,S,S-ACTION,E,E-SYS
+door,House parts,safety,1,5,S,S-SOCART,S,S-FUNC
+door,House parts,divide spaces,1,7,S,S-FUNC,S,S-FUNC
+door,House parts,has glass,1,6,E,E-EXCOMP,E,E-EXCOMP
+door,House parts,can be closed,1,7,S,S-ACTION,E,E-BEH
+door,House parts,has a handle,1,6,E,E-EXCOMP,E,E-EXCOMP
+door,House parts,made of aluminum,1,10,E,E-MAT,E,E-MAT
+door,House parts,made of wood,1,13,E,E-MAT,E,E-MAT
+door,House parts,found in the house,1,5,S,S-LOC,S,S-LOC
+doorknob,House parts,door,1,9,T,T-SYN,E,E-WHOLE
+doorknob,House parts,used for opening doors,1,11,S,S-FUNC,S,S-FUNC
+doorknob,House parts,made of metal,1,5,E,E-MAT,E,E-MAT
+doorknob,House parts,used for opening and closing,1,5,S,S-FUNC,S,S-FUNC
+dragonfly,Animals,butterfly,1,8,S,S-OBJECT,T,T-COORD
+dragonfly,Animals,flies,1,10,E,E-BEH,E,E-BEH
+dragonfly,Animals,an insect,1,16,T,T-SUPER,T,T-SYN
+dragonfly,Animals,has wings,1,10,E,E-EXCOMP,E,E-EXCOMP
+dress,Clothing,clothing,1,15,T,T-SUPER,T,T-SUPER
+dress,Clothing,is elegant,1,7,I,I-EVAL,E,E-SYS
+dress,Clothing,is long,1,10,E,E-QUANT,E,E-SYS
+dress,Clothing,used by women,1,12,S,S-PERSON,S,S-PERSON
+dress,Clothing,worn at parties,1,9,S,S-EVENT,S,S-FUNC
+dress,Clothing,different colors,1,7,E,E-EXSURF,E,E-QUANT
+dress,Clothing,eg_-_ is short,1,7,E,E-QUANT,T,T-SUBORD
+dress,Clothing,made of fabric,1,9,E,E-MAT,E,E-MAT
+dresser,Furniture,used for storing clothes,1,21,S,S-FUNC,S,S-FUNC
+dresser,Furniture,has drawers,1,10,E,E-EXCOMP,E,E-EXCOMP
+dresser,Furniture,made of wood,1,14,E,E-MAT,E,E-MAT
+dresser,Furniture,a piece of furniture,1,19,T,T-SUPER,T,T-ONT
+dresser,Furniture,found in the bedroom,1,15,S,S-LOC,S,S-LOC
+drum,Musical instruments,is noisy,1,7,E,E-SYS,E,E-SYS
+drum,Musical instruments,sound,1,7,S,S-FUNC,E,E-EXSURF
+drum,Musical instruments,used for making music,1,9,S,S-FUNC,S,S-FUNC
+drum,Musical instruments,has sticks,1,5,S,S-OBJECT,E,E-EXCOMP
+drum,Musical instruments,a musical instrument,2,6,T,T-SUPER,T,T-SUPER
+duck,Animals,an animal,1,6,T,T-SUPER,T,T-ONT
+duck,Animals,swims,1,6,E,E-BEH,E,E-BEH
+duck,Animals,makes noises,1,5,E,E-BEH,E,E-BEH
+eagle,Animals,an animal,1,5,T,T-SUPER,T,T-ONT
+eagle,Animals,is big,1,8,E,E-QUANT,E,E-QUANT
+eagle,Animals,a bird,1,8,T,T-SUPER,T,T-SUPER
+eagle,Animals,flies,1,16,E,E-BEH,E,E-BEH
+eagle,Animals,hunts,1,5,E,E-BEH,E,E-BEH
+eagle,Animals,has claws,1,9,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,has feathers,1,5,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,has wings,1,6,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,has a beak,1,5,E,E-EXCOMP,E,E-EXCOMP
+eagle,Animals,lives in the mountain,1,7,S,S-LOC,S,S-LOC
+ear,Body parts,is big,1,6,E,E-QUANT,E,E-QUANT
+ear,Body parts,a part of the body,1,6,E,E-WHOLE,T,T-ONT
+ear,Body parts,ear,1,5,T,T-COORD,T,T-SYN
+ear,Body parts,earring,1,20,S,S-OBJECT,S,S-OBJECT
+ear,Body parts,is small,1,6,E,E-QUANT,E,E-QUANT
+ear,Body parts,used for hearing,1,25,S,S-FUNC,S,S-FUNC
+eel,Animals,is eaten,1,5,S,S-ACTION,E,E-BEH
+eel,Animals,is electrical,1,5,E,E-SYS,E,E-SYS
+eel,Animals,a fish,1,11,T,T-SUPER,T,T-ONT
+eel,Animals,swims,1,5,E,E-BEH,E,E-BEH
+eel,Animals,lives in the sea,1,11,S,S-LOC,S,S-LOC
+eel,Animals,lives in the water,1,12,S,S-LOC,S,S-LOC
+elephant,Animals,an animal,1,16,T,T-SUPER,T,T-ONT
+elephant,Animals,is big,1,26,E,E-QUANT,E,E-SYS
+elephant,Animals,circus,1,8,S,S-LOC,S,S-EVENT
+elephant,Animals,is gray,1,7,E,E-EXSURF,E,E-EXSURF
+elephant,Animals,is heavy,1,8,E,E-SYS,E,E-SYS
+elephant,Animals,a mammal,1,5,T,T-SUPER,T,T-ONT
+elephant,Animals,pachyderm,1,5,T,T-SUPER,T,T-SYN
+elephant,Animals,has a trunk,1,14,E,E-EXCOMP,E,E-EXCOMP
+envelope,Utensils,letter,1,17,S,S-OBJECT,E,E-INCOMP
+envelope,Utensils,mail,1,6,S,S-LOC,S,S-FUNC
+envelope,Utensils,is white,1,8,E,E-EXSURF,E,E-EXSURF
+envelope,Utensils,brings news,1,7,S,S-FUNC,S,S-FUNC
+envelope,Utensils,used for saving papers,1,5,S,S-FUNC,S,S-FUNC
+envelope,Utensils,made of paper,1,8,E,E-MAT,E,E-MAT
+envelope,Utensils,used for sending an invitation,1,6,S,S-FUNC,S,S-FUNC
+eye,Body parts,a part of the body,1,5,E,E-WHOLE,T,T-SYN
+eye,Body parts,is necessary,1,7,I,I-EVAL,E,E-SYS
+eye,Body parts,is nice,1,5,I,I-EVAL,I,I-EVAL
+eye,Body parts,sight,1,11,S,S-FUNC,E,E-SYS
+eye,Body parts,used to see,1,9,S,S-FUNC,S,S-FUNC
+eye,Body parts,found on the face,1,5,S,S-LOC,S,S-LOC
+fan,Accessories,is ancient,1,7,S,S-TIME,E,E-SYS
+fan,Accessories,is decorative,1,7,E,E-SYS,E,E-SYS
+fan,Accessories,used for heat,1,12,S,S-FUNC,S,S-FUNC
+fan,Accessories,gives air,2,8,S,S-FUNC,E,E-BEH
+fan,Accessories,used for blowing air,2,12,S,S-FUNC,S,S-FUNC
+fan,Accessories,can be folded,1,5,S,S-ACTION,E,E-SYS
+fan,Accessories,gives fresh air,2,7,S,S-FUNC,S,S-FUNC
+fan,Accessories,made of fabric,1,5,E,E-MAT,E,E-MAT
+faucet,House Parts,cleanliness,1,5,S,S-SOCART,S,S-FUNC
+faucet,House Parts,leaks,1,6,E,E-BEH,E,E-BEH
+faucet,House Parts,where water comes out,1,24,E,E-SYS,E,E-EXCOMP
+faucet,House Parts,made of metal,1,6,E,E-MAT,E,E-MAT
+faucet,House Parts,found in the bathroom,1,8,S,S-LOC,S,S-LOC
+faucet,House Parts,found in the kitchen,1,6,S,S-LOC,S,S-LOC
+feather,Body parts,duster,1,8,E,E-WHOLE,E,E-WHOLE
+feather,Body parts,flies,1,5,E,E-BEH,E,E-BEH
+feather,Body parts,pillow,1,5,S,S-OBJECT,E,E-WHOLE
+feather,Body parts,used for writing,1,9,S,S-FUNC,S,S-FUNC
+feather,Body parts,different colors,1,7,E,E-EXSURF,E,E-EXSURF
+feather,Body parts,found in birds,1,30,E,E-WHOLE,E,E-WHOLE
+fence,Constructions,is decorative,1,6,E,E-SYS,E,E-SYS
+fence,Constructions,used for protecting,1,6,S,S-FUNC,S,S-FUNC
+fence,Constructions,eg - wire,1,6,E,E-MAT,E,E-MAT
+fence,Constructions,sets boundaries,1,12,S,S-FUNC,S,S-FUNC
+fence,Constructions,made of wood,1,16,E,E-MAT,E,E-MAT
+fence,Constructions,found in the field,1,5,S,S-LOC,S,S-LOC
+fence,Constructions,found in the garden,1,6,S,S-LOC,S,S-LOC
+fence,Constructions,serves to devide land,1,10,S,S-FUNC,S,S-FUNC
+fern,Plants,bouquet,1,5,E,E-WHOLE,S,S-OBJECT
+fern,Plants,decorates,1,8,S,S-FUNC,S,S-FUNC
+fern,Plants,is green,1,11,E,E-EXSURF,E,E-EXSURF
+fern,Plants,is nice,1,5,I,I-EVAL,I,I-EVAL
+fern,Plants,a plant,1,21,T,T-SUPER,T,T-ONT
+ferris wheel,Toys,travel,1,5,T,T-SYN,S,S-EVENT
+ferris wheel,Toys,found in the amusement park,2,7,S,S-BUILD,S,S-LOC
+finger,Body parts,a part of the body,1,7,E,E-WHOLE,T,T-ONT
+finger,Body parts,foot,1,6,E,E-WHOLE,T,T-COORD
+finger,Body parts,ring,1,8,S,S-OBJECT,S,S-OBJECT
+finger,Body parts,used for pointing,1,5,S,S-FUNC,S,S-FUNC
+finger,Body parts,has nail,1,10,E,E-EXCOMP,E,E-EXCOMP
+finger,Body parts,found in the hand,1,18,S,S-LOC,E,E-WHOLE
+fire hydrant,Containers,eg - manual,1,5,T,T-SUBORD,E,E-SYS
+fire hydrant,Containers,used for watering,1,6,S,S-FUNC,S,S-FUNC
+fire hydrant,Containers,used to get water,1,8,S,S-FUNC,S,S-FUNC
+fire hydrant,Containers,contains water,1,9,S,S-OBJECT,E,E-INCOMP
+fire hydrant,Containers,eg - electric stove,2,5,T,T-SUBORD,T,T-COORD
+fire hydrant,Containers,found in the field,1,7,S,S-LOC,S,S-LOC
+fireplace,Constructions,fire,1,13,S,S-OBJECT,S,S-OBJECT
+fireplace,Constructions,firewood,1,9,S,S-OBJECT,E,E-INCOMP
+fireplace,Constructions,home,1,11,T,T-SYN,S,S-LOC
+fireplace,Constructions,releases smoke,1,16,E,E-BEH,E,E-BEH
+fireplace,Constructions,used for heatting up,2,16,S,S-FUNC,S,S-FUNC
+fireplace,Constructions,made of bricks,1,5,E,E-MAT,E,E-MAT
+fish,Animals,an animal,1,6,T,T-SUPER,T,T-ONT
+fish,Animals,is eaten,1,11,S,S-ACTION,S,S-ACTION
+fish,Animals,a foodstuff,1,5,T,T-SUPER,S,S-FUNC
+fish,Animals,swims,1,11,E,E-BEH,E,E-BEH
+fish,Animals,has scales,1,6,E,E-EXCOMP,E,E-EXSURF
+fish,Animals,lives in the sea,1,6,S,S-LOC,S,S-LOC
+fish,Animals,lives in the water,1,12,S,S-LOC,S,S-LOC
+fishbowl,Containers,contains water,1,19,E,E-INSURF,S,S-OBJECT
+fishbowl,Containers,has plants,1,5,S,S-LIVING,E,E-EXCOMP
+fishbowl,Containers,has fishes inside,2,22,S,S-LIVING,E,E-INCOMP
+fishbowl,Containers,has little stones,2,6,S,S-OBJECT,E,E-INCOMP
+fishbowl,Containers,made of glass,1,7,E,E-MAT,E,E-MAT
+fishhook,Tools,bait,1,8,S,S-LIVING,S,S-FUNC
+fishhook,Tools,is dangerous,1,5,I,I-EVAL,E,E-SYS
+fishhook,Tools,fish,1,24,S,S-LIVING,S,S-OBJECT
+fishhook,Tools,used by the fisherman,1,5,S,S-PERSON,S,S-FUNC
+fishhook,Tools,river,1,5,S,S-LOC,S,S-LOC
+fishhook,Tools,sea,1,8,S,S-LOC,S,S-LOC
+fishhook,Tools,used for fishing,1,24,S,S-FUNC,S,S-FUNC
+fishhook,Tools,fishing rod,2,14,S,S-OBJECT,T,T-SUBORD
+fishing rod,Tools,fish,1,6,S,S-LIVING,S,S-FUNC
+fishing rod,Tools,used for fishing,1,13,S,S-FUNC,S,S-FUNC
+fishing rod,Tools,a part of the fishing rod,2,6,E,E-WHOLE,E,E-EXCOMP
+fishing rod,Tools,has a fishing line,2,7,E,E-EXCOMP,E,E-EXCOMP
+fishtail,Body parts,fish,1,6,E,E-WHOLE,E,E-WHOLE
+fishtail,Body parts,sea,1,5,S,S-LOC,S,S-LOC
+fishtail,Body parts,used for propelling,1,5,S,S-FUNC,E,E-BEH
+fishtail,Body parts,used for swimming,1,11,S,S-FUNC,E,E-BEH
+fishtail,Body parts,has scales,1,6,E,E-EXCOMP,E,E-EXSURF
+fishtail,Body parts,serves as helm,1,6,S,S-FUNC,E,E-SYS
+fishtail,Body parts,a part of an animal,1,5,E,E-WHOLE,E,E-EXCOMP
+flag,Objects,flutters,1,8,E,E-BEH,E,E-BEH
+flag,Objects,homeland,1,9,I,I-REP,S,S-SOCART
+flag,Objects,a symbol,1,7,T,T-SUPER,S,S-SOCART
+flag,Objects,used for representing a country,1,5,S,S-FUNC,S,S-FUNC
+flag,Objects,different colors,1,8,E,E-EXSURF,E,E-EXSURF
+flag,Objects,a patriotic symbol,2,5,E,E-ABSTR,T,T-ONT
+flag,Objects,made of fabric,1,8,E,E-MAT,E,E-MAT
+flag,Objects,found in the school,1,5,S,S-BUILD,S,S-LOC
+flag,Objects,found on the mast,1,5,S,S-LOC,S,S-LOC
+flag,Objects,is light blue and white,4,6,E,E-EXSURF,E,E-EXSURF
+flamingo,Animals,a bird,1,14,T,T-SUPER,T,T-ONT
+flamingo,Animals,is colorful,1,6,E,E-EXSURF,E,E-EXSURF
+flamingo,Animals,is pink,1,15,T,T-SUPER,E,E-EXSURF
+flamingo,Animals,lives in the water,1,15,S,S-LOC,S,S-LOC
+flamingo,Animals,stands on one leg,1,5,E,E-BEH,E,E-BEH
+flashlight,Tools,a tool,1,5,T,T-SUPER,T,T-SYN
+flashlight,Tools,is useful,1,7,I,I-EVAL,E,E-SYS
+flashlight,Tools,has batteries,1,16,E,E-INCOMP,E,E-INCOMP
+flashlight,Tools,produces light,1,14,E,E-BEH,E,E-SYS
+flashlight,Tools,used for lighting up,2,20,S,S-FUNC,S,S-FUNC
+flashlight,Tools,made of metal,1,6,E,E-MAT,E,E-MAT
+flashlight,Tools,made of plastic,1,8,E,E-MAT,E,E-MAT
+flower,Plants,is nice,1,9,I,I-EVAL,I,I-EVAL
+flower,Plants,eg - pink,1,8,E,E-EXSURF,T,T-SUBORD
+flower,Plants,present,1,7,S,S-ACTION,S,S-FUNC
+flower,Plants,spring,1,8,S,S-TIME,S,S-TIME
+flower,Plants,used for decorating,1,7,S,S-FUNC,S,S-FUNC
+flower,Plants,different colors,1,11,E,E-EXSURF,E,E-EXSURF
+flower,Plants,has perfume,1,22,E,E-EXSURF,E,E-EXSURF
+flower,Plants,has petals,1,7,E,E-EXCOMP,E,E-EXCOMP
+flower,Plants,found in the garden,1,8,S,S-LOC,S,S-LOC
+flute,Musical instruments,is blown,1,6,S,S-ACTION,S,S-ACTION
+flute,Musical instruments,music,1,17,S,S-FUNC,S,S-FUNC
+flute,Musical instruments,orchestra,1,6,E,E-WHOLE,S,S-SOCORG
+flute,Musical instruments,school,1,5,S,S-LOC,S,S-SOCORG
+flute,Musical instruments,sound,1,11,S,S-FUNC,E,E-EXSURF
+flute,Musical instruments,a musical instrument,2,16,T,T-SUPER,T,T-SYN
+flute,Musical instruments,eg - sweet flute,2,7,T,T-SUBORD,E,E-SYS
+flute,Musical instruments,a wind musical intrument,3,6,T,T-SUPER,T,T-ONT
+fly,Animals,annoying,1,16,I,I-EVAL,I,I-EVAL
+fly,Animals,is dirty,1,9,I,I-EVAL,E,E-SYS
+fly,Animals,is disgusting,1,9,I,I-EVAL,I,I-EVAL
+fly,Animals,flies,1,8,E,E-BEH,E,E-BEH
+fly,Animals,an insect,1,12,T,T-SUPER,T,T-SYN
+fly,Animals,is ugly,1,7,I,I-EVAL,I,I-EVAL
+fly,Animals,has wings,1,6,E,E-EXCOMP,E,E-EXCOMP
+foot,Body parts,a part of the body,1,10,E,E-WHOLE,T,T-SUBORD
+foot,Body parts,shoe,1,8,S,S-OBJECT,S,S-OBJECT
+foot,Body parts,used for walking,1,20,S,S-FUNC,S,S-FUNC
+foot,Body parts,has fingers,1,10,E,E-EXCOMP,E,E-EXCOMP
+foot,Body parts,has nails,1,6,E,E-EXCOMP,E,E-EXCOMP
+foot,Body parts,serves as a support,1,7,S,S-FUNC,S,S-FUNC
+foot,Body parts,is the support of the body,1,5,S,S-FUNC,E,E-SYS
+fork,Utensils,food,1,5,S,S-OBJECT,S,S-OBJECT
+fork,Utensils,used for eating,1,20,S,S-FUNC,S,S-FUNC
+fork,Utensils,is useful,1,9,I,I-EVAL,E,E-SYS
+fork,Utensils,a utensil,1,13,T,T-SUPER,T,T-SUPER
+fork,Utensils,has teeth,1,6,E,E-INCOMP,E,E-EXCOMP
+fork,Utensils,made of metal,1,6,E,E-MAT,E,E-MAT
+fork,Utensils,found in the kitchen,1,8,S,S-LOC,S,S-LOC
+fox,Animals,an animal,1,20,T,T-SUPER,T,T-ONT
+fox,Animals,is clever,1,10,E,E-SYS,E,E-SYS
+fox,Animals,a mammal,1,10,T,T-SUPER,T,T-ONT
+fox,Animals,a quadruped,1,8,T,T-SUPER,T,T-ONT
+fox,Animals,is wild,1,10,E,E-SYS,E,E-SYS
+fox,Animals,has legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+fox,Animals,used for making warm clothing,1,5,S,S-ACTION,S,S-FUNC
+fox,Animals,has a tail,1,7,E,E-EXCOMP,E,E-EXCOMP
+fox,Animals,it's fur is used,1,8,S,S-ACTION,S,S-FUNC
+fox,Animals,lives in the countryside,1,5,S,S-LOC,S,S-LOC
+franch horn,Musical instruments,is big,1,5,E,E-QUANT,E,E-QUANT
+franch horn,Musical instruments,is golden,1,5,E,E-EXSURF,E,E-EXSURF
+franch horn,Musical instruments,orchestra,1,11,E,E-WHOLE,S,S-SOCORG
+franch horn,Musical instruments,sound,1,5,S,S-FUNC,E,E-EXSURF
+franch horn,Musical instruments,used for making music,1,13,S,S-FUNC,S,S-FUNC
+franch horn,Musical instruments,a musical instrument,2,28,T,T-SUPER,T,T-ONT
+franch horn,Musical instruments,made of metal,1,7,E,E-MAT,E,E-MAT
+franch horn,Musical instruments,a wind musical intrument,3,7,T,T-SUPER,T,T-ONT
+frying pan,Utensils,kitchen,1,8,S,S-LOC,S,S-LOC
+frying pan,Utensils,oil,1,7,S,S-OBJECT,S,S-OBJECT
+frying pan,Utensils,eg - teflon,1,6,E,E-MAT,T,T-SUBORD
+frying pan,Utensils,used for cooking,1,10,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,used for frying,1,6,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,used for making pancakes,1,6,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,used to make food,1,9,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,has grip,1,10,E,E-EXCOMP,E,E-EXCOMP
+frying pan,Utensils,used for cooking eggs,1,10,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,used for making breaded meet,2,5,S,S-FUNC,S,S-FUNC
+frying pan,Utensils,used for making fried food,2,5,S,S-FUNC,S,S-FUNC
+funnel,Utensils,bottle,1,5,S,S-OBJECT,S,S-FUNC
+funnel,Utensils,used for transfering liquids,1,12,S,S-FUNC,S,S-FUNC
+funnel,Utensils,used for transfering liquids,1,5,S,S-FUNC,S,S-FUNC
+funnel,Utensils,is useful,1,11,I,I-EVAL,I,I-EVAL
+funnel,Utensils,a utensil,1,9,T,T-SUPER,T,T-SUPER
+funnel,Utensils,made of metal,1,10,E,E-MAT,E,E-MAT
+funnel,Utensils,made of plastic,1,18,E,E-MAT,E,E-MAT
+funnel,Utensils,found in the kitchen,1,10,S,S-LOC,S,S-LOC
+garbage can,Containers,used for throwing garbage,1,24,S,S-FUNC,S,S-FUNC
+garbage can,Containers,is useful,1,5,I,I-EVAL,I,I-EVAL
+garbage can,Containers,made of plastic,1,5,E,E-MAT,E,E-MAT
+giraffe,Animals,an animal,1,21,T,T-SUPER,T,T-ONT
+giraffe,Animals,an herbivore,1,5,T,T-SUPER,E,E-SYS
+giraffe,Animals,a mammal,1,5,T,T-SUPER,T,T-ONT
+giraffe,Animals,is tall,1,12,E,E-QUANT,E,E-SYS
+giraffe,Animals,has spots,1,9,E,E-EXSURF,E,E-EXSURF
+giraffe,Animals,lives in the jungle,1,11,S,S-LOC,S,S-LOC
+giraffe,Animals,lives in the zoo,1,8,S,S-LOC,S,S-LOC
+glass,Utensils,a container,1,8,T,T-SUPER,T,T-SUPER
+glass,Utensils,used for drinking,1,13,S,S-FUNC,S,S-FUNC
+glass,Utensils,used for keeping fluids,1,6,S,S-FUNC,S,S-FUNC
+glass,Utensils,contains water,1,9,S,S-OBJECT,S,S-OBJECT
+glass,Utensils,used for drinking wine,1,6,S,S-FUNC,S,S-FUNC
+glass,Utensils,made of glass,1,15,E,E-MAT,E,E-MAT
+glass,Utensils,made of plastic,1,9,E,E-MAT,E,E-MAT
+glasses,Accessories,eg - sunglasses,1,19,T,T-SUBORD,T,T-SUBORD
+glasses,Accessories,used for reading,1,10,S,S-FUNC,S,S-FUNC
+glasses,Accessories,used to see,1,16,S,S-FUNC,S,S-FUNC
+glasses,Accessories,eg - contact glasses,2,5,T,T-SUBORD,T,T-SUBORD
+glasses,Accessories,has glass,1,5,E,E-EXCOMP,E,E-MAT
+glasses,Accessories,used for seeing far,1,9,S,S-FUNC,S,S-FUNC
+glasses,Accessories,used for seeing near,1,6,S,S-FUNC,S,S-FUNC
+globe,Objects,geography,1,6,S,S-SOCART,S,S-SOCART
+globe,Objects,is round,1,9,E,E-EXSURF,E,E-EXSURF
+globe,Objects,used for looking at the sea,1,7,S,S-FUNC,S,S-FUNC
+globe,Objects,world,1,10,I,I-REP,T,T-SYN
+globe,Objects,different colors,1,7,E,E-EXSURF,E,E-EXSURF
+globe,Objects,used for showing the countries,1,10,S,S-FUNC,S,S-FUNC
+glove,Clothing,used for keeping warm,1,8,S,S-FUNC,S,S-FUNC
+glove,Clothing,made of rubber,1,6,E,E-MAT,E,E-MAT
+glove,Clothing,made of wool,1,9,E,E-MAT,E,E-MAT
+glove,Clothing,used for covering the hands,1,7,S,S-FUNC,S,S-FUNC
+glove,Clothing,used for covering of the cold,1,11,S,S-FUNC,S,S-FUNC
+goat,Animals,an animal,1,17,T,T-SUPER,T,T-ONT
+goat,Animals,cheese,1,11,S,S-OBJECT,S,S-OBJECT
+goat,Animals,is eaten,1,5,S,S-ACTION,S,S-ACTION
+goat,Animals,a mammal,1,5,T,T-SUPER,T,T-ONT
+goat,Animals,gives milk,1,24,E,E-BEH,E,E-BEH
+goat,Animals,has hair,1,6,E,E-EXCOMP,E,E-EXCOMP
+goat,Animals,has horns,1,8,E,E-EXCOMP,E,E-EXCOMP
+goat,Animals,has legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+goat,Animals,has wool,1,5,E,E-EXCOMP,E,E-EXCOMP
+goat,Animals,lives in the countryside,1,7,S,S-LOC,S,S-LOC
+goat,Animals,lives in the hill,1,5,S,S-LOC,S,S-LOC
+goggles,Accessories,is colorful,1,5,E,E-EXSURF,E,E-EXSURF
+goggles,Accessories,used for protecting,1,25,S,S-FUNC,S,S-FUNC
+goggles,Accessories,used for swimming,1,10,S,S-FUNC,S,S-FUNC
+goggles,Accessories,used for welding,1,7,S,S-FUNC,S,S-FUNC
+goggles,Accessories,water,1,8,E,E-INCOMP,S,S-OBJECT
+goggles,Accessories,made of plastic,1,7,E,E-MAT,E,E-MAT
+goggles,Accessories,made of rubber,1,5,E,E-MAT,E,E-MAT
+gorilla,Animals,an animal,1,12,T,T-SUPER,T,T-ONT
+gorilla,Animals,is big,1,16,E,E-QUANT,E,E-SYS
+gorilla,Animals,is dangerous,1,8,I,I-EVAL,E,E-SYS
+gorilla,Animals,eats banana,1,5,E,E-BEH,E,E-BEH
+gorilla,Animals,has hair,1,10,E,E-EXCOMP,E,E-EXCOMP
+gorilla,Animals,like a monkey,1,12,T,T-COORD,T,T-SYN
+gorilla,Animals,lives in the jungle,1,14,S,S-LOC,S,S-LOC
+grapes,Fruits,eg - black,1,6,T,T-SUBORD,E,E-EXSURF
+grapes,Fruits,is eaten,1,6,S,S-ACTION,E,E-BEH
+grapes,Fruits,a fruit,1,15,T,T-SUPER,T,T-ONT
+grapes,Fruits,eg - green,1,8,T,T-SUBORD,E,E-EXSURF
+grapes,Fruits,is sweet,1,7,E,E-INSURF,E,E-INSURF
+grapes,Fruits,used for making wine,1,21,S,S-ACTION,S,S-FUNC
+grapes,Fruits,vineyard,1,5,E,E-WHOLE,E,E-WHOLE
+grapes,Fruits,eg - white,1,5,T,T-SUBORD,E,E-EXSURF
+grapes,Fruits,tastes good,1,8,I,I-EVAL,E,E-EXSURF
+grasshopper,Animals,an animal,1,5,T,T-SUPER,T,T-ONT
+grasshopper,Animals,is green,1,9,E,E-EXSURF,E,E-EXSURF
+grasshopper,Animals,an insect,1,11,T,T-SUPER,T,T-ONT
+grasshopper,Animals,jumps,1,5,E,E-BEH,E,E-BEH
+grasshopper,Animals,is a plague,1,14,T,T-SUPER,S,S-EVENT
+grasshopper,Animals,is ugly,1,5,I,I-EVAL,I,I-EVAL
+grasshopper,Animals,causes harm,1,6,I,I-EVAL,E,E-BEH
+grasshopper,Animals,eats havest,1,16,S,S-ACTION,E,E-BEH
+grill,Constructions,barbecue,1,21,S,S-EVENT,S,S-FUNC
+grill,Constructions,family,1,6,S,S-SOCORG,S,S-SOCORG
+grill,Constructions,food,1,6,S,S-OBJECT,S,S-OBJECT
+grill,Constructions,meat,1,5,S,S-OBJECT,S,S-OBJECT
+grill,Constructions,meeting,1,5,S,S-EVENT,S,S-SOCORG
+grill,Constructions,sausages,1,8,S,S-OBJECT,S,S-FUNC
+grill,Constructions,used for cooking,1,6,S,S-FUNC,S,S-FUNC
+grill,Constructions,made of iron,1,7,E,E-MAT,E,E-MAT
+guitar,Musical instruments,is nice,1,6,I,I-EVAL,I,I-EVAL
+guitar,Musical instruments,used for making music,1,16,S,S-FUNC,S,S-FUNC
+guitar,Musical instruments,eg - electric stove,2,5,T,T-SUBORD,E,E-MAT
+guitar,Musical instruments,has strings,1,20,E,E-EXCOMP,E,E-EXCOMP
+guitar,Musical instruments,a musical instrument,2,13,T,T-SUPER,T,T-SYN
+guitar,Musical instruments,made of wood,1,9,E,E-MAT,E,E-MAT
+gun,Weapons,caliber,1,5,T,T-SUBORD,E,E-SYS
+gun,Weapons,is dangerous,1,10,I,I-EVAL,E,E-SYS
+gun,Weapons,fear,1,8,I,I-EVAL,I,I-EMOT
+gun,Weapons,used for killing,1,13,S,S-FUNC,S,S-FUNC
+gun,Weapons,used for stealing,1,6,S,S-FUNC,S,S-ACTION
+gun,Weapons,a weapon,1,18,T,T-SUPER,T,T-SUBORD
+gun,Weapons,has bullets,1,15,E,E-INCOMP,E,E-INCOMP
+gun,Weapons,made of fire,1,6,T,T-SUPER,E,E-MAT
+gun,Weapons,serves for defense,1,7,S,S-FUNC,S,S-FUNC
+hair,Body parts,is blond,1,6,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,is brown,1,5,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,is brunet,1,5,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,is curly,1,8,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,hair,1,5,T,T-SYN,T,T-SYN
+hair,Body parts,is long,1,16,E,E-QUANT,E,E-SYS
+hair,Body parts,is soft,1,5,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,is straight,1,10,E,E-EXSURF,E,E-SYS
+hair,Body parts,different colors,1,7,E,E-EXSURF,E,E-EXSURF
+hair,Body parts,eg_-_ is short,1,12,E,E-QUANT,E,E-SYS
+hamburger,Food,a food,1,15,T,T-SUPER,T,T-ONT
+hamburger,Food,tomatoe,1,5,S,S-LIVING,E,E-INCOMP
+hamburger,Food,a fast food,2,7,S,S-OBJECT,T,T-SUBORD
+hamburger,Food,tastes good,1,11,I,I-EVAL,I,I-EVAL
+hamburger,Food,made of chicken,1,7,T,T-SUPER,E,E-MAT
+hamburger,Food,made of meat,1,16,T,T-SUPER,E,E-INCOMP
+hammer,Tools,carpenter,1,8,S,S-PERSON,S,S-PERSON
+hammer,Tools,is heavy,1,9,E,E-SYS,E,E-SYS
+hammer,Tools,nails,1,17,S,S-OBJECT,S,S-FUNC
+hammer,Tools,is noisy,1,5,E,E-SYS,E,E-SYS
+hammer,Tools,a tool,1,14,T,T-SUPER,T,T-SYN
+hammer,Tools,used for hitting,1,13,S,S-FUNC,S,S-FUNC
+hammer,Tools,used for nailing,1,9,S,S-FUNC,S,S-FUNC
+hammer,Tools,has grip,1,7,E,E-EXCOMP,E,E-EXCOMP
+hammer,Tools,made of metal,1,5,E,E-MAT,E,E-MAT
+hammer,Tools,made of wood,1,9,E,E-MAT,E,E-MAT
+hammock,Objects,outdoors,1,5,E,E-MAT,S,S-LOC
+hammock,Objects,is relaxing,1,16,I,I-EVAL,I,I-EMOT
+hammock,Objects,used for resting,1,14,S,S-FUNC,S,S-FUNC
+hammock,Objects,used for rocking,1,7,S,S-FUNC,S,S-FUNC
+hammock,Objects,used for sleeping,1,7,S,S-FUNC,S,S-FUNC
+hammock,Objects,made of fabric,1,6,E,E-MAT,E,E-MAT
+hammock,Objects,found in the park,1,6,S,S-LOC,S,S-LOC
+hammock,Objects,is tied to 2 trees,1,8,S,S-ACTION,S,S-SPAT
+hand,Body parts,is big,1,7,E,E-QUANT,E,E-QUANT
+hand,Body parts,is small,1,6,E,E-QUANT,E,E-QUANT
+hand,Body parts,is strong,1,6,E,E-SYS,E,E-SYS
+hand,Body parts,used for caressing,1,6,S,S-FUNC,S,S-ACTION
+hand,Body parts,used for writing,1,5,S,S-FUNC,S,S-ACTION
+hand,Body parts,is white,1,6,E,E-EXSURF,E,E-EXSURF
+hand,Body parts,has fingers,1,11,E,E-EXCOMP,E,E-EXCOMP
+hand,Body parts,has nails,1,8,E,E-EXCOMP,E,E-EXCOMP
+handbag,Accessories,an accesory,1,12,T,T-SUPER,T,T-SYN
+handbag,Accessories,used for storing things,1,5,S,S-FUNC,S,S-FUNC
+handbag,Accessories,is useful,1,6,I,I-EVAL,I,I-EVAL
+handbag,Accessories,used by women,1,14,S,S-PERSON,S,S-FUNC
+handbag,Accessories,made of leather,1,17,E,E-MAT,E,E-MAT
+hanger,Accessories,clothes,1,8,S,S-OBJECT,S,S-FUNC
+hanger,Accessories,used for hanging,1,25,S,S-FUNC,S,S-FUNC
+hanger,Accessories,is inside wardrobes,1,8,S,S-LOC,S,S-LOC
+hanger,Accessories,made of metal,1,6,E,E-MAT,E,E-MAT
+hanger,Accessories,made of plastic,1,12,E,E-MAT,E,E-MAT
+hanger,Accessories,made of wood,1,19,E,E-MAT,E,E-MAT
+harmonica,Musical instruments,music,1,13,S,S-FUNC,S,S-FUNC
+harmonica,Musical instruments,sound,1,5,S,S-FUNC,E,E-EXSURF
+harmonica,Musical instruments,a musical instrument,2,20,T,T-SUPER,T,T-ONT
+harmonica,Musical instruments,made of metal,1,7,E,E-MAT,E,E-MAT
+harmonica,Musical instruments,a wind musical intrument,3,12,T,T-SUPER,T,T-SUPER
+harp,Musical instruments,nice,1,10,I,I-EVAL,I,I-EVAL
+harp,Musical instruments,sound,1,12,S,S-FUNC,E,E-EXSURF
+harp,Musical instruments,used for making music,1,14,S,S-FUNC,S,S-FUNC
+harp,Musical instruments,has strings,1,14,E,E-EXCOMP,E,E-EXCOMP
+harp,Musical instruments,a musical instrument,2,19,T,T-SUPER,T,T-SUPER
+hat,Clothing,clothing,1,6,T,T-SUPER,T,T-SUPER
+hat,Clothing,is elegant,1,7,I,I-EVAL,E,E-SYS
+hat,Clothing,used for protecting,1,12,S,S-FUNC,S,S-FUNC
+hat,Clothing,different shapes,1,6,E,E-EXSURF,E,E-EXSURF
+hazelnut,Fruits,is brown,1,5,E,E-EXSURF,E,E-EXSURF
+hazelnut,Fruits,is eaten,1,6,S,S-ACTION,S,S-ACTION
+hazelnut,Fruits,a foodstuff,1,5,T,T-SUPER,S,S-FUNC
+hazelnut,Fruits,a dried fruit,2,7,T,T-SUPER,T,T-SUBORD
+hazelnut,Fruits,tastes good,1,12,I,I-EVAL,E,E-INSURF
+hazelnut,Fruits,it is a fruit,1,18,T,T-SUPER,T,T-SUPER
+headphones,Accessories,used for listening,1,25,S,S-FUNC,S,S-FUNC
+headphones,Accessories,used for listening to music,1,22,S,S-FUNC,S,S-FUNC
+headphones,Accessories,used for listening to the radio,1,5,S,S-FUNC,S,S-FUNC
+headphones,Accessories,used on the ears,1,10,S,S-LOC,S,S-ACTION
+heart,Body parts,beats,1,14,E,E-BEH,E,E-BEH
+heart,Body parts,an organ,1,8,T,T-SUPER,T,T-ONT
+heart,Body parts,is red,1,8,E,E-EXSURF,E,E-INSURF
+heart,Body parts,stroke,1,5,S,S-SOCART,S,S-EVENT
+heart,Body parts,represents love,1,13,S,S-SOCART,I,I-REP
+heart,Body parts,is essential to live,1,12,E,E-SYS,I,I-REP
+helicopter,Vehicles,used for flying,1,15,S,S-FUNC,S,S-FUNC
+helicopter,Vehicles,used for rescuing,1,5,S,S-FUNC,S,S-FUNC
+helicopter,Vehicles,has airscrews,1,16,E,E-EXCOMP,E,E-EXCOMP
+helicopter,Vehicles,a mean of transportation,1,11,T,T-SUPER,T,T-SUPER
+helmet,Accessories,bicycle,1,8,S,S-OBJECT,S,S-OBJECT
+helmet,Accessories,motorbike,1,20,S,S-OBJECT,S,S-OBJECT
+helmet,Accessories,used by the soldier,1,8,S,S-PERSON,S,S-PERSON
+helmet,Accessories,used for protecting,1,16,S,S-FUNC,S,S-FUNC
+helmet,Accessories,made of plastic,1,5,E,E-MAT,E,E-MAT
+hippopotamus,Animals,an animal,1,17,T,T-SUPER,T,T-ONT
+hippopotamus,Animals,is aquatic,1,8,E,E-SYS,E,E-SYS
+hippopotamus,Animals,is big,1,17,E,E-QUANT,E,E-QUANT
+hippopotamus,Animals,is dangerous,1,7,I,I-EVAL,E,E-SYS
+hippopotamus,Animals,is heavy,1,5,E,E-SYS,E,E-QUANT
+hippopotamus,Animals,a mammal,1,5,T,T-SUPER,T,T-SYN
+hippopotamus,Animals,lives in the water,1,7,S,S-LOC,S,S-LOC
+hoe,Tools,earth,1,16,S,S-OBJECT,S,S-OBJECT
+hoe,Tools,garden,1,9,S,S-LOC,S,S-LOC
+hoe,Tools,grass,1,7,S,S-LIVING,S,S-OBJECT
+hoe,Tools,a tool,1,7,T,T-SUPER,T,T-ONT
+hoe,Tools,used for cutting,1,5,S,S-FUNC,S,S-FUNC
+hoe,Tools,work,1,10,E,E-SYS,S,S-FUNC
+hoe,Tools,found in the field,1,8,S,S-LOC,S,S-LOC
+hoe,Tools,found in the country house,2,5,S,S-LOC,S,S-LOC
+horse,Animals,an animal,1,11,T,T-SUPER,T,T-ONT
+horse,Animals,neighs,1,7,E,E-BEH,E,E-BEH
+horse,Animals,race,1,5,S,S-FUNC,S,S-EVENT
+horse,Animals,is ridden,1,6,S,S-ACTION,S,S-ACTION
+horse,Animals,runs,1,5,E,E-BEH,E,E-BEH
+horse,Animals,is strong,1,6,E,E-SYS,E,E-SYS
+horse,Animals,has legs,1,10,E,E-EXCOMP,E,E-EXCOMP
+horse,Animals,horseback ride,2,7,S,S-EVENT,S,S-EVENT
+horse,Animals,used for rural tasks,2,6,S,S-ACTION,S,S-FUNC
+horse,Animals,lives in the countryside,1,5,S,S-LOC,S,S-LOC
+horseshoe,Objects,used for horses,1,25,S,S-FUNC,S,S-FUNC
+horseshoe,Objects,used for protecting,1,9,S,S-FUNC,S,S-FUNC
+horseshoe,Objects,used with nails,1,5,S,S-ACTION,S,S-FUNC
+horseshoe,Objects,gives good luck,2,7,I,I-EVAL,E,E-ABSTR
+horseshoe,Objects,made of iron,1,11,E,E-MAT,E,E-MAT
+horseshoe,Objects,made of metal,1,6,E,E-MAT,E,E-MAT
+house,Constructions,is big,1,9,E,E-QUANT,E,E-QUANT
+house,Constructions,family,1,11,S,S-SOCORG,S,S-SOCORG
+house,Constructions,home,1,15,T,T-SYN,T,T-SYN
+house,Constructions,a refuge,1,5,T,T-ONT,S,S-FUNC
+house,Constructions,different materials,1,5,E,E-MAT,E,E-MAT
+house,Constructions,made of bricks,1,5,E,E-MAT,E,E-MAT
+house,Constructions,place where people live,1,6,S,S-FUNC,S,S-LOC
+hyena,Animals,an animal,1,19,T,T-SUPER,T,T-ONT
+hyena,Animals,is evil,1,8,I,I-EVAL,E,E-SYS
+hyena,Animals,laughs,1,12,E,E-BEH,E,E-BEH
+hyena,Animals,is ugly,1,8,I,I-EVAL,I,I-EVAL
+hyena,Animals,is wild,1,9,E,E-SYS,E,E-SYS
+igloo,Constructions,cold,1,18,E,E-SYS,E,E-SYS
+igloo,Constructions,a house,1,12,T,T-SUPER,T,T-ONT
+igloo,Constructions,snow,1,10,S,S-OBJECT,E,E-MAT
+igloo,Constructions,made of ice,1,20,E,E-MAT,E,E-MAT
+iron,Devices,clothes,1,9,S,S-OBJECT,S,S-FUNC
+iron,Devices,a device,1,8,T,T-SUPER,T,T-ONT
+iron,Devices,is electrical,1,11,E,E-SYS,E,E-SYS
+iron,Devices,is hot,1,10,E,E-EXSURF,E,E-SYS
+iron,Devices,used for ironing,1,6,S,S-FUNC,S,S-FUNC
+iron,Devices,an electrical appliance,2,6,T,T-SUPER,T,T-SUPER
+iron,Devices,is a steam iron,2,9,E,E-SYS,T,T-SYN
+iron,Devices,used for smoothing clothes,2,5,S,S-FUNC,S,S-FUNC
+iron,Devices,found in the house,1,7,S,S-LOC,S,S-LOC
+ironing board,Utensils,clothes,1,11,S,S-OBJECT,E,E-WHOLE
+ironing board,Utensils,iron,1,7,S,S-OBJECT,S,S-OBJECT
+ironing board,Utensils,used for ironing,1,19,S,S-FUNC,S,S-FUNC
+ironing board,Utensils,is useful,1,6,I,I-EVAL,E,E-SYS
+ironing board,Utensils,made of wood,1,10,E,E-MAT,E,E-MAT
+jaket,Clothing,used for keeping warm,1,10,S,S-FUNC,S,S-FUNC
+jaket,Clothing,used for protecting yourself from rain,1,6,S,S-FUNC,S,S-FUNC
+jaket,Clothing,winter,1,5,S,S-TIME,S,S-TIME
+jaket,Clothing,is a warm clothing,2,8,T,T-SUPER,S,S-FUNC
+jaket,Clothing,has a zip,1,5,E,E-EXCOMP,E,E-EXCOMP
+jaket,Clothing,made of fabric,1,5,E,E-MAT,E,E-MAT
+jaket,Clothing,made of leather,1,11,E,E-MAT,E,E-MAT
+jaket,Clothing,made of wool,1,5,E,E-MAT,E,E-MAT
+jaket,Clothing,made of polar fleece,2,5,E,E-MAT,E,E-MAT
+jar,Containers,sweet,1,10,S,S-OBJECT,E,E-INSURF
+jar,Containers,used for storing things,1,5,S,S-FUNC,S,S-FUNC
+jar,Containers,used for containing things,1,5,S,S-FUNC,S,S-FUNC
+jar,Containers,made of glass,1,16,E,E-MAT,E,E-MAT
+jellyfish,Animals,an animal,1,5,T,T-SUPER,T,T-ONT
+jellyfish,Animals,bites,1,10,E,E-BEH,E,E-BEH
+jellyfish,Animals,lives in the sea,1,23,S,S-LOC,S,S-LOC
+kangaroo,Animals,an animal,1,18,T,T-SUPER,T,T-ONT
+kangaroo,Animals,is brown,1,9,E,E-EXSURF,E,E-EXSURF
+kangaroo,Animals,jumps,1,24,E,E-BEH,E,E-BEH
+kangaroo,Animals,a marsupial,1,5,T,T-SUPER,T,T-ONT
+kangaroo,Animals,carries joey,1,6,E,E-BEH,E,E-BEH
+kangaroo,Animals,has a pouch,1,7,E,E-EXCOMP,E,E-EXCOMP
+kettle,Utensils,is aluminum,1,5,E,E-MAT,E,E-MAT
+kettle,Utensils,coffee,1,6,S,S-OBJECT,S,S-FUNC
+kettle,Utensils,is hot,1,10,E,E-EXSURF,E,E-SYS
+kettle,Utensils,mate,1,27,S,S-OBJECT,E,E-INCOMP
+kettle,Utensils,tea,1,12,S,S-OBJECT,S,S-FUNC
+kettle,Utensils,used for boiling,1,5,S,S-FUNC,S,S-FUNC
+kettle,Utensils,water,1,16,E,E-INCOMP,S,S-OBJECT
+kettle,Utensils,made of steel,1,5,E,E-MAT,E,E-MAT
+kettle,Utensils,found in the kitchen,1,5,S,S-LOC,S,S-LOC
+key,Objects,door,1,18,T,T-SYN,S,S-FUNC
+key,Objects,house,1,6,S,S-OBJECT,S,S-OBJECT
+key,Objects,lock,1,7,S,S-OBJECT,E,E-WHOLE
+key,Objects,safety,1,8,S,S-SOCART,S,S-FUNC
+key,Objects,used for opening,1,14,S,S-FUNC,S,S-FUNC
+key,Objects,key chain,2,5,S,S-LOC,E,E-WHOLE
+key,Objects,used for buttoning up,2,7,S,S-FUNC,S,S-FUNC
+key,Objects,made of bronze,1,7,E,E-MAT,E,E-MAT
+key,Objects,made of metal,1,9,E,E-MAT,E,E-MAT
+kite,Toys,used by children,1,10,S,S-PERSON,S,S-PERSON
+kite,Toys,is colorful,1,14,E,E-EXSURF,E,E-EXSURF
+kite,Toys,flies,1,9,E,E-BEH,E,E-BEH
+kite,Toys,is funny,1,5,E,E-SYS,I,I-EVAL
+kite,Toys,sky,1,6,S,S-LOC,S,S-LOC
+kite,Toys,a toy,1,6,T,T-SUPER,T,T-SYN
+kite,Toys,used with wind,1,10,I,I-CONTIN,S,S-FUNC
+kite,Toys,has a tail,1,8,E,E-EXCOMP,E,E-EXCOMP
+kite,Toys,has a thread,1,14,E,E-EXCOMP,E,E-EXCOMP
+kite,Toys,made of cane,1,7,E,E-MAT,E,E-MAT
+kite,Toys,made of paper,1,11,E,E-MAT,E,E-MAT
+knife,Utensils,an element,1,7,T,T-ONT,T,T-SYN
+knife,Utensils,is sharp,1,15,E,E-EXSURF,E,E-EXSURF
+knife,Utensils,used for cutting,1,19,S,S-FUNC,S,S-FUNC
+knife,Utensils,used for eating,1,9,S,S-FUNC,S,S-FUNC
+knife,Utensils,a utensil,1,5,T,T-SUPER,T,T-SYN
+knife,Utensils,a weapon,1,6,T,T-SUPER,T,T-SUBORD
+knife,Utensils,made of metal,1,9,E,E-MAT,E,E-MAT
+knife,Utensils,found in the kitchen,1,13,S,S-LOC,S,S-LOC
+koala,Animals,an animal,1,18,T,T-SUPER,T,T-ONT
+koala,Animals,a bear,1,5,T,T-SUPER,T,T-SYN
+koala,Animals,is cute,1,5,I,I-EVAL,I,I-EVAL
+koala,Animals,is furry,1,5,E,E-EXSURF,E,E-EXSURF
+koala,Animals,is nice,1,6,I,I-EVAL,I,I-EVAL
+koala,Animals,is small,1,10,E,E-QUANT,E,E-SYS
+koala,Animals,is tender,1,5,E,E-SYS,E,E-SYS
+koala,Animals,climbs trees,1,9,E,E-BEH,E,E-BEH
+koala,Animals,is in extinction,1,6,E,E-SYS,E,E-SYS
+koala,Animals,lives in the jungle,1,6,S,S-LOC,S,S-LOC
+ladder,House parts,height,1,8,S,S-LOC,S,S-SPAT
+ladder,House parts,a tool,1,7,T,T-SUPER,T,T-SUPER
+ladder,House parts,used for climbing,1,17,S,S-FUNC,S,S-FUNC
+ladder,House parts,used for working,1,6,S,S-FUNC,S,S-FUNC
+ladder,House parts,is useful,1,6,I,I-EVAL,I,I-EVAL
+ladder,House parts,different materials,1,5,E,E-MAT,E,E-MAT
+ladder,House parts,has steps,1,12,E,E-EXCOMP,E,E-EXCOMP
+ladder,House parts,used for going down,2,10,S,S-FUNC,S,S-FUNC
+ladder,House parts,has a rail,1,5,E,E-EXCOMP,E,E-EXCOMP
+ladder,House parts,made of metal,1,6,E,E-MAT,E,E-MAT
+ladder,House parts,made of wood,1,13,E,E-MAT,E,E-MAT
+ladle,Utensils,used for serving,1,16,S,S-FUNC,S,S-FUNC
+ladle,Utensils,used for soup,1,14,S,S-FUNC,S,S-FUNC
+ladle,Utensils,a utensil,1,8,T,T-SUPER,T,T-SUPER
+ladle,Utensils,made of metal,1,8,E,E-MAT,E,E-MAT
+ladle,Utensils,made of plastic,1,7,E,E-MAT,E,E-MAT
+ladle,Utensils,found in the kitchen,1,13,S,S-LOC,S,S-LOC
+ladybug,Animals,an animal,1,5,T,T-SUPER,T,T-ONT
+ladybug,Animals,a bug,1,6,T,T-SUPER,T,T-SYN
+ladybug,Animals,is colorful,1,12,E,E-EXSURF,E,E-EXSURF
+ladybug,Animals,flies,1,11,E,E-BEH,E,E-BEH
+ladybug,Animals,an insect,1,17,T,T-SUPER,T,T-SUBORD
+ladybug,Animals,is small,1,10,E,E-QUANT,E,E-SYS
+ladybug,Animals,gives good luck,2,12,I,I-EVAL,I,I-REP
+lamb,Animals,an animal,1,17,T,T-SUPER,T,T-ONT
+lamb,Animals,is eaten,1,15,S,S-ACTION,S,S-ACTION
+lamb,Animals,a baby sheep,2,5,T,T-SYN,T,T-SUBORD
+lamb,Animals,gives wool,1,5,S,S-FUNC,E,E-BEH
+lamb,Animals,has wool,1,6,E,E-EXCOMP,E,E-EXCOMP
+lamb,Animals,tastes good,1,10,I,I-EVAL,I,I-EVAL
+lamb,Animals,eaten as meat,1,6,S,S-FUNC,S,S-FUNC
+lamb,Animals,lives in the countryside,1,5,S,S-LOC,S,S-LOC
+lamp,Furniture,night,1,7,E,E-BEH,S,S-TIME
+lamp,Furniture,is small,1,5,E,E-EXSURF,E,E-SYS
+lamp,Furniture,used for reading,1,5,S,S-FUNC,S,S-FUNC
+lamp,Furniture,used for lighting up,2,25,S,S-FUNC,S,S-FUNC
+lamp,Furniture,has a lightbulb,1,8,E,E-INCOMP,E,E-EXCOMP
+lamp,Furniture,found in the bedroom,1,12,S,S-LOC,S,S-LOC
+lamp,Furniture,is on the night table,2,17,S,S-LOC,S,S-LOC
+lantern,Furniture,an ornament,1,5,T,T-SUPER,S,S-FUNC
+lantern,Furniture,eg - electric stove,2,11,T,T-SUBORD,T,T-SUBORD
+lantern,Furniture,eg - kerosene lantern,2,6,T,T-SUBORD,T,T-SUBORD
+lantern,Furniture,used for lighting up,2,25,S,S-FUNC,S,S-FUNC
+lawnmower,Tools,is electrical,1,7,E,E-SYS,E,E-SYS
+lawnmower,Tools,used by the gardener,1,5,S,S-PERSON,S,S-FUNC
+lawnmower,Tools,grass,1,13,S,S-LIVING,S,S-OBJECT
+lawnmower,Tools,a machine,1,10,T,T-SUPER,T,T-ONT
+lawnmower,Tools,is manual,1,5,E,E-EXSURF,E,E-SYS
+lawnmower,Tools,has a blade,1,8,E,E-EXCOMP,E,E-EXCOMP
+lawnmower,Tools,used for mowing the lawn,1,10,S,S-FUNC,S,S-FUNC
+lawnmower,Tools,found in the garden,1,17,S,S-LOC,S,S-LOC
+leaf,Plants,is big,1,5,E,E-QUANT,E,E-QUANT
+leaf,Plants,is green,1,18,E,E-EXSURF,E,E-EXSURF
+leaf,Plants,is small,1,5,E,E-QUANT,E,E-QUANT
+leaf,Plants,gives shade,1,7,E,E-BEH,S,S-FUNC
+leaf,Plants,found in plants,1,10,S,S-LOC,E,E-WHOLE
+leaf,Plants,found in the tree,1,14,S,S-LOC,S,S-LOC
+leg,Body parts,a part of the body,1,7,E,E-WHOLE,E,E-WHOLE
+leg,Body parts,is long,1,10,E,E-QUANT,E,E-SYS
+leg,Body parts,used for walking,1,6,S,S-FUNC,S,S-FUNC
+lemon,Fruits,is acid,1,20,E,E-EXSURF,E,E-INSURF
+lemon,Fruits,a citrus,1,5,T,T-SUPER,T,T-SUPER
+lemon,Fruits,a fruit,1,15,T,T-SUPER,T,T-SUPER
+lemon,Fruits,used for flavouring,1,8,S,S-FUNC,S,S-FUNC
+lemon,Fruits,used for tea,1,6,S,S-ACTION,S,S-FUNC
+lemon,Fruits,is yellow,1,17,E,E-EXSURF,E,E-EXSURF
+lemon,Fruits,has juice,1,6,E,E-INCOMP,E,E-INSURF
+lemon,Fruits,grows on trees,1,10,S,S-LOC,E,E-BEH
+lemon,Fruits,grows on the lemon tree,2,5,S,S-LOC,S,S-LOC
+leopard,Animals,an animal,1,19,T,T-SUPER,T,T-ONT
+leopard,Animals,is carnivorous,1,5,E,E-SYS,E,E-BEH
+leopard,Animals,a feline,1,10,T,T-SUPER,T,T-SYN
+leopard,Animals,is ferocious,1,6,E,E-SYS,E,E-SYS
+leopard,Animals,a mammal,1,5,T,T-SUPER,T,T-ONT
+leopard,Animals,is wild,1,7,E,E-SYS,E,E-SYS
+leopard,Animals,lives in the jungle,1,7,S,S-LOC,S,S-LOC
+lettuce,Vegetables,is eaten,1,5,S,S-ACTION,S,S-FUNC
+lettuce,Vegetables,a foodstuff,1,5,T,T-SUPER,T,T-SUPER
+lettuce,Vegetables,is green,1,15,E,E-EXSURF,E,E-EXSURF
+lettuce,Vegetables,is healthy,1,6,E,E-SYS,E,E-SYS
+lettuce,Vegetables,a plant,1,9,T,T-SUPER,T,T-ONT
+lettuce,Vegetables,is purple,1,5,E,E-EXSURF,E,E-EXSURF
+lettuce,Vegetables,is refreshing,1,8,I,I-EVAL,E,E-INSURF
+lettuce,Vegetables,used for making salad,1,17,S,S-ACTION,S,S-FUNC
+lettuce,Vegetables,a vegetable,1,9,T,T-SUPER,T,T-ONT
+lettuce,Vegetables,eg - butter lettuce,2,6,T,T-SUBORD,T,T-SUBORD
+lettuce,Vegetables,tastes good,1,7,I,I-EVAL,E,E-INSURF
+light bub,House parts,gives light,1,20,E,E-EXSURF,E,E-BEH
+light bub,House parts,used for lighting up,2,7,S,S-FUNC,S,S-FUNC
+light bub,House parts,used for lighting up,2,5,S,S-FUNC,S,S-FUNC
+light switch,House parts,electricity,1,8,S,S-FUNC,S,S-FUNC
+light switch,House parts,is useful,1,5,I,I-EVAL,I,I-EVAL
+light switch,House parts,is white,1,5,E,E-EXSURF,E,E-EXSURF
+light switch,House parts,wires,1,5,S,S-OBJECT,E,E-INCOMP
+light switch,House parts,used for turning the light off,2,8,S,S-FUNC,S,S-FUNC
+light switch,House parts,used for turning the light on,2,18,S,S-FUNC,S,S-FUNC
+light switch,House parts,made of plastic,1,8,E,E-MAT,E,E-MAT
+light switch,House parts,found in the houses,1,5,S,S-LOC,S,S-LOC
+lion,Animals,an animal,1,15,T,T-SUPER,T,T-SYN
+lion,Animals,a carnivore,1,5,T,T-SUPER,E,E-BEH
+lion,Animals,a feline,1,9,T,T-SUPER,T,T-SUPER
+lion,Animals,is ferocious,1,7,E,E-SYS,E,E-SYS
+lion,Animals,roars,1,6,E,E-BEH,E,E-BEH
+lion,Animals,is strong,1,5,E,E-SYS,E,E-SYS
+lion,Animals,has hair,1,5,E,E-EXCOMP,E,E-EXCOMP
+lion,Animals,has a mane,1,12,E,E-EXCOMP,E,E-EXCOMP
+lion,Animals,king of the jungle,1,13,S,S-SOCART,I,I-REP
+lion,Animals,lives in the jungle,1,5,S,S-LOC,S,S-LOC
+lipsstick,Accessories,coquetry,1,5,E,E-ABSTR,E,E-ABSTR
+lipsstick,Accessories,is creamy,1,5,E,E-EXSURF,E,E-INSURF
+lipsstick,Accessories,is red,1,5,E,E-EXSURF,E,E-EXSURF
+lipsstick,Accessories,used for painting,1,8,S,S-FUNC,S,S-FUNC
+lipsstick,Accessories,used by women,1,12,S,S-PERSON,S,S-PERSON
+lipsstick,Accessories,different colors,1,8,E,E-EXSURF,E,E-EXSURF
+lizard,Animals,an animal,1,9,T,T-SUPER,T,T-ONT
+lizard,Animals,is elusive,1,6,E,E-SYS,E,E-BEH
+lizard,Animals,is green,1,12,E,E-EXSURF,E,E-EXSURF
+lizard,Animals,a reptile,1,8,T,T-SUPER,T,T-SUPER
+lizard,Animals,is ugly,1,5,I,I-EVAL,I,I-EVAL
+llama,Animals,an animal,1,18,T,T-SUPER,T,T-ONT
+llama,Animals,is furry,1,5,E,E-EXSURF,E,E-EXSURF
+llama,Animals,is meek,1,6,E,E-SYS,E,E-SYS
+llama,Animals,poncho,1,5,S,S-OBJECT,T,T-COORD
+llama,Animals,has wool,1,11,E,E-EXCOMP,E,E-EXCOMP
+llama,Animals,lives in north,1,12,S,S-LOC,S,S-LOC
+lobster,Animals,an animal,1,10,T,T-SUPER,T,T-ONT
+lobster,Animals,is eaten,1,10,S,S-ACTION,S,S-FUNC
+lobster,Animals,is orange,1,5,E,E-EXSURF,E,E-EXSURF
+lobster,Animals,is red,1,6,E,E-EXSURF,E,E-EXSURF
+lobster,Animals,walks,1,7,E,E-BEH,E,E-BEH
+lobster,Animals,walks sideways,1,6,E,E-BEH,E,E-BEH
+lobster,Animals,has clamps,1,13,E,E-EXCOMP,E,E-EXCOMP
+lobster,Animals,has legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+lobster,Animals,tastes good,1,7,I,I-EVAL,I,I-EMOT
+lobster,Animals,lives in the sea,1,11,S,S-LOC,E,E-SYS
+lobster,Animals,lives on the beach,1,5,S,S-LOC,S,S-LOC
+lock,Tools,key,1,10,S,S-OBJECT,S,S-OBJECT
+lock,Tools,locked,1,6,S,S-PHYST,E,E-SYS
+lock,Tools,safety,1,24,S,S-SOCART,S,S-FUNC
+lock,Tools,used for buttoning up,2,15,S,S-FUNC,S,S-FUNC
+lock,Tools,made of metal,1,5,E,E-MAT,E,E-MAT
+log,Plants,is brown,1,7,E,E-EXSURF,E,E-EXSURF
+log,Plants,firewood,1,7,S,S-OBJECT,S,S-FUNC
+log,Plants,used for lighting up a fire,2,6,S,S-FUNC,S,S-FUNC
+log,Plants,made of wood,1,11,E,E-MAT,E,E-MAT
+log,Plants,a part of a tree,1,15,E,E-WHOLE,E,E-WHOLE
+lungs,Body parts,air,1,11,S,S-OBJECT,E,E-INCOMP
+lungs,Body parts,cigarette,1,5,T,T-COORD,S,S-OBJECT
+lungs,Body parts,health,1,5,I,I-REP,E,E-SYS
+lungs,Body parts,life,1,7,E,E-SYS,S,S-FUNC
+lungs,Body parts,an organ,1,13,T,T-SUPER,T,T-SYN
+lungs,Body parts,oxigen,1,7,S,S-OBJECT,E,E-INCOMP
+lungs,Body parts,used for breathing,1,18,S,S-FUNC,S,S-FUNC
+lungs,Body parts,is vital,1,7,I,I-REP,E,E-SYS
+lungs,Body parts,there are 2,1,7,E,E-QUANT,E,E-QUANT
+maracas,Musical instruments,dance,1,5,S,S-EVENT,S,S-FUNC
+maracas,Musical instruments,joy,1,11,I,I-EMOT,I,I-EMOT
+maracas,Musical instruments,used for making music,1,15,S,S-FUNC,S,S-FUNC
+maracas,Musical instruments,worn at parties,1,5,S,S-EVENT,S,S-EVENT
+maracas,Musical instruments,makes noises,1,9,E,E-BEH,E,E-SYS
+maracas,Musical instruments,a musical instrument,2,8,T,T-SUPER,T,T-SUPER
+microscope,Tools,an instrument,1,6,E,E-MAT,T,T-ONT
+microscope,Tools,is scientific,1,7,E,E-SYS,E,E-SYS
+microscope,Tools,used to investigate,1,9,S,S-FUNC,S,S-FUNC
+microscope,Tools,has magnification,1,6,E,E-SYS,E,E-SYS
+microscope,Tools,used for seeing small things,1,5,S,S-FUNC,S,S-FUNC
+microscope,Tools,found in the laboratory,1,6,S,S-LOC,S,S-LOC
+monkey,Animals,an animal,1,16,T,T-SUPER,T,T-ONT
+monkey,Animals,banana,1,6,S,S-LIVING,S,S-OBJECT
+monkey,Animals,is bouncy,1,7,E,E-BEH,E,E-BEH
+monkey,Animals,is brown,1,5,E,E-EXSURF,E,E-EXSURF
+monkey,Animals,is furry,1,9,E,E-EXSURF,E,E-EXSURF
+monkey,Animals,inteligent,1,6,E,E-SYS,E,E-SYS
+monkey,Animals,climbs trees,1,7,E,E-BEH,E,E-BEH
+monkey,Animals,lives in the jungle,1,12,S,S-LOC,S,S-LOC
+monkey,Animals,similar to a man,1,5,I,I-REP,T,T-SYN
+moon,Nature,full,1,6,E,E-EXSURF,E,E-SYS
+moon,Nature,light,1,6,S,S-FUNC,E,E-EXSURF
+moon,Nature,night,1,15,E,E-BEH,S,S-TIME
+moon,Nature,is romantic,1,9,I,I-EVAL,I,I-EVAL
+moon,Nature,a satelite,1,7,T,T-SUPER,T,T-SUPER
+moose,Animals,an animal,1,28,T,T-SUPER,T,T-ONT
+moose,Animals,is nice,1,5,I,I-EVAL,I,I-EVAL
+moose,Animals,a quadruped,1,8,T,T-SUPER,E,E-SYS
+moose,Animals,has horns,1,22,E,E-EXCOMP,E,E-EXCOMP
+moose,Animals,has legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+moose,Animals,lives in the forest,1,8,S,S-LOC,S,S-LOC
+motorcycle,Vehicles,is dangerous,1,11,I,I-EVAL,E,E-SYS
+motorcycle,Vehicles,is fast,1,15,E,E-SYS,E,E-SYS
+motorcycle,Vehicles,helmet,1,6,S,S-OBJECT,S,S-OBJECT
+motorcycle,Vehicles,is noisy,1,7,E,E-SYS,E,E-SYS
+motorcycle,Vehicles,has wheels,1,12,E,E-EXCOMP,E,E-EXCOMP
+motorcycle,Vehicles,a mean of transportation,1,11,T,T-SUPER,S,S-FUNC
+mountain,Nature,is big,1,5,E,E-QUANT,E,E-QUANT
+mountain,Nature,is nice,1,5,I,I-EVAL,I,I-EVAL
+mountain,Nature,is tall,1,9,E,E-QUANT,E,E-SYS
+mountain,Nature,mountain range,2,6,T,T-COORD,E,E-WHOLE
+mountain,Nature,eg - covered with snow,1,9,E,E-EXSURF,E,E-EXSURF
+mountain,Nature,a part of a landscape,1,6,E,E-WHOLE,E,E-WHOLE
+mountain,Nature,a part of a mountain range,2,6,E,E-WHOLE,E,E-WHOLE
+mouse,Animals,an animal,1,13,T,T-SUPER,T,T-ONT
+mouse,Animals,is dirty,1,9,I,I-EVAL,E,E-SYS
+mouse,Animals,illness,1,7,I,I-CONTIN,S,S-SOCART
+mouse,Animals,a rodent,1,12,T,T-SUPER,T,T-ONT
+mouse,Animals,is small,1,5,E,E-QUANT,E,E-SYS
+mouse,Animals,eats  cheese,1,7,E,E-BEH,E,E-BEH
+mouse,Animals,has a tail,1,9,E,E-EXCOMP,E,E-EXCOMP
+mouse,Animals,lives in the hole,1,7,S,S-LOC,S,S-LOC
+mouth,Body parts,a part of the body,1,5,E,E-WHOLE,T,T-ONT
+mouth,Body parts,a part of the face,1,5,E,E-WHOLE,E,E-EXCOMP
+mouth,Body parts,used for eating,1,19,S,S-FUNC,S,S-FUNC
+mouth,Body parts,used for kissing,1,7,S,S-FUNC,S,S-FUNC
+mouth,Body parts,used for speaking,1,16,S,S-FUNC,S,S-FUNC
+mouth,Body parts,has lips,1,7,E,E-EXCOMP,E,E-EXCOMP
+mouth,Body parts,has teeth,1,10,E,E-INCOMP,E,E-EXCOMP
+mouth,Body parts,has tonge,1,5,E,E-INCOMP,E,E-EXCOMP
+mushroom,Plants,champignon,1,5,S,S-OBJECT,T,T-SYN
+mushroom,Plants,is eaten,1,5,S,S-ACTION,S,S-ACTION
+mushroom,Plants,is edible,1,12,S,S-ACTION,E,E-SYS
+mushroom,Plants,is poisonous,1,11,E,E-SYS,E,E-SYS
+mushroom,Plants,it is of different species,1,5,T,T-SUBORD,T,T-SUBORD
+nail,Tools,hammer,1,8,S,S-OBJECT,S,S-OBJECT
+nail,Tools,is nailed,1,5,S,S-ACTION,E,E-SYS
+nail,Tools,used for hanging,1,5,S,S-FUNC,S,S-FUNC
+nail,Tools,used for hanging paintings,1,5,S,S-FUNC,S,S-FUNC
+nail,Tools,used for making ferniture,1,8,S,S-FUNC,S,S-FUNC
+nail,Tools,has a tip,1,5,E,E-EXCOMP,E,E-EXCOMP
+nail,Tools,made of metal,1,10,E,E-MAT,E,E-MAT
+nail file,Accessories,is rough,1,5,E,E-EXSURF,E,E-EXSURF
+nail file,Accessories,is small,1,5,E,E-EXSURF,E,E-SYS
+nail file,Accessories,used for filing,1,6,S,S-FUNC,S,S-FUNC
+nail file,Accessories,used for polishing the nails,1,9,S,S-FUNC,S,S-FUNC
+nail file,Accessories,is useful,1,6,I,I-EVAL,S,S-FUNC
+nail file,Accessories,made of cardboard,1,5,E,E-MAT,E,E-MAT
+nail file,Accessories,made of metal,1,9,E,E-MAT,E,E-MAT
+necklace,Accessories,an accesory,1,6,T,T-SUPER,T,T-SYN
+necklace,Accessories,an ornament,1,11,T,T-SUPER,S,S-OBJECT
+necklace,Accessories,made of pearl,1,8,E,E-MAT,E,E-MAT
+needle,Tools,thread,1,6,S,S-OBJECT,S,S-OBJECT
+needle,Tools,used for knitting,1,10,S,S-FUNC,S,S-FUNC
+needle,Tools,used for sawing,1,21,S,S-FUNC,S,S-FUNC
+needle,Tools,used for stabbing,1,10,S,S-FUNC,S,S-ACTION
+needle,Tools,made of steel,1,6,E,E-MAT,E,E-MAT
+net,Tools,used by the fisherman,1,6,S,S-PERSON,S,S-FUNC
+net,Tools,used for fishing,1,15,S,S-FUNC,S,S-FUNC
+net,Tools,made of thread,1,5,E,E-MAT,E,E-MAT
+nose,Body parts,eg - aquiline,1,5,T,T-SUBORD,E,E-EXSURF
+nose,Body parts,is big,1,6,E,E-QUANT,E,E-SYS
+nose,Body parts,cold,1,5,S,S-EVENT,E,E-SYS
+nose,Body parts,a part of the face,1,15,E,E-WHOLE,E,E-EXCOMP
+nose,Body parts,smell,1,13,S,S-FUNC,S,S-FUNC
+nose,Body parts,used for breathing,1,11,S,S-FUNC,S,S-FUNC
+nose,Body parts,has mucus,1,5,E,E-INCOMP,E,E-EXCOMP
+nut,Tools,is big,1,5,E,E-QUANT,E,E-SYS
+nut,Tools,is hexagonal,1,5,E,E-EXSURF,E,E-EXSURF
+nut,Tools,mechanic,1,5,S,S-PERSON,S,S-PERSON
+nut,Tools,screw,1,12,S,S-OBJECT,S,S-OBJECT
+nut,Tools,is small,1,6,E,E-QUANT,E,E-SYS
+nut,Tools,used for fastenning,1,11,S,S-FUNC,S,S-FUNC
+nut,Tools,made of metal,1,6,E,E-MAT,E,E-MAT
+octopus,Animals,is eaten,1,18,S,S-ACTION,S,S-ACTION
+octopus,Animals,a mollusk,1,7,S,S-LOC,T,T-ONT
+octopus,Animals,stew,1,6,E,E-WHOLE,S,S-OBJECT
+octopus,Animals,is ugly,1,5,I,I-EVAL,E,E-SYS
+octopus,Animals,has tentacles,1,14,E,E-EXCOMP,E,E-EXCOMP
+octopus,Animals,tastes good,1,8,I,I-EVAL,E,E-INSURF
+octopus,Animals,lives in the sea,1,24,S,S-LOC,S,S-LOC
+onion,Vegetables,is acid,1,6,E,E-EXSURF,E,E-INSURF
+onion,Vegetables,is eaten,1,6,S,S-ACTION,S,S-FUNC
+onion,Vegetables,eg - purple,1,5,T,T-SUBORD,E,E-EXSURF
+onion,Vegetables,used for flavouring,1,5,S,S-FUNC,S,S-FUNC
+onion,Vegetables,used for making salads,1,7,S,S-ACTION,S,S-FUNC
+onion,Vegetables,a vegetable,1,6,T,T-SUPER,T,T-ONT
+onion,Vegetables,eg - white,1,5,T,T-SUBORD,E,E-EXSURF
+onion,Vegetables,has layers,1,6,E,E-EXCOMP,E,E-INCOMP
+onion,Vegetables,makes cry,1,17,S,S-FUNC,S,S-EVENT
+orange,Fruits,is acid,1,7,E,E-EXSURF,E,E-INSURF
+orange,Fruits,a citrus,1,8,T,T-SUPER,T,T-SUPER
+orange,Fruits,a fruit,1,18,T,T-SUPER,T,T-ONT
+orange,Fruits,is juicy,1,6,E,E-INSURF,E,E-INSURF
+orange,Fruits,is sweet,1,11,E,E-INSURF,E,E-INSURF
+orange,Fruits,used for juice,1,9,S,S-FUNC,S,S-FUNC
+orange,Fruits,has seeds,1,5,E,E-INCOMP,E,E-INCOMP
+orange,Fruits,has skin,1,6,E,E-EXCOMP,E,E-EXCOMP
+ostrich,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+ostrich,Animals,is big,1,10,E,E-QUANT,E,E-QUANT
+ostrich,Animals,a bird,1,9,T,T-SUPER,T,T-ONT
+ostrich,Animals,is fast,1,13,E,E-SYS,E,E-SYS
+ostrich,Animals,runs,1,5,E,E-BEH,E,E-BEH
+ostrich,Animals,has feathers,1,15,E,E-EXCOMP,E,E-EXCOMP
+ostrich,Animals,lays eggs,1,13,E,E-BEH,E,E-BEH
+ostrich,Animals,has a beak,1,7,E,E-EXCOMP,E,E-EXCOMP
+ostrich,Animals,lays big eggs,1,5,E,E-BEH,E,E-BEH
+ostrich,Animals,lives in the countryside,1,7,S,S-LOC,S,S-LOC
+oven mitt,Utensils,detergent,1,6,S,S-OBJECT,S,S-OBJECT
+oven mitt,Utensils,oven,1,7,S,S-OBJECT,S,S-LOC
+oven mitt,Utensils,tableware,1,6,S,S-OBJECT,T,T-SYN
+oven mitt,Utensils,used for cleaning,1,12,S,S-FUNC,S,S-FUNC
+oven mitt,Utensils,worn on the hand,1,8,S,S-LOC,S,S-FUNC
+oven mitt,Utensils,different colors,1,5,E,E-EXSURF,E,E-EXSURF
+oven mitt,Utensils,made of rubber,1,10,E,E-MAT,E,E-MAT
+oven mitt,Utensils,protects the hand,1,9,S,S-FUNC,S,S-FUNC
+oven mitt,Utensils,used for avoiding getting burned,1,8,S,S-FUNC,S,S-FUNC
+owl,Animals,an animal,1,12,T,T-SUPER,T,T-ONT
+owl,Animals,a bird,1,15,T,T-SUPER,T,T-SUPER
+owl,Animals,is nocturnal,1,10,S,S-TIME,E,E-BEH
+owl,Animals,has feathers,1,9,E,E-EXCOMP,E,E-EXCOMP
+owl,Animals,makes noises,1,5,E,E-BEH,E,E-BEH
+owl,Animals,lives in caves,1,5,S,S-LOC,S,S-LOC
+paddle,Objects,ball,1,17,S,S-OBJECT,E,E-EXCOMP
+paddle,Objects,net,1,8,S,S-OBJECT,E,E-EXCOMP
+paddle,Objects,table,1,12,S,S-OBJECT,S,S-OBJECT
+paddle,Objects,used for playing,1,21,S,S-FUNC,S,S-FUNC
+paddle,Objects,used for playing sports,1,7,S,S-FUNC,S,S-ACTION
+paddle,Objects,made of wood,1,13,E,E-MAT,E,E-MAT
+paintbrush,Utensils,used by artists,1,7,S,S-PERSON,S,S-PERSON
+paintbrush,Utensils,paint,1,15,E,E-INCOMP,S,S-OBJECT
+paintbrush,Utensils,used by painters,1,6,S,S-PERSON,S,S-PERSON
+paintbrush,Utensils,a tool,1,11,T,T-SUPER,T,T-SYN
+paintbrush,Utensils,used for painting,1,20,S,S-FUNC,S,S-FUNC
+paintbrush,Utensils,has bristles,1,14,E,E-EXCOMP,E,E-EXCOMP
+paintbrush,Utensils,has grip,1,5,E,E-EXCOMP,E,E-EXCOMP
+palm tree,Plants,hot,1,5,S,S-TIME,S,S-PHYST
+palm tree,Plants,a plant,1,10,T,T-SUPER,T,T-ONT
+palm tree,Plants,is tall,1,7,E,E-QUANT,E,E-QUANT
+palm tree,Plants,a tree,1,5,T,T-SUPER,T,T-SYN
+palm tree,Plants,gives coconuts,1,11,E,E-BEH,E,E-BEH
+palm tree,Plants,gives shade,1,8,E,E-BEH,E,E-SYS
+palm tree,Plants,found in the beache,1,11,S,S-LOC,S,S-LOC
+panda,Animals,an animal,1,12,T,T-SUPER,T,T-ONT
+panda,Animals,is big,1,6,E,E-QUANT,E,E-QUANT
+panda,Animals,is endangered,1,11,E,E-SYS,E,E-SYS
+panda,Animals,is furry,1,5,E,E-EXSURF,E,E-EXSURF
+panda,Animals,is nice,1,7,I,I-EVAL,I,I-EVAL
+panda,Animals,is tender,1,10,E,E-SYS,E,E-SYS
+panda,Animals,is black and white,3,14,E,E-EXSURF,E,E-EXSURF
+pants,Clothing,clothing,1,24,T,T-SUPER,T,T-SUPER
+pants,Clothing,coat,1,9,T,T-SUPER,T,T-COORD
+pants,Clothing,is comfortable,1,7,I,I-EVAL,E,E-SYS
+pants,Clothing,eg - formal,1,5,T,T-SUBORD,T,T-INDIV
+pants,Clothing,is long,1,11,E,E-QUANT,E,E-SYS
+pants,Clothing,used by women,1,8,S,S-PERSON,S,S-PERSON
+pants,Clothing,worn by men,1,11,S,S-PERSON,S,S-PERSON
+pants,Clothing,different colors,1,7,E,E-EXSURF,E,E-EXSURF
+pants,Clothing,eg - sport pants,2,7,T,T-SUBORD,T,T-SUBORD
+pants,Clothing,eg_-_ is short,1,10,E,E-QUANT,E,E-QUANT
+pants,Clothing,made of fabric,1,9,E,E-MAT,E,E-MAT
+parrot,Animals,an animal,1,8,T,T-SUPER,T,T-ONT
+parrot,Animals,a bird,1,9,T,T-SUPER,T,T-SYN
+parrot,Animals,is chatty,1,7,E,E-SYS,E,E-BEH
+parrot,Animals,flies,1,6,E,E-BEH,E,E-BEH
+parrot,Animals,is green,1,11,E,E-EXSURF,E,E-EXSURF
+parrot,Animals,talks,1,7,E,E-BEH,E,E-BEH
+parrot,Animals,has feathers,1,6,E,E-EXCOMP,E,E-EXCOMP
+peach,Fruits,dessert,1,5,T,T-SUPER,S,S-OBJECT
+peach,Fruits,a fruit,1,16,T,T-SUPER,T,T-SYN
+peach,Fruits,summer,1,6,S,S-TIME,S,S-TIME
+peach,Fruits,is sweet,1,11,E,E-INSURF,E,E-INSURF
+peach,Fruits,used to make smoothies,1,5,S,S-ACTION,S,S-FUNC
+peach,Fruits,has fluff,1,6,E,E-EXCOMP,E,E-EXSURF
+peach,Fruits,tastes good,1,17,I,I-EVAL,E,E-INSURF
+peach,Fruits,has a pit,1,8,E,E-INCOMP,E,E-INCOMP
+peacock,Animals,an animal,1,8,T,T-SUPER,T,T-ONT
+peacock,Animals,a bird,1,14,T,T-SUPER,T,T-ONT
+peacock,Animals,is nice,1,9,I,I-EVAL,I,I-EVAL
+peacock,Animals,different colors,1,21,E,E-EXSURF,E,E-EXSURF
+peacock,Animals,has feathers,1,15,E,E-EXCOMP,E,E-EXCOMP
+peacock,Animals,has a tail,1,8,E,E-EXCOMP,E,E-EXCOMP
+peacock,Animals,lives in the zoo,1,5,S,S-LOC,S,S-LOC
+peanut,Fruits,beer,1,9,S,S-OBJECT,S,S-OBJECT
+peanut,Fruits,is eaten,1,6,S,S-ACTION,S,S-ACTION
+peanut,Fruits,a food,1,8,T,T-SUPER,S,S-FUNC
+peanut,Fruits,a foodstuff,1,6,T,T-SUPER,T,T-ONT
+peanut,Fruits,is salty,1,7,E,E-INSURF,E,E-INSURF
+peanut,Fruits,snack,1,8,S,S-EVENT,S,S-FUNC
+peanut,Fruits,a dried fruit,2,5,T,T-SUPER,T,T-ONT
+peanut,Fruits,has skin,1,17,E,E-EXCOMP,E,E-EXCOMP
+peanut,Fruits,tastes good,1,8,I,I-EVAL,E,E-INSURF
+pear,Fruits,a fruit,1,21,T,T-SUPER,T,T-ONT
+pear,Fruits,is juicy,1,10,E,E-INSURF,E,E-INSURF
+pear,Fruits,summer,1,5,S,S-TIME,S,S-TIME
+pear,Fruits,is sweet,1,12,E,E-INSURF,E,E-INSURF
+pear,Fruits,is yellow,1,15,E,E-EXSURF,E,E-EXSURF
+pear,Fruits,tastes good,1,12,I,I-EVAL,E,E-EXSURF
+peas,Vegetables,is fine,1,8,E,E-EXSURF,E,E-SYS
+peas,Vegetables,is green,1,12,E,E-EXSURF,E,E-EXSURF
+peas,Vegetables,used for making salad,1,15,S,S-ACTION,S,S-FUNC
+peas,Vegetables,a vegetable,1,6,T,T-SUPER,T,T-ONT
+peas,Vegetables,a vegetable,1,5,T,T-SUPER,T,T-ONT
+peas,Vegetables,is wide,1,7,E,E-EXSURF,E,E-QUANT
+peas,Vegetables,tastes good,1,6,I,I-EVAL,I,I-EVAL
+pen,Utensils,used for writing,1,25,S,S-FUNC,S,S-FUNC
+pen,Utensils,is useful,1,6,I,I-EVAL,I,I-EVAL
+pen,Utensils,different colors,1,5,E,E-EXSURF,E,E-EXSURF
+pen,Utensils,has ink,1,8,E,E-INCOMP,E,E-INCOMP
+pencil,Utensils,drawing,1,5,S,S-FUNC,S,S-FUNC
+pencil,Utensils,used for writing,1,18,S,S-FUNC,S,S-FUNC
+pencil,Utensils,different colors,1,9,E,E-EXSURF,E,E-EXSURF
+pencil,Utensils,pencil sharpener,2,8,S,S-OBJECT,S,S-OBJECT
+pencil,Utensils,has a lead,1,10,E,E-INCOMP,E,E-INCOMP
+pencil,Utensils,made of wood,1,9,E,E-MAT,E,E-MAT
+penguin,Animals,an animal,1,10,T,T-SUPER,T,T-ONT
+penguin,Animals,a bird,1,6,T,T-SUPER,T,T-SYN
+penguin,Animals,cold,1,14,E,E-SYS,E,E-SYS
+penguin,Animals,ice,1,6,S,S-OBJECT,S,S-LOC
+penguin,Animals,is black and white,3,6,E,E-EXSURF,E,E-EXSURF
+penguin,Animals,lives in the sea,1,8,S,S-LOC,E,E-BEH
+penguin,Animals,lives in the south,1,8,S,S-LOC,S,S-LOC
+pepper,Vegetables,a food,1,7,T,T-SUPER,T,T-ONT
+pepper,Vegetables,is green,1,16,E,E-EXSURF,E,E-EXSURF
+pepper,Vegetables,is hot,1,12,E,E-EXSURF,E,E-INSURF
+pepper,Vegetables,is red,1,18,E,E-EXSURF,E,E-EXSURF
+pepper,Vegetables,a spice,1,8,T,T-SUPER,T,T-SUPER
+pepper,Vegetables,is yellow,1,10,E,E-EXSURF,E,E-EXSURF
+piano,Musical instruments,eg - grandpiano,1,7,T,T-SUBORD,T,T-SUBORD
+piano,Musical instruments,is nice,1,7,I,I-EVAL,I,I-EVAL
+piano,Musical instruments,sound,1,5,S,S-FUNC,E,E-EXSURF
+piano,Musical instruments,used for making music,1,15,S,S-FUNC,S,S-FUNC
+piano,Musical instruments,has keys,1,18,E,E-EXCOMP,E,E-EXCOMP
+piano,Musical instruments,a musical instrument,2,14,T,T-SUPER,T,T-SYN
+piano,Musical instruments,made of wood,1,5,E,E-MAT,E,E-MAT
+picture,Objects,landscape,1,10,E,E-INCOMP,S,S-OBJECT
+picture,Objects,memory,1,5,I,I-REP,I,I-REP
+picture,Objects,an ornament,1,5,T,T-SUPER,S,S-OBJECT
+picture,Objects,paint,1,7,E,E-INCOMP,E,E-MAT
+picture,Objects,used for decoration,1,7,S,S-FUNC,S,S-FUNC
+picture,Objects,has glass,1,6,E,E-EXCOMP,E,E-EXCOMP
+picture,Objects,made of wood,1,7,E,E-MAT,E,E-MAT
+pig,Animals,an animal,1,21,T,T-SUPER,T,T-ONT
+pig,Animals,is dirty,1,13,I,I-EVAL,E,E-SYS
+pig,Animals,is fat,1,8,E,E-EXSURF,E,E-SYS
+pig,Animals,a food,1,14,T,T-SUPER,S,S-OBJECT
+pig,Animals,tastes good,1,6,I,I-EVAL,E,E-INSURF
+pig,Animals,lives in the pigsty,1,5,S,S-LOC,S,S-LOC
+pinball machine,Toys,a game,1,29,T,T-SUPER,T,T-ONT
+pinball machine,Toys,used for having fun,1,7,S,S-FUNC,S,S-FUNC
+pinball machine,Toys,has a ball,1,15,E,E-INCOMP,E,E-EXCOMP
+pineapple,Fruits,a fruit,1,27,T,T-SUPER,T,T-ONT
+pineapple,Fruits,is juicy,1,10,E,E-INSURF,E,E-INSURF
+pineapple,Fruits,is sweet,1,13,E,E-INSURF,E,E-INSURF
+pineapple,Fruits,is tropical,1,7,S,S-LOC,E,E-SYS
+pineapple,Fruits,used for desserts,1,5,S,S-ACTION,S,S-FUNC
+pineapple,Fruits,tastes good,1,16,I,I-EVAL,E,E-INSURF
+pineapple,Fruits,used for making fruit salad,2,8,S,S-ACTION,S,S-FUNC
+pineapple,Fruits,has a hard skin,2,5,E,E-EXCOMP,E,E-EXSURF
+pipe,Accessories,an element,1,6,T,T-ONT,T,T-ONT
+pipe,Accessories,is smoked,1,21,S,S-FUNC,S,S-FUNC
+pipe,Accessories,has tobacco,1,12,E,E-INCOMP,E,E-INCOMP
+pipe,Accessories,peace pipe,2,5,E,E-ABSTR,T,T-SYN
+pitcher,Containers,juice,1,8,S,S-OBJECT,E,E-INCOMP
+pitcher,Containers,used for keeping fluids,1,17,S,S-FUNC,S,S-FUNC
+pitcher,Containers,a utensil,1,6,T,T-SUPER,T,T-ONT
+pitcher,Containers,water,1,7,E,E-INCOMP,S,S-OBJECT
+pitcher,Containers,wine,1,5,S,S-OBJECT,S,S-OBJECT
+pitcher,Containers,has a handle,1,5,E,E-EXCOMP,E,E-EXCOMP
+pitcher,Containers,made of glass,1,12,E,E-MAT,E,E-MAT
+pitcher,Containers,made of plastic,1,8,E,E-MAT,E,E-MAT
+platypus,Animals,an animal,1,25,T,T-SUPER,T,T-ONT
+platypus,Animals,is rare,1,8,I,I-EVAL,E,E-SYS
+platypus,Animals,has a beak,1,5,E,E-EXCOMP,E,E-EXCOMP
+pliers,Tools,a tool,1,20,T,T-SUPER,T,T-SYN
+pliers,Tools,used for grabing,1,5,S,S-FUNC,S,S-FUNC
+pliers,Tools,used for surgery,1,5,S,S-FUNC,S,S-FUNC
+pliers,Tools,is useful,1,7,I,I-EVAL,E,E-SYS
+pliers,Tools,made of metal,1,10,E,E-MAT,E,E-MAT
+plug,House parts,cable,1,6,S,S-OBJECT,E,E-EXCOMP
+plug,House parts,light,1,5,S,S-FUNC,S,S-FUNC
+plug,House parts,used for connecting,1,6,S,S-FUNC,S,S-FUNC
+plug,House parts,has legs,1,6,E,E-EXCOMP,E,E-SYS
+plug,House parts,eg - iron plug,2,6,E,E-WHOLE,E,E-MAT
+plug,House parts,provides electricity,1,14,S,S-FUNC,S,S-FUNC
+plug,House parts,found on the wall,1,5,S,S-LOC,S,S-LOC
+pot,Utensils,is big,1,7,E,E-QUANT,E,E-SYS
+pot,Utensils,family,1,7,S,S-SOCORG,S,S-SOCORG
+pot,Utensils,fire,1,7,S,S-OBJECT,S,S-OBJECT
+pot,Utensils,stew,1,5,S,S-OBJECT,S,S-FUNC
+pot,Utensils,used for cooking,1,5,S,S-FUNC,S,S-FUNC
+pot,Utensils,found in the kitchen,1,7,S,S-LOC,S,S-LOC
+potato,Vegetables,is cooked,1,5,S,S-ACTION,S,S-ACTION
+potato,Vegetables,is eaten,1,9,S,S-ACTION,S,S-ACTION
+potato,Vegetables,a foodstuff,1,9,T,T-SUPER,T,T-ONT
+potato,Vegetables,a tuber,1,7,T,T-SUPER,T,T-SUBORD
+potato,Vegetables,used for making puree,1,9,S,S-ACTION,S,S-FUNC
+potato,Vegetables,french fries,2,6,S,S-ACTION,S,S-FUNC
+potato,Vegetables,tastes good,1,6,I,I-EVAL,I,I-EVAL
+potato,Vegetables,grows below the earth,1,7,S,S-LOC,E,E-BEH
+pretzel,Food,a cookie,1,8,T,T-SUPER,T,T-SYN
+pretzel,Food,a food,1,9,T,T-SUPER,T,T-SYN
+pretzel,Food,is salty,1,8,E,E-INSURF,E,E-EXSURF
+pretzel,Food,tastes good,1,7,I,I-EVAL,E,E-INSURF
+pretzel,Food,from united states,2,7,S,S-LOC,S,S-LOC
+propeller,Objects,airplane,1,24,E,E-WHOLE,E,E-WHOLE
+propeller,Objects,helicopter,1,12,E,E-WHOLE,E,E-WHOLE
+propeller,Objects,ship,1,14,E,E-WHOLE,E,E-WHOLE
+propeller,Objects,used for flying,1,5,S,S-FUNC,S,S-FUNC
+pumpkin,Vegetables,is eaten,1,6,S,S-ACTION,S,S-ACTION
+pumpkin,Vegetables,a food,1,9,T,T-SUPER,S,S-FUNC
+pumpkin,Vegetables,is orange,1,8,E,E-EXSURF,E,E-EXSURF
+pumpkin,Vegetables,pumpkin,1,10,T,T-COORD,T,T-SYN
+pumpkin,Vegetables,is sweet,1,9,E,E-INSURF,E,E-INSURF
+pumpkin,Vegetables,used for making puree,1,8,S,S-ACTION,S,S-FUNC
+pumpkin,Vegetables,a vegetable,1,7,T,T-SUPER,T,T-SYN
+pumpkin,Vegetables,a vegetable,1,5,T,T-SUPER,T,T-SYN
+pumpkin,Vegetables,is yellow,1,5,E,E-EXSURF,E,E-EXSURF
+pumpkin,Vegetables,has seeds,1,8,E,E-INCOMP,E,E-INCOMP
+pumpkin,Vegetables,tastes good,1,5,I,I-EVAL,E,E-INSURF
+pyramid,Constructions,is ancient,1,5,S,S-TIME,E,E-SYS
+pyramid,Constructions,pharaoh,1,5,S,S-PERSON,S,S-PERSON
+rabbit,Animals,an animal,1,17,T,T-SUPER,T,T-ONT
+rabbit,Animals,is domestic,1,5,T,T-SUPER,E,E-SYS
+rabbit,Animals,is eaten,1,11,S,S-ACTION,S,S-ACTION
+rabbit,Animals,jumps,1,6,E,E-BEH,E,E-BEH
+rabbit,Animals,is soft,1,6,E,E-EXSURF,E,E-EXSURF
+rabbit,Animals,is tender,1,5,E,E-SYS,E,E-SYS
+rabbit,Animals,is white,1,10,E,E-EXSURF,E,E-EXSURF
+rabbit,Animals,eats carrots,1,7,E,E-BEH,E,E-BEH
+rabbit,Animals,has ears,1,8,E,E-EXCOMP,E,E-EXCOMP
+rake,Tools,a tool,1,5,T,T-SUPER,T,T-ONT
+rake,Tools,used for cleaning,1,7,S,S-FUNC,S,S-FUNC
+rake,Tools,used for gathering,1,6,S,S-FUNC,S,S-ACTION
+rake,Tools,used for working the land,1,7,S,S-FUNC,S,S-FUNC
+rake,Tools,has teeth,1,9,E,E-INCOMP,E,E-EXCOMP
+rake,Tools,used for gathering leaves,1,5,S,S-FUNC,S,S-FUNC
+rake,Tools,made of iron,1,5,E,E-MAT,E,E-MAT
+rat,Animals,an animal,1,16,T,T-SUPER,T,T-ONT
+rat,Animals,is dangerous,1,13,I,I-EVAL,E,E-SYS
+rat,Animals,is dirty,1,7,I,I-EVAL,E,E-SYS
+rat,Animals,is disgusting,1,10,I,I-EVAL,I,I-EVAL
+rat,Animals,is gray,1,5,E,E-EXSURF,E,E-EXSURF
+rat,Animals,illness,1,12,I,I-CONTIN,S,S-EVENT
+rat,Animals,a rodent,1,14,T,T-SUPER,T,T-ONT
+rat,Animals,is ugly,1,6,I,I-EVAL,I,I-EVAL
+rat,Animals,has a tail,1,6,E,E-EXCOMP,E,E-EXCOMP
+ray,Animals,an animal,1,6,T,T-SUPER,T,T-ONT
+ray,Animals,is catched,1,7,S,S-ACTION,S,S-ACTION
+ray,Animals,is eaten,1,12,S,S-ACTION,S,S-ACTION
+ray,Animals,a fish,1,8,T,T-SUPER,T,T-ONT
+ray,Animals,is poisonous,1,5,E,E-SYS,E,E-SYS
+ray,Animals,swims,1,6,E,E-BEH,E,E-BEH
+ray,Animals,has a tail,1,9,E,E-EXCOMP,E,E-EXCOMP
+ray,Animals,lives in the sea,1,12,S,S-LOC,S,S-LOC
+ray,Animals,lives in the water,1,7,S,S-LOC,S,S-LOC
+record player,Devices,is ancient,1,15,S,S-TIME,E,E-SYS
+record player,Devices,dance,1,5,S,S-EVENT,S,S-EVENT
+record player,Devices,disks,1,8,S,S-OBJECT,E,E-INCOMP
+record player,Devices,music,1,13,S,S-FUNC,S,S-FUNC
+record player,Devices,used for listening to music,1,5,S,S-FUNC,S,S-FUNC
+record player,Devices,has a pick,1,5,E,E-EXCOMP,E,E-EXCOMP
+refrigerator,Devices,cools,1,7,E,E-BEH,E,E-SYS
+refrigerator,Devices,food,1,6,S,S-OBJECT,S,S-OBJECT
+refrigerator,Devices,food,1,5,S,S-OBJECT,S,S-OBJECT
+refrigerator,Devices,freezes,1,5,E,E-BEH,S,S-FUNC
+refrigerator,Devices,used for preserving food,1,6,S,S-FUNC,S,S-FUNC
+refrigerator,Devices,is white,1,11,E,E-EXSURF,E,E-EXSURF
+refrigerator,Devices,gives cold,1,9,E,E-BEH,S,S-FUNC
+refrigerator,Devices,has a freezer,1,5,E,E-EXCOMP,E,E-INCOMP
+rhea,Animals,an animal,1,14,T,T-SUPER,T,T-ONT
+rhea,Animals,is big,1,7,E,E-QUANT,E,E-QUANT
+rhea,Animals,a bird,1,13,T,T-SUPER,T,T-SYN
+rhea,Animals,is fast,1,13,E,E-SYS,E,E-SYS
+rhea,Animals,runs,1,10,E,E-BEH,E,E-BEH
+rhea,Animals,has feathers,1,11,E,E-EXCOMP,E,E-EXCOMP
+rhea,Animals,lays eggs,1,10,E,E-BEH,E,E-BEH
+rhinoceros,Animals,an animal,1,16,T,T-SUPER,T,T-ONT
+rhinoceros,Animals,is big,1,18,E,E-QUANT,E,E-SYS
+rhinoceros,Animals,is gray,1,12,E,E-EXSURF,E,E-EXSURF
+rhinoceros,Animals,is herbivorous,1,5,T,T-SUPER,E,E-SYS
+rhinoceros,Animals,is wild,1,8,E,E-SYS,E,E-SYS
+rhinoceros,Animals,has a horn,1,10,E,E-EXCOMP,E,E-EXCOMP
+rhinoceros,Animals,lives in the jungle,1,7,S,S-LOC,S,S-LOC
+ring,Accessories,is a jewel,1,6,T,T-SUPER,T,T-SUPER
+ring,Accessories,an ornament,1,5,T,T-SUPER,T,T-ONT
+ring,Accessories,is round,1,8,E,E-EXSURF,E,E-EXSURF
+ring,Accessories,is worn on fingers,1,8,S,S-LOC,S,S-FUNC
+ring,Accessories,represents commitment,1,10,S,S-SOCART,S,S-SOCART
+ring,Accessories,eg - wedding ring,2,8,T,T-SUBORD,T,T-SUBORD
+ring,Accessories,made of gold,1,14,E,E-MAT,E,E-MAT
+ring,Accessories,made of platinum,1,5,E,E-MAT,E,E-MAT
+ring,Accessories,made of silver,1,7,E,E-MAT,E,E-MAT
+rocket,Vehicles,is fast,1,9,E,E-SYS,E,E-SYS
+rocket,Vehicles,is noisy,1,6,E,E-SYS,E,E-SYS
+rocket,Vehicles,is spatial,1,5,T,T-SUBORD,E,E-SYS
+rocket,Vehicles,speed,1,5,E,E-SYS,E,E-SYS
+rocket,Vehicles,used for travelling to space,1,5,S,S-FUNC,S,S-FUNC
+rocket,Vehicles,goes to moon,1,6,E,E-BEH,S,S-EVENT
+rocket,Vehicles,a mean of transportation,1,6,T,T-SUPER,S,S-FUNC
+rocket,Vehicles,found in the space,1,11,S,S-LOC,S,S-LOC
+rocking chair,Furniture,a chair,1,6,T,T-SUPER,T,T-SUBORD
+rocking chair,Furniture,is comfortable,1,6,I,I-EVAL,E,E-SYS
+rocking chair,Furniture,used by grandmothers,1,14,S,S-PERSON,S,S-PERSON
+rocking chair,Furniture,used for relaxing,1,9,S,S-FUNC,S,S-FUNC
+rocking chair,Furniture,used for resting,1,7,S,S-FUNC,S,S-FUNC
+rocking chair,Furniture,used for rocking,1,6,S,S-FUNC,S,S-FUNC
+rocking chair,Furniture,used for sleeping,1,7,S,S-FUNC,S,S-FUNC
+rocking chair,Furniture,eg - wicker,1,5,E,E-MAT,E,E-MAT
+rocking chair,Furniture,made of wood,1,10,E,E-MAT,E,E-MAT
+roller skate,Objects,a sport,1,11,T,T-SUPER,S,S-EVENT
+roller skate,Objects,used for sliding,1,9,S,S-FUNC,S,S-FUNC
+roller skate,Objects,used on ice,1,5,S,S-LOC,S,S-SPAT
+roller skate,Objects,has wheels,1,17,E,E-EXCOMP,E,E-EXCOMP
+rolling pin,Utensils,dough,1,6,S,S-OBJECT,S,S-OBJECT
+rolling pin,Utensils,is hard,1,6,E,E-EXSURF,E,E-SYS
+rolling pin,Utensils,used for kneading,1,9,S,S-FUNC,S,S-FUNC
+rolling pin,Utensils,used for making pasta,1,8,S,S-FUNC,S,S-FUNC
+rolling pin,Utensils,is useful,1,5,I,I-EVAL,I,I-EVAL
+rolling pin,Utensils,a utensil,1,7,T,T-SUPER,T,T-ONT
+rolling pin,Utensils,made of wood,1,17,E,E-MAT,E,E-MAT
+rolling pin,Utensils,found in the kitchen,1,17,S,S-LOC,S,S-LOC
+rooster,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+rooster,Animals,a bird,1,12,T,T-SUPER,T,T-ONT
+rooster,Animals,hen,1,9,T,T-COORD,T,T-COORD
+rooster,Animals,henhouse,1,10,S,S-LOC,S,S-LOC
+rooster,Animals,sings,1,15,E,E-BEH,E,E-BEH
+rooster,Animals,has feathers,1,10,E,E-EXCOMP,E,E-EXCOMP
+rooster,Animals,has a comb,1,12,E,E-EXCOMP,E,E-EXCOMP
+rooster,Animals,lives in the countryside,1,8,S,S-LOC,S,S-LOC
+rope,Objects,is long,1,6,E,E-QUANT,E,E-QUANT
+rope,Objects,string,1,5,T,T-SYN,T,T-SYN
+rope,Objects,used for hanging,1,6,S,S-FUNC,S,S-FUNC
+rope,Objects,used for hanging clothes,1,6,E,E-MAT,S,S-FUNC
+rope,Objects,used for jumping,1,14,S,S-FUNC,S,S-FUNC
+rope,Objects,used for tying,1,18,S,S-FUNC,S,S-FUNC
+rose,Plants,a flower,1,18,T,T-SUPER,T,T-SYN
+rose,Plants,is nice,1,10,S,S-ACTION,I,I-EVAL
+rose,Plants,is nice,1,8,S,S-ACTION,I,I-EVAL
+rose,Plants,is nice,1,10,I,I-EVAL,I,I-EVAL
+rose,Plants,is nice,1,8,I,I-EVAL,I,I-EVAL
+rose,Plants,present,1,5,I,I-REP,S,S-OBJECT
+rose,Plants,different colors,1,10,E,E-EXSURF,E,E-EXSURF
+rose,Plants,has perfume,1,14,E,E-EXSURF,E,E-EXSURF
+rose,Plants,has thorns,1,5,E,E-EXCOMP,E,E-EXCOMP
+rose,Plants,represents love,1,5,S,S-SOCART,I,I-REP
+rose,Plants,found in the garden,1,11,S,S-LOC,S,S-LOC
+rugby ball,Objects,is oval,1,19,E,E-EXSURF,E,E-EXSURF
+rugby ball,Objects,used for playing,1,12,S,S-FUNC,S,S-FUNC
+rugby ball,Objects,used for playing sports,1,8,S,S-FUNC,S,S-FUNC
+rugby ball,Objects,made of leather,1,13,E,E-MAT,E,E-MAT
+ruler,Utensils,used for measuring,1,13,S,S-FUNC,S,S-FUNC
+ruler,Utensils,has a number,1,6,E,E-EXSURF,E,E-EXCOMP
+ruler,Utensils,made of plastic,1,6,E,E-MAT,E,E-MAT
+ruler,Utensils,made of wood,1,7,E,E-MAT,E,E-MAT
+saddle,Objects,used for mounting,1,10,S,S-FUNC,S,S-FUNC
+saddle,Objects,has stirrups,1,10,E,E-EXCOMP,E,E-EXCOMP
+saddle,Objects,made of leather,1,16,E,E-MAT,E,E-MAT
+saddle,Objects,used for riding a horse,1,26,S,S-FUNC,S,S-FUNC
+safe,Containers,documents,1,5,S,S-OBJECT,S,S-OBJECT
+safe,Containers,jewelry,1,5,S,S-OBJECT,S,S-OBJECT
+safe,Containers,money,1,13,S,S-OBJECT,S,S-OBJECT
+safe,Containers,safety,1,23,S,S-SOCART,S,S-FUNC
+safe,Containers,used for storing things,1,21,S,S-FUNC,S,S-FUNC
+safe,Containers,has a key,1,7,E,E-SYS,E,E-EXCOMP
+safe,Containers,made of metal,1,5,E,E-MAT,E,E-MAT
+safe,Containers,found in the bank,1,7,S,S-LOC,S,S-LOC
+sailboat,Vehicles,has_sail,1,7,E,E-EXCOMP,E,E-EXCOMP
+sailboat,Vehicles,a ship,1,7,T,T-SUPER,T,T-SUPER
+sailboat,Vehicles,tirp,1,6,S,S-EVENT,S,S-EVENT
+sailboat,Vehicles,uses wind,1,6,I,I-CONTIN,E,E-BEH
+sailboat,Vehicles,found in the sea,1,14,S,S-LOC,S,S-LOC
+salt shaker,Utensils,a container,1,7,T,T-SUPER,T,T-ONT
+salt shaker,Utensils,flavor,1,5,S,S-FUNC,S,S-FUNC
+salt shaker,Utensils,food,1,9,S,S-OBJECT,S,S-FUNC
+salt shaker,Utensils,used for salting,1,6,S,S-FUNC,S,S-FUNC
+salt shaker,Utensils,contains salt,1,18,E,E-INCOMP,S,S-FUNC
+salt shaker,Utensils,has holes,1,5,E,E-EXSURF,E,E-EXCOMP
+salt shaker,Utensils,has spices,1,5,E,E-INCOMP,S,S-FUNC
+salt shaker,Utensils,made of glass,1,10,E,E-MAT,E,E-MAT
+salt shaker,Utensils,found on the table,1,6,S,S-SPAT,S,S-LOC
+sandwich,Food,is convenient,1,7,I,I-EVAL,E,E-SYS
+sandwich,Food,is fast,1,5,E,E-SYS,E,E-SYS
+sandwich,Food,a food,1,13,T,T-SUPER,T,T-ONT
+sandwich,Food,a foodstuff,1,5,T,T-SUPER,T,T-ONT
+sandwich,Food,picnic,1,6,S,S-EVENT,S,S-EVENT
+sandwich,Food,is varied,1,5,T,T-SUBORD,E,E-SYS
+sandwich,Food,has bread,1,12,E,E-EXCOMP,E,E-EXCOMP
+sandwich,Food,tastes good,1,20,I,I-EVAL,I,I-EVAL
+sandwich,Food,has cold meat,2,9,E,E-EXCOMP,E,E-INCOMP
+sandwich,Food,has ham and cheese,3,6,E,E-INCOMP,E,E-INCOMP
+saw,Tools,used by the carpenter,1,6,S,S-PERSON,S,S-FUNC
+saw,Tools,a tool,1,17,T,T-SUPER,T,T-ONT
+saw,Tools,used for cutting,1,17,S,S-FUNC,S,S-FUNC
+saw,Tools,has grip,1,5,E,E-EXCOMP,E,E-EXCOMP
+saw,Tools,has teeth,1,6,E,E-INCOMP,E,E-EXCOMP
+saw,Tools,used for cutting wood,1,16,S,S-FUNC,S,S-FUNC
+saw,Tools,made of metal,1,7,E,E-MAT,E,E-MAT
+saw,Tools,used for cutting down trees,1,6,S,S-FUNC,S,S-FUNC
+saxophone,Musical instruments,band,1,6,S,S-SOCORG,S,S-SOCORG
+saxophone,Musical instruments,is golden,1,7,E,E-EXSURF,E,E-EXSURF
+saxophone,Musical instruments,music,1,21,S,S-FUNC,S,S-EVENT
+saxophone,Musical instruments,orchestra,1,7,E,E-WHOLE,S,S-SOCORG
+saxophone,Musical instruments,sound,1,5,S,S-FUNC,E,E-EXSURF
+saxophone,Musical instruments,a musical instrument,2,20,T,T-SUPER,T,T-SUPER
+saxophone,Musical instruments,a wind musical intrument,3,11,T,T-SUPER,T,T-ONT
+scale,Devices,balance,1,5,E,E-ABSTR,S,S-FUNC
+scale,Devices,used for weighing,1,22,S,S-FUNC,S,S-FUNC
+scissors,Utensils,used by the dressmaker,1,6,S,S-PERSON,S,S-FUNC
+scissors,Utensils,is sharp,1,15,E,E-EXSURF,E,E-SYS
+scissors,Utensils,used for cutting,1,27,S,S-FUNC,S,S-FUNC
+scissors,Utensils,is useful,1,5,I,I-EVAL,I,I-EVAL
+scissors,Utensils,used for cutting fabric,1,6,S,S-FUNC,S,S-FUNC
+scissors,Utensils,used for cutting hair,1,5,S,S-FUNC,S,S-ACTION
+scissors,Utensils,used for cutting paper,1,6,S,S-FUNC,S,S-FUNC
+scissors,Utensils,made of metal,1,9,E,E-MAT,E,E-MAT
+scorpion,Animals,an animal,1,15,T,T-SUPER,T,T-ONT
+scorpion,Animals,bites,1,6,E,E-BEH,E,E-BEH
+scorpion,Animals,is dangerous,1,13,I,I-EVAL,E,E-SYS
+scorpion,Animals,an insect,1,9,T,T-SUPER,T,T-ONT
+scorpion,Animals,is poisonous,1,18,E,E-SYS,E,E-SYS
+scorpion,Animals,lives under rocks,1,5,S,S-LOC,S,S-LOC
+screw,Tools,screwdriver,1,5,S,S-OBJECT,S,S-OBJECT
+screw,Tools,a tool,1,15,T,T-SUPER,T,T-SUPER
+screw,Tools,used for fastenning,1,6,S,S-FUNC,S,S-FUNC
+screw,Tools,used for furniture,1,5,S,S-OBJECT,S,S-FUNC
+screw,Tools,used for joining,1,10,S,S-FUNC,S,S-FUNC
+screw,Tools,is useful,1,7,I,I-EVAL,I,I-EVAL
+screw,Tools,made of metal,1,18,E,E-MAT,E,E-MAT
+screwdriver,Tools,screw,1,20,S,S-OBJECT,S,S-OBJECT
+screwdriver,Tools,a tool,1,18,T,T-SUPER,T,T-SUPER
+screwdriver,Tools,used for removing screws,1,5,S,S-FUNC,S,S-FUNC
+screwdriver,Tools,wood,1,5,S,S-OBJECT,E,E-MAT
+screwdriver,Tools,work,1,9,E,E-SYS,S,S-FUNC
+screwdriver,Tools,made of metal,1,5,E,E-MAT,E,E-MAT
+sea horse,Animals,an animal,1,6,T,T-SUPER,T,T-ONT
+sea horse,Animals,a fish,1,9,T,T-SUPER,T,T-ONT
+sea horse,Animals,love,1,7,S,S-SOCART,I,I-EMOT
+sea horse,Animals,is nice,1,9,I,I-EVAL,I,I-EVAL
+sea horse,Animals,is small,1,10,E,E-QUANT,E,E-QUANT
+sea horse,Animals,lives in the sea,1,10,S,S-LOC,S,S-LOC
+sea horse,Animals,lives in the water,1,9,S,S-LOC,S,S-LOC
+sea wolfe,Animals,an animal,1,12,T,T-SUPER,T,T-ONT
+sea wolfe,Animals,is black,1,5,E,E-EXSURF,E,E-EXSURF
+sea wolfe,Animals,has wiskers,1,6,E,E-EXCOMP,E,E-EXCOMP
+sea wolfe,Animals,has an unpleasant smell,1,9,I,I-EVAL,E,E-EXSURF
+sea wolfe,Animals,lives in the sea,1,15,S,S-LOC,S,S-LOC
+seal,Animals,an animal,1,22,T,T-SUPER,T,T-ONT
+seal,Animals,a mammal,1,6,T,T-SUPER,T,T-ONT
+seal,Animals,swims,1,6,E,E-BEH,E,E-BEH
+seal,Animals,eats fish,1,6,E,E-BEH,S,S-ACTION
+seal,Animals,has fins,1,5,E,E-EXCOMP,E,E-EXCOMP
+seal,Animals,has wiskers,1,7,E,E-EXCOMP,E,E-EXCOMP
+seal,Animals,lives in the sea,1,17,S,S-LOC,S,S-LOC
+seal,Animals,lives in the water,1,11,S,S-LOC,S,S-LOC
+shark,Animals,is aggressive,1,8,E,E-SYS,E,E-SYS
+shark,Animals,an animal,1,6,T,T-SUPER,T,T-ONT
+shark,Animals,is big,1,13,E,E-QUANT,E,E-SYS
+shark,Animals,is catched,1,5,S,S-ACTION,S,S-ACTION
+shark,Animals,is dangerous,1,5,I,I-EVAL,E,E-SYS
+shark,Animals,fear,1,6,I,I-EVAL,I,I-EMOT
+shark,Animals,a fish,1,7,T,T-SUPER,T,T-SYN
+shark,Animals,movie,1,5,S,S-SOCART,S,S-SOCART
+shark,Animals,is white,1,5,E,E-EXSURF,E,E-EXSURF
+shark,Animals,has teeth,1,9,E,E-INCOMP,E,E-EXCOMP
+shark,Animals,lives in the sea,1,13,S,S-LOC,S,S-LOC
+shark,Animals,lives in the water,1,5,S,S-LOC,S,S-LOC
+sheep,Animals,an animal,1,14,T,T-SUPER,T,T-ONT
+sheep,Animals,fabric,1,5,S,S-OBJECT,E,E-MAT
+sheep,Animals,is good,1,9,I,I-EVAL,I,I-EVAL
+sheep,Animals,a mammal,1,6,T,T-SUPER,T,T-ONT
+sheep,Animals,is meek,1,9,E,E-SYS,E,E-SYS
+sheep,Animals,a quadruped,1,5,T,T-SUPER,E,E-SYS
+sheep,Animals,used for making coats,1,6,S,S-ACTION,S,S-FUNC
+sheep,Animals,eats grass,1,6,E,E-BEH,E,E-BEH
+sheep,Animals,gives milk,1,7,E,E-BEH,E,E-BEH
+sheep,Animals,has wool,1,27,E,E-EXCOMP,E,E-EXCOMP
+sheep,Animals,eaten as meat,1,8,S,S-FUNC,S,S-FUNC
+sheep,Animals,lives in the countryside,1,9,S,S-LOC,S,S-LOC
+shirt,Clothing,clothing,1,17,T,T-SUPER,T,T-SUPER
+shirt,Clothing,is comfortable,1,6,I,I-EVAL,E,E-SYS
+shirt,Clothing,is elegant,1,7,I,I-EVAL,E,E-SYS
+shirt,Clothing,different colors,1,8,E,E-EXSURF,E,E-EXSURF
+shirt,Clothing,has buttons,1,14,E,E-EXCOMP,E,E-EXCOMP
+shirt,Clothing,has a collar,1,5,E,E-EXCOMP,E,E-EXCOMP
+shoe,Clothing,is comfortable,1,9,I,I-EVAL,E,E-SYS
+shoe,Clothing,used for protecting your feet,1,6,S,S-FUNC,S,S-FUNC
+shoe,Clothing,used for walking,1,8,S,S-FUNC,S,S-FUNC
+shoe,Clothing,used on feet,1,6,T,T-SUPER,S,S-FUNC
+shoe,Clothing,has shoelaces,1,5,E,E-EXCOMP,E,E-EXCOMP
+shoe,Clothing,made of leather,1,14,E,E-MAT,E,E-MAT
+shovel,Tools,used by the mason,1,5,S,S-PERSON,S,S-PERSON
+shovel,Tools,a tool,1,12,T,T-SUPER,T,T-SUPER
+shovel,Tools,used for digging,1,8,S,S-FUNC,S,S-FUNC
+shovel,Tools,used for gardening,1,8,S,S-FUNC,S,S-FUNC
+shovel,Tools,used for planting plants,1,5,S,S-FUNC,S,S-FUNC
+shovel,Tools,used for working,1,12,S,S-FUNC,S,S-FUNC
+shovel,Tools,used for gathering dust,1,18,S,S-FUNC,S,S-FUNC
+showerhead,House parts,cleanliness,1,9,S,S-SOCART,S,S-FUNC
+showerhead,House parts,hot,1,8,E,E-EXSURF,E,E-SYS
+showerhead,House parts,hygiene,1,5,I,I-REP,S,S-FUNC
+showerhead,House parts,rain,1,5,S,S-FUNC,S,S-EVENT
+showerhead,House parts,is relaxing,1,7,I,I-EVAL,E,E-SYS
+showerhead,House parts,used for bathing,1,6,S,S-FUNC,S,S-FUNC
+showerhead,House parts,where water comes out,1,14,E,E-SYS,E,E-EXCOMP
+showerhead,House parts,found in the bathroom,1,16,S,S-LOC,S,S-LOC
+skeleton,Body parts,bones,1,20,S,S-OBJECT,E,E-INCOMP
+skeleton,Body parts,death,1,7,S,S-SOCART,S,S-EVENT
+skeleton,Body parts,osseous,1,5,E,E-EXCOMP,E,E-MAT
+skeleton,Body parts,support of the body,1,9,S,S-FUNC,S,S-FUNC
+skirt,Clothing,clothing,1,22,T,T-SUPER,T,T-SUPER
+skirt,Clothing,is long,1,13,E,E-QUANT,E,E-SYS
+skirt,Clothing,skirt,1,5,T,T-SYN,T,T-SYN
+skirt,Clothing,used by women,1,15,S,S-PERSON,S,S-PERSON
+skirt,Clothing,different colors,1,6,E,E-EXSURF,E,E-EXSURF
+skirt,Clothing,is a warm clothing,2,6,T,T-SUPER,E,E-SYS
+skirt,Clothing,eg_-_ is short,1,16,E,E-QUANT,E,E-SYS
+skirt,Clothing,made of fabric,1,9,E,E-MAT,E,E-MAT
+skull,Body parts,bones,1,7,S,S-OBJECT,E,E-INCOMP
+skull,Body parts,death,1,13,S,S-SOCART,S,S-EVENT
+skull,Body parts,skeleton,1,5,E,E-WHOLE,E,E-WHOLE
+skull,Body parts,terror,1,7,I,I-EVAL,I,I-EMOT
+skull,Body parts,eg - human skull,2,5,T,T-SUBORD,T,T-INDIV
+skunk,Animals,an animal,1,17,T,T-SUPER,T,T-ONT
+skunk,Animals,is black,1,5,E,E-EXSURF,E,E-EXSURF
+skunk,Animals,is small,1,5,E,E-QUANT,E,E-SYS
+skunk,Animals,is smelly,1,28,E,E-EXSURF,E,E-SYS
+skunk,Animals,is ugly,1,7,I,I-EVAL,I,I-EVAL
+skunk,Animals,is black and white,3,9,E,E-EXSURF,E,E-EXSURF
+skunk,Animals,has a tail,1,5,E,E-EXCOMP,E,E-EXCOMP
+skunk,Animals,lives in the countryside,1,9,S,S-LOC,E,E-SYS
+sled,Vehicles,slides,1,5,E,E-BEH,S,S-ACTION
+sled,Vehicles,used for snow,1,23,S,S-FUNC,S,S-FUNC
+sled,Vehicles,a mean of transportation,1,15,T,T-SUPER,S,S-FUNC
+sled,Vehicles,pulled by dogs,1,13,S,S-LIVING,S,S-ACTION
+snail,Animals,is slimy,1,15,E,E-SYS,E,E-EXSURF
+snail,Animals,is slow,1,10,E,E-SYS,E,E-BEH
+snail,Animals,eats plants,1,5,E,E-BEH,E,E-BEH
+snail,Animals,has a shell,1,7,E,E-EXCOMP,E,E-EXCOMP
+snake,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+snake,Animals,is dangerous,1,8,I,I-EVAL,E,E-SYS
+snake,Animals,fear,1,8,I,I-EVAL,I,I-EMOT
+snake,Animals,is long,1,8,E,E-QUANT,E,E-QUANT
+snake,Animals,is poisonous,1,11,E,E-SYS,E,E-SYS
+snake,Animals,is repulsive,1,5,I,I-EVAL,E,E-SYS
+snowman,Toys,used by children,1,9,S,S-PERSON,S,S-PERSON
+snowman,Toys,cold,1,16,E,E-SYS,E,E-SYS
+snowman,Toys,fun,1,10,E,E-ABSTR,I,I-EMOT
+snowman,Toys,used for playing,1,11,S,S-FUNC,S,S-FUNC
+snowman,Toys,winter,1,6,S,S-TIME,S,S-TIME
+snowman,Toys,has carrot,1,7,E,E-EXCOMP,E,E-EXCOMP
+snowman,Toys,made of snow,1,13,E,E-MAT,E,E-MAT
+sock,Clothing,clothing,1,13,T,T-SUPER,T,T-ONT
+sock,Clothing,used for keeping warm,1,11,S,S-FUNC,S,S-FUNC
+sock,Clothing,used on feet,1,17,T,T-SUPER,S,S-FUNC
+sock,Clothing,different colors,1,6,E,E-EXSURF,E,E-EXSURF
+sock,Clothing,is a warm clothing,2,8,T,T-SUPER,E,E-SYS
+spatula,Utensils,paint,1,5,E,E-INCOMP,T,T-SUBORD
+spatula,Utensils,used for removing food,1,5,S,S-FUNC,S,S-FUNC
+spatula,Utensils,used for scraping,1,5,S,S-FUNC,S,S-FUNC
+spatula,Utensils,made of metal,1,6,E,E-MAT,E,E-MAT
+spatula,Utensils,made of wood,1,6,E,E-MAT,E,E-MAT
+spatula,Utensils,found in the kitchen,1,10,S,S-LOC,S,S-LOC
+spider,Animals,bites,1,7,E,E-BEH,E,E-BEH
+spider,Animals,is black,1,8,E,E-EXSURF,E,E-EXSURF
+spider,Animals,is dangerous,1,6,I,I-EVAL,E,E-SYS
+spider,Animals,an insect,1,17,T,T-SUPER,T,T-SYN
+spider,Animals,is poisonous,1,8,E,E-SYS,E,E-SYS
+spider,Animals,spiderweb,1,11,E,E-BEH,E,E-EXCOMP
+spider,Animals,is ugly,1,6,I,I-EVAL,I,I-EVAL
+spider,Animals,has hair,1,10,E,E-EXCOMP,E,E-EXCOMP
+spider,Animals,has legs,1,17,E,E-EXCOMP,E,E-EXCOMP
+spider web,Constructions,dirt,1,7,S,S-PHYST,S,S-OBJECT
+spider web,Constructions,fabric,1,9,S,S-OBJECT,E,E-MAT
+spider web,Constructions,is fine,1,10,E,E-EXSURF,E,E-EXSURF
+spider web,Constructions,is sticky,1,6,E,E-EXSURF,E,E-EXSURF
+spider web,Constructions,trap,1,5,S,S-FUNC,S,S-FUNC
+spider web,Constructions,used for capturing,1,8,S,S-FUNC,S,S-FUNC
+spider web,Constructions,used for capturing insects,2,5,S,S-FUNC,S,S-FUNC
+spider web,Constructions,made by a spider,1,11,S,S-LIVING,E,E-WHOLE
+spin,Toys,used by children,1,11,S,S-PERSON,S,S-PERSON
+spin,Toys,is colorful,1,8,E,E-EXSURF,E,E-EXSURF
+spin,Toys,is funny,1,6,E,E-SYS,I,I-EVAL
+spin,Toys,spins,1,16,E,E-BEH,E,E-BEH
+spin,Toys,a toy,1,19,T,T-SUPER,S,S-FUNC
+spin,Toys,made of wood,1,8,E,E-MAT,E,E-MAT
+spinning wheel,Devices,fabric,1,9,S,S-OBJECT,S,S-FUNC
+spinning wheel,Devices,thread,1,11,S,S-OBJECT,S,S-OBJECT
+spinning wheel,Devices,wool,1,7,S,S-OBJECT,S,S-FUNC
+spinning wheel,Devices,spinning wheel,2,5,S,S-OBJECT,T,T-SYN
+spoon,Utensils,a cutlery,1,10,T,T-SUPER,T,T-SYN
+spoon,Utensils,used for eating,1,10,S,S-FUNC,S,S-FUNC
+spoon,Utensils,used for stirring,1,8,S,S-FUNC,S,S-FUNC
+spoon,Utensils,a utensil,1,11,T,T-SUPER,T,T-SYN
+spoon,Utensils,used for eating soup,1,14,S,S-FUNC,S,S-FUNC
+spoon,Utensils,made of metal,1,6,E,E-MAT,E,E-MAT
+spoon,Utensils,made of wood,1,6,E,E-MAT,E,E-MAT
+spoon,Utensils,found in the kitchen,1,7,S,S-LOC,S,S-LOC
+squash,Vegetables,a food,1,9,T,T-SUPER,T,T-ONT
+squash,Vegetables,a foodstuff,1,7,T,T-SUPER,T,T-ONT
+squash,Vegetables,is green,1,5,E,E-EXSURF,E,E-EXSURF
+squash,Vegetables,is healthy,1,5,E,E-SYS,E,E-SYS
+squash,Vegetables,is orange,1,9,E,E-EXSURF,E,E-EXSURF
+squash,Vegetables,is sweet,1,8,E,E-INSURF,E,E-EXSURF
+squash,Vegetables,used for making puree,1,6,S,S-ACTION,S,S-FUNC
+squash,Vegetables,a vegetable,1,13,T,T-SUPER,T,T-SUPER
+squash,Vegetables,tastes good,1,5,I,I-EVAL,E,E-INSURF
+squirrel,Animals,an animal,1,21,T,T-SUPER,T,T-ONT
+squirrel,Animals,is brown,1,8,E,E-EXSURF,E,E-EXSURF
+squirrel,Animals,is cute,1,8,I,I-EVAL,I,I-EVAL
+squirrel,Animals,is fast,1,9,E,E-SYS,E,E-SYS
+squirrel,Animals,is small,1,12,E,E-QUANT,E,E-QUANT
+squirrel,Animals,eats acorns,1,6,E,E-BEH,E,E-BEH
+squirrel,Animals,has hair,1,7,E,E-EXCOMP,E,E-SYS
+squirrel,Animals,lives in the tree,1,9,S,S-LOC,S,S-LOC
+star,Nature,is brilliant,1,14,E,E-EXSURF,E,E-EXSURF
+star,Nature,is distant,1,5,S,S-LOC,E,E-SYS
+star,Nature,is luminous,1,5,S,S-SPAT,E,E-EXSURF
+star,Nature,night,1,11,E,E-BEH,S,S-TIME
+star,Nature,gives light,1,13,E,E-EXSURF,E,E-SYS
+star,Nature,found in the sky,1,10,S,S-TIME,S,S-LOC
+starfish,Animals,a mollusk,1,5,S,S-LOC,T,T-SUPER
+starfish,Animals,lives in the sea,1,9,S,S-LOC,S,S-LOC
+stethoscope,Tools,heart,1,6,S,S-FUNC,S,S-FUNC
+stethoscope,Tools,an instrument,1,6,E,E-MAT,T,T-SYN
+stethoscope,Tools,used by physician,1,21,S,S-PERSON,S,S-PERSON
+stethoscope,Tools,used for hearing heartbeats,1,10,S,S-PERSON,S,S-FUNC
+stethoscope,Tools,used for listening,1,8,S,S-FUNC,S,S-FUNC
+stethoscope,Tools,made of metal,1,6,E,E-MAT,E,E-MAT
+stethoscope,Tools,found in the hospital,1,5,T,T-SUPER,S,S-LOC
+stool,Furniture,is comfortable,1,9,I,I-EVAL,I,I-EVAL
+stool,Furniture,a seat,1,7,T,T-SUPER,T,T-SYN
+stool,Furniture,is tall,1,7,E,E-QUANT,E,E-QUANT
+stool,Furniture,used for resting,1,5,S,S-FUNC,S,S-FUNC
+stool,Furniture,used for sitting,1,12,S,S-FUNC,S,S-FUNC
+stool,Furniture,made of metal,1,6,E,E-MAT,E,E-MAT
+stool,Furniture,made of wood,1,18,E,E-MAT,E,E-MAT
+stool,Furniture,found in the square,1,13,S,S-LOC,S,S-LOC
+stork,Animals,an animal,1,7,T,T-SUPER,T,T-ONT
+stork,Animals,a bird,1,12,T,T-SUPER,T,T-ONT
+stork,Animals,flies,1,13,E,E-BEH,E,E-BEH
+stork,Animals,is white,1,5,E,E-EXSURF,E,E-EXSURF
+stork,Animals,delivers babies,1,8,S,S-SOCART,S,S-FUNC
+stork,Animals,has feathers,1,12,E,E-EXCOMP,E,E-EXCOMP
+stork,Animals,has legs,1,5,E,E-EXCOMP,E,E-EXCOMP
+stork,Animals,has a beak,1,15,E,E-EXCOMP,E,E-EXCOMP
+stork,Animals,lives in the lagoon,1,6,S,S-LOC,S,S-LOC
+stove,Devices,food,1,9,S,S-OBJECT,S,S-FUNC
+stove,Devices,used for cooking,1,10,S,S-FUNC,S,S-FUNC
+stove,Devices,eg - gas stove,2,5,S,S-OBJECT,E,E-EXCOMP
+stove,Devices,has oven,1,5,E,E-INCOMP,E,E-EXCOMP
+strawberry,Fruits,cream,1,8,S,S-OBJECT,S,S-OBJECT
+strawberry,Fruits,a dessert,1,7,T,T-SUPER,S,S-FUNC
+strawberry,Fruits,a fruit,1,25,T,T-SUPER,T,T-SUPER
+strawberry,Fruits,is red,1,21,E,E-EXSURF,E,E-EXSURF
+strawberry,Fruits,is sweet,1,8,E,E-INSURF,E,E-INSURF
+strawberry,Fruits,ice cream,2,5,S,S-OBJECT,T,T-SUBORD
+strawberry,Fruits,tastes good,1,14,I,I-EVAL,E,E-INSURF
+stroller,Vehicles,baby,1,25,S,S-PERSON,S,S-PERSON
+stroller,Vehicles,eg - toy,1,5,T,T-SUBORD,T,T-SUBORD
+stroller,Vehicles,used for riding,1,13,S,S-FUNC,S,S-FUNC
+stroller,Vehicles,has wheels,1,12,E,E-EXCOMP,E,E-EXCOMP
+stroller,Vehicles,made of plastic,1,7,E,E-MAT,E,E-MAT
+suitcase,Containers,clothes,1,17,S,S-OBJECT,S,S-OBJECT
+suitcase,Containers,holidays,1,5,S,S-EVENT,S,S-EVENT
+suitcase,Containers,joy,1,5,I,I-EMOT,I,I-EMOT
+suitcase,Containers,tirp,1,24,S,S-EVENT,S,S-FUNC
+suitcase,Containers,used for traveling,1,5,S,S-FUNC,S,S-FUNC
+suitcase,Containers,has wheels,1,5,E,E-EXCOMP,E,E-EXCOMP
+suitcase,Containers,made of leather,1,7,E,E-MAT,E,E-MAT
+sun,Nature,day,1,5,S,S-TIME,S,S-TIME
+sun,Nature,heats,1,14,E,E-BEH,E,E-BEH
+sun,Nature,a star,1,7,T,T-SUPER,T,T-SYN
+sun,Nature,gives life,1,7,E,E-BEH,S,S-FUNC
+sun,Nature,lights up,2,5,S,S-FUNC,S,S-FUNC
+sun,Nature,found in the sky,1,6,S,S-TIME,S,S-LOC
+swan,Animals,an animal,1,10,T,T-SUPER,T,T-ONT
+swan,Animals,a bird,1,6,T,T-SUPER,T,T-ONT
+swan,Animals,is elegant,1,7,I,I-EVAL,E,E-SYS
+swan,Animals,is nice,1,10,I,I-EVAL,I,I-EVAL
+swan,Animals,swims,1,5,E,E-BEH,E,E-BEH
+swan,Animals,is white,1,8,E,E-EXSURF,E,E-EXSURF
+swan,Animals,has feathers,1,10,E,E-EXCOMP,E,E-EXCOMP
+swan,Animals,lays eggs,1,5,E,E-BEH,E,E-BEH
+swan,Animals,has a beak,1,5,E,E-EXCOMP,E,E-EXCOMP
+swan,Animals,lives in the lake,1,10,S,S-LOC,S,S-LOC
+swan,Animals,lives in the water,1,11,S,S-LOC,S,S-LOC
+sweater,Clothing,clothing,1,7,T,T-SUPER,T,T-SYN
+sweater,Clothing,eg - long,1,5,E,E-QUANT,E,E-QUANT
+sweater,Clothing,used for keeping warm,1,7,S,S-FUNC,S,S-FUNC
+sweater,Clothing,is warm,1,6,E,E-SYS,E,E-SYS
+sweater,Clothing,is a warm clothing,2,5,T,T-SUPER,E,E-SYS
+sweater,Clothing,made of wool,1,12,E,E-MAT,E,E-MAT
+sweater,Clothing,made of polar fleece,2,8,E,E-MAT,E,E-MAT
+sweater,Clothing,used for covering of the cold,1,5,S,S-FUNC,S,S-FUNC
+swing,Furniture,childhood,1,5,S,S-TIME,I,I-REP
+swing,Furniture,used by children,1,19,S,S-PERSON,S,S-PERSON
+swing,Furniture,is funny,1,9,E,E-SYS,E,E-SYS
+swing,Furniture,a game,1,11,T,T-SUPER,S,S-FUNC
+swing,Furniture,gives joy,1,5,I,I-EVAL,I,I-EMOT
+swing,Furniture,has movement,1,6,E,E-SYS,E,E-BEH
+swing,Furniture,made of wood,1,6,E,E-MAT,E,E-MAT
+swing,Furniture,found in the square,1,18,S,S-LOC,S,S-LOC
+swordfish,Animals,is catched,1,5,S,S-ACTION,S,S-ACTION
+swordfish,Animals,is eaten,1,8,S,S-ACTION,S,S-ACTION
+swordfish,Animals,a fish,1,5,T,T-SUPER,T,T-ONT
+swordfish,Animals,lives in the sea,1,15,S,S-LOC,S,S-LOC
+syringe,Tools,a poke,1,5,S,S-ACTION,E,E-EXCOMP
+syringe,Tools,used for injecting a shot,1,10,S,S-FUNC,S,S-FUNC
+syringe,Tools,used to draw blood,1,9,S,S-FUNC,S,S-FUNC
+syringe,Tools,vaccine,1,6,S,S-OBJECT,S,S-OBJECT
+syringe,Tools,produces pain,1,6,I,I-CONTIN,S,S-FUNC
+table,Furniture,is big,1,5,E,E-QUANT,E,E-QUANT
+table,Furniture,is brown,1,5,E,E-EXSURF,E,E-EXSURF
+table,Furniture,meeting,1,6,S,S-EVENT,S,S-EVENT
+table,Furniture,is rectangular,1,6,E,E-EXSURF,E,E-EXSURF
+table,Furniture,is round,1,10,E,E-EXSURF,E,E-EXSURF
+table,Furniture,is square,1,9,E,E-EXSURF,E,E-EXSURF
+table,Furniture,used for eating,1,8,S,S-FUNC,S,S-FUNC
+table,Furniture,has legs,1,10,E,E-EXCOMP,E,E-EXCOMP
+table,Furniture,made of wood,1,14,E,E-MAT,E,E-MAT
+table,Furniture,found in the kitchen,1,5,S,S-LOC,S,S-LOC
+tambourine,Musical instruments,dance,1,5,S,S-EVENT,S,S-EVENT
+tambourine,Musical instruments,joy,1,6,I,I-EMOT,I,I-EMOT
+tambourine,Musical instruments,is noisy,1,6,E,E-SYS,E,E-SYS
+tambourine,Musical instruments,is round,1,5,E,E-EXSURF,E,E-EXSURF
+tambourine,Musical instruments,sound,1,5,S,S-FUNC,E,E-EXSURF
+tambourine,Musical instruments,used for making music,1,11,S,S-FUNC,S,S-FUNC
+tambourine,Musical instruments,a musical instrument,2,14,T,T-SUPER,T,T-ONT
+tambourine,Musical instruments,has metal washers,2,5,E,E-EXCOMP,E,E-EXCOMP
+tambourine,Musical instruments,made of wood,1,5,E,E-MAT,E,E-MAT
+tambourine,Musical instruments,a percussion musical instrument,3,7,T,T-SUPER,T,T-SUPER
+telephone,Devices,eg - cellphone,1,7,T,T-SUBORD,T,T-SUBORD
+telephone,Devices,communication,1,12,S,S-FUNC,S,S-FUNC
+telephone,Devices,a device,1,6,T,T-SUPER,T,T-SUPER
+telephone,Devices,rings,1,7,E,E-BEH,E,E-BEH
+telephone,Devices,used for communicating,1,11,S,S-FUNC,S,S-FUNC
+telephone,Devices,is useful,1,8,I,I-EVAL,I,I-EVAL
+telephone,Devices,has a number,1,5,E,E-EXSURF,E,E-SYS
+telescope,Tools,universe,1,6,S,S-FUNC,S,S-OBJECT
+telescope,Tools,used for looking at planets,1,11,S,S-FUNC,S,S-FUNC
+telescope,Tools,used for looking at the moon,1,8,S,S-FUNC,S,S-FUNC
+telescope,Tools,used for looking at the sky,1,8,S,S-FUNC,S,S-ACTION
+telescope,Tools,used for looking at the stars,1,18,S,S-FUNC,S,S-FUNC
+telescope,Tools,used for looking far away,1,5,S,S-FUNC,S,S-FUNC
+television,Devices,company,1,5,I,I-REP,S,S-SOCORG
+television,Devices,a device,1,5,T,T-SUPER,T,T-SYN
+television,Devices,distraction,1,6,I,I-REP,S,S-FUNC
+television,Devices,entretains,1,13,S,S-FUNC,S,S-FUNC
+television,Devices,information,1,7,I,I-REP,S,S-FUNC
+television,Devices,news,1,8,S,S-SOCART,S,S-FUNC
+television,Devices,used for watching movies,1,8,S,S-FUNC,S,S-FUNC
+television,Devices,used for watching programs,1,5,S,S-FUNC,S,S-FUNC
+tennis racket,Objects,ball,1,7,S,S-OBJECT,S,S-OBJECT
+tennis racket,Objects,tennis,1,24,S,S-EVENT,S,S-EVENT
+tennis racket,Objects,used for playing,1,8,S,S-FUNC,S,S-FUNC
+tennis racket,Objects,used for playing sports,1,18,S,S-FUNC,S,S-FUNC
+tennis racket,Objects,has grip,1,5,E,E-EXCOMP,E,E-EXCOMP
+tennis racket,Objects,has a net,1,14,E,E-EXCOMP,E,E-EXCOMP
+thermometer,Tools,feber,1,19,S,S-FUNC,S,S-FUNC
+thermometer,Tools,eg - glass,1,10,E,E-MAT,E,E-MAT
+thermometer,Tools,heat,1,6,S,S-TIME,S,S-OBJECT
+thermometer,Tools,illness,1,8,I,I-CONTIN,S,S-SOCART
+thermometer,Tools,used by physician,1,7,S,S-PERSON,S,S-PERSON
+thermometer,Tools,has mercury,1,13,E,E-INCOMP,E,E-INCOMP
+thermometer,Tools,used for measuring fever,1,7,S,S-FUNC,S,S-FUNC
+thermometer,Tools,used for measuring temperature,1,13,S,S-FUNC,S,S-FUNC
+thermos,Containers,used for keeping the water warm,1,14,S,S-FUNC,S,S-FUNC
+thermos,Containers,used on trips,1,5,S,S-EVENT,S,S-FUNC
+thermos,Containers,used for carrying water,1,9,S,S-FUNC,S,S-FUNC
+thermos,Containers,used for drinking mate,1,22,S,S-FUNC,S,S-FUNC
+thermos,Containers,used for conserving the temperature,1,14,S,S-FUNC,S,S-FUNC
+thermos,Containers,found in the kitchen,1,6,S,S-LOC,S,S-LOC
+thimble,Tools,used by the seamstress,1,5,S,S-PERSON,S,S-FUNC
+thimble,Tools,used for protecting,1,11,S,S-FUNC,S,S-FUNC
+thimble,Tools,used for sawing,1,12,S,S-FUNC,S,S-FUNC
+thimble,Tools,worn on the finger,1,14,S,S-LOC,S,S-FUNC
+thimble,Tools,made of metal,1,14,E,E-MAT,E,E-MAT
+thimble,Tools,made of plastic,1,7,E,E-MAT,E,E-MAT
+thread,Objects,clothes,1,8,S,S-OBJECT,E,E-WHOLE
+thread,Objects,is fine,1,8,E,E-EXSURF,E,E-SYS
+thread,Objects,used for sawing,1,17,S,S-FUNC,S,S-FUNC
+thread,Objects,used for tying,1,6,S,S-FUNC,S,S-FUNC
+thread,Objects,different colors,1,11,E,E-EXSURF,E,E-EXSURF
+thumb,Body parts,is fat,1,14,E,E-EXSURF,E,E-SYS
+thumb,Body parts,is small,1,8,E,E-QUANT,E,E-SYS
+thumb,Body parts,has nail,1,7,E,E-EXCOMP,E,E-EXCOMP
+thumb,Body parts,represents appoval,1,6,S,S-SOCART,I,I-REP
+thumb,Body parts,found in the hand,1,12,S,S-LOC,E,E-EXCOMP
+tie,Clothing,an accesory,1,6,T,T-SUPER,S,S-OBJECT
+tie,Clothing,clothing,1,12,T,T-SUPER,T,T-SUPER
+tie,Clothing,is elegant,1,9,I,I-EVAL,E,E-SYS
+tie,Clothing,knot,1,5,S,S-ACTION,E,E-EXCOMP
+tie,Clothing,worn by men,1,12,S,S-PERSON,S,S-FUNC
+tie,Clothing,worn over shirts,1,5,S,S-LOC,S,S-FUNC
+tie,Clothing,worn with suits,1,14,S,S-OBJECT,S,S-FUNC
+tie,Clothing,different colors,1,5,E,E-EXSURF,E,E-EXSURF
+tie,Clothing,made of silk,1,5,E,E-MAT,E,E-MAT
+tiger,Animals,an animal,1,20,T,T-SUPER,T,T-ONT
+tiger,Animals,a carnivore,1,7,T,T-SUPER,E,E-BEH
+tiger,Animals,is dangerous,1,7,I,I-EVAL,E,E-SYS
+tiger,Animals,a feline,1,14,T,T-SUPER,T,T-SYN
+tiger,Animals,is ferocious,1,8,E,E-SYS,E,E-SYS
+tiger,Animals,is strong,1,5,E,E-SYS,E,E-SYS
+tiger,Animals,is wild,1,9,E,E-SYS,E,E-SYS
+tiger,Animals,has stripes,1,7,E,E-EXCOMP,E,E-EXSURF
+tiger,Animals,found in the zoo,1,5,S,S-LOC,S,S-LOC
+tiger,Animals,lives in the jungle,1,12,S,S-LOC,S,S-LOC
+tire,Objects,apart of the car,1,19,E,E-WHOLE,E,E-WHOLE
+tire,Objects,a part of the bicycle,1,6,E,E-WHOLE,E,E-WHOLE
+tire,Objects,is black,1,5,E,E-EXSURF,E,E-EXSURF
+tire,Objects,a part of the motorcycle,1,6,E,E-WHOLE,E,E-EXCOMP
+tire,Objects,is round,1,5,E,E-EXSURF,E,E-EXSURF
+tire,Objects,a part of the truck,1,6,E,E-WHOLE,E,E-EXCOMP
+tire,Objects,wheel,1,8,S,S-OBJECT,E,E-WHOLE
+tire,Objects,made of rubber,1,14,E,E-MAT,E,E-MAT
+tire,Objects,made of rubber,1,8,E,E-MAT,E,E-MAT
+toad,Animals,an animal,1,12,T,T-SUPER,T,T-ONT
+toad,Animals,is eaten,1,12,S,S-ACTION,S,S-ACTION
+toad,Animals,is green,1,20,E,E-EXSURF,E,E-EXSURF
+toad,Animals,humidity,1,6,S,S-PHYST,E,E-SYS
+toad,Animals,jumps,1,9,E,E-BEH,E,E-BEH
+toad,Animals,produces sounds,1,6,E,E-BEH,E,E-BEH
+toad,Animals,lives in the puddle,1,6,S,S-LOC,S,S-LOC
+toad,Animals,lives in the water,1,14,S,S-LOC,S,S-LOC
+toaster,Devices,bread,1,12,S,S-FUNC,S,S-FUNC
+toaster,Devices,breakfast,1,9,S,S-TIME,S,S-EVENT
+toaster,Devices,is electrical,1,6,E,E-SYS,E,E-SYS
+toaster,Devices,toasts,1,13,S,S-OBJECT,S,S-FUNC
+toaster,Devices,is useful,1,9,I,I-EVAL,I,I-EVAL
+toe,Body parts,balance,1,8,E,E-ABSTR,E,E-BEH
+toe,Body parts,a part of the body,1,5,E,E-WHOLE,T,T-ONT
+toe,Body parts,is fat,1,9,E,E-EXSURF,E,E-SYS
+toe,Body parts,is small,1,6,E,E-QUANT,E,E-SYS
+toe,Body parts,used for walking,1,5,S,S-FUNC,S,S-FUNC
+toe,Body parts,has nail,1,20,E,E-EXCOMP,E,E-EXCOMP
+tomato,Fruits,a fruit,1,11,T,T-SUPER,T,T-SYN
+tomato,Fruits,is red,1,10,E,E-EXSURF,E,E-EXSURF
+tomato,Fruits,is tasty,1,6,I,I-EVAL,I,I-EVAL
+tomato,Fruits,used for making salad,1,16,S,S-ACTION,S,S-FUNC
+tomato,Fruits,used for making sauce,1,6,S,S-ACTION,S,S-FUNC
+tomato,Fruits,tastes good,1,9,I,I-EVAL,E,E-INSURF
+toothbrush,Utensils,cavities,1,5,S,S-OBJECT,S,S-FUNC
+toothbrush,Utensils,hygiene,1,11,I,I-REP,S,S-FUNC
+toothbrush,Utensils,toothpaste,1,5,S,S-OBJECT,S,S-OBJECT
+toothbrush,Utensils,has bristles,1,12,E,E-EXCOMP,E,E-EXCOMP
+toothbrush,Utensils,used for cleaning your teeth,1,17,S,S-FUNC,S,S-FUNC
+totem,Constructions,made of stone,1,5,E,E-MAT,E,E-MAT
+totem,Constructions,made of wood,1,10,E,E-MAT,E,E-MAT
+tractor,Vehicles,is big,1,5,E,E-QUANT,E,E-SYS
+tractor,Vehicles,harvest,1,6,S,S-EVENT,S,S-FUNC
+tractor,Vehicles,a machine,1,9,T,T-SUPER,T,T-SYN
+tractor,Vehicles,a tool,1,5,T,T-SUPER,S,S-FUNC
+tractor,Vehicles,used for plowing,1,6,S,S-FUNC,S,S-FUNC
+tractor,Vehicles,work,1,5,E,E-SYS,S,S-FUNC
+tractor,Vehicles,has wheels,1,13,E,E-EXCOMP,E,E-EXCOMP
+tractor,Vehicles,used for agricultural work,2,7,S,S-FUNC,S,S-FUNC
+tractor,Vehicles,found in the field,1,22,S,S-LOC,S,S-LOC
+traffic light,Devices,cars,1,7,S,S-OBJECT,S,S-PERSON
+traffic light,Devices,has colors,1,13,E,E-EXSURF,E,E-EXSURF
+traffic light,Devices,has lights,1,7,E,E-EXCOMP,E,E-EXCOMP
+traffic light,Devices,used for controling traffic,1,12,S,S-FUNC,S,S-FUNC
+traffic light,Devices,is in the street,1,7,S,S-LOC,S,S-LOC
+traffic light,Devices,found on street corners,2,8,S,S-LOC,S,S-LOC
+traffic light,Devices,has a green light,2,12,E,E-EXSURF,E,E-EXCOMP
+traffic light,Devices,has a red light,2,11,E,E-EXSURF,E,E-EXCOMP
+traffic light,Devices,has a yellow light,2,11,E,E-EXSURF,E,E-EXCOMP
+train,Vehicles,is big,1,5,E,E-QUANT,E,E-QUANT
+train,Vehicles,used for traveling,1,13,S,S-FUNC,S,S-FUNC
+train,Vehicles,railroad tracks,2,12,S,S-OBJECT,S,S-LOC
+train,Vehicles,used for carrying people,1,5,S,S-FUNC,S,S-FUNC
+train,Vehicles,has train cars,2,8,E,E-EXCOMP,E,E-EXCOMP
+train,Vehicles,a mean of transportation,1,17,T,T-SUPER,S,S-FUNC
+tram car,Vehicles,height,1,9,S,S-LOC,E,E-SYS
+tram car,Vehicles,landscape,1,7,E,E-INCOMP,S,S-LOC
+tram car,Vehicles,has a stall,1,5,E,E-EXCOMP,E,E-EXCOMP
+tram car,Vehicles,has a wire,1,5,E,E-EXCOMP,E,E-EXCOMP
+tram car,Vehicles,a mean of transportation,1,10,T,T-SUPER,S,S-FUNC
+tram car,Vehicles,found in the mountain,1,6,S,S-LOC,S,S-LOC
+tree,Plants,is green,1,5,E,E-EXSURF,E,E-EXSURF
+tree,Plants,life,1,5,E,E-SYS,E,E-SYS
+tree,Plants,gives fruits,1,5,E,E-BEH,E,E-BEH
+tree,Plants,gives shade,1,14,E,E-BEH,S,S-FUNC
+tree,Plants,has flowers,1,7,E,E-EXCOMP,E,E-EXCOMP
+truck,Vehicles,is big,1,5,E,E-QUANT,E,E-SYS
+truck,Vehicles,a vehicle,1,5,T,T-SUPER,T,T-SUPER
+truck,Vehicles,is a cargo truck,2,8,T,T-SUBORD,T,T-SUBORD
+truck,Vehicles,used for carrying things,1,11,S,S-FUNC,S,S-FUNC
+truck,Vehicles,a mean of transportation,1,8,T,T-SUPER,S,S-FUNC
+trumpet,Musical instruments,band,1,5,S,S-SOCORG,S,S-SOCORG
+trumpet,Musical instruments,is golden,1,7,E,E-EXSURF,E,E-EXSURF
+trumpet,Musical instruments,is noisy,1,7,E,E-SYS,E,E-SYS
+trumpet,Musical instruments,sound,1,6,S,S-FUNC,S,S-FUNC
+trumpet,Musical instruments,used for making music,1,11,S,S-FUNC,S,S-FUNC
+trumpet,Musical instruments,a musical instrument,2,18,T,T-SUPER,T,T-SUBORD
+trumpet,Musical instruments,made of metal,1,5,E,E-MAT,E,E-MAT
+trumpet,Musical instruments,a wind musical intrument,3,5,T,T-SUPER,T,T-SYN
+tucan,Animals,a bird,1,29,T,T-SUPER,T,T-SUPER
+tucan,Animals,is colorful,1,19,E,E-EXSURF,E,E-EXSURF
+tucan,Animals,flies,1,7,E,E-BEH,E,E-BEH
+tucan,Animals,is nice,1,7,I,I-EVAL,I,I-EVAL
+tucan,Animals,has feathers,1,5,E,E-EXCOMP,E,E-EXCOMP
+tucan,Animals,has a beak,1,18,E,E-EXCOMP,E,E-EXCOMP
+tucan,Animals,lives in the jungle,1,7,S,S-LOC,S,S-LOC
+tucan,Animals,lives in the tree,1,6,S,S-LOC,S,S-LOC
+turkey,Animals,an animal,1,8,T,T-SUPER,T,T-ONT
+turkey,Animals,a bird,1,8,T,T-SUPER,T,T-SYN
+turkey,Animals,is eaten,1,12,S,S-ACTION,S,S-FUNC
+turkey,Animals,has feathers,1,12,E,E-EXCOMP,E,E-EXCOMP
+turkey,Animals,lives in the countryside,1,5,S,S-LOC,S,S-LOC
+turtle,Animals,an animal,1,13,T,T-SUPER,T,T-ONT
+turtle,Animals,eg - pet,1,5,T,T-SUPER,T,T-INDIV
+turtle,Animals,eg - sea,1,5,T,T-SUBORD,T,T-SUBORD
+turtle,Animals,is slow,1,21,E,E-SYS,E,E-SYS
+turtle,Animals,eg - terrestrial,1,7,T,T-SUBORD,E,E-SYS
+turtle,Animals,has a shell,1,14,E,E-EXCOMP,E,E-EXCOMP
+umbrella,Accessories,rain,1,12,S,S-FUNC,S,S-EVENT
+umbrella,Accessories,used for protecting against the sun,1,5,S,S-FUNC,S,S-FUNC
+umbrella,Accessories,used for protecting yourself from rain,1,18,S,S-FUNC,S,S-FUNC
+umbrella,Accessories,different colors,1,5,E,E-EXSURF,E,E-QUANT
+umbrella,Accessories,made of fabric,1,5,E,E-MAT,E,E-MAT
+vase,Containers,aroma,1,5,E,E-EXSURF,E,E-EXSURF
+vase,Containers,is colorful,1,5,E,E-EXSURF,E,E-EXSURF
+vase,Containers,a container,1,5,T,T-SUPER,T,T-SYN
+vase,Containers,an ornament,1,10,T,T-SUPER,S,S-OBJECT
+vase,Containers,rose,1,5,S,S-LIVING,S,S-OBJECT
+vase,Containers,used for decoration,1,8,S,S-FUNC,S,S-FUNC
+vase,Containers,used for putting flowers inside,1,19,S,S-FUNC,S,S-FUNC
+vase,Containers,contains water,1,7,S,S-OBJECT,S,S-FUNC
+vase,Containers,made of glass,1,5,E,E-MAT,E,E-MAT
+vest,Clothing,clothing,1,18,T,T-SUPER,T,T-ONT
+vest,Clothing,is a warm clothing,2,11,T,T-SUPER,E,E-SYS
+vest,Clothing,has no sleeves,1,21,I,I-NEG,E,E-EXCOMP
+vest,Clothing,made of wool,1,7,E,E-MAT,E,E-MAT
+violin,Musical instruments,sound,1,7,S,S-FUNC,E,E-SYS
+violin,Musical instruments,used for making music,1,9,S,S-FUNC,S,S-FUNC
+violin,Musical instruments,has strings,1,13,E,E-EXCOMP,E,E-EXCOMP
+violin,Musical instruments,a musical instrument,2,19,T,T-SUPER,T,T-SYN
+violin,Musical instruments,made of wood,1,7,E,E-MAT,E,E-MAT
+wagon,Vehicles,a toy,1,6,T,T-SUPER,T,T-SUBORD
+wagon,Vehicles,wood,1,5,S,S-OBJECT,E,E-MAT
+wagon,Vehicles,has wheels,1,9,E,E-EXCOMP,E,E-EXCOMP
+wagon,Vehicles,used for carrying babies,1,9,S,S-FUNC,S,S-FUNC
+wagon,Vehicles,used for carrying groceries,1,5,S,S-FUNC,S,S-FUNC
+wagon,Vehicles,used for carrying things,1,7,S,S-FUNC,S,S-FUNC
+wagon,Vehicles,pulled by horses,1,5,E,E-SYS,S,S-ACTION
+wagon,Vehicles,found in the supermarket,1,7,S,S-LOC,S,S-LOC
+washing machine,Devices,clothes,1,13,S,S-OBJECT,S,S-OBJECT
+washing machine,Devices,used for cleaning,1,17,S,S-FUNC,S,S-FUNC
+washing machine,Devices,is useful,1,7,I,I-EVAL,I,I-EVAL
+washing machine,Devices,is white,1,5,E,E-EXSURF,E,E-EXSURF
+washing machine,Devices,contains water,1,5,S,S-OBJECT,E,E-INCOMP
+washing machine,Devices,an electrical appliance,2,6,T,T-SUPER,T,T-SYN
+washing machine,Devices,requires soap,1,6,S,S-ACTION,S,S-FUNC
+watch,Accessories,used for indicating time,1,26,S,S-FUNC,S,S-FUNC
+watch,Accessories,is useful,1,6,I,I-EVAL,E,E-SYS
+watch,Accessories,worn on the wrist,1,12,S,S-SPAT,S,S-LOC
+watch,Accessories,has hands,1,6,E,E-EXCOMP,E,E-EXCOMP
+watch,Accessories,has a number,1,6,E,E-EXSURF,E,E-EXSURF
+watering can,Tools,plant,1,24,S,S-LIVING,S,S-OBJECT
+watering can,Tools,rain,1,5,S,S-FUNC,S,S-EVENT
+watering can,Tools,used for watering,1,10,S,S-FUNC,S,S-FUNC
+watering can,Tools,contains water,1,20,S,S-OBJECT,S,S-OBJECT
+watering can,Tools,made of metal,1,5,E,E-MAT,E,E-MAT
+watering can,Tools,made of plastic,1,8,E,E-MAT,E,E-MAT
+watering can,Tools,found in the garden,1,9,S,S-LOC,S,S-LOC
+watermelon,Fruits,is big,1,16,E,E-QUANT,E,E-SYS
+watermelon,Fruits,a fruit,1,23,T,T-SUPER,T,T-ONT
+watermelon,Fruits,is green,1,11,E,E-EXSURF,E,E-EXSURF
+watermelon,Fruits,is heavy,1,5,E,E-SYS,E,E-SYS
+watermelon,Fruits,is juicy,1,7,E,E-INSURF,E,E-INSURF
+watermelon,Fruits,is red,1,15,E,E-EXSURF,E,E-EXSURF
+watermelon,Fruits,is refreshing,1,9,I,I-EVAL,I,I-EVAL
+watermelon,Fruits,summer,1,10,S,S-TIME,S,S-TIME
+watermelon,Fruits,is sweet,1,11,E,E-INSURF,E,E-INSURF
+watermelon,Fruits,is watery,1,7,E,E-INSURF,E,E-INSURF
+watermelon,Fruits,has seeds,1,10,E,E-INCOMP,E,E-INCOMP
+watermelon,Fruits,tastes good,1,6,I,I-EVAL,I,I-EVAL
+weather vane,Objects,sea,1,5,S,S-LOC,S,S-LOC
+weather vane,Objects,wind,1,10,S,S-OBJECT,S,S-EVENT
+well,Constructions,is a hole,1,6,T,T-SYN,E,E-SYS
+well,Constructions,water,1,17,E,E-INCOMP,E,E-INCOMP
+well,Constructions,used for getting water,1,8,S,S-FUNC,S,S-FUNC
+well,Constructions,has a bucket,1,9,E,E-EXCOMP,E,E-EXCOMP
+well,Constructions,has a rope,1,9,E,E-EXCOMP,E,E-EXCOMP
+whale,Animals,an animal,1,11,T,T-SUPER,T,T-ONT
+whale,Animals,is big,1,24,E,E-QUANT,E,E-SYS
+whale,Animals,a cetacean,1,9,T,T-SUPER,T,T-SYN
+whale,Animals,a mammal,1,12,T,T-SUPER,T,T-ONT
+whale,Animals,whale calf,2,5,T,T-SUBORD,T,T-SUBORD
+whale,Animals,lives in the sea,1,12,S,S-LOC,E,E-BEH
+whale,Animals,lives in the south,1,5,S,S-LOC,S,S-LOC
+whale,Animals,lives in the water,1,8,S,S-LOC,S,S-LOC
+wheel,Objects,apart of the car,1,9,E,E-WHOLE,E,E-WHOLE
+wheel,Objects,bicycle,1,6,S,S-OBJECT,E,E-WHOLE
+wheel,Objects,is black,1,5,E,E-EXSURF,E,E-EXSURF
+wheel,Objects,is circular,1,10,E,E-EXSURF,E,E-EXSURF
+wheel,Objects,spins,1,5,E,E-BEH,E,E-BEH
+wheel,Objects,used for transportation,1,6,S,S-FUNC,S,S-FUNC
+wheel,Objects,made of metal,1,5,E,E-MAT,E,E-MAT
+wheel,Objects,made of rubber,1,6,E,E-MAT,E,E-MAT
+wheel,Objects,made of wood,1,5,E,E-MAT,E,E-MAT
+whip,Weapons,is long,1,5,E,E-QUANT,E,E-SYS
+whip,Weapons,used for horses,1,6,S,S-FUNC,S,S-PERSON
+whip,Weapons,used for punish,1,14,S,S-FUNC,S,S-FUNC
+whip,Weapons,made of leather,1,12,E,E-MAT,E,E-MAT
+whistle,Objects,an instrument,1,8,E,E-MAT,T,T-ONT
+whistle,Objects,referee,1,12,S,S-PERSON,S,S-PERSON
+whistle,Objects,sound,1,11,S,S-FUNC,E,E-EXSURF
+whistle,Objects,used for sports,1,6,S,S-FUNC,S,S-FUNC
+whistle,Objects,used for traffic,1,5,S,S-FUNC,S,S-FUNC
+whistle,Objects,is a whistle,1,6,T,T-SYN,T,T-SYN
+whistle,Objects,police officer,2,7,S,S-PERSON,S,S-PERSON
+windmill,Constructions,used to get water,1,20,S,S-FUNC,S,S-FUNC
+windmill,Constructions,eg - windmill,1,15,T,T-SUBORD,T,T-SYN
+windmill,Constructions,has blades,1,11,E,E-EXCOMP,E,E-EXCOMP
+windmill,Constructions,found in the field,1,10,S,S-LOC,S,S-LOC
+window,House parts,curtains,1,5,S,S-OBJECT,E,E-EXCOMP
+window,House parts,light,1,6,S,S-FUNC,S,S-FUNC
+window,House parts,is openable,1,8,S,S-ACTION,E,E-SYS
+window,House parts,an opening,1,5,T,T-SUPER,E,E-EXCOMP
+window,House parts,sun,1,7,S,S-OBJECT,S,S-LOC
+window,House parts,used for leting air in,1,8,S,S-FUNC,S,S-FUNC
+window,House parts,used for leting light in,1,10,S,S-FUNC,S,S-FUNC
+window,House parts,used for looking,1,7,S,S-FUNC,S,S-FUNC
+window,House parts,ventilation,1,10,S,S-FUNC,S,S-FUNC
+window,House parts,can be closed,1,5,S,S-ACTION,E,E-SYS
+window,House parts,made of glass,1,12,E,E-MAT,E,E-MAT
+window,House parts,made of wood,1,11,E,E-MAT,E,E-MAT
+window,House parts,found in the house,1,5,S,S-LOC,S,S-LOC
+wine glass,Utensils,toast,1,12,S,S-EVENT,S,S-EVENT
+wine glass,Utensils,is transparent,1,5,E,E-EXSURF,E,E-EXSURF
+wine glass,Utensils,trophy,1,6,S,S-OBJECT,S,S-OBJECT
+wine glass,Utensils,used for drinking,1,9,S,S-FUNC,S,S-FUNC
+wine glass,Utensils,water,1,8,E,E-INCOMP,S,S-OBJECT
+wine glass,Utensils,wine,1,13,S,S-OBJECT,S,S-OBJECT
+wine glass,Utensils,made of crystal,1,10,E,E-MAT,E,E-MAT
+wine glass,Utensils,made of glass,1,10,E,E-MAT,E,E-MAT
+wolfe,Animals,an animal,1,16,T,T-SUPER,T,T-ONT
+wolfe,Animals,is dangerous,1,7,I,I-EVAL,E,E-SYS
+wolfe,Animals,fear,1,7,I,I-EVAL,I,I-EMOT
+wolfe,Animals,is ferocious,1,11,E,E-SYS,E,E-SYS
+wolfe,Animals,howls,1,9,E,E-BEH,E,E-BEH
+wolfe,Animals,is wild,1,5,E,E-SYS,E,E-SYS
+wolfe,Animals,lives in the forest,1,6,S,S-LOC,S,S-LOC
+worm,Animals,an animal,1,9,T,T-SUPER,T,T-ONT
+worm,Animals,lives on the ground,1,16,S,S-LOC,S,S-LOC
+wrench,Tools,safety,1,6,S,S-SOCART,S,S-OBJECT
+wrench,Tools,a tool,1,6,T,T-SUPER,T,T-SYN
+wrench,Tools,used for entering,1,6,S,S-FUNC,S,S-FUNC
+wrench,Tools,used for opening,1,5,S,S-FUNC,S,S-FUNC
+wrench,Tools,made of metal,1,7,E,E-MAT,E,E-MAT
+wrench,Tools,found in the house,1,8,S,S-LOC,S,S-LOC
+yoyo,Toys,childhood,1,9,S,S-TIME,I,I-REP
+yoyo,Toys,used by children,1,9,S,S-PERSON,S,S-PERSON
+yoyo,Toys,competition,1,6,I,I-REP,S,S-EVENT
+yoyo,Toys,entretains,1,7,S,S-FUNC,S,S-FUNC
+yoyo,Toys,fun,1,8,E,E-ABSTR,I,I-EMOT
+yoyo,Toys,skill,1,5,I,I-REP,S,S-FUNC
+yoyo,Toys,a toy,1,21,T,T-SUPER,T,T-ONT
+yoyo,Toys,has thread,1,8,E,E-EXCOMP,E,E-EXCOMP
+zebra,Animals,an animal,1,20,T,T-SUPER,T,T-ONT
+zebra,Animals,a mammal,1,7,T,T-SUPER,T,T-ONT
+zebra,Animals,a quadruped,1,5,T,T-SUPER,E,E-SYS
+zebra,Animals,has legs,1,6,E,E-EXCOMP,E,E-EXCOMP
+zebra,Animals,has stripes,1,22,E,E-EXCOMP,E,E-EXSURF
+zebra,Animals,is black and white,3,9,E,E-EXSURF,E,E-EXSURF
+zebra,Animals,is similar to horses,1,11,T,T-COORD,T,T-SYN
+zebra,Animals,lives in the jungle,1,5,S,S-LOC,S,S-LOC
+zipper,Accessories,jacket,1,18,E,E-WHOLE,E,E-WHOLE
+zipper,Accessories,pants,1,15,E,E-WHOLE,E,E-WHOLE
+zipper,Accessories,found on clothing,1,9,S,S-LOC,E,E-WHOLE
+zipper,Accessories,made of metal,1,8,E,E-MAT,E,E-MAT
+zipper,Accessories,made of plastic,1,5,E,E-MAT,E,E-MAT

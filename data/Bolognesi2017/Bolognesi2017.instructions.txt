@@ -1,0 +1,41 @@
+You will be presented with a list of word pairs consisting of a cue and a semantic feature separated by ' – '.
+
+You are asked to choose a code with square brackets [] that best describes the semantic relation between the cue and the target word.
+Each code refers to a specific semantic relation of Taxonomic properties, Concept properties, Situation Properties, or Introspections.
+
+We will now provide you with a definition and examples for each, which you will carefully consider when choosing one of the codes.
+
+Taxonomic properties: Properties that identify categories in the taxonomy in which the concept belongs (higher levels, lower levels or same level as the concept)
+- *Synonyms, description and linguistic clues [T-syn]*: A synonym of the target concept (as found on dictionaries and thesauri) or a short description of the concept verbalized at the same taxonomic level. Also, typical utterances people say in a situation described by the target concept. Examples: accumulation – gathering of things; carpet – rug; Coke-Coca – Cola; condition – situation; consequence – effect; discussion – debate; possibility – could happen.
+- *Antonyms [T-ant]*: An antonym of the concept — that is, the relation between concept and feature must express a dual polarization concerning one semantic trait. Typically, this applies to adjectives or nouns derived from adjectives. Examples: hardness – softness; brightness – darkness.
+- *Superordinates [T-sup]*: A feature describing a category placed one or more levels above the target concept in a taxonomy (is-a, is-a-kind-of). Examples: apple – fruit; crocodile – reptile; America – country; army – military; attitude – behavior; drain – hole; explanation – description; opinion – idea; homeland – place; icecream – treat; idea – concept; maze – game; army – group of people.
+- *Subordinates and instances [T-sub]*: A feature describing a category placed one or more levels below the target concept in a taxonomy (reversed is-a, is-a-kind-of). It can be very specific, to the point that it describes a unique individual or instance. Examples: body organ – lungs; provider – healthcare; tablet – iPad; president – Obama; gorilla – King Kong; mouthwash – Listerine; accumulation – of snow.
+- *Coordinate [T-coor]*: A feature describing a category that shares the same direct superordinate with the target concept in a taxonomy. Examples: pepper – salt; tablet – laptop; yolk – egg white; zebra – horse; gold – silver; man – woman; boy – girl; fork – knife.
+
+Concept properties: Properties of a concrete or an abstract entity.
+- *Perceptual properties [E-perc]*: Sensory properties of the concept, including visual features, smell, sound, texture, and taste. Examples: seagull – white; seaweed – slimy; turtle – hard; fruit – sweet; icecream – cold.
+- *Non-perceptual properties [E-sys]*: A global (objective) systemic property of an entity or its parts, including states, conditions, abilities, and traits. Examples: plastic spoon – cheap; president – important; purpose – necessary; kid – development; rank – high; condition – testable; cookie – sweet; beggar – poor; president – important; cigarette – deadly; end – death.
+- *Components, materials and substances [E-comp]*: Features that define external and internal components of a concept, as well as its material or substance (signals: <concept>has, is made of, it Air–oxygen, constitutes of <feature>). Examples: airplane – wings; airplane – engine; pen – metal; air – oxygen; knowledge – facts; explanation – details; world – oceans; rubbish – paper; tree – fruit; air – oxygen; body – skin.
+- *Larger wholes, thematic larger wholes, and disciplines [E-whol]*: A whole to that the entity belongs (opposite of entity component). Often this is quite abstract. Examples: breasts – woman; drain – sink; tree – nature; graph – math; tablet – technology; school – education; building – architecture; yolk – egg; tree – forest; air – nature; building – architecture; tablet – technology; tree – nature.
+- *Entity behaviors [E-beh]*: A typical or chronic behavior of an entity. Examples: swan – swims; wheel – spinning; attitude – changes; provider – giving; river – running; airplane – fly
+
+Situation properties: Properties of a situation in which the concept is embedded.
+- *Objects [S-obj]*: Objects and entities that appear in a situation together with the target concept. Examples: air – trees; appearance – makeup; brightness – eyes; bulldozer – dirt; idea – lightbulb; matches – candle; motion – planets; bottle – water; finger – ring; bread – butter; cigarette – lighter.
+- *Participants [S-par]*: Humans and animals associated with a situation in which the concept appears, but that do not have a direct taxonomic relation to the concept.. Examples: mouthwash – dentist; newspaper – journalist; war – enemies; country – people; explanation – teacher.
+- *Actions [S-act]*: An action performed by an agent in a situation where the target concept appears. Examples: alcohol – drinking; appearance – seeing; attention – looking; brightness – squinting.
+- *Properties of contextual entities [S-other]*: A physical state of a situation or any of its components (excluding the target concept). Examples: location – lost; jail – orange; America – blue red white; coffee – tired; Coke  –  red and white.
+- *Function [S-fun]*: A quite abstract property that describes the typical goal or role an entity serves for an agent (often human) in a given situation. Examples: tank – destruction; airplane – travel; matches – smoking; money – buying; shopping cart – shopping; army – protection; airplane – transportation; barcode – identification.
+- *Locations, containers, and buildings [S-loc]*: A place in a situation in which the entity can be found. The entity can also be contained or placed on the buildings surface of such a location. Examples: radio – car; rhino – Africa; school – building; coke – can; brightness – outside; clock – wall; judgment – court; knowledge – school; idea – brain; shopping cart – supermarket; plant – garden.
+- *Time and events [S-time]*: A time period or an event associated with a situation. The relation can be coded as such, describes when or in which circumstance the concept appears. Examples: sweater – winter; toy – Christmas; brightness – morning; possibility – future; jeep – adventure; bomb – Hiroshima.
+
+Introspections: Properties of a participant's mental state as she reacts to a situation in terms of emotional responses or internal operations triggered by the mental simulation of the target concept
+- *Evaluations [I-eval]*: A clearly positive or negative evaluation of a situation or one of its components. Examples: swan – beautiful; school – boring; sweater – comfortable; lion – majestic; situation – sticky; swan – beautiful; sweater – comfortable; toy – fun.
+- *Emotions [I-emo]*: An affective or emotional state toward a situation or one of its components (focus on the perceiver and on traditional emotional states; apply when the concept can make one feel x).. Examples: dandelion – happy; war – sad; maze – confusing.
+- *Contingencies and complex cognitive operations [I-cont]*: A contingency or a cognitive operation that relates different and complex aspects of a situation. Cognitive operations include conditional and operations and causals (signals: if x then y, x enables y, x generates y, x produces y, x causes y, x becomes y, x underlies y, x depends on y, x is based on y, x requires y, etc.) and explicit negations if they do not fall under other categories. Metaphorical and symbolic relations between a feature and a concept are found here. Examples: end – no more; end – new beginning; skin – sunburn; success – power; trumpet – jazz; understanding – empathy; water – life; water – ice; body – self; bullet – violence; canvas – creativity; constraint – obstacle; door – opportunity; dot – end; dove – peace; elephant – republican party; obstacle – challenge; organ – life; time – clock; tree – life; yolk – cholesterol; gold – earrings; bullet – death; possibility – hope; constraint – obstacle; doorway – opportunity; apple – not an orange.
+
+
+---
+Remember to only choose from the above codes between square brackets. Do not further elaborate on your response.
+Format your response as follows {cue — target: code}.
+
+List: 
