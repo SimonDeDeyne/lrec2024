@@ -9,6 +9,7 @@
 This repository contains the preprocessed datafiles consisting of a cue word, response and semantic relation for four different datasets.
 The Semantic relations follow existing semantic ontologies taken from the original study with some minor modifications.
 Prompt instructions were closely modelled according to the original ontolies and are available under [./data](./data).
+The labeled cue-response pairs are available under [./output/processed](./output/processed).
 
 
  ## Analysis
